@@ -1,5 +1,5 @@
 backend:
-  name: test-repo
+  name: github
   repo: nabla-studio/token-info
   branch: main # Branch to update (optional; defaults to master)
 media_folder: public/img
