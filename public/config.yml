@@ -30,10 +30,11 @@ collections:
     extension: "json"
     format: "json"
     create: true
-    slug: "token_info_{{localization}}"
+    preview_path: "{{slug}}"
+    slug: "{{fields.coinMinimalDenom}}_token_info_{{fields.localization}}"
     nested:
-      depth: 1 # max depth to show in the collection tree
-      summary: '{{name}}' # optional summary for a tree node, defaults to the inferred title field
+      depth: 2 # max depth to show in the collection tree
+      summary: '{{name}}' # optional summary for a tree node, defaults to the inferred title fiel
     fields:
       - label: "Language"
         name: "localization"
@@ -66,4 +67,3 @@ collections:
         widget: "string"
         required: false
         pattern: ['/(https:\/\/www\.|http:\/\/www\.|https:\/\/|http:\/\/)?[a-zA-Z]{2,}(\.[a-zA-Z]{2,})(\.[a-zA-Z]{2,})?\/[a-zA-Z0-9]{2,}|((https:\/\/www\.|http:\/\/www\.|https:\/\/|http:\/\/)?[a-zA-Z]{2,}(\.[a-zA-Z]{2,})(\.[a-zA-Z]{2,})?)|(https:\/\/www\.|http:\/\/www\.|https:\/\/|http:\/\/)?[a-zA-Z0-9]{2,}\.[a-zA-Z0-9]{2,}\.[a-zA-Z0-9]{2,}(\.[a-zA-Z0-9]{2,})?/g', 'You must enter a valid URL']
-    meta: { path: { widget: string, label: 'Path', index_file: "token_info_{{localization}}" } }
