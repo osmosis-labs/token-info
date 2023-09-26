@@ -1,23 +1,69 @@
 backend:
-  name: github
+  name: test-repo
   repo: nabla-studio/token-info
   branch: main # Branch to update (optional; defaults to master)
 media_folder: public/img
 public_folder: img
+publish_mode: editorial_workflow
 collections:
-  - name: "pages"
-    label: "Pages"
-    files:
-    - label: "Home"
-      name: "home"
-      file: "contents/home.md"
-      fields:
-        - { label: "Title", name: "title", widget: "string"}
-        - { label: "Publish Date", name: "date", widget: "datetime" }
-        - { label: "Body", name: "body", widget: "markdown"}
-        - label: 'Cats'
-          name: "cats"
-          widget: list
-          fields:
-            - { label: "Name", name: "name", widget: "string"}
-            - { label: "Description", name: "description", widget: "text"}
+  - label: "Languages"
+    name: "languages"
+    label_singular: "Language"
+    folder: "contents/languages"
+    extension: "json"
+    format: "json"
+    create: true
+    slug: "{{code}}"
+    editor:
+      preview: false
+    fields:
+      - label: "Language"
+        name: "language"
+        widget: string
+      - label: "Language Code"
+        name: "code"
+        widget: string
+  - label: "Tokens"
+    label_singular: "Token"
+    name: "tokens"
+    folder: "contents/tokens"
+    extension: "json"
+    format: "json"
+    create: true
+    slug: "token_info_{{localization}}"
+    nested:
+      depth: 1 # max depth to show in the collection tree
+      summary: '{{name}}' # optional summary for a tree node, defaults to the inferred title field
+    fields:
+      - label: "Language"
+        name: "localization"
+        widget: "relation"
+        collection: "languages"
+        search_fields: ["language"]
+        value_field: "code"
+        display_fields: ["language"]
+      - label: "Project Name"
+        name: "name"
+        widget: "string"
+      - label: "Coin Denom"
+        name: "coinMinimalDenom"
+        widget: "string"
+      - label: "Description"
+        name: "description"
+        widget: "markdown"
+      - label: "Twitter URL"
+        name: "twitterURL"
+        widget: "string"
+        required: false
+        pattern: ['/(https:\/\/www\.|http:\/\/www\.|https:\/\/|http:\/\/)?[a-zA-Z]{2,}(\.[a-zA-Z]{2,})(\.[a-zA-Z]{2,})?\/[a-zA-Z0-9]{2,}|((https:\/\/www\.|http:\/\/www\.|https:\/\/|http:\/\/)?[a-zA-Z]{2,}(\.[a-zA-Z]{2,})(\.[a-zA-Z]{2,})?)|(https:\/\/www\.|http:\/\/www\.|https:\/\/|http:\/\/)?[a-zA-Z0-9]{2,}\.[a-zA-Z0-9]{2,}\.[a-zA-Z0-9]{2,}(\.[a-zA-Z0-9]{2,})?/g', 'You must enter a valid URL']
+      - label: "Website URL"
+        name: "websiteURL"
+        widget: "string"
+        required: false
+        pattern: ['/(https:\/\/www\.|http:\/\/www\.|https:\/\/|http:\/\/)?[a-zA-Z]{2,}(\.[a-zA-Z]{2,})(\.[a-zA-Z]{2,})?\/[a-zA-Z0-9]{2,}|((https:\/\/www\.|http:\/\/www\.|https:\/\/|http:\/\/)?[a-zA-Z]{2,}(\.[a-zA-Z]{2,})(\.[a-zA-Z]{2,})?)|(https:\/\/www\.|http:\/\/www\.|https:\/\/|http:\/\/)?[a-zA-Z0-9]{2,}\.[a-zA-Z0-9]{2,}\.[a-zA-Z0-9]{2,}(\.[a-zA-Z0-9]{2,})?/g', 'You must enter a valid URL']
+      - label: "CoinGecko URL"
+        name: "coingeckoURL"
+        widget: "string"
+        required: false
+        pattern: ['/(https:\/\/www\.|http:\/\/www\.|https:\/\/|http:\/\/)?[a-zA-Z]{2,}(\.[a-zA-Z]{2,})(\.[a-zA-Z]{2,})?\/[a-zA-Z0-9]{2,}|((https:\/\/www\.|http:\/\/www\.|https:\/\/|http:\/\/)?[a-zA-Z]{2,}(\.[a-zA-Z]{2,})(\.[a-zA-Z]{2,})?)|(https:\/\/www\.|http:\/\/www\.|https:\/\/|http:\/\/)?[a-zA-Z0-9]{2,}\.[a-zA-Z0-9]{2,}\.[a-zA-Z0-9]{2,}(\.[a-zA-Z0-9]{2,})?/g', 'You must enter a valid URL']
+    meta: { path: { widget: string, label: 'Path', index_file: "token_info_{{localization}}" } }
