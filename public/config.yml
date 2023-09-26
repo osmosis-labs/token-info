@@ -32,9 +32,6 @@ collections:
     create: true
     preview_path: "{{slug}}"
     slug: "{{fields.coinMinimalDenom}}_token_info_{{fields.localization}}"
-    nested:
-      depth: 2 # max depth to show in the collection tree
-      summary: '{{name}}' # optional summary for a tree node, defaults to the inferred title fiel
     fields:
       - label: "Language"
         name: "localization"
