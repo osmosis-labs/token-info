@@ -1,6 +1,6 @@
 {
   "localization": "zh",
   "name": "宇宙中心",
-  "coinMinimalDenom": "原子",
+  "symbol": "原子",
   "description": "描述"
 }

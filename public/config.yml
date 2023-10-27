@@ -31,8 +31,8 @@ collections:
     format: "json"
     create: true
     preview_path: "{{slug}}"
-    summary: "{{fields.name}} - {{fields.coinMinimalDenom}} - {{fields.localization}}"
-    slug: "{{fields.coinMinimalDenom}}_token_info_{{fields.localization}}"
+    summary: "{{fields.name}} - {{fields.symbol}} - {{fields.localization}}"
+    slug: "{{fields.symbol}}_token_info_{{fields.localization}}"
     fields:
       - label: "Language"
         name: "localization"
@@ -45,7 +45,7 @@ collections:
         name: "name"
         widget: "string"
       - label: "Coin Denom"
-        name: "coinMinimalDenom"
+        name: "symbol"
         widget: "string"
       - label: "Description"
         name: "description"

@@ -1,6 +1,6 @@
 {
   "localization": "fr",
   "name": "Centre Cosmos",
-  "coinMinimalDenom": "atome",
+  "symbol": "atome",
   "description": "desc"
 }

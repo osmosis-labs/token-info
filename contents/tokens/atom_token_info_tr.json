@@ -1,6 +1,6 @@
 {
   "localization": "tr",
   "name": "Kozmos MERKEZİ",
-  "coinMinimalDenom": "atom",
+  "symbol": "atom",
   "description": "tanım"
 }

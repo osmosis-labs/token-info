@@ -1,6 +1,6 @@
 {
   "localization": "ko",
   "name": "코스모스 허브",
-  "coinMinimalDenom": "원자",
+  "symbol": "원자",
   "description": "설명"
 }
