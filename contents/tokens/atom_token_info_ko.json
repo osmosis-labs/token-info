@@ -1,6 +1,9 @@
 {
   "localization": "ko",
-  "name": "코스모스 허브",
-  "symbol": "원자",
-  "description": "설명"
+  "name": "Cosmos Hub",
+  "symbol": "ATOM",
+  "description": "코스모스 허브는 개발자 친화적인 애플리케이션 구성 요소를 사용하고 획기적인 IBC(Inter-Blockchain Communication) 프로토콜로 연결되어 빠르게 확장되는 독립적인 상호 연결된 블록체인 생태계로의 관문입니다.",
+  "coingeckoURL": "https://www.coingecko.com/en/coins/cosmos-hub",
+  "websiteURL": "https://cosmos.network/",
+  "twitterURL": "https://twitter.com/cosmoshub"
 }

@@ -1,6 +1,9 @@
 {
   "localization": "ro",
-  "name": "Cosmos HUB",
-  "symbol": "atom",
-  "description": "desc"
+  "name": "Cosmos Hub",
+  "symbol": "ATOM",
+  "description": "Cosmos Hub este poarta de acces către un ecosistem în expansiune rapidă de blockchain-uri independente interconectate, construite folosind componente de aplicație prietenoase pentru dezvoltatori și conectate cu un protocol inovator IBC (Inter-Blockchain Communication).",
+  "coingeckoURL": "https://www.coingecko.com/en/coins/cosmos-hub",
+  "websiteURL": "https://cosmos.network/",
+  "twitterURL": "https://twitter.com/cosmoshub"
 }

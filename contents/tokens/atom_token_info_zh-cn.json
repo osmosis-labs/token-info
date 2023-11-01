@@ -1,6 +1,9 @@
 {
   "localization": "zh",
-  "name": "宇宙中心",
-  "symbol": "原子",
-  "description": "描述"
+  "name": "Cosmos Hub",
+  "symbol": "ATOM",
+  "description": "Cosmos Hub 是通往快速扩展的独立互连区块链生态系统的门户，该生态系统使用开发人员友好的应用程序组件构建，并与突破性的 IBC（区块链间通信）协议连接。",
+  "coingeckoURL": "https://www.coingecko.com/en/coins/cosmos-hub",
+  "websiteURL": "https://cosmos.network/",
+  "twitterURL": "https://twitter.com/cosmoshub"
 }

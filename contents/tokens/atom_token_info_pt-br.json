@@ -1,6 +1,9 @@
 {
   "localization": "pt",
-  "name": "CENTRO do Cosmos",
-  "symbol": "átomo",
-  "description": "desc"
+  "name": "Cosmos Hub",
+  "symbol": "ATOM",
+  "description": "Cosmos Hub é a porta de entrada para um ecossistema em rápida expansão de blockchains independentes e interconectados, construídos usando componentes de aplicativos amigáveis ao desenvolvedor e conectados com o inovador protocolo IBC (Inter-Blockchain Communication).",
+  "coingeckoURL": "https://www.coingecko.com/en/coins/cosmos-hub",
+  "websiteURL": "https://cosmos.network/",
+  "twitterURL": "https://twitter.com/cosmoshub"
 }
