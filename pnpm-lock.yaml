@@ -4,10 +4,15 @@ settings:
   autoInstallPeers: true
   excludeLinksFromLockfile: false
 
+patchedDependencies:
+  '@inlang/cli@1.20.0':
+    hash: 3rvxmsc6ms375osi6awiqx72gq
+    path: patches/@inlang__cli@1.20.0.patch
+
 devDependencies:
   '@inlang/cli':
-    specifier: ^1.12.0
-    version: 1.12.0
+    specifier: 1.20.0
+    version: 1.20.0(patch_hash=3rvxmsc6ms375osi6awiqx72gq)
   glob:
     specifier: ^10.3.10
     version: 10.3.10
@@ -218,14 +223,15 @@ packages:
     dev: true
     optional: true
 
-  /@inlang/cli@1.12.0:
-    resolution: {integrity: sha512-GiMYPt11Nw4ZRAuVV3GJbCsHRb2cwixJ087QAVxMvgQJXeOA2dR+9nA3L/SDBgg3apL1ODWB6qCjNQO+u2S3tA==}
+  /@inlang/cli@1.20.0(patch_hash=3rvxmsc6ms375osi6awiqx72gq):
+    resolution: {integrity: sha512-zJ/EhEwaxPvrZ2Vgp6WtT07HSxcp2yTxx/tI2QLBEDiqqJJ4EVz395kHZh93MpTIH+/80aW2EkKD97/Gt4UM3w==}
     engines: {node: '>=18.0.0'}
     hasBin: true
     dependencies:
       esbuild-wasm: 0.19.4
       fs-extra: 11.1.1
     dev: true
+    patched: true
 
   /@isaacs/cliui@8.0.2:
     resolution: {integrity: sha512-O8jcjabXaleOG9DQ0+ARXWZBTfnP4WNAqzuiJK7ll44AmxGKv/J2M4TPjxjY3znBCfvBXFzucm1twdyFybFqEA==}
