@@ -1,0 +1,9 @@
+{
+  "description": "Developers use Evmos as the Ethereum Canary Chain to deploy applications of the future. Get all the functionalities of Ethereum with the power of IBC and Interchain composability.",
+  "localization": "en",
+  "name": "Evmos",
+  "symbol": "EVMOS",
+  "coingeckoURL": "https://www.coingecko.com/coins/evmos",
+  "websiteURL": "https://evmos.org/",
+  "twitterURL": "https://twitter.com/EvmosOrg"
+}
