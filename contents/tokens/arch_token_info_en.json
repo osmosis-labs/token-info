@@ -1,7 +1,7 @@
 {
   "localization": "en",
   "description": "An incentivized L1 blockchain that allows developers to capture the value their dapps create, enabling sustainable economic models.",
-  "coingeckoURL": "https://www.coingecko.com/coins/archway",
+  "coingeckoURL": "archway",
   "websiteURL": "https://archway.io/",
   "twitterURL": "https://twitter.com/archwayHQ",
   "name": "Archway",
