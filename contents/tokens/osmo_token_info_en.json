@@ -3,7 +3,7 @@
   "name": "Osmosis",
   "symbol": "OSMO",
   "description": "Swap, earn, and build on the leading decentralized Cosmos exchange.",
-  "coingeckoURL": "https://www.coingecko.com/coins/osmosis",
+  "coingeckoURL": "osmosis",
   "twitterURL": "https://twitter.com/osmosiszone",
   "websiteURL": "https://osmosis.zone/"
 }
