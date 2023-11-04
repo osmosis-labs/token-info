@@ -4,6 +4,6 @@
   "name": "Cronos POS Chain",
   "websiteURL": "https://cronos-pos.org/",
   "symbol": "CRO",
-  "coingeckoURL": "https://www.coingecko.com/coins/cronos",
+  "coingeckoURL": "cronos",
   "twitterURL": "https://twitter.com/cronos_chain"
 }
