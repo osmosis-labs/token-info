@@ -3,7 +3,7 @@
   "localization": "en",
   "name": "Evmos",
   "symbol": "EVMOS",
-  "coingeckoURL": "https://www.coingecko.com/coins/evmos",
+  "coingeckoURL": "evmos",
   "websiteURL": "https://evmos.org/",
   "twitterURL": "https://twitter.com/EvmosOrg"
 }
