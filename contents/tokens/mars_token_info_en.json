@@ -1,7 +1,7 @@
 {
   "localization": "en",
   "description": "Lend, borrow and earn with an autonomous credit protocol in the Cosmos universe. Open to all, closed to none.",
-  "coingeckoURL": "https://www.coingecko.com/coins/mars-protocol",
+  "coingeckoURL": "mars-protocol",
   "twitterURL": "https://twitter.com/mars_protocol",
   "websiteURL": "https://www.marsprotocol.io/",
   "symbol": "MARS",
