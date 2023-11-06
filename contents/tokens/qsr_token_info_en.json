@@ -1,9 +1,9 @@
 {
-  "description": "Automated vaults find best-in-class yields while mitigating risk.",
+  "description": "Quasar is the first decentralized asset management (D.A.M.) platform enabled by IBC. A secure, permissionless, composable, and diversified interchain DeFi experience is finally here.",
   "localization": "en",
-  "name": "Sommelier",
-  "symbol": "SOMM",
-  "coingeckoID": "sommelier",
-  "twitterURL": "https://twitter.com/sommfinance",
-  "websiteURL": "https://www.sommelier.finance/"
+  "name": "Quasar",
+  "symbol": "QSR",
+  "twitterURL": "https://twitter.com/QuasarFi",
+  "coingeckoID": "quasar-fi",
+  "websiteURL": "https://www.quasar.fi/"
 }
