@@ -1,0 +1,9 @@
+{
+  "localization": "fr",
+  "name": "Sentinel",
+  "symbol": "DVPN",
+  "description": "L'écosystème Sentinel est un réseau mondial d'applications dVPN autonomes qui permettent un accès Internet privé et résistant à la censure.",
+  "websiteURL": "https://sentinel.co/",
+  "coingeckoID": "sentinel",
+  "twitterURL": "https://twitter.com/SentinelVPN"
+}

@@ -1,0 +1,9 @@
+{
+  "localization": "es",
+  "description": "Celestia es una red modular de disponibilidad de datos que escala de forma segura con la cantidad de usuarios, lo que facilita que cualquiera pueda lanzar su propia cadena de bloques.",
+  "name": "Celestia",
+  "symbol": "TIA",
+  "twitterURL": "https://twitter.com/CelestiaOrg",
+  "coingeckoID": "celestia",
+  "websiteURL": "https://celestia.org/"
+}

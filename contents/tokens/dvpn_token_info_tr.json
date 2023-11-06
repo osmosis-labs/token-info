@@ -1,0 +1,9 @@
+{
+  "localization": "tr",
+  "name": "Sentinel",
+  "symbol": "DVPN",
+  "description": "Sentinel ekosistemi, özel ve sansüre dayanıklı internet erişimi sağlayan küresel bir otonom dVPN uygulamaları ağıdır.",
+  "websiteURL": "https://sentinel.co/",
+  "coingeckoID": "sentinel",
+  "twitterURL": "https://twitter.com/SentinelVPN"
+}

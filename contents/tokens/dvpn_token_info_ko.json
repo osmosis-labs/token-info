@@ -1,0 +1,9 @@
+{
+  "localization": "ko",
+  "name": "Sentinel",
+  "symbol": "DVPN",
+  "description": "Sentinel 생태계는 검열에 저항하는 개인 인터넷 액세스를 가능하게 하는 자율 dVPN 애플리케이션의 글로벌 네트워크입니다.",
+  "websiteURL": "https://sentinel.co/",
+  "coingeckoID": "sentinel",
+  "twitterURL": "https://twitter.com/SentinelVPN"
+}

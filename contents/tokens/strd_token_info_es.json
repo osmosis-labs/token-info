@@ -1,0 +1,8 @@
+{
+  "description": "Stride es una cadena de bloques que proporciona liquidez para los tokens apostados. Con Stride, puede obtener rendimientos tanto de DeFi como de tomas en todo el ecosistema Cosmos IBC.",
+  "name": "Stride",
+  "symbol": "STRD",
+  "coingeckoID": "stride",
+  "twitterURL": "https://twitter.com/stride_zone",
+  "websiteURL": "https://stride.zone/"
+}

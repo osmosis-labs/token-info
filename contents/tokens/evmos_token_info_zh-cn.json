@@ -1,0 +1,8 @@
+{
+  "description": "开发人员使用 Evmos 作为以太坊金丝雀链来部署未来的应用程序。借助 IBC 和链间可组合性的强大功能，获得以太坊的所有功能。",
+  "name": "Evmos",
+  "symbol": "EVMOS",
+  "coingeckoID": "evmos",
+  "websiteURL": "https://evmos.org/",
+  "twitterURL": "https://twitter.com/EvmosOrg"
+}

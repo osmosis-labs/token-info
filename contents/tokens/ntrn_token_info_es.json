@@ -1,0 +1,8 @@
+{
+  "description": "Neutron, la plataforma CosmWasm más segura de Cosmos, permite que los contratos inteligentes aprovechen la tecnología Interchain de vanguardia con una sobrecarga mínima.",
+  "name": "Neutron",
+  "symbol": "NTRN",
+  "websiteURL": "https://neutron.org/",
+  "coingeckoID": "neutron",
+  "twitterURL": "https://twitter.com/Neutron_org"
+}

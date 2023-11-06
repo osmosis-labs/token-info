@@ -1,0 +1,9 @@
+{
+  "localization": "zh",
+  "description": "Celestia 是一个模块化的数据可用性网络，可以根据用户数量安全地扩展，使任何人都可以轻松启动自己的区块链。",
+  "name": "Celestia",
+  "symbol": "TIA",
+  "twitterURL": "https://twitter.com/CelestiaOrg",
+  "coingeckoID": "celestia",
+  "websiteURL": "https://celestia.org/"
+}

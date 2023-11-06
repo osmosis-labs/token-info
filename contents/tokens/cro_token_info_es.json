@@ -1,0 +1,8 @@
+{
+  "description": "Cronos PoS Chain es una cadena de bloques pública, de código abierto y sin permisos: una red totalmente descentralizada con alta velocidad y tarifas bajas, diseñada para ser un bien público que ayuda a impulsar la adopción masiva de la tecnología blockchain a través de casos de uso como pagos, DeFi y NFT.",
+  "name": "Cronos POS Chain",
+  "websiteURL": "https://cronos-pos.org/",
+  "symbol": "CRO",
+  "coingeckoID": "cronos",
+  "twitterURL": "https://twitter.com/cronos_chain"
+}

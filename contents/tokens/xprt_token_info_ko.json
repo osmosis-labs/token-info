@@ -1,0 +1,9 @@
+{
+  "localization": "ko",
+  "description": "Persistence는 스테이킹된 자산의 유동성을 해제하는 데 초점을 맞춘 DeFi 애플리케이션 생태계를 지원하는 Liquid Stake용 앱 체인입니다.",
+  "name": "Persistence",
+  "symbol": "XPRT",
+  "websiteURL": "https://persistence.one/",
+  "coingeckoID": "persistence",
+  "twitterURL": "https://twitter.com/PersistenceOne"
+}

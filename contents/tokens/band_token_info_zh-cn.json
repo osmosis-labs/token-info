@@ -1,0 +1,9 @@
+{
+  "localization": "zh",
+  "description": "Band Protocol 是一个跨链数据预言机平台，它将现实世界的数据和 API 聚合并连接到智能合约。",
+  "name": "Band Protocol",
+  "symbol": "BAND",
+  "websiteURL": "https://bandprotocol.com/",
+  "twitterURL": "https://twitter.com/BandProtocol",
+  "coingeckoID": "band-protocol"
+}

@@ -1,0 +1,9 @@
+{
+  "localization": "tr",
+  "description": "Celestia, kullanıcı sayısına göre güvenli bir şekilde ölçeklenen ve herkesin kendi blockchain'ini başlatmasını kolaylaştıran modüler bir veri kullanılabilirliği ağıdır.",
+  "name": "Celestia",
+  "symbol": "TIA",
+  "twitterURL": "https://twitter.com/CelestiaOrg",
+  "coingeckoID": "celestia",
+  "websiteURL": "https://celestia.org/"
+}

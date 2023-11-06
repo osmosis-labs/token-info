@@ -1,0 +1,8 @@
+{
+  "description": "Cronos PoS Chain یک بلاک چین عمومی، منبع باز و بدون مجوز است - یک شبکه کاملاً غیرمتمرکز با سرعت بالا و کارمزد کم، که به عنوان یک کالای عمومی طراحی شده است که به پذیرش انبوه فناوری بلاک چین از طریق موارد استفاده مانند Payments، DeFi و NFT کمک می کند.",
+  "name": "Cronos POS Chain",
+  "websiteURL": "https://cronos-pos.org/",
+  "symbol": "CRO",
+  "coingeckoID": "cronos",
+  "twitterURL": "https://twitter.com/cronos_chain"
+}

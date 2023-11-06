@@ -1,0 +1,9 @@
+{
+  "localization": "ro",
+  "description": "Band Protocol este o platformă de oracol de date încrucișată care agregează și conectează date și API-uri din lumea reală la contracte inteligente.",
+  "name": "Band Protocol",
+  "symbol": "BAND",
+  "websiteURL": "https://bandprotocol.com/",
+  "twitterURL": "https://twitter.com/BandProtocol",
+  "coingeckoID": "band-protocol"
+}
