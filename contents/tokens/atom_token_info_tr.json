@@ -3,7 +3,7 @@
   "name": "Cosmos Hub",
   "symbol": "ATOM",
   "description": "Cosmos Hub, geliştirici dostu uygulama bileşenleri kullanılarak oluşturulan ve çığır açan IBC (Blok Zincirleri Arası İletişim) protokolüyle bağlanan, bağımsız, birbirine bağlı blok zincirlerden oluşan, hızla genişleyen bir ekosisteme açılan kapıdır.",
-  "coingeckoURL": "https://www.coingecko.com/en/coins/cosmos-hub",
+  "coingeckoID": "cosmos-hub",
   "websiteURL": "https://cosmos.network/",
   "twitterURL": "https://twitter.com/cosmoshub"
 }

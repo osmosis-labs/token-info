@@ -5,5 +5,5 @@
   "description": "Regen Network, a platform to originate and invest in high-integrity carbon and biodiversity credits from ecological regeneration projects.",
   "websiteURL": "https://www.regen.network/",
   "twitterURL": "https://twitter.com/regen_network",
-  "coingeckoURL": "regen"
+  "coingeckoID": "regen"
 }

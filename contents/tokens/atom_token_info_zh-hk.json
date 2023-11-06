@@ -3,7 +3,7 @@
   "name": "Cosmos Hub",
   "symbol": "ATOM",
   "description": "Cosmos Hub 是通往快速擴展的獨立互連區塊鏈生態系統的門戶，該生態系統使用開發人員友好的應用程式元件構建，並與突破性的 IBC（區塊鏈間通訊）協議連接。",
-  "coingeckoURL": "https://www.coingecko.com/en/coins/cosmos-hub",
+  "coingeckoID": "cosmos-hub",
   "websiteURL": "https://cosmos.network/",
   "twitterURL": "https://twitter.com/cosmoshub"
 }

@@ -4,6 +4,6 @@
   "name": "Celestia",
   "symbol": "TIA",
   "twitterURL": "https://twitter.com/CelestiaOrg",
-  "coingeckoURL": "celestia",
+  "coingeckoID": "celestia",
   "websiteURL": "https://celestia.org/"
 }

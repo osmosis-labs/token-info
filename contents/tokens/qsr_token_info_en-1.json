@@ -4,6 +4,6 @@
   "name": "Quasar",
   "symbol": "QSR",
   "twitterURL": "https://twitter.com/QuasarFi",
-  "coingeckoURL": "quasar-fi",
+  "coingeckoID": "quasar-fi",
   "websiteURL": "https://www.quasar.fi/"
 }

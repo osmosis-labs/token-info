@@ -3,7 +3,7 @@
   "localization": "en",
   "name": "Sommelier",
   "symbol": "SOMM",
-  "coingeckoURL": "sommelier",
+  "coingeckoID": "sommelier",
   "twitterURL": "https://twitter.com/sommfinance",
   "websiteURL": "https://www.sommelier.finance/"
 }

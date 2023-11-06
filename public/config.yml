@@ -60,7 +60,7 @@ collections:
         widget: "string"
         required: false
         pattern: ['/(https:\/\/www\.|http:\/\/www\.|https:\/\/|http:\/\/)?[a-zA-Z]{2,}(\.[a-zA-Z]{2,})(\.[a-zA-Z]{2,})?\/[a-zA-Z0-9]{2,}|((https:\/\/www\.|http:\/\/www\.|https:\/\/|http:\/\/)?[a-zA-Z]{2,}(\.[a-zA-Z]{2,})(\.[a-zA-Z]{2,})?)|(https:\/\/www\.|http:\/\/www\.|https:\/\/|http:\/\/)?[a-zA-Z0-9]{2,}\.[a-zA-Z0-9]{2,}\.[a-zA-Z0-9]{2,}(\.[a-zA-Z0-9]{2,})?/g', 'You must enter a valid URL']
-      - label: "CoinGecko URL"
-        name: "coingeckoURL"
+      - label: "CoinGecko ID"
+        name: "coingeckoID"
         widget: "string"
-        required: false
+        required: true

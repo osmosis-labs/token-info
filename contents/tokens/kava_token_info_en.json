@@ -4,6 +4,6 @@
   "name": "Kava",
   "symbol": "KAVA",
   "websiteURL": "https://www.kava.io/",
-  "coingeckoURL": "kava",
+  "coingeckoID": "kava",
   "twitterURL": "https://twitter.com/KAVA_CHAIN"
 }

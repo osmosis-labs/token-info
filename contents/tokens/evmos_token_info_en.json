@@ -3,7 +3,7 @@
   "localization": "en",
   "name": "Evmos",
   "symbol": "EVMOS",
-  "coingeckoURL": "evmos",
+  "coingeckoID": "evmos",
   "websiteURL": "https://evmos.org/",
   "twitterURL": "https://twitter.com/EvmosOrg"
 }

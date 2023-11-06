@@ -3,7 +3,7 @@
   "localization": "en",
   "name": "Composable",
   "symbol": "PICA",
-  "coingeckoURL": "picasso",
+  "coingeckoID": "picasso",
   "websiteURL": "https://www.composable.finance/",
   "twitterURL": "https://twitter.com/ComposableFin"
 }

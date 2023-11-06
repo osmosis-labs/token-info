@@ -3,7 +3,7 @@
   "description": "Stride is a blockchain that provides liquidity for staked tokens. Using Stride, you can earn both taking and DeFi yields across the Cosmos IBC ecosystem.",
   "name": "Stride",
   "symbol": "STRD",
-  "coingeckoURL": "stride",
+  "coingeckoID": "stride",
   "twitterURL": "https://twitter.com/stride_zone",
   "websiteURL": "https://stride.zone/"
 }

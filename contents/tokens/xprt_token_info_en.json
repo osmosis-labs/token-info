@@ -4,6 +4,6 @@
   "name": "Persistence",
   "symbol": "XPRT",
   "websiteURL": "https://persistence.one/",
-  "coingeckoURL": "persistence",
+  "coingeckoID": "persistence",
   "twitterURL": "https://twitter.com/PersistenceOne"
 }

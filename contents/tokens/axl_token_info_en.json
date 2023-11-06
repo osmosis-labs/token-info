@@ -4,6 +4,6 @@
   "name": "Axelar",
   "symbol": "AXL",
   "twitterURL": "https://twitter.com/axelarnetwork",
-  "coingeckoURL": "axelar",
+  "coingeckoID": "axelar",
   "websiteURL": "https://axelar.network/"
 }

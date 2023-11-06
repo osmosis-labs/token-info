@@ -4,6 +4,6 @@
   "name": "Neutron",
   "symbol": "NTRN",
   "websiteURL": "https://neutron.org/",
-  "coingeckoURL": "neutron",
+  "coingeckoID": "neutron",
   "twitterURL": "https://twitter.com/Neutron_org"
 }

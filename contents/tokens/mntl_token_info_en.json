@@ -4,6 +4,6 @@
   "websiteURL": "https://assetmantle.one/",
   "name": "AssetMantle",
   "symbol": "MNTL",
-  "coingeckoURL": "assetmantle",
+  "coingeckoID": "assetmantle",
   "twitterURL": "https://twitter.com/AssetMantle"
 }

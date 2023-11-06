@@ -4,6 +4,6 @@
   "name": "KYVE",
   "symbol": "KYVE",
   "twitterURL": "https://twitter.com/KYVENetwork",
-  "coingeckoURL": "kyve-network",
+  "coingeckoID": "kyve-network",
   "websiteURL": "https://www.kyve.network/"
 }

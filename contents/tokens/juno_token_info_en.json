@@ -4,6 +4,6 @@
   "name": "Juno",
   "symbol": "JUNO",
   "twitterURL": "https://twitter.com/JunoNetwork",
-  "coingeckoURL": "juno-network",
+  "coingeckoID": "juno-network",
   "websiteURL": "https://www.junonetwork.io/"
 }

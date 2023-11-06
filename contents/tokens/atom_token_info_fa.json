@@ -3,7 +3,7 @@
   "name": "Cosmos Hub",
   "symbol": "ATOM",
   "description": "Cosmos Hub دروازه ای به اکوسیستم به سرعت در حال گسترش از بلاک چین های مستقل به هم پیوسته است که با استفاده از مولفه های برنامه پسند توسعه دهنده ساخته شده و با پروتکل IBC (ارتباطات بین بلاک چین) پیشگام ساخته شده است.",
-  "coingeckoURL": "https://www.coingecko.com/en/coins/cosmos-hub",
+  "coingeckoID": "cosmos-hub",
   "websiteURL": "https://cosmos.network/",
   "twitterURL": "https://twitter.com/cosmoshub"
 }

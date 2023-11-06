@@ -5,5 +5,5 @@
   "websiteURL": "https://dydx.exchange/",
   "symbol": "DYDX",
   "twitterURL": "https://twitter.com/dYdX",
-  "coingeckoURL": "dydx"
+  "coingeckoID": "dydx"
 }

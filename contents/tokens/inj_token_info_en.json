@@ -4,6 +4,6 @@
   "name": "Injective",
   "symbol": "INJ",
   "websiteURL": "https://injective.com/",
-  "coingeckoURL": "injective",
+  "coingeckoID": "injective",
   "twitterURL": "https://twitter.com/Injective_"
 }

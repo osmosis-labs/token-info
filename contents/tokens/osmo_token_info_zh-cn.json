@@ -3,7 +3,7 @@
   "name": "Osmosis",
   "symbol": "OSMO",
   "description": "[Osmosis](https://app.osmosis.zone/?from=ATOM&amp;to=OSMO) 是一个公平推出的跨链资产 AMM 协议，旨在允许开发和管理自平衡、非托管的跨链代币指数。自动做市商（AMM）允许数字资产以自动且无需许可的方式进行交易。该资产旨在提供工具，从传统的代币交换用例中改进 Cosmos 生态系统中 AMM 的使用。 Cosmos 是一个为去中心化的未来而开发的互连应用程序和服务的平台。 Osmosis 寻求提供可定制性，例如互换费用的调整、定制曲线 AMM 和多代币流动性池。流动性池帮助用户在去中心化交易所（DEX）上交易加密货币。然而，AMM 的目标是为 Cosmos 生态系统提供去中心化的代币筹款活动、期权市场、链间质押等。 Osmosis 是一个跨链原生平台，允许该平台通过其内置的 IBC 连接到 Cosmos 资产的完整生态系统。 IBC（区块链间通信）是一种让区块链进行通信的协议。其参数化输入旨在创建 DeFi 资产，例如可选的动态费用市场，以适应高波动性工作，从而减轻流动性提供者的无常损失。该货币还寻求借助现有钱包集成、订单流、IBC 连接和 Osmosis 生态系统中的流动性来部署新曲线。 OSMO 代币是该协议的治理币，为代币持有者提供去中心化的协调方法，以确定协议所需的未来变化和战略方向。该数字货币主要用于各种功能，例如对协议升级进行投票、设置基础网络的交换费用或为流动性池分配挖矿奖励。 OSMO 代币是公平推出的，旨在分发给开发者、流动性提供者、利益相关者等网络参与者。治理是该网络作为 AMM 协议运行的关键组成部分。 OSMO 代币持有者治理旨在选择有资格获得奖励的流动性池，让利益相关者能够制定有利于协议长期利益的激励策略。 Osmosis 还旨在让第三方为一些流动性池添加激励机制。",
-  "coingeckoURL": "https://www.coingecko.com/en/coins/osmosis",
+  "coingeckoID": "osmosis",
   "twitterURL": "https://twitter.com/osmosiszone",
   "websiteURL": "https://osmosis.zone/"
 }
