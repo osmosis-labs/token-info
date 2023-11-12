@@ -54,7 +54,7 @@ function readTokenFile(symbol){
   try {
     tokenFileObject = JSON.parse(fs.readFileSync(path.join(tokenFileDir, tokenFileName), 'utf8'));
   } catch (err) {
-    console.error('Error reading the file:', err);
+    //console.error('Error reading the file:', err);
   }
   return tokenFileObject;
 }
