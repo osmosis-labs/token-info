@@ -1,1 +1,7 @@
-{"localization":"en","name":"LVN","symbol":"LVN","description":"ELEVENPARIS loyalty token on KiChain","coingeckoID":"lvn"}
+{
+  "localization": "en",
+  "name": "LVN",
+  "symbol": "LVN",
+  "description": "ELEVENPARIS loyalty token on KiChain",
+  "coingeckoID": "lvn"
+}

@@ -1,1 +1,6 @@
-{"localization":"en","name":"Wrapped AVAX","symbol":"AVAX","description":"Wrapped AVAX on Axelar."}
+{
+  "localization": "en",
+  "name": "Wrapped AVAX",
+  "symbol": "AVAX",
+  "description": "Wrapped AVAX on Axelar."
+}

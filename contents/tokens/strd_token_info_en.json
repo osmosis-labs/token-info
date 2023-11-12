@@ -1,1 +1,8 @@
-{"localization":"en","description":"The native token of Stride","name":"Stride","symbol":"STRD","coingeckoID":"stride","twitterURL":"https://twitter.com/stride_zone"}
+{
+  "localization": "en",
+  "description": "The native token of Stride\n\nStride is a blockchain that provides liquidity for staked tokens. Using Stride, you can earn both taking and DeFi yields across the Cosmos IBC ecosystem.",
+  "name": "Stride",
+  "symbol": "STRD",
+  "coingeckoID": "stride",
+  "twitterURL": "https://twitter.com/stride_zone"
+}

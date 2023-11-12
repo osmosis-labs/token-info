@@ -1,1 +1,7 @@
-{"localization":"en","name":"Lum","symbol":"LUM","description":"Native token of the Lum Network","coingeckoID":"lum-network"}
+{
+  "localization": "en",
+  "name": "Lum",
+  "symbol": "LUM",
+  "description": "Native token of the Lum Network",
+  "coingeckoID": "lum-network"
+}

@@ -1,1 +1,7 @@
-{"localization":"en","name":"Vidulum","symbol":"VDL","description":"The native token of Vidulum","coingeckoID":"vidulum"}
+{
+  "localization": "en",
+  "name": "Vidulum",
+  "symbol": "VDL",
+  "description": "The native token of Vidulum",
+  "coingeckoID": "vidulum"
+}

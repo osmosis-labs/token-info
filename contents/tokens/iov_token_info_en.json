@@ -1,1 +1,8 @@
-{"localization":"en","description":"IOV coin is the token for the Starname (IOV) Asset Name Service","name":"Starname","symbol":"IOV","coingeckoID":"starname","twitterURL":"https://twitter.com/starname_me"}
+{
+  "localization": "en",
+  "description": "IOV coin is the token for the Starname (IOV) Asset Name Service\n\nStarname is the best way to claim your part of the blockchain. You can use it for decentralized identification, payments, ownership and applications. Starname can be integrated into digital wallets, dapps and exchanges.",
+  "name": "Starname",
+  "symbol": "IOV",
+  "coingeckoID": "starname",
+  "twitterURL": "https://twitter.com/starname_me"
+}

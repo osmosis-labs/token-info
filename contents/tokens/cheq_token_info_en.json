@@ -1,1 +1,7 @@
-{"localization":"en","name":"cheqd","symbol":"CHEQ","description":"Native token for the cheqd network","coingeckoID":"cheqd-network"}
+{
+  "localization": "en",
+  "name": "cheqd",
+  "symbol": "CHEQ",
+  "description": "Native token for the cheqd network",
+  "coingeckoID": "cheqd-network"
+}

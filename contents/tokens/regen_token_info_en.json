@@ -1,1 +1,8 @@
-{"localization":"en","name":"Regen Network","symbol":"REGEN","description":"REGEN coin is the token for the Regen Network Platform","twitterURL":"https://twitter.com/regen_network","coingeckoID":"regen"}
+{
+  "localization": "en",
+  "name": "Regen Network",
+  "symbol": "REGEN",
+  "description": "REGEN coin is the token for the Regen Network Platform\n\nRegen Network, a platform to originate and invest in high-integrity carbon and biodiversity credits from ecological regeneration projects.",
+  "twitterURL": "https://twitter.com/regen_network",
+  "coingeckoID": "regen"
+}

@@ -1,1 +1,6 @@
-{"localization":"en","name":"Aave","symbol":"AAVE","description":"Aave on Axelar"}
+{
+  "localization": "en",
+  "name": "Aave",
+  "symbol": "AAVE",
+  "description": "Aave on Axelar"
+}

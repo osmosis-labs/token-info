@@ -1,1 +1,7 @@
-{"localization":"en","name":"Coreum","symbol":"COREUM","description":"The native token of Coreum","coingeckoID":"coreum"}
+{
+  "localization": "en",
+  "name": "Coreum",
+  "symbol": "COREUM",
+  "description": "The native token of Coreum",
+  "coingeckoID": "coreum"
+}

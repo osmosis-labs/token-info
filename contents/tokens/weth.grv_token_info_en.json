@@ -1,1 +1,6 @@
-{"localization":"en","name":"Wrapped Ethereum","symbol":"WETH.grv","description":"Gravity Bridge WETH"}
+{
+  "localization": "en",
+  "name": "Wrapped Ethereum",
+  "symbol": "WETH.grv",
+  "description": "Gravity Bridge WETH"
+}

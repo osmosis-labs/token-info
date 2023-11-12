@@ -60,7 +60,7 @@ function readTokenFile(symbol){
 }
 
 function writeTokenFile(asset){
-  let assetJson = JSON.stringify(asset);
+  let assetJson = JSON.stringify(asset, null, 2);
   let tokenFileName = asset.symbol.toLowerCase() + "_token_info_en.json";
   fs.writeFile(path.join(tokenFileDir, tokenFileName), assetJson, 'utf8', (err) => {
     if (err) {
@@ -116,8 +116,8 @@ function createTokenObjects(){
     let staking_denom = chainlistMap.get(chain_name).staking?.staking_tokens[0]?.denom;
     if(staking_denom == base_denom) {
       //it is a staking token, so we pull the chain_description
-      if(chain_name.description) {
-        description = description + "\n\n" + chain_name.description;
+      if(chainlistMap.get(chain_name).description) {
+        description = description + "\n\n" + chainlistMap.get(chain_name).description;
       }
     }
     tokenObject.description = description;

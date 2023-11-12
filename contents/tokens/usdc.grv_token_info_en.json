@@ -1,1 +1,6 @@
-{"localization":"en","name":"USD Coin","symbol":"USDC.grv","description":"Gravity Bridge USDC"}
+{
+  "localization": "en",
+  "name": "USD Coin",
+  "symbol": "USDC.grv",
+  "description": "Gravity Bridge USDC"
+}

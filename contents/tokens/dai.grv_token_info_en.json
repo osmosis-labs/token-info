@@ -1,1 +1,6 @@
-{"localization":"en","name":"Dai Stablecoin","symbol":"DAI.grv","description":"Gravity Bridge DAI"}
+{
+  "localization": "en",
+  "name": "Dai Stablecoin",
+  "symbol": "DAI.grv",
+  "description": "Gravity Bridge DAI"
+}

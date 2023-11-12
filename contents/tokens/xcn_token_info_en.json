@@ -1,1 +1,6 @@
-{"localization":"en","name":"Chain","symbol":"XCN","description":"Chain on Axelar"}
+{
+  "localization": "en",
+  "name": "Chain",
+  "symbol": "XCN",
+  "description": "Chain on Axelar"
+}

@@ -1,1 +1,6 @@
-{"localization":"en","name":"MPWR","symbol":"MPWR","description":"The native staking and governance token of Empower."}
+{
+  "localization": "en",
+  "name": "MPWR",
+  "symbol": "MPWR",
+  "description": "The native staking and governance token of Empower."
+}

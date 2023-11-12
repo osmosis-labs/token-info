@@ -1,1 +1,6 @@
-{"localization":"en","name":"Binance USD","symbol":"BUSD","description":"Binance USD on Axelar."}
+{
+  "localization": "en",
+  "name": "Binance USD",
+  "symbol": "BUSD",
+  "description": "Binance USD on Axelar."
+}

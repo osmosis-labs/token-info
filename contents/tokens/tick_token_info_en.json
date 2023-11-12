@@ -1,1 +1,6 @@
-{"localization":"en","name":"Microtick","symbol":"TICK","description":"TICK coin is the token for the Microtick Price Discovery & Oracle App"}
+{
+  "localization": "en",
+  "name": "Microtick",
+  "symbol": "TICK",
+  "description": "TICK coin is the token for the Microtick Price Discovery & Oracle App"
+}

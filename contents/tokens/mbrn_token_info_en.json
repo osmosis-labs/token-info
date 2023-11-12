@@ -1,1 +1,6 @@
-{"localization":"en","name":"MBRN","symbol":"MBRN","description":"Membrane's protocol token"}
+{
+  "localization": "en",
+  "name": "MBRN",
+  "symbol": "MBRN",
+  "description": "Membrane's protocol token"
+}

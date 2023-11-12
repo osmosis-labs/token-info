@@ -1,1 +1,7 @@
-{"localization":"en","name":"SGE","symbol":"SGE","description":"The native token of SGE Network","coingeckoID":"six-sigma"}
+{
+  "localization": "en",
+  "name": "SGE",
+  "symbol": "SGE",
+  "description": "The native token of SGE Network",
+  "coingeckoID": "six-sigma"
+}

@@ -1,1 +1,7 @@
-{"localization":"en","name":"USDX","symbol":"USDX","description":"The native stablecoin of Kava","coingeckoID":"usdx"}
+{
+  "localization": "en",
+  "name": "USDX",
+  "symbol": "USDX",
+  "description": "The native stablecoin of Kava",
+  "coingeckoID": "usdx"
+}

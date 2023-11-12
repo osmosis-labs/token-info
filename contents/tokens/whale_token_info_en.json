@@ -1,1 +1,7 @@
-{"localization":"en","name":"Whale","symbol":"WHALE","description":"The native token of Migaloo Chain","coingeckoID":"white-whale"}
+{
+  "localization": "en",
+  "name": "Whale",
+  "symbol": "WHALE",
+  "description": "The native token of Migaloo Chain",
+  "coingeckoID": "white-whale"
+}

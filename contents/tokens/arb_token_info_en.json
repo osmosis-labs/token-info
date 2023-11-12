@@ -1,1 +1,6 @@
-{"localization":"en","name":"Arbitrum","symbol":"ARB","description":"Arbitrum on Axelar"}
+{
+  "localization": "en",
+  "name": "Arbitrum",
+  "symbol": "ARB",
+  "description": "Arbitrum on Axelar"
+}

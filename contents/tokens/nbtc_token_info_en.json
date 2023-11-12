@@ -1,1 +1,6 @@
-{"localization":"en","name":"Nomic Bitcoin","symbol":"nBTC","description":"Bitcoin. On Cosmos."}
+{
+  "localization": "en",
+  "name": "Nomic Bitcoin",
+  "symbol": "nBTC",
+  "description": "Bitcoin. On Cosmos."
+}

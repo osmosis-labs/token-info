@@ -1,1 +1,8 @@
-{"description":"The native token of Quasar","localization":"en","name":"Quasar","symbol":"QSR","twitterURL":"https://twitter.com/QuasarFi","coingeckoID":"quasar-2"}
+{
+  "description": "The native token of Quasar\n\nQuasar is the first decentralized asset management (D.A.M.) platform enabled by IBC. A secure, permissionless, composable, and diversified interchain DeFi experience is finally here.",
+  "localization": "en",
+  "name": "Quasar",
+  "symbol": "QSR",
+  "twitterURL": "https://twitter.com/QuasarFi",
+  "coingeckoID": "quasar-2"
+}

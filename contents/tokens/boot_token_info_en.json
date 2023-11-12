@@ -1,1 +1,7 @@
-{"localization":"en","name":"Bostrom","symbol":"BOOT","description":"The staking token of Bostrom","coingeckoID":"bostrom"}
+{
+  "localization": "en",
+  "name": "Bostrom",
+  "symbol": "BOOT",
+  "description": "The staking token of Bostrom",
+  "coingeckoID": "bostrom"
+}

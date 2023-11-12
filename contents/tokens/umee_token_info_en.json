@@ -1,1 +1,7 @@
-{"localization":"en","name":"Umee","symbol":"UMEE","description":"The native token of Umee","coingeckoID":"umee"}
+{
+  "localization": "en",
+  "name": "Umee",
+  "symbol": "UMEE",
+  "description": "The native token of Umee",
+  "coingeckoID": "umee"
+}
