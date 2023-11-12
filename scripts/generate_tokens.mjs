@@ -94,7 +94,7 @@ function indexChainlist(chainlistArray){
 function createTokenObjects(){
   assetlist.forEach((asset) => {
     let tokenObject = {};
-    tokenObejct = readTokenFile(asset.symbol);
+    tokenObject = readTokenFile(asset.symbol);
     tokenObject.localization = "en";
     tokenObject.name = asset.name;
     tokenObject.symbol = asset.symbol;
@@ -103,17 +103,17 @@ function createTokenObjects(){
     //need to find out if it's an osmosis object
     let base_denom;
     let chain_name;
-    if(traces){
+    if(asset.traces?.length > 0){
       //then it's not an osmosis asset
       //need to look at latest trace's counterparty
-      chain_name = asset.traces[traces.size - 1].counterparty.chain_name;
-      base_denom = asset.traces[traces.size - 1].counterparty.base_denom;
+      chain_name = asset.traces[asset.traces.length - 1].counterparty.chain_name;
+      base_denom = asset.traces[asset.traces.length - 1].counterparty.base_denom;
     } else {
       chain_name = "osmosis";
       base_denom = asset.base;
     }
     //then need to see if it's first staking token
-    let staking_denom = chainlistMap(chain_name).staking?.staking_tokens[0]?.denom;
+    let staking_denom = chainlistMap.get(chain_name).staking?.staking_tokens[0]?.denom;
     if(staking_denom == base_denom) {
       //it is a staking token, so we pull the chain_description
       if(chain_name.description) {
@@ -121,17 +121,17 @@ function createTokenObjects(){
       }
     }
     tokenObject.description = description;
-    tokenObject.websiteURL = chainlistMap(chain_name).website;
+    tokenObject.websiteURL = chainlistMap.get(chain_name).website;
     tokenObject.coingeckoID = asset.coingecko_id;
 
-    writeTokenFile(tokenObejct);
+    writeTokenFile(tokenObject);
   });
 }
 
 
 function main(){
   readAssetlist();
-  //createTokenObjects();
+  createTokenObjects();
 }
 
 main()
