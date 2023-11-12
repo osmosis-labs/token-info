@@ -45,7 +45,7 @@ const assetlistChainFile = "osmosis-1.chainlist.json";
 
 let assetlist = [];
 let chainlist = [];
-const chainlistMap = new Map({});
+const chainlistMap = new Map();
 
 
 function readTokenFile(symbol){
