@@ -1,9 +1,1 @@
-{
-  "localization": "en",
-  "description": "A decentralized ecosystem for protocols, builders and web3 users seeking sustainable FinTech.",
-  "coingeckoID": "kujira",
-  "websiteURL": "https://kujira.app/",
-  "twitterURL": "https://twitter.com/TeamKujira",
-  "symbol": "KUJI",
-  "name": "Kujira"
-}
+{"localization":"en","description":"The native staking and governance token of the Kujira chain.","coingeckoID":"kujira","twitterURL":"https://twitter.com/TeamKujira","symbol":"KUJI","name":"Kuji"}

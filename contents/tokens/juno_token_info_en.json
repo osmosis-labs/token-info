@@ -1,9 +1,1 @@
-{
-  "description": "Juno is a completely community owned and operated smart contract platform.",
-  "localization": "en",
-  "name": "Juno",
-  "symbol": "JUNO",
-  "twitterURL": "https://twitter.com/JunoNetwork",
-  "coingeckoID": "juno-network",
-  "websiteURL": "https://www.junonetwork.io/"
-}
+{"description":"The native token of JUNO Chain","localization":"en","name":"Juno","symbol":"JUNO","twitterURL":"https://twitter.com/JunoNetwork","coingeckoID":"juno-network"}

@@ -1,9 +1,1 @@
-{
-  "description": "Kava is a decentralized blockchain that combines the speed and interoperability of Cosmos with the developer power of Ethereum.",
-  "localization": "en",
-  "name": "Kava",
-  "symbol": "KAVA",
-  "websiteURL": "https://www.kava.io/",
-  "coingeckoID": "kava",
-  "twitterURL": "https://twitter.com/KAVA_CHAIN"
-}
+{"description":"The native staking and governance token of Kava","localization":"en","name":"Kava","symbol":"KAVA","coingeckoID":"kava","twitterURL":"https://twitter.com/KAVA_CHAIN"}

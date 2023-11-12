@@ -1,9 +1,1 @@
-{
-  "description": "Our goal is to build open source code that can power a first class product and trading experience.",
-  "localization": "en",
-  "name": "dYdX Protocol",
-  "websiteURL": "https://dydx.exchange/",
-  "symbol": "DYDX",
-  "twitterURL": "https://twitter.com/dYdX",
-  "coingeckoID": "dydx"
-}
+{"description":"The native staking token of dYdX Protocol.","localization":"en","name":"dYdX","symbol":"DYDX","twitterURL":"https://twitter.com/dYdX","coingeckoID":"dydx"}

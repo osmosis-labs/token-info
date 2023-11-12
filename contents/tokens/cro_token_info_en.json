@@ -1,9 +1,1 @@
-{
-  "localization": "en",
-  "description": "Cronos PoS Chain is a public, open-source and permissionless blockchain - a fully decentralized network with high speed and low fees, designed to be a public good that helps drive mass adoption of blockchain technology through use cases like Payments, DeFi and NFTs.",
-  "name": "Cronos POS Chain",
-  "websiteURL": "https://cronos-pos.org/",
-  "symbol": "CRO",
-  "coingeckoID": "cronos",
-  "twitterURL": "https://twitter.com/cronos_chain"
-}
+{"localization":"en","description":"CRO is the native token of the Crypto.org Chain, referred to as Native CRO.","name":"Cronos","symbol":"CRO","coingeckoID":"crypto-com-chain","twitterURL":"https://twitter.com/cronos_chain"}

@@ -1,9 +1,1 @@
-{
-  "localization": "en",
-  "description": "The Agoric platform makes it safe and seamless to build decentralized apps using your existing JavaScript knowledge.",
-  "name": "Agoric",
-  "symbol": "BLD",
-  "twitterURL": "https://twitter.com/agoric",
-  "coingeckoID": "agoric",
-  "websiteURL": "https://agoric.com/"
-}
+{"localization":"en","description":"BLD is the token used to secure the Agoric chain through staking and to backstop Inter Protocol.","name":"Agoric","symbol":"BLD","twitterURL":"https://twitter.com/agoric","coingeckoID":"agoric"}

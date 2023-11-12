@@ -1,9 +1,1 @@
-{
-  "localization": "en",
-  "name": "Sentinel",
-  "symbol": "DVPN",
-  "description": "The Sentinel ecosystem is a global network of autonomous dVPN applications that enable private and censorship resistant internet access.",
-  "websiteURL": "https://sentinel.co/",
-  "coingeckoID": "sentinel",
-  "twitterURL": "https://twitter.com/SentinelVPN"
-}
+{"localization":"en","name":"Sentinel","symbol":"DVPN","description":"DVPN is the native token of the Sentinel Hub.","coingeckoID":"sentinel","twitterURL":"https://twitter.com/SentinelVPN"}

@@ -1,9 +1,1 @@
-{
-  "description": "Sei is the fastest Layer 1 blockchain, designed to scale with the industry.",
-  "localization": "en",
-  "name": "Sei",
-  "symbol": "SEI",
-  "twitterURL": "https://twitter.com/SeiNetwork",
-  "coingeckoID": "sei",
-  "websiteURL": "https://www.sei.io/"
-}
+{"description":"The native staking token of Sei.","localization":"en","name":"Sei","symbol":"SEI","twitterURL":"https://twitter.com/SeiNetwork","coingeckoID":"sei-network"}

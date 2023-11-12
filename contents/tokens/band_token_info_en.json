@@ -1,9 +1,1 @@
-{
-  "localization": "en",
-  "description": "Band Protocol is a cross-chain data oracle platform that aggregates and connects real-world data and APIs to smart contracts.",
-  "name": "Band Protocol",
-  "symbol": "BAND",
-  "websiteURL": "https://bandprotocol.com/",
-  "twitterURL": "https://twitter.com/BandProtocol",
-  "coingeckoID": "band-protocol"
-}
+{"localization":"en","description":"The native token of BandChain","name":"Band Protocol","symbol":"BAND","twitterURL":"https://twitter.com/BandProtocol","coingeckoID":"band-protocol"}

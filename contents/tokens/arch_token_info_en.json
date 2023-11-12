@@ -1,9 +1,1 @@
-{
-  "localization": "en",
-  "description": "An incentivized L1 blockchain that allows developers to capture the value their dapps create, enabling sustainable economic models.",
-  "coingeckoID": "archway",
-  "websiteURL": "https://archway.io/",
-  "twitterURL": "https://twitter.com/archwayHQ",
-  "name": "Archway",
-  "symbol": "ARCH"
-}
+{"localization":"en","description":"The native token of Archway network","coingeckoID":"archway","twitterURL":"https://twitter.com/archwayHQ","name":"Archway","symbol":"ARCH"}

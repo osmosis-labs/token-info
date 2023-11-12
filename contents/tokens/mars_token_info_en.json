@@ -1,9 +1,1 @@
-{
-  "localization": "en",
-  "description": "Lend, borrow and earn with an autonomous credit protocol in the Cosmos universe. Open to all, closed to none.",
-  "coingeckoID": "mars-protocol",
-  "twitterURL": "https://twitter.com/mars_protocol",
-  "websiteURL": "https://www.marsprotocol.io/",
-  "symbol": "MARS",
-  "name": "Mars Hub"
-}
+{"localization":"en","description":"Mars protocol token","coingeckoID":"mars-protocol-a7fcbcfb-fd61-4017-92f0-7ee9f9cc6da3","twitterURL":"https://twitter.com/mars_protocol","symbol":"MARS","name":"Mars"}

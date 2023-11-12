@@ -1,9 +1,1 @@
-{
-  "description": "The most secure CosmWasm platform in Cosmos, Neutron lets smart-contracts leverage bleeding-edge Interchain technology with minimal overhead.",
-  "localization": "en",
-  "name": "Neutron",
-  "symbol": "NTRN",
-  "websiteURL": "https://neutron.org/",
-  "coingeckoID": "neutron",
-  "twitterURL": "https://twitter.com/Neutron_org"
-}
+{"description":"The native token of Neutron chain.","localization":"en","name":"Neutron","symbol":"NTRN","coingeckoID":"neutron-3","twitterURL":"https://twitter.com/Neutron_org"}

@@ -1,9 +1,1 @@
-{
-  "localization": "en",
-  "name": "BitSong",
-  "symbol": "BTSG",
-  "description": "Artists, Fans, Managers and Labels in One Single Holistic Ecosystem: $BTSG. Earn real-time royalties, discover exclusive content, mint and trade Fantokens, buy & sell NFTs.",
-  "twitterURL": "https://twitter.com/BitSongOfficial",
-  "coingeckoID": "bitsong",
-  "websiteURL": "https://bitsong.io/"
-}
+{"localization":"en","name":"BitSong","symbol":"BTSG","description":"BitSong Native Token","twitterURL":"https://twitter.com/BitSongOfficial","coingeckoID":"bitsong"}
