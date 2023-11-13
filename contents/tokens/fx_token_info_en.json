@@ -1,0 +1,7 @@
+{
+  "localization": "en",
+  "name": "Function X",
+  "symbol": "FX",
+  "description": "The native staking token of the Function X",
+  "coingeckoID": "fx-coin"
+}

@@ -1,0 +1,7 @@
+{
+  "localization": "en",
+  "name": "IMV",
+  "symbol": "IMV",
+  "description": "The native EVM, governance and staking token of the Imversed",
+  "coingeckoID": "imv"
+}

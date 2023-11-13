@@ -1,9 +1,8 @@
 {
-  "description": "Axelar delivers secure cross-chain communication for Web3. Our infrastructure enables dApp users to interact with any asset or application, on any chain, with one click.",
+  "description": "The native token of Axelar\n\nAxelar delivers secure cross-chain communication for Web3. Our infrastructure enables dApp users to interact with any asset or application, on any chain, with one click.",
   "localization": "en",
   "name": "Axelar",
   "symbol": "AXL",
   "twitterURL": "https://twitter.com/axelarnetwork",
-  "coingeckoID": "axelar",
-  "websiteURL": "https://axelar.network/"
+  "coingeckoID": "axelar"
 }

@@ -1,9 +1,8 @@
 {
-  "description": "Gitopia is the next-generation Code Collaboration Platform fuelled by a decentralized network and interactive token economy. It is designed to optimize the open-source software development process through collaboration, transparency, and incentivization.",
+  "description": "The native token of Gitopia\n\nGitopia is the next-generation Code Collaboration Platform fuelled by a decentralized network and interactive token economy. It is designed to optimize the open-source software development process through collaboration, transparency, and incentivization.",
   "localization": "en",
   "coingeckoID": "gitopia",
-  "websiteURL": "https://gitopia.com/",
-  "name": "Gitopia",
+  "name": "LORE",
   "symbol": "LORE",
   "twitterURL": "https://twitter.com/gitopiaDAO"
 }

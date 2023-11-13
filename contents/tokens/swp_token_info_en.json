@@ -1,0 +1,7 @@
+{
+  "localization": "en",
+  "name": "Swap",
+  "symbol": "SWP",
+  "description": "Governance token of Kava Swap Protocol",
+  "coingeckoID": "kava-swap"
+}

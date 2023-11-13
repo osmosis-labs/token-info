@@ -2,8 +2,7 @@
   "localization": "en",
   "name": "Osmosis",
   "symbol": "OSMO",
-  "description": "Swap, earn, and build on the leading decentralized Cosmos exchange.",
+  "description": "The native token of Osmosis\n\nSwap, earn, and build on the leading decentralized Cosmos exchange.",
   "coingeckoID": "osmosis",
-  "twitterURL": "https://twitter.com/osmosiszone",
-  "websiteURL": "https://osmosis.zone/"
+  "twitterURL": "https://twitter.com/osmosiszone"
 }

@@ -1,0 +1,7 @@
+{
+  "localization": "en",
+  "name": "Fanfury",
+  "symbol": "FURY",
+  "description": "The native token cw20 for Fanfury on Juno Chain",
+  "coingeckoID": "fanfury"
+}

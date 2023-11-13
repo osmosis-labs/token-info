@@ -1,0 +1,6 @@
+{
+  "localization": "en",
+  "name": "USD Coin from Avalanche",
+  "symbol": "avalanche.USDC",
+  "description": "Circle's stablecoin from Avalanche on Axelar"
+}

@@ -1,9 +1,8 @@
 {
-  "description": "Liquid Stake your Cosmos assets with your preferred validator and receive liquid staked assets (qASSETs) that you can use for swapping, pooling, lending, and more, all while your original stake earns staking APY from securing the network.",
+  "description": "QCK - native token of Quicksilver\n\nLiquid Stake your Cosmos assets with your preferred validator and receive liquid staked assets (qASSETs) that you can use for swapping, pooling, lending, and more, all while your original stake earns staking APY from securing the network.",
   "localization": "en",
   "coingeckoID": "quicksilver",
   "name": "Quicksilver",
-  "websiteURL": "https://quicksilver.zone/",
   "twitterURL": "https://twitter.com/quicksilverzone",
   "symbol": "QCK"
 }
