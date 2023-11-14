@@ -2,5 +2,6 @@
   "localization": "en",
   "name": "ApeCoin",
   "symbol": "APE",
-  "description": "ApeCoin on Axelar"
+  "description": "ApeCoin on Axelar",
+  "coingeckoID": "apecoin"
 }
