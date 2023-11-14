@@ -2,5 +2,6 @@
   "localization": "en",
   "name": "Rai Reflex Index",
   "symbol": "RAI",
-  "description": "Rai Reflex Index on Axelar"
+  "description": "Rai Reflex Index on Axelar",
+  "coingeckoID": "rai"
 }
