@@ -2,5 +2,6 @@
   "localization": "en",
   "name": "Aave",
   "symbol": "AAVE",
-  "description": "Aave on Axelar"
+  "description": "Aave on Axelar",
+  "coingeckoID": "aave"
 }
