@@ -2,5 +2,6 @@
   "localization": "en",
   "name": "Chain",
   "symbol": "XCN",
-  "description": "Chain on Axelar"
+  "description": "Chain on Axelar",
+  "coingeckoID": "chain-2"
 }
