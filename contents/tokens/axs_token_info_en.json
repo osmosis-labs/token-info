@@ -2,5 +2,6 @@
   "localization": "en",
   "name": "Axie Infinity Shard",
   "symbol": "AXS",
-  "description": "Axie Infinity Shard on Axelar"
+  "description": "Axie Infinity Shard on Axelar",
+  "coingeckoID": "axie-infinity"
 }
