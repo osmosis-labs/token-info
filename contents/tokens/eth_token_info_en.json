@@ -2,5 +2,6 @@
   "localization": "en",
   "name": "Wrapped Ether",
   "symbol": "ETH",
-  "description": "Wrapped Ether on Axelar"
+  "description": "Wrapped Ether on Axelar",
+  "coingeckoID": "ethereum"
 }
