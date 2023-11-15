@@ -2,5 +2,6 @@
   "localization": "en",
   "name": "Binance USD",
   "symbol": "BUSD",
-  "description": "Binance USD on Axelar."
+  "description": "Binance USD on Axelar.",
+  "coingeckoID": "binance-usd"
 }
