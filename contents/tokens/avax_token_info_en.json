@@ -2,5 +2,6 @@
   "localization": "en",
   "name": "Wrapped AVAX",
   "symbol": "AVAX",
-  "description": "Wrapped AVAX on Axelar."
+  "description": "Wrapped AVAX on Axelar.",
+  "coingeckoID": "avalanche-2"
 }
