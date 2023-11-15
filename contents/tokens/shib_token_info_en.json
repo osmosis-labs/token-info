@@ -2,5 +2,6 @@
   "localization": "en",
   "name": "Shiba Inu",
   "symbol": "SHIB",
-  "description": "Shiba Inu on Axelar"
+  "description": "Shiba Inu on Axelar",
+  "coingeckoID": "shiba-inu"
 }
