@@ -2,5 +2,6 @@
   "localization": "en",
   "name": "Uniswap",
   "symbol": "UNI",
-  "description": "Uniswap on Axelar"
+  "description": "Uniswap on Axelar",
+  "coingeckoID": "uniswap"
 }
