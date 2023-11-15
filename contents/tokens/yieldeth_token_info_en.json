@@ -1,7 +1,6 @@
 {
   "localization": "en",
-  "name": "Real Yield Eth",
+  "name": "Real Yield ETH",
   "symbol": "YieldETH",
-  "description": "Maximize ETH yield through leveraged staking across Aave, Compound and Morpho and liquidity provision of ETH liquid staking tokens on Uniswap V3.",
-  "coingeckoID": "yieldeth-sommelier"
+  "description": "Maximize ETH yield through leveraged staking across Aave, Compound and Morpho and liquidity provision of ETH liquid staking tokens on Uniswap V3."
 }

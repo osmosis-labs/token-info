@@ -1,7 +1,7 @@
 {
   "localization": "en",
-  "name": "Wrapped Ether",
+  "name": "Ether",
   "symbol": "ETH",
-  "description": "Wrapped Ether on Axelar",
+  "description": "Ether is the native fee token of the Ethereum network.",
   "coingeckoID": "ethereum"
 }
