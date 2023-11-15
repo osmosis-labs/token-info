@@ -1,7 +1,7 @@
 {
   "localization": "en",
-  "name": "Wrapped BNB",
+  "name": "Binance Coin",
   "symbol": "BNB",
-  "description": "Wrapped BNB on Axelar",
+  "description": "BNB powers the BNB Chain ecosystem and is the native coin of the BNB Beacon Chain and BNB Smart Chain.",
   "coingeckoID": "binancecoin"
 }

@@ -2,6 +2,6 @@
   "localization": "en",
   "name": "Chainlink",
   "symbol": "LINK",
-  "description": "Chainlink on Axelar",
+  "description": "A blockchain-based middleware, acting as a bridge between cryptocurrency smart contracts, data feeds, APIs and traditional bank account payments.",
   "coingeckoID": "chainlink"
 }

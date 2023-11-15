@@ -1,7 +1,7 @@
 {
   "localization": "en",
-  "name": "Wrapped SOL (Wormhole)",
+  "name": "Solana",
   "symbol": "SOL",
-  "description": "Wrapped SOL (Wormhole), SOL, factory/wormhole14ejqjyq8um4p3xfqj74yld5waqljf88fz25yxnma0cngspxe3les00fpjx/8sYgCzLRJC3J7qPn2bNbx6PiGcarhyx8rBhVaNnfvHCA",
+  "description": "Solana (SOL) is the native asset of the Solana blockchain.",
   "coingeckoID": "solana"
 }

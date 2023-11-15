@@ -2,6 +2,6 @@
   "localization": "en",
   "name": "Arbitrum",
   "symbol": "ARB",
-  "description": "Arbitrum on Axelar",
+  "description": "Native token of Arbitrum",
   "coingeckoID": "arbitrum"
 }
