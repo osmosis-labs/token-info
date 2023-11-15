@@ -2,5 +2,6 @@
   "localization": "en",
   "name": "Wrapped Matic",
   "symbol": "MATIC",
-  "description": "Wrapped Matic on Axelar"
+  "description": "Wrapped Matic on Axelar",
+  "coingeckoID": "matic-network"
 }
