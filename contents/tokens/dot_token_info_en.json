@@ -2,5 +2,6 @@
   "localization": "en",
   "name": "DOT",
   "symbol": "DOT",
-  "description": "The native staking and governance token of Polkadot Relay Chain."
+  "description": "The native staking and governance token of Polkadot Relay Chain.",
+  "coingeckoID": "polkadot"
 }
