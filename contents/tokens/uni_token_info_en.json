@@ -2,6 +2,6 @@
   "localization": "en",
   "name": "Uniswap",
   "symbol": "UNI",
-  "description": "Uniswap on Axelar",
+  "description": "UNI token served as governance token for Uniswap protocol with 1 billion UNI have been minted at genesis. 60% of the UNI genesis supply is allocated to Uniswap community members and remaining for team, investors and advisors.",
   "coingeckoID": "uniswap"
 }

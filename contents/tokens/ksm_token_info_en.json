@@ -1,6 +1,7 @@
 {
   "localization": "en",
-  "name": "KSM",
+  "name": "Kusama",
   "symbol": "KSM",
-  "description": "The native staking and governance token of Kusama Relay Chain."
+  "description": "The native fee, governance, staking, and bonding token of the Polkadot platform.",
+  "coingeckoID": "kusama"
 }

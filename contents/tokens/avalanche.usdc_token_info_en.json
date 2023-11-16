@@ -1,6 +1,7 @@
 {
   "localization": "en",
-  "name": "USD Coin from Avalanche",
+  "name": "USD Coin",
   "symbol": "avalanche.USDC",
-  "description": "Circle's stablecoin from Avalanche on Axelar"
+  "description": "USDC is a fully collateralized US Dollar stablecoin developed by CENTRE, the open source project with Circle being the first of several forthcoming issuers.",
+  "coingeckoID": "usd-coin"
 }
