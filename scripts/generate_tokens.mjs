@@ -117,7 +117,11 @@ function createTokenObjects(){
     if(staking_denom == base_denom) {
       //it is a staking token, so we pull the chain_description
       if(chainlistMap.get(chain_name).description) {
-        description = description + "\n\n" + chainlistMap.get(chain_name).description;
+        if(description) {
+          description = description + "\n\n" + chainlistMap.get(chain_name).description;
+        } else {
+          description = chainlistMap.get(chain_name).description;
+        }
       }
     }
     tokenObject.description = description;
