@@ -1,0 +1,7 @@
+{
+  "localization": "pt",
+  "name": "Ether",
+  "symbol": "ETH",
+  "description": "Ether é o token de taxa nativo da rede Ethereum.",
+  "coingeckoID": "ethereum"
+}

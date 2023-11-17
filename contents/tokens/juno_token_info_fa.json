@@ -1,8 +1,8 @@
 {
-  "description": "Juno یک پلت فرم قرارداد هوشمند کاملاً متعلق به جامعه است.",
+  "description": "توکن بومی JUNO Chain Juno یک پلت فرم قرارداد هوشمند کاملاً متعلق به جامعه و اداره می شود.",
+  "localization": "en",
   "name": "Juno",
   "symbol": "JUNO",
   "twitterURL": "https://twitter.com/JunoNetwork",
-  "coingeckoID": "juno-network",
-  "websiteURL": "https://www.junonetwork.io/"
+  "coingeckoID": "juno-network"
 }

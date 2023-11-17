@@ -1,8 +1,8 @@
 {
-  "description": "Os desenvolvedores usam Evmos como Ethereum Canary Chain para implantar aplicativos do futuro. Obtenha todas as funcionalidades do Ethereum com o poder da composição IBC e Interchain.",
+  "description": "O token nativo de EVM, governança e staking do Evmos Hub Os desenvolvedores usam Evmos como Ethereum Canary Chain para implantar aplicativos do futuro. Obtenha todas as funcionalidades do Ethereum com o poder da composição IBC e Interchain.",
+  "localization": "pt",
   "name": "Evmos",
   "symbol": "EVMOS",
   "coingeckoID": "evmos",
-  "websiteURL": "https://evmos.org/",
   "twitterURL": "https://twitter.com/EvmosOrg"
 }

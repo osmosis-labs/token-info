@@ -1,8 +1,8 @@
 {
-  "description": "Împrumutați, împrumutați și câștigați cu un protocol de credit autonom în universul Cosmos. Deschis tuturor, închis pentru nimeni.",
-  "coingeckoID": "mars-protocol",
+  "localization": "ro",
+  "description": "Token de protocol Marte Împrumutați, împrumutați și câștigați cu un protocol de credit autonom în universul Cosmos. Deschis tuturor, închis pentru nimeni.",
+  "coingeckoID": "mars-protocol-a7fcbcfb-fd61-4017-92f0-7ee9f9cc6da3",
   "twitterURL": "https://twitter.com/mars_protocol",
-  "websiteURL": "https://www.marsprotocol.io/",
   "symbol": "MARS",
-  "name": "Mars Hub"
+  "name": "Mars"
 }

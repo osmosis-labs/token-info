@@ -1,8 +1,7 @@
 {
-  "description": "Yaratıcılar ve Egemen Topluluklar için NFT'ler ve ilgili dağıtım protokolleri tarafından desteklenen merkezi olmayan medya ve ağ katmanı.",
+  "description": "OmniFlix Hub'ın yerel stake tokenı. Yaratıcılar ve Egemen Topluluklar için NFT'ler ve ilgili dağıtım protokolleri tarafından desteklenen merkezi olmayan medya ve ağ katmanı.",
   "localization": "tr",
-  "name": "OmniFlix",
-  "websiteURL": "https://omniflix.network/",
+  "name": "Flix",
   "twitterURL": "https://twitter.com/OmniFlixNetwork",
   "coingeckoID": "omniflix-network",
   "symbol": "FLIX"

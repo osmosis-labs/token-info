@@ -1,7 +1,7 @@
 {
-  "description": "Blockchain ekosistemleri arasında birlikte çalışabilirlik ve likiditenin gücünü ortaya çıkaran açık, merkezi olmayan bir köprü.",
-  "name": "Gravity Bridge",
-  "websiteURL": "https://www.gravitybridge.net/",
+  "localization": "tr",
+  "description": "Gravity Bridge'in yerel tokenı Blockchain ekosistemleri arasında birlikte çalışabilirliğin ve likiditenin gücünü ortaya çıkaran açık, merkezi olmayan bir köprü.",
+  "name": "Graviton",
   "symbol": "GRAV",
   "twitterURL": "https://twitter.com/gravity_bridge",
   "coingeckoID": "graviton"

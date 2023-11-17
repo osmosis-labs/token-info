@@ -1,7 +1,7 @@
 {
-  "description": "我們的目標是建立開源程式碼，為一流的產品和交易體驗提供動力。",
-  "name": "dYdX Protocol",
-  "websiteURL": "https://dydx.exchange/",
+  "description": "dYdX 協議的原生質押代幣。我們的目標是建立開源程式碼，為一流的產品和交易體驗提供動力。",
+  "localization": "zh",
+  "name": "dYdX",
   "symbol": "DYDX",
   "twitterURL": "https://twitter.com/dYdX",
   "coingeckoID": "dydx"

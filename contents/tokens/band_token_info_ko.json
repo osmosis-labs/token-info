@@ -1,9 +1,8 @@
 {
   "localization": "ko",
-  "description": "Band Protocol은 실제 데이터와 API를 집계하고 스마트 계약에 연결하는 크로스체인 데이터 오라클 플랫폼입니다.",
+  "description": "BandChain Band Protocol의 기본 토큰은 실제 데이터와 API를 집계하고 스마트 계약에 연결하는 크로스체인 데이터 오라클 플랫폼입니다.",
   "name": "Band Protocol",
   "symbol": "BAND",
-  "websiteURL": "https://bandprotocol.com/",
   "twitterURL": "https://twitter.com/BandProtocol",
   "coingeckoID": "band-protocol"
 }

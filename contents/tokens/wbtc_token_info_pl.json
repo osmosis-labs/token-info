@@ -1,0 +1,7 @@
+{
+  "localization": "pl",
+  "name": "Wrapped Bitcoin",
+  "symbol": "WBTC",
+  "description": "Wrapped Bitcoin (WBTC) to token ERC20 zabezpieczony 1:1 Bitcoinem. Całkowicie przezroczysty. 100% weryfikowalne. Kierowana przez społeczność.",
+  "coingeckoID": "wrapped-bitcoin"
+}

@@ -1,8 +1,8 @@
 {
-  "description": "Liquid Staw swoje aktywa Cosmos za pomocą preferowanego weryfikatora i otrzymuj aktywa stakowane w formie płynnej (qASSET), których możesz używać do wymiany, łączenia, pożyczania i nie tylko, a wszystko to podczas gdy Twoja pierwotna stawka zarabia na stawce APY z zabezpieczenia sieci.",
+  "description": "QCK — natywny token Quicksilver Liquid Staw swoje aktywa Cosmos za pomocą preferowanego walidatora i otrzymuj aktywa stakowane w formie płynnej (qASSET), których możesz używać do wymiany, łączenia, pożyczania i nie tylko, a wszystko to podczas gdy Twoja pierwotna stawka zarabia na stawkach RRSO z zabezpieczenia sieci.",
+  "localization": "pl",
   "coingeckoID": "quicksilver",
   "name": "Quicksilver",
-  "websiteURL": "https://quicksilver.zone/",
   "twitterURL": "https://twitter.com/quicksilverzone",
   "symbol": "QCK"
 }

@@ -2,8 +2,7 @@
   "localization": "zh",
   "name": "Osmosis",
   "symbol": "OSMO",
-  "description": "在領先的去中心化 Cosmos 交易所上進行交換、賺取和建構。",
+  "description": "Osmosis Osmosis (OSMO) 的原生代幣是Cosmos 的去中心化交易所(DEX)，Cosmos 是一個由主權、可互通的區塊鏈組成的生態系統，所有區塊鏈都通過IBC（區塊鏈間通訊協定）進行可信連線。 Osmosis 也提供從以太坊和 Polkadot 生態系統橋接的非 IBC 資產。 Osmosis 的 Supercharged Liquidity 實施了一種高效的流動性池機制，類似於 Uniswap 的集中流動性，提高了資本效率，並允許流動性提供者競爭賺取的費用和激勵。作為應用鏈 DEX，Osmosis 比必須遵循父鏈程式碼的 DEX 對整個區塊鏈堆疊擁有更大的控制權。這種細粒度的控制使得 Superfluid Stake 的開發成為可能，這是對 PoS 安全性的改進。超流體質押允許處於 LP 位置的底層 OSMO 增加鏈安全性並因此獲得質押獎勵。應用鏈的可自訂性還允許開發受閾值加密保護的交易記憶體池，這將大大減少 Osmosis 上的有害 MEV。 Osmosis 的願景是建立一個跨鏈原生 DEX 和交易套件，透過 IBC 連接所有鏈，包括以太坊和比特幣。為了建立交易功能，Osmosis 邀請外部開發人員創建一個客製化的 DEX 生態系統，其中包括借貸、信貸、保證金、法幣入口、Defi 策略金庫、NFT、穩定幣等 - 中心化交易所的所有功能和更多，再加上去中心化金融的信任最小化。",
   "coingeckoID": "osmosis",
-  "twitterURL": "https://twitter.com/osmosiszone",
-  "websiteURL": "https://osmosis.zone/"
+  "twitterURL": "https://twitter.com/osmosiszone"
 }

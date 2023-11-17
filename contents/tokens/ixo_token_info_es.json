@@ -1,0 +1,7 @@
+{
+  "localization": "es",
+  "name": "IXO",
+  "symbol": "IXO",
+  "description": "El token nativo de IXO Chain",
+  "coingeckoID": "ixo"
+}

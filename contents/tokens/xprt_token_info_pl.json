@@ -1,9 +1,8 @@
 {
   "localization": "pl",
-  "description": "Persistence to łańcuch aplikacji dla Liquid Staking obsługujący ekosystem aplikacji DeFi skupiających się na odblokowywaniu płynności postawionych aktywów.",
+  "description": "Token XPRT jest przede wszystkim tokenem zarządzania łańcuchem trwałości. Persistence to łańcuch aplikacji dla Liquid Staking obsługujący ekosystem aplikacji DeFi skupiających się na odblokowywaniu płynności postawionych aktywów.",
   "name": "Persistence",
   "symbol": "XPRT",
-  "websiteURL": "https://persistence.one/",
   "coingeckoID": "persistence",
   "twitterURL": "https://twitter.com/PersistenceOne"
 }

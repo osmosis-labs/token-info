@@ -1,8 +1,8 @@
 {
-  "description": "Empreste, peça emprestado e ganhe com um protocolo de crédito autônomo no universo Cosmos. Aberto a todos, fechado a ninguém.",
-  "coingeckoID": "mars-protocol",
+  "localization": "pt",
+  "description": "Token do protocolo Mars Empreste, peça emprestado e ganhe com um protocolo de crédito autônomo no universo Cosmos. Aberto a todos, fechado a ninguém.",
+  "coingeckoID": "mars-protocol-a7fcbcfb-fd61-4017-92f0-7ee9f9cc6da3",
   "twitterURL": "https://twitter.com/mars_protocol",
-  "websiteURL": "https://www.marsprotocol.io/",
   "symbol": "MARS",
-  "name": "Mars Hub"
+  "name": "Mars"
 }

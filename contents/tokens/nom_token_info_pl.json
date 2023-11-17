@@ -1,0 +1,7 @@
+{
+  "localization": "pl",
+  "name": "Nom",
+  "symbol": "NOM",
+  "description": "Natywny token protokołu Onomy",
+  "coingeckoID": "onomy-protocol"
+}

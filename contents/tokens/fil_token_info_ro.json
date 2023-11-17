@@ -1,0 +1,7 @@
+{
+  "localization": "ro",
+  "name": "Filecoin",
+  "symbol": "FIL",
+  "description": "Token nativ al Filecoin",
+  "coingeckoID": "filecoin"
+}

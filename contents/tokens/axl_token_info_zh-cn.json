@@ -1,8 +1,7 @@
 {
-  "description": "Axelar 为 Web3 提供安全的跨链通信。我们的基础设施使 dApp 用户能够一键与任何链上的任何资产或应用程序进行交互。",
+  "description": "Axelar 的原生代币 Axelar 为 Web3 提供安全的跨链通信。我们的基础设施使 dApp 用户能够一键与任何链上的任何资产或应用程序进行交互。",
   "name": "Axelar",
   "symbol": "AXL",
   "twitterURL": "https://twitter.com/axelarnetwork",
-  "coingeckoID": "axelar",
-  "websiteURL": "https://axelar.network/"
+  "coingeckoID": "axelar"
 }

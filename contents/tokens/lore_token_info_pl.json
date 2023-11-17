@@ -1,8 +1,8 @@
 {
-  "description": "Gitopia to platforma współpracy w zakresie kodowania nowej generacji, napędzana zdecentralizowaną siecią i interaktywną ekonomią tokenów. Został zaprojektowany w celu optymalizacji procesu tworzenia oprogramowania typu open source poprzez współpracę, przejrzystość i zachęty.",
+  "description": "Natywny token Gitopia Gitopia to platforma współpracy nad kodem nowej generacji, napędzana zdecentralizowaną siecią i interaktywną ekonomią tokenów. Został zaprojektowany w celu optymalizacji procesu tworzenia oprogramowania typu open source poprzez współpracę, przejrzystość i zachęty.",
+  "localization": "pl",
   "coingeckoID": "gitopia",
-  "websiteURL": "https://gitopia.com/",
-  "name": "Gitopia",
+  "name": "LORE",
   "symbol": "LORE",
   "twitterURL": "https://twitter.com/gitopiaDAO"
 }

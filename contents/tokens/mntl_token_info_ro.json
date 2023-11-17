@@ -1,6 +1,6 @@
 {
-  "description": "Suita de produse AssetMantle se concentrează pe ecosistemul NFT, ajutându-vă să vă îmbunătățiți jocul cu deținerea activelor digitale.",
-  "websiteURL": "https://assetmantle.one/",
+  "localization": "ro",
+  "description": "Tokenul nativ al suitei de produse AssetMantle AssetMantle este axat pe ecosistemul NFT, ajutându-vă să vă îmbunătățiți jocul cu deținerea activelor digitale.",
   "name": "AssetMantle",
   "symbol": "MNTL",
   "coingeckoID": "assetmantle",

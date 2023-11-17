@@ -1,8 +1,7 @@
 {
-  "description": "Axelar ارتباطات زنجیره ای ایمن را برای Web3 ارائه می دهد. زیرساخت ما به کاربران dApp این امکان را می‌دهد تا با یک کلیک با هر دارایی یا برنامه، در هر زنجیره، تعامل داشته باشند.",
+  "description": "توکن اصلی Axelar Axelar ارتباطات زنجیره ای ایمن را برای Web3 ارائه می دهد. زیرساخت ما به کاربران dApp این امکان را می‌دهد تا با یک کلیک با هر دارایی یا برنامه، در هر زنجیره، تعامل داشته باشند.",
   "name": "Axelar",
   "symbol": "AXL",
   "twitterURL": "https://twitter.com/axelarnetwork",
-  "coingeckoID": "axelar",
-  "websiteURL": "https://axelar.network/"
+  "coingeckoID": "axelar"
 }

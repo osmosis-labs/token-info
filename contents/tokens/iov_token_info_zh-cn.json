@@ -1,9 +1,8 @@
 {
   "localization": "zh",
-  "description": "Starname 是获得区块链份额的最佳方式。您可以将其用于去中心化的身份识别、支付、所有权和应用程序。 Starname 可以集成到数字钱包、dapp 和交易所中。",
-  "name": "Straname",
+  "description": "IOV 币是 Starname (IOV) 资产名称服务的代币 Starname 是声明您的区块链部分的最佳方式。您可以将其用于去中心化的身份识别、支付、所有权和应用程序。 Starname 可以集成到数字钱包、dapp 和交易所中。",
+  "name": "Starname",
   "symbol": "IOV",
   "coingeckoID": "starname",
-  "websiteURL": "https://www.starname.me/",
   "twitterURL": "https://twitter.com/starname_me"
 }

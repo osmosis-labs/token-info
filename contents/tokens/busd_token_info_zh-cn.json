@@ -1,0 +1,7 @@
+{
+  "localization": "zh",
+  "name": "Binance USD",
+  "symbol": "BUSD",
+  "description": "币安美元（BUSD）是由 Paxos Trust Company 发行和托管的美元支持的稳定币，并受纽约州金融服务部监管。 BUSD可在Paxos.com上与美元直接以1:1的比例出售，并将在币安上上市交易。",
+  "coingeckoID": "binance-usd"
+}

@@ -1,8 +1,8 @@
 {
-  "name": "Terra",
-  "description": "在充滿熱情的社群和深厚的開發人員人才庫的推動下，Terra 區塊鏈旨在支援下一代 Web3 產品和服務。",
+  "localization": "zh",
+  "name": "Luna",
+  "description": "Terra 的原生質押代幣。在充滿熱情的社群和深厚的開發人員人才庫的推動下，Terra 區塊鏈旨在支援下一代 Web3 產品和服務。",
   "symbol": "LUNA",
-  "websiteURL": "https://www.terra.money/",
   "twitterURL": "https://twitter.com/terra_money",
-  "coingeckoID": "terra"
+  "coingeckoID": "terra-luna-2"
 }

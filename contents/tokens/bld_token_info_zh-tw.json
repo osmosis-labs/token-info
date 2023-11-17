@@ -1,8 +1,8 @@
 {
-  "description": "Agoric 平台可讓您使用現有的 JavaScript 知識安全、無縫地建立去中心化應用程式。",
+  "localization": "zh",
+  "description": "BLD 是用於透過質押保護 Agoric 鏈並支援 Inter Protocol 的代幣。 Agoric 平台可讓您使用現有的 JavaScript 知識安全、無縫地建立去中心化應用程式。",
   "name": "Agoric",
   "symbol": "BLD",
   "twitterURL": "https://twitter.com/agoric",
-  "coingeckoID": "agoric",
-  "websiteURL": "https://agoric.com/"
+  "coingeckoID": "agoric"
 }

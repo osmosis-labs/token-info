@@ -1,0 +1,7 @@
+{
+  "localization": "zh",
+  "name": "Hash",
+  "symbol": "HASH",
+  "description": "哈希是 Provenance 區塊鏈的質押代幣",
+  "coingeckoID": "provenance-blockchain"
+}

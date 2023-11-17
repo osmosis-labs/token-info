@@ -1,8 +1,8 @@
 {
-  "description": "Revoluționând fiabilitatea datelor în spațiul Web3, KYVE Network oferă instrumente rapide și ușoare pentru validarea, imuabilitatea și recuperarea datelor, asigurând date fără încredere pentru o scalabilitate fără probleme și eliminând riscurile și blocajele de date.",
+  "description": "Jetonul de utilitate nativ al rețelei KYVE. Revoluționând fiabilitatea datelor în spațiul Web3, KYVE Network oferă instrumente rapide și ușoare pentru validarea, imuabilitatea și recuperarea datelor, asigurând date fără încredere pentru scalabilitate fără probleme și eliminând riscurile și blocajele de date.",
+  "localization": "ro",
   "name": "KYVE",
   "symbol": "KYVE",
   "twitterURL": "https://twitter.com/KYVENetwork",
-  "coingeckoID": "kyve-network",
-  "websiteURL": "https://www.kyve.network/"
+  "coingeckoID": "kyve-network"
 }

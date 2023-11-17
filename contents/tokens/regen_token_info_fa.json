@@ -1,8 +1,8 @@
 {
-  "name": "Regen",
+  "localization": "en",
+  "name": "Regen Network",
   "symbol": "REGEN",
-  "description": "شبکه Regen، بستری برای ایجاد و سرمایه‌گذاری در اعتبارات کربن و تنوع زیستی با یکپارچگی بالا از پروژه‌های احیای اکولوژیکی.",
-  "websiteURL": "https://www.regen.network/",
+  "description": "سکه REGEN نشانه شبکه Regen Platform Platform است، پلت فرمی برای ایجاد و سرمایه گذاری در اعتبارات کربن و تنوع زیستی با یکپارچگی بالا از پروژه های بازسازی زیست محیطی.",
   "twitterURL": "https://twitter.com/regen_network",
   "coingeckoID": "regen"
 }

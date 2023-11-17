@@ -1,8 +1,8 @@
 {
-  "description": "Sei é o blockchain da Camada 1 mais rápido, projetado para escalar com a indústria.",
+  "description": "O token de piquetagem nativo de Sei. Sei é o blockchain da Camada 1 mais rápido, projetado para escalar com a indústria.",
+  "localization": "pt",
   "name": "Sei",
   "symbol": "SEI",
   "twitterURL": "https://twitter.com/SeiNetwork",
-  "coingeckoID": "sei",
-  "websiteURL": "https://www.sei.io/"
+  "coingeckoID": "sei-network"
 }

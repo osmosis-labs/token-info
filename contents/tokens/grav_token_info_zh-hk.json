@@ -1,7 +1,7 @@
 {
-  "description": "一個開放、去中心化的橋樑，釋放區塊鏈生態系統之間的互通性和流動性的力量。",
-  "name": "Gravity Bridge",
-  "websiteURL": "https://www.gravitybridge.net/",
+  "localization": "zh",
+  "description": "Gravity Bridge 的原生代幣 一個開放、去中心化的橋樑，可釋放區塊鏈生態系統之間的互通性和流動性的力量。",
+  "name": "Graviton",
   "symbol": "GRAV",
   "twitterURL": "https://twitter.com/gravity_bridge",
   "coingeckoID": "graviton"

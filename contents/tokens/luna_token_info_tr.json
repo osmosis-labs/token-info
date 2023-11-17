@@ -1,8 +1,8 @@
 {
-  "name": "Terra",
-  "description": "Tutkulu bir topluluk ve derin geliştirici yetenek havuzuyla desteklenen Terra blockchain, yeni nesil Web3 ürün ve hizmetlerini mümkün kılmak için tasarlandı.",
+  "localization": "tr",
+  "name": "Luna",
+  "description": "Terra'nın yerel stake tokenı. Tutkulu bir topluluk ve derin geliştirici yetenek havuzuyla desteklenen Terra blockchain, yeni nesil Web3 ürün ve hizmetlerini mümkün kılmak için tasarlandı.",
   "symbol": "LUNA",
-  "websiteURL": "https://www.terra.money/",
   "twitterURL": "https://twitter.com/terra_money",
-  "coingeckoID": "terra"
+  "coingeckoID": "terra-luna-2"
 }

@@ -1,8 +1,7 @@
 {
-  "description": "رسانه غیرمتمرکز و لایه شبکه برای سازندگان و جوامع مستقل که توسط NFTها و پروتکل‌های توزیع مربوطه پشتیبانی می‌شوند.",
+  "description": "نشانه شرط بندی بومی OmniFlix Hub. رسانه غیرمتمرکز و لایه شبکه برای سازندگان و جوامع مستقل که توسط NFTها و پروتکل‌های توزیع مربوطه پشتیبانی می‌شوند.",
   "localization": "en",
-  "name": "OmniFlix",
-  "websiteURL": "https://omniflix.network/",
+  "name": "Flix",
   "twitterURL": "https://twitter.com/OmniFlixNetwork",
   "coingeckoID": "omniflix-network",
   "symbol": "FLIX"

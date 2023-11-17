@@ -1,9 +1,8 @@
 {
-  "description": "Oyununuzu 3 katına kadar eşitlikle yükseltin. Risklerin en aza indirildiği bir dünyaya dalın ve varlıklarınızın tüm potansiyelini ortaya çıkarın.",
+  "description": "Nolus zincirinin yerel tokenı Oyununuzu 3 katına kadar eşitlikle yükseltin. Risklerin en aza indirildiği bir dünyaya dalın ve varlıklarınızın tüm potansiyelini ortaya çıkarın.",
   "localization": "tr",
   "coingeckoID": "nolus",
   "twitterURL": "https://twitter.com/NolusProtocol",
-  "websiteURL": "https://nolus.io/",
   "name": "Nolus",
   "symbol": "NLS"
 }

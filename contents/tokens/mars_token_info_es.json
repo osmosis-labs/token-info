@@ -1,8 +1,8 @@
 {
-  "description": "Presta, pide prestado y gana con un protocolo de crédito autónomo en el universo Cosmos. Abierto a todos, cerrado a nadie.",
-  "coingeckoID": "mars-protocol",
+  "localization": "es",
+  "description": "Token del protocolo de Marte Presta, pide prestado y gana con un protocolo de crédito autónomo en el universo Cosmos. Abierto a todos, cerrado a nadie.",
+  "coingeckoID": "mars-protocol-a7fcbcfb-fd61-4017-92f0-7ee9f9cc6da3",
   "twitterURL": "https://twitter.com/mars_protocol",
-  "websiteURL": "https://www.marsprotocol.io/",
   "symbol": "MARS",
-  "name": "Mars Hub"
+  "name": "Mars"
 }

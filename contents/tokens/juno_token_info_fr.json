@@ -1,8 +1,8 @@
 {
-  "description": "Juno est une plateforme de contrats intelligents entièrement détenue et exploitée par la communauté.",
+  "description": "Le jeton natif de JUNO Chain Juno est une plateforme de contrats intelligents entièrement détenue et exploitée par la communauté.",
+  "localization": "fr",
   "name": "Juno",
   "symbol": "JUNO",
   "twitterURL": "https://twitter.com/JunoNetwork",
-  "coingeckoID": "juno-network",
-  "websiteURL": "https://www.junonetwork.io/"
+  "coingeckoID": "juno-network"
 }

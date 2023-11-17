@@ -1,7 +1,7 @@
 {
-  "description": "Naszym celem jest zbudowanie otwartego kodu źródłowego, który może zapewnić najwyższej klasy produkt i doświadczenie handlowe.",
-  "name": "dYdX Protocol",
-  "websiteURL": "https://dydx.exchange/",
+  "description": "Natywny token stakingowy protokołu dYdX. Naszym celem jest zbudowanie otwartego kodu źródłowego, który może zapewnić najwyższej klasy produkt i doświadczenie handlowe.",
+  "localization": "pl",
+  "name": "dYdX",
   "symbol": "DYDX",
   "twitterURL": "https://twitter.com/dYdX",
   "coingeckoID": "dydx"

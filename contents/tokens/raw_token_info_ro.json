@@ -1,0 +1,7 @@
+{
+  "localization": "ro",
+  "name": "JunoSwap",
+  "symbol": "RAW",
+  "description": "Guvernare token pentru Junoswap",
+  "coingeckoID": "junoswap-raw-dao"
+}

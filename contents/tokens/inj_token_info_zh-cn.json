@@ -1,8 +1,8 @@
 {
-  "description": "Injective 的使命是通过去中心化创建一个真正自由和包容的金融体系。",
+  "localization": "zh",
+  "description": "INJ 代币是 Injective 链的原生治理代币。 Injective 的使命是通过去中心化创建一个真正自由和包容的金融体系。",
   "name": "Injective",
   "symbol": "INJ",
-  "websiteURL": "https://injective.com/",
-  "coingeckoID": "injective",
+  "coingeckoID": "injective-protocol",
   "twitterURL": "https://twitter.com/Injective_"
 }

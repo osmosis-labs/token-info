@@ -2,8 +2,7 @@
   "localization": "pl",
   "symbol": "SCRT",
   "name": "Secret Network",
-  "description": "Secret Network to pierwszy blockchain z możliwością dostosowania prywatności. Możesz wybrać, co, komu i w jaki sposób udostępniasz. Chroni to użytkowników i umożliwia programistom tworzenie lepszego Web3.",
+  "description": "Natywny token Secret Network Secret Network to pierwszy blockchain z możliwością dostosowania prywatności. Możesz wybrać, co, komu i w jaki sposób udostępniasz. Chroni to użytkowników i umożliwia programistom tworzenie lepszego Web3.",
   "twitterURL": "https://twitter.com/SecretNetwork",
-  "websiteURL": "https://scrt.network/",
   "coingeckoID": "secret"
 }

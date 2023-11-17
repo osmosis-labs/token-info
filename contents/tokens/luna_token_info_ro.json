@@ -1,8 +1,8 @@
 {
-  "name": "Terra",
-  "description": "Alimentat de o comunitate pasionată și de un bazin profund de talent pentru dezvoltatori, blockchain-ul Terra este construit pentru a permite următoarea generație de produse și servicii Web3.",
+  "localization": "ro",
+  "name": "Luna",
+  "description": "Jetonul de miza nativ al Terrei. Alimentat de o comunitate pasionată și de un bazin profund de talent pentru dezvoltatori, blockchain-ul Terra este construit pentru a permite următoarea generație de produse și servicii Web3.",
   "symbol": "LUNA",
-  "websiteURL": "https://www.terra.money/",
   "twitterURL": "https://twitter.com/terra_money",
-  "coingeckoID": "terra"
+  "coingeckoID": "terra-luna-2"
 }

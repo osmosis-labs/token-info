@@ -1,7 +1,7 @@
 {
-  "description": "Motywujący łańcuch bloków L1, który pozwala programistom uchwycić wartość generowaną przez ich dappów, umożliwiając zrównoważone modele gospodarcze.",
+  "localization": "pl",
+  "description": "Natywny token sieci Archway Motywowany łańcuch bloków L1, który pozwala programistom uchwycić wartość generowaną przez ich dapsy, umożliwiając zrównoważone modele ekonomiczne.",
   "coingeckoID": "archway",
-  "websiteURL": "https://archway.io/",
   "twitterURL": "https://twitter.com/archwayHQ",
   "name": "Archway",
   "symbol": "ARCH"

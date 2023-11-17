@@ -1,8 +1,8 @@
 {
-  "description": "Composable to warstwa podstawowa łącząca L1 i L2. Dostosowujemy IBC do innych ekosystemów, przesuwając granice interoperacyjności opartej na minimalnym zaufaniu. Abstrakcjonujemy doświadczenia międzyłańcuchowe dla użytkowników, zapewniając płynną, niezależną od łańcucha realizację intencji użytkownika.",
-  "name": "Composable",
+  "description": "Natywny token stakowania i zarządzania Composable. Composable to warstwa podstawowa łącząca L1 i L2. Dostosowujemy IBC do innych ekosystemów, przesuwając granice interoperacyjności opartej na minimalnym zaufaniu. Abstrakcjonujemy doświadczenia międzyłańcuchowe dla użytkowników, zapewniając płynną, niezależną od łańcucha realizację intencji użytkownika.",
+  "localization": "pl",
+  "name": "Pica",
   "symbol": "PICA",
   "coingeckoID": "picasso",
-  "websiteURL": "https://www.composable.finance/",
   "twitterURL": "https://twitter.com/ComposableFin"
 }

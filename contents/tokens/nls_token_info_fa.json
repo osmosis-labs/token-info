@@ -1,9 +1,8 @@
 {
-  "description": "بازی خود را با ارزش سهام تا 3 برابر ارتقا دهید. در دنیایی با حداقل خطرات شیرجه بزنید و پتانسیل کامل دارایی های خود را باز کنید.",
+  "description": "توکن اصلی زنجیره Nolus بازی خود را با حداکثر 3 برابر ارزش سهام بالا ببرید. در دنیایی با حداقل خطرات شیرجه بزنید و پتانسیل کامل دارایی های خود را باز کنید.",
   "localization": "en",
   "coingeckoID": "nolus",
   "twitterURL": "https://twitter.com/NolusProtocol",
-  "websiteURL": "https://nolus.io/",
   "name": "Nolus",
   "symbol": "NLS"
 }

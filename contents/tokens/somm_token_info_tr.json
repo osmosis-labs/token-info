@@ -1,9 +1,8 @@
 {
-  "description": "Otomatik kasalar, riski azaltırken sınıfının en iyi getirilerini bulur.",
+  "description": "Somm Token (SOMM), Sommelier Chain Automated kasalarının yerel staking token'ıdır ve riski azaltırken sınıfının en iyi getirilerini bulur.",
   "localization": "tr",
-  "name": "Sommelier",
+  "name": "Somm",
   "symbol": "SOMM",
   "coingeckoID": "sommelier",
-  "twitterURL": "https://twitter.com/sommfinance",
-  "websiteURL": "https://www.sommelier.finance/"
+  "twitterURL": "https://twitter.com/sommfinance"
 }

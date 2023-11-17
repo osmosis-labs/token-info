@@ -1,8 +1,8 @@
 {
-  "description": "La misión de Injective es crear un sistema financiero verdaderamente libre e inclusivo a través de la descentralización.",
+  "localization": "es",
+  "description": "El token INJ es el token de gobernanza nativo de la cadena Injective. La misión de Injective es crear un sistema financiero verdaderamente libre e inclusivo a través de la descentralización.",
   "name": "Injective",
   "symbol": "INJ",
-  "websiteURL": "https://injective.com/",
-  "coingeckoID": "injective",
+  "coingeckoID": "injective-protocol",
   "twitterURL": "https://twitter.com/Injective_"
 }

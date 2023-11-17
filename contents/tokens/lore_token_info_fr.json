@@ -1,8 +1,8 @@
 {
-  "description": "Gitopia est la plateforme de collaboration de code de nouvelle génération alimentée par un réseau décentralisé et une économie de jetons interactifs. Il est conçu pour optimiser le processus de développement de logiciels open source grâce à la collaboration, la transparence et l'incitation.",
+  "description": "Le jeton natif de Gitopia Gitopia est la plateforme de collaboration de code de nouvelle génération alimentée par un réseau décentralisé et une économie de jetons interactifs. Il est conçu pour optimiser le processus de développement de logiciels open source grâce à la collaboration, la transparence et l'incitation.",
+  "localization": "fr",
   "coingeckoID": "gitopia",
-  "websiteURL": "https://gitopia.com/",
-  "name": "Gitopia",
+  "name": "LORE",
   "symbol": "LORE",
   "twitterURL": "https://twitter.com/gitopiaDAO"
 }

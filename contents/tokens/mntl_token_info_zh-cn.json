@@ -1,6 +1,6 @@
 {
-  "description": "AssetMantle 的产品套件专注于 NFT 生态系统，帮助您提升数字资产所有权的游戏水平。",
-  "websiteURL": "https://assetmantle.one/",
+  "localization": "zh",
+  "description": "Asset Mantle 的原生代币 AssetMantle 产品套件专注于 NFT 生态系统，帮助您提升数字资产所有权的游戏水平。",
   "name": "AssetMantle",
   "symbol": "MNTL",
   "coingeckoID": "assetmantle",

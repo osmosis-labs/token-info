@@ -1,8 +1,8 @@
 {
-  "description": "Injective'in misyonu, merkezi olmayan yönetim yoluyla gerçekten özgür ve kapsayıcı bir finansal sistem yaratmaktır.",
+  "localization": "tr",
+  "description": "INJ tokenı Injective zincirinin yerel yönetişim tokenıdır. Injective'in misyonu, merkezi olmayan yönetim yoluyla gerçekten özgür ve kapsayıcı bir finansal sistem yaratmaktır.",
   "name": "Injective",
   "symbol": "INJ",
-  "websiteURL": "https://injective.com/",
-  "coingeckoID": "injective",
+  "coingeckoID": "injective-protocol",
   "twitterURL": "https://twitter.com/Injective_"
 }

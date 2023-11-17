@@ -2,8 +2,7 @@
   "localization": "ro",
   "name": "Sentinel",
   "symbol": "DVPN",
-  "description": "Ecosistemul Sentinel este o rețea globală de aplicații dVPN autonome care permit accesul la internet privat și rezistent la cenzură.",
-  "websiteURL": "https://sentinel.co/",
+  "description": "DVPN este simbolul nativ al Sentinel Hub. Ecosistemul Sentinel este o rețea globală de aplicații dVPN autonome care permit accesul la internet privat și rezistent la cenzură.",
   "coingeckoID": "sentinel",
   "twitterURL": "https://twitter.com/SentinelVPN"
 }

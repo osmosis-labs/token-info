@@ -1,8 +1,8 @@
 {
-  "description": "Liquid Stake vos actifs Cosmos avec votre validateur préféré et recevez des actifs liquides jalonnés (qASSET) que vous pouvez utiliser pour l'échange, la mise en commun, le prêt, etc., tout en permettant à votre mise initiale de gagner de l'APY en sécurisant le réseau.",
+  "description": "QCK - jeton natif de Quicksilver Liquid Stake vos actifs Cosmos avec votre validateur préféré et recevez des actifs liquides jalonnés (qASSET) que vous pouvez utiliser pour l'échange, la mise en commun, le prêt, etc., tout en permettant à votre mise initiale de gagner de l'APY en sécurisant le réseau.",
+  "localization": "fr",
   "coingeckoID": "quicksilver",
   "name": "Quicksilver",
-  "websiteURL": "https://quicksilver.zone/",
   "twitterURL": "https://twitter.com/quicksilverzone",
   "symbol": "QCK"
 }

@@ -1,9 +1,8 @@
 {
-  "description": "خزانه های خودکار بهترین بازدهی را در کلاس خود پیدا می کنند و در عین حال ریسک را کاهش می دهند.",
+  "description": "توکن Somm (SOMM) نماد سهامداری بومی خزانه های خودکار زنجیره ای Sommelier است که بهترین بازدهی را در کلاس خود و در عین حال کاهش ریسک پیدا می کند.",
   "localization": "en",
-  "name": "Sommelier",
+  "name": "Somm",
   "symbol": "SOMM",
   "coingeckoID": "sommelier",
-  "twitterURL": "https://twitter.com/sommfinance",
-  "websiteURL": "https://www.sommelier.finance/"
+  "twitterURL": "https://twitter.com/sommfinance"
 }

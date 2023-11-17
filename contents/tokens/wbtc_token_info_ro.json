@@ -1,0 +1,7 @@
+{
+  "localization": "ro",
+  "name": "Wrapped Bitcoin",
+  "symbol": "WBTC",
+  "description": "Wrapped Bitcoin (WBTC) este un token ERC20 susținut 1:1 cu Bitcoin. Complet transparent. 100% verificabil. Condusă de comunitate.",
+  "coingeckoID": "wrapped-bitcoin"
+}

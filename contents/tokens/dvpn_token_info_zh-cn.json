@@ -2,8 +2,7 @@
   "localization": "zh",
   "name": "Sentinel",
   "symbol": "DVPN",
-  "description": "Sentinel 生态系统是一个由自主 dVPN 应用程序组成的全球网络，可实现私密且抗审查的互联网访问。",
-  "websiteURL": "https://sentinel.co/",
+  "description": "DVPN 是 Sentinel Hub 的原生令牌。 Sentinel 生态系统是一个由自主 dVPN 应用程序组成的全球网络，可实现私密且抗审查的互联网访问。",
   "coingeckoID": "sentinel",
   "twitterURL": "https://twitter.com/SentinelVPN"
 }

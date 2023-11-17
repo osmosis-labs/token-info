@@ -1,8 +1,8 @@
 {
-  "description": "Kava es una cadena de bloques descentralizada que combina la velocidad y la interoperabilidad de Cosmos con el poder de desarrollo de Ethereum.",
+  "description": "El token nativo de participación y gobernanza de Kava Kava es una cadena de bloques descentralizada que combina la velocidad y la interoperabilidad de Cosmos con el poder de desarrollador de Ethereum.",
+  "localization": "es",
   "name": "Kava",
   "symbol": "KAVA",
-  "websiteURL": "https://www.kava.io/",
   "coingeckoID": "kava",
   "twitterURL": "https://twitter.com/KAVA_CHAIN"
 }

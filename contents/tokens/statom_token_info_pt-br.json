@@ -1,0 +1,7 @@
+{
+  "localization": "pt",
+  "name": "stATOM",
+  "symbol": "stATOM",
+  "description": "O token nativo de piquetagem e governança do Cosmos Hub.",
+  "coingeckoID": "stride-staked-atom"
+}

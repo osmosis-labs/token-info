@@ -1,8 +1,8 @@
 {
-  "description": "Juno é uma plataforma de contrato inteligente totalmente pertencente e operada pela comunidade.",
+  "description": "O token nativo do JUNO Chain Juno é uma plataforma de contrato inteligente totalmente pertencente e operada pela comunidade.",
+  "localization": "pt",
   "name": "Juno",
   "symbol": "JUNO",
   "twitterURL": "https://twitter.com/JunoNetwork",
-  "coingeckoID": "juno-network",
-  "websiteURL": "https://www.junonetwork.io/"
+  "coingeckoID": "juno-network"
 }

@@ -1,0 +1,7 @@
+{
+  "localization": "tr",
+  "name": "Ether",
+  "symbol": "ETH",
+  "description": "Ether, Ethereum ağının yerel ücret belirtecidir.",
+  "coingeckoID": "ethereum"
+}

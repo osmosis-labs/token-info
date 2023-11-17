@@ -1,9 +1,8 @@
 {
   "localization": "en",
-  "description": "پروتکل باند یک پلتفرم اوراکل داده متقابل زنجیره ای است که داده ها و APIهای دنیای واقعی را جمع آوری و به قراردادهای هوشمند متصل می کند.",
+  "description": "توکن بومی BandChain Band Protocol یک پلتفرم اوراکل داده متقابل زنجیره ای است که داده های دنیای واقعی و API ها را به قراردادهای هوشمند تجمیع و متصل می کند.",
   "name": "Band Protocol",
   "symbol": "BAND",
-  "websiteURL": "https://bandprotocol.com/",
   "twitterURL": "https://twitter.com/BandProtocol",
   "coingeckoID": "band-protocol"
 }

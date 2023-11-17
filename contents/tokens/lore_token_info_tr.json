@@ -1,8 +1,8 @@
 {
-  "description": "Gitopia, merkezi olmayan bir ağ ve etkileşimli token ekonomisiyle desteklenen yeni nesil Kod İşbirliği Platformudur. İşbirliği, şeffaflık ve teşvik yoluyla açık kaynaklı yazılım geliştirme sürecini optimize etmek için tasarlanmıştır.",
+  "description": "Gitopia Gitopia'nın yerel tokenı, merkezi olmayan bir ağ ve etkileşimli token ekonomisi tarafından desteklenen yeni nesil Kod İşbirliği Platformudur. İşbirliği, şeffaflık ve teşvik yoluyla açık kaynaklı yazılım geliştirme sürecini optimize etmek için tasarlanmıştır.",
+  "localization": "tr",
   "coingeckoID": "gitopia",
-  "websiteURL": "https://gitopia.com/",
-  "name": "Gitopia",
+  "name": "LORE",
   "symbol": "LORE",
   "twitterURL": "https://twitter.com/gitopiaDAO"
 }

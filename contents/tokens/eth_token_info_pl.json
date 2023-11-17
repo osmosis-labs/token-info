@@ -1,0 +1,7 @@
+{
+  "localization": "pl",
+  "name": "Ether",
+  "symbol": "ETH",
+  "description": "Ether to natywny token opłaty w sieci Ethereum.",
+  "coingeckoID": "ethereum"
+}

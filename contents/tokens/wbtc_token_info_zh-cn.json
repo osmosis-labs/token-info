@@ -1,0 +1,7 @@
+{
+  "localization": "zh",
+  "name": "Wrapped Bitcoin",
+  "symbol": "WBTC",
+  "description": "Wrapped Bitcoin (WBTC) 是一种与比特币 1:1 支持的 ERC20 代币。完全透明。 100%可验证。社区主导。",
+  "coingeckoID": "wrapped-bitcoin"
+}

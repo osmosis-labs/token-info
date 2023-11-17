@@ -1,0 +1,7 @@
+{
+  "localization": "fr",
+  "name": "stATOM",
+  "symbol": "stATOM",
+  "description": "Le jeton natif de jalonnement et de gouvernance du Cosmos Hub.",
+  "coingeckoID": "stride-staked-atom"
+}

@@ -1,9 +1,8 @@
 {
   "localization": "ro",
-  "description": "Un ecosistem descentralizat pentru protocoale, constructori și utilizatori web3 care caută FinTech durabil.",
+  "description": "Indicatorul nativ de miză și guvernare al lanțului Kujira. Un ecosistem descentralizat pentru protocoale, constructori și utilizatori web3 care caută FinTech durabil.",
   "coingeckoID": "kujira",
-  "websiteURL": "https://kujira.app/",
   "twitterURL": "https://twitter.com/TeamKujira",
   "symbol": "KUJI",
-  "name": "Kujira"
+  "name": "Kuji"
 }

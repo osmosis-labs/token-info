@@ -1,8 +1,8 @@
 {
-  "description": "با پروتکل اعتباری مستقل در جهان کیهان وام دهید، وام بگیرید و کسب درآمد کنید. برای همه باز است، برای هیچکس بسته است.",
-  "coingeckoID": "mars-protocol",
+  "localization": "en",
+  "description": "توکن پروتکل مریخ با پروتکل اعتباری مستقل در جهان کیهان قرض بگیرید، وام بگیرید و کسب کنید. برای همه باز است، برای هیچکس بسته است.",
+  "coingeckoID": "mars-protocol-a7fcbcfb-fd61-4017-92f0-7ee9f9cc6da3",
   "twitterURL": "https://twitter.com/mars_protocol",
-  "websiteURL": "https://www.marsprotocol.io/",
   "symbol": "MARS",
-  "name": "Mars Hub"
+  "name": "Mars"
 }

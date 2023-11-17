@@ -1,0 +1,7 @@
+{
+  "localization": "es",
+  "name": "Function X",
+  "symbol": "FX",
+  "description": "El token de apuesta nativo de la Función X",
+  "coingeckoID": "fx-coin"
+}

@@ -1,8 +1,8 @@
 {
-  "description": "Liquid Stake seus ativos Cosmos com seu validador preferido e receba ativos líquidos apostados (qASSETs) que você pode usar para troca, pooling, empréstimo e muito mais, tudo isso enquanto sua aposta original ganha APY de piquetagem pela segurança da rede.",
+  "description": "QCK - token nativo do Quicksilver Liquid Aposte seus ativos do Cosmos com seu validador preferido e receba ativos líquidos apostados (qASSETs) que você pode usar para troca, pooling, empréstimo e muito mais, tudo isso enquanto sua aposta original ganha APY de aposta protegendo a rede.",
+  "localization": "pt",
   "coingeckoID": "quicksilver",
   "name": "Quicksilver",
-  "websiteURL": "https://quicksilver.zone/",
   "twitterURL": "https://twitter.com/quicksilverzone",
   "symbol": "QCK"
 }

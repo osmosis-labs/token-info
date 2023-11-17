@@ -2,8 +2,7 @@
   "localization": "tr",
   "symbol": "SCRT",
   "name": "Secret Network",
-  "description": "Secret Network, özelleştirilebilir gizliliğe sahip ilk blockchaindir. Neyi, kiminle ve nasıl paylaşacağınızı siz seçersiniz. Bu, kullanıcıları korur ve geliştiricilerin daha iyi bir Web3 oluşturmasını sağlar.",
+  "description": "Secret Network Secret Network'ün yerel token'ı, özelleştirilebilir gizliliğe sahip ilk blockchaindir. Neyi, kiminle ve nasıl paylaşacağınızı siz seçersiniz. Bu, kullanıcıları korur ve geliştiricilerin daha iyi bir Web3 oluşturmasını sağlar.",
   "twitterURL": "https://twitter.com/SecretNetwork",
-  "websiteURL": "https://scrt.network/",
   "coingeckoID": "secret"
 }

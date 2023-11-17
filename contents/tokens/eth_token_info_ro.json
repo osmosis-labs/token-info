@@ -1,0 +1,7 @@
+{
+  "localization": "ro",
+  "name": "Ether",
+  "symbol": "ETH",
+  "description": "Ether este simbolul de taxă nativ al rețelei Ethereum.",
+  "coingeckoID": "ethereum"
+}

@@ -1,9 +1,8 @@
 {
   "localization": "pl",
-  "description": "Zdecentralizowany ekosystem dla protokołów, twórców i użytkowników web3 poszukujących zrównoważonych technologii FinTech.",
+  "description": "Natywny token stakowania i zarządzania siecią Kujira. Zdecentralizowany ekosystem dla protokołów, twórców i użytkowników web3 poszukujących zrównoważonych technologii FinTech.",
   "coingeckoID": "kujira",
-  "websiteURL": "https://kujira.app/",
   "twitterURL": "https://twitter.com/TeamKujira",
   "symbol": "KUJI",
-  "name": "Kujira"
+  "name": "Kuji"
 }

@@ -1,0 +1,7 @@
+{
+  "localization": "pt",
+  "name": "Hard",
+  "symbol": "HARD",
+  "description": "Token de governança do protocolo Kava Lend",
+  "coingeckoID": "kava-lend"
+}

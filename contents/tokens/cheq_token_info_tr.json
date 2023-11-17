@@ -1,0 +1,7 @@
+{
+  "localization": "tr",
+  "name": "cheqd",
+  "symbol": "CHEQ",
+  "description": "Cheqd ağı için yerel token",
+  "coingeckoID": "cheqd-network"
+}

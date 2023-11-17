@@ -1,8 +1,8 @@
 {
-  "description": "Cel mai important blockchain centrat pe comunitate pentru NFT. Stargaze dă posibilitatea creatorilor, dezvoltatorilor, colecționarilor și comercianților să participe pe platformă. Lanțul Stargaze este format din diverse aplicații legate de NFT, cum ar fi un Launchpad și o piață cu oferte și licitații.",
+  "localization": "ro",
+  "description": "Jetonul nativ al Stargaze, principalul blockchain centrat pe comunitate pentru NFT. Stargaze dă posibilitatea creatorilor, dezvoltatorilor, colecționarilor și comercianților să participe pe platformă. Lanțul Stargaze este format din diverse aplicații legate de NFT, cum ar fi un Launchpad și o piață cu oferte și licitații.",
   "name": "Stargaze",
   "symbol": "STARS",
   "coingeckoID": "stargaze",
-  "websiteURL": "https://stargaze.zone/",
   "twitterURL": "https://twitter.com/StargazeZone"
 }

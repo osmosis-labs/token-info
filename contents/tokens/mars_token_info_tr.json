@@ -1,8 +1,8 @@
 {
-  "description": "Cosmos evreninde özerk bir kredi protokolüyle borç verin, ödünç alın ve kazanın. Herkese açık, hiç kimseye kapalı.",
-  "coingeckoID": "mars-protocol",
+  "localization": "tr",
+  "description": "Mars protokolü belirteci Cosmos evrenindeki özerk bir kredi protokolüyle borç verin, ödünç alın ve kazanın. Herkese açık, hiç kimseye kapalı.",
+  "coingeckoID": "mars-protocol-a7fcbcfb-fd61-4017-92f0-7ee9f9cc6da3",
   "twitterURL": "https://twitter.com/mars_protocol",
-  "websiteURL": "https://www.marsprotocol.io/",
   "symbol": "MARS",
-  "name": "Mars Hub"
+  "name": "Mars"
 }

@@ -1,8 +1,8 @@
 {
-  "description": "Geliştiriciler, geleceğin uygulamalarını dağıtmak için Evmos'u Ethereum Canary Chain olarak kullanıyor. IBC ve Interchain şekillendirilebilirliğinin gücüyle Ethereum'un tüm işlevlerini edinin.",
+  "description": "Evmos Hub Geliştiricilerinin yerel EVM'si, yönetişimi ve staking token'ı, geleceğin uygulamalarını dağıtmak için Evmos'u Ethereum Canary Chain olarak kullanıyor. IBC ve Interchain şekillendirilebilirliğinin gücüyle Ethereum'un tüm işlevlerini edinin.",
+  "localization": "tr",
   "name": "Evmos",
   "symbol": "EVMOS",
   "coingeckoID": "evmos",
-  "websiteURL": "https://evmos.org/",
   "twitterURL": "https://twitter.com/EvmosOrg"
 }

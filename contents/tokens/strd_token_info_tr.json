@@ -1,8 +1,8 @@
 {
-  "description": "Stride, stake edilen tokenlar için likidite sağlayan bir blockchaindir. Stride'ı kullanarak Cosmos IBC ekosisteminde hem alım hem de DeFi getirisi elde edebilirsiniz.",
+  "localization": "tr",
+  "description": "Stride Stride'ın yerel tokeni, stake edilmiş tokenlar için likidite sağlayan bir blockchaindir. Stride'ı kullanarak Cosmos IBC ekosisteminde hem alım hem de DeFi getirisi elde edebilirsiniz.",
   "name": "Stride",
   "symbol": "STRD",
   "coingeckoID": "stride",
-  "twitterURL": "https://twitter.com/stride_zone",
-  "websiteURL": "https://stride.zone/"
+  "twitterURL": "https://twitter.com/stride_zone"
 }

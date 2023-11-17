@@ -1,8 +1,8 @@
 {
-  "description": "Cosmos'taki en güvenli CosmWasm platformu olan Neutron, akıllı sözleşmelerin minimum ek yük ile son teknoloji Interchain teknolojisinden yararlanmasını sağlar.",
+  "description": "Nötron zincirinin yerel belirteci. Cosmos'taki en güvenli CosmWasm platformu olan Neutron, akıllı sözleşmelerin minimum ek yük ile son teknoloji Interchain teknolojisinden yararlanmasını sağlar.",
+  "localization": "tr",
   "name": "Neutron",
   "symbol": "NTRN",
-  "websiteURL": "https://neutron.org/",
-  "coingeckoID": "neutron",
+  "coingeckoID": "neutron-3",
   "twitterURL": "https://twitter.com/Neutron_org"
 }

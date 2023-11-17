@@ -1,8 +1,8 @@
 {
-  "description": "Kava este un blockchain descentralizat care combină viteza și interoperabilitatea Cosmos cu puterea de dezvoltare a Ethereum.",
+  "description": "Tokenul nativ de miza și guvernare al Kava Kava este un blockchain descentralizat care combină viteza și interoperabilitatea Cosmos cu puterea de dezvoltare a Ethereum.",
+  "localization": "ro",
   "name": "Kava",
   "symbol": "KAVA",
-  "websiteURL": "https://www.kava.io/",
   "coingeckoID": "kava",
   "twitterURL": "https://twitter.com/KAVA_CHAIN"
 }

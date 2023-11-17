@@ -1,0 +1,7 @@
+{
+  "localization": "pt",
+  "name": "cheqd",
+  "symbol": "CHEQ",
+  "description": "Token nativo para a rede cheqd",
+  "coingeckoID": "cheqd-network"
+}

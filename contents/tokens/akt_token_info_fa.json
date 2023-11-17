@@ -1,8 +1,8 @@
 {
-  "name": "Akash",
+  "localization": "en",
+  "name": "Akash Network",
   "symbol": "AKT",
-  "description": "Akash یک Supercloud منبع باز است که به کاربران امکان می دهد منابع محاسباتی را به صورت ایمن و کارآمد خریداری و بفروشند. هدف ساخته شده برای خدمات عمومی.",
-  "websiteURL": "https://akash.network/",
+  "description": "Akash Token (AKT) توکن ابزار بومی شبکه Akash است که به عنوان ابزار اصلی برای اداره کردن، ایمن سازی بلاک چین، ایجاد انگیزه در شرکت کنندگان و ارائه مکانیزم پیش فرض برای ذخیره و تبادل ارزش استفاده می شود. Akash یک Supercloud منبع باز است که به کاربران امکان می دهد منابع محاسباتی را به صورت ایمن و کارآمد خریداری و بفروشند. هدف ساخته شده برای خدمات عمومی.",
   "twitterURL": "https://twitter.com/akashnet_",
   "coingeckoID": "akash-network"
 }

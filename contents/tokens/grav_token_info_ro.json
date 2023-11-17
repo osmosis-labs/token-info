@@ -1,7 +1,7 @@
 {
-  "description": "O punte deschisă, descentralizată, care deblochează puterea interoperabilității și a lichidității între ecosistemele blockchain.",
-  "name": "Gravity Bridge",
-  "websiteURL": "https://www.gravitybridge.net/",
+  "localization": "ro",
+  "description": "Tokenul nativ al Gravity Bridge O punte deschisă, descentralizată, care deblochează puterea interoperabilității și lichidității între ecosistemele blockchain.",
+  "name": "Graviton",
   "symbol": "GRAV",
   "twitterURL": "https://twitter.com/gravity_bridge",
   "coingeckoID": "graviton"

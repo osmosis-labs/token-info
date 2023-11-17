@@ -1,7 +1,7 @@
 {
-  "description": "Nosso objetivo é construir código-fonte aberto que possa potencializar um produto e uma experiência comercial de primeira classe.",
-  "name": "dYdX Protocol",
-  "websiteURL": "https://dydx.exchange/",
+  "description": "O token de piquetagem nativo do protocolo dYdX. Nosso objetivo é construir código-fonte aberto que possa potencializar um produto e uma experiência comercial de primeira classe.",
+  "localization": "pt",
+  "name": "dYdX",
   "symbol": "DYDX",
   "twitterURL": "https://twitter.com/dYdX",
   "coingeckoID": "dydx"

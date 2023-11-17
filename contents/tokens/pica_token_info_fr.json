@@ -1,8 +1,8 @@
 {
-  "description": "Composable est la couche de base reliant les L1 et les L2. Nous étendons IBC à d’autres écosystèmes, repoussant les limites d’une interopérabilité minimisée par la confiance. Nous faisons abstraction de l'expérience inter-chaînes pour les utilisateurs, offrant ainsi une exécution transparente et indépendante de la chaîne des intentions des utilisateurs.",
-  "name": "Composable",
+  "description": "Le jeton natif de jalonnement et de gouvernance de Composable. Composable est la couche de base reliant les L1 et les L2. Nous étendons IBC à d’autres écosystèmes, repoussant les limites d’une interopérabilité minimisée par la confiance. Nous faisons abstraction de l'expérience inter-chaînes pour les utilisateurs, offrant ainsi une exécution transparente et indépendante de la chaîne des intentions des utilisateurs.",
+  "localization": "fr",
+  "name": "Pica",
   "symbol": "PICA",
   "coingeckoID": "picasso",
-  "websiteURL": "https://www.composable.finance/",
   "twitterURL": "https://twitter.com/ComposableFin"
 }

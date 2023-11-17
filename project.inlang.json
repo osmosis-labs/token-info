@@ -23,44 +23,6 @@
     "https://cdn.jsdelivr.net/npm/@inlang/message-lint-rule-missing-translation@1/dist/index.js"
   ],
   "plugin.inlang.json": {
-    "pathPattern": {
-      "xprt": "contents/tokens/xprt_token_info_{languageTag}.json",
-      "tia": "contents/tokens/tia_token_info_{languageTag}.json",
-      "strd": "contents/tokens/strd_token_info_{languageTag}.json",
-      "stars": "contents/tokens/stars_token_info_{languageTag}.json",
-      "somm": "contents/tokens/somm_token_info_{languageTag}.json",
-      "sei": "contents/tokens/sei_token_info_{languageTag}.json",
-      "scrt": "contents/tokens/scrt_token_info_{languageTag}.json",
-      "regen": "contents/tokens/regen_token_info_{languageTag}.json",
-      "qsr": "contents/tokens/qsr_token_info_{languageTag}.json",
-      "qck": "contents/tokens/qck_token_info_{languageTag}.json",
-      "pica": "contents/tokens/pica_token_info_{languageTag}.json",
-      "osmo": "contents/tokens/osmo_token_info_{languageTag}.json",
-      "ntrn": "contents/tokens/ntrn_token_info_{languageTag}.json",
-      "nls": "contents/tokens/nls_token_info_{languageTag}.json",
-      "mntl": "contents/tokens/mntl_token_info_{languageTag}.json",
-      "mars": "contents/tokens/mars_token_info_{languageTag}.json",
-      "luna": "contents/tokens/luna_token_info_{languageTag}.json",
-      "lore": "contents/tokens/lore_token_info_{languageTag}.json",
-      "kyve": "contents/tokens/kyve_token_info_{languageTag}.json",
-      "kuji": "contents/tokens/kuji_token_info_{languageTag}.json",
-      "kava": "contents/tokens/kava_token_info_{languageTag}.json",
-      "juno": "contents/tokens/juno_token_info_{languageTag}.json",
-      "iov": "contents/tokens/iov_token_info_{languageTag}.json",
-      "inj": "contents/tokens/inj_token_info_{languageTag}.json",
-      "grav": "contents/tokens/grav_token_info_{languageTag}.json",
-      "flix": "contents/tokens/flix_token_info_{languageTag}.json",
-      "evmos": "contents/tokens/evmos_token_info_{languageTag}.json",
-      "dydx": "contents/tokens/dydx_token_info_{languageTag}.json",
-      "dvpn": "contents/tokens/dvpn_token_info_{languageTag}.json",
-      "cro": "contents/tokens/cro_token_info_{languageTag}.json",
-      "btsg": "contents/tokens/btsg_token_info_{languageTag}.json",
-      "bld": "contents/tokens/bld_token_info_{languageTag}.json",
-      "band": "contents/tokens/band_token_info_{languageTag}.json",
-      "axl": "contents/tokens/axl_token_info_{languageTag}.json",
-      "atom": "contents/tokens/atom_token_info_{languageTag}.json",
-      "arch": "contents/tokens/arch_token_info_{languageTag}.json",
-      "akt": "contents/tokens/akt_token_info_{languageTag}.json"
-    }
+    "pathPattern": "./localizations/{languageTag}.json"
   }
 }

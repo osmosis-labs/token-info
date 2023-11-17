@@ -1,8 +1,8 @@
 {
-  "description": "Pożyczaj, pożyczaj i zarabiaj dzięki autonomicznemu protokołowi kredytowemu we wszechświecie Cosmos. Otwarte dla wszystkich, zamknięte dla nikogo.",
-  "coingeckoID": "mars-protocol",
+  "localization": "pl",
+  "description": "Token protokołu Mars Pożyczaj, pożyczaj i zarabiaj dzięki autonomicznemu protokołowi kredytowemu we wszechświecie Kosmos. Otwarte dla wszystkich, zamknięte dla nikogo.",
+  "coingeckoID": "mars-protocol-a7fcbcfb-fd61-4017-92f0-7ee9f9cc6da3",
   "twitterURL": "https://twitter.com/mars_protocol",
-  "websiteURL": "https://www.marsprotocol.io/",
   "symbol": "MARS",
-  "name": "Mars Hub"
+  "name": "Mars"
 }

@@ -2,8 +2,7 @@
   "localization": "en",
   "name": "Sentinel",
   "symbol": "DVPN",
-  "description": "اکوسیستم سنتینل یک شبکه جهانی از برنامه های dVPN مستقل است که دسترسی به اینترنت خصوصی و مقاوم در برابر سانسور را امکان پذیر می کند.",
-  "websiteURL": "https://sentinel.co/",
+  "description": "DVPN توکن بومی Sentinel Hub است. اکوسیستم سنتینل یک شبکه جهانی از برنامه های dVPN مستقل است که دسترسی به اینترنت خصوصی و مقاوم در برابر سانسور را امکان پذیر می کند.",
   "coingeckoID": "sentinel",
   "twitterURL": "https://twitter.com/SentinelVPN"
 }

@@ -1,8 +1,8 @@
 {
-  "name": "Regen",
+  "localization": "ro",
+  "name": "Regen Network",
   "symbol": "REGEN",
-  "description": "Regen Network, o platformă pentru a crea și investi în credite de carbon și biodiversitate de înaltă integritate din proiecte de regenerare ecologică.",
-  "websiteURL": "https://www.regen.network/",
+  "description": "Moneda REGEN este simbolul Regen Network Platform Regen Network, o platformă pentru a crea și a investi în credite de înaltă integritate pentru carbon și biodiversitate din proiecte de regenerare ecologică.",
   "twitterURL": "https://twitter.com/regen_network",
   "coingeckoID": "regen"
 }

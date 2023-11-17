@@ -2,8 +2,7 @@
   "localization": "fr",
   "name": "Osmosis",
   "symbol": "OSMO",
-  "description": "Échangez, gagnez et développez sur le principal échange décentralisé Cosmos.",
+  "description": "Le jeton natif d'Osmosis Osmosis (OSMO) est un échange décentralisé (DEX) pour Cosmos, un écosystème de blockchains souveraines et interopérables, toutes connectées sans confiance via IBC, le protocole de communication inter-blockchain. Osmosis propose également des actifs non IBC issus des écosystèmes Ethereum et Polkadot. La liquidité suralimentée d'Osmosis met en œuvre un mécanisme de pool de liquidité efficace analogue à la liquidité concentrée d'Uniswap, permettant une meilleure efficacité du capital et permettant aux fournisseurs de liquidité de rivaliser pour les frais et les incitations gagnés. En tant que DEX d'application, Osmosis a un plus grand contrôle sur l'intégralité de la pile blockchain que les DEX qui doivent suivre le code d'une chaîne parent. Ce contrôle fin a permis, par exemple, le développement du Superfluid Staking, une amélioration de la sécurité du Proof-of-Stake. Le jalonnement superfluide permet à l'OSMO sous-jacent en position LP d'ajouter à la sécurité de la chaîne et de gagner des récompenses de jalonnement pour ce faire. La personnalisation des appchains permet également le développement d'un pool de transactions protégé par un cryptage à seuil, ce qui réduira considérablement les MEV nocifs sur Osmosis. La vision d'Osmosis est de créer une suite DEX et de trading native inter-chaînes qui connecte toutes les chaînes via IBC, y compris Ethereum et Bitcoin. Pour développer les fonctionnalités de trading, Osmosis a invité des développeurs externes à créer un écosystème DEX sur mesure qui comprend des prêts, des crédits, des marges, des rampes d'accès fiduciaires, des coffres-forts stratégiques Defi, des NFT, des pièces stables, etc. – toutes les fonctionnalités d'un échange centralisé et plus, plus la minimisation de la confiance dans la finance décentralisée.",
   "coingeckoID": "osmosis",
-  "twitterURL": "https://twitter.com/osmosiszone",
-  "websiteURL": "https://osmosis.zone/"
+  "twitterURL": "https://twitter.com/osmosiszone"
 }

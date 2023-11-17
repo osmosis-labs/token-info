@@ -1,0 +1,7 @@
+{
+  "localization": "zh",
+  "name": "Ether",
+  "symbol": "ETH",
+  "description": "以太幣是以太坊網路的原生費用代幣。",
+  "coingeckoID": "ethereum"
+}

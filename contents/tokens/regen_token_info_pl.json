@@ -1,8 +1,8 @@
 {
-  "name": "Regen",
+  "localization": "pl",
+  "name": "Regen Network",
   "symbol": "REGEN",
-  "description": "Regen Network, platforma umożliwiająca tworzenie i inwestowanie w wysokiej jakości kredyty węglowe i różnorodność biologiczną z projektów rewitalizacji ekologicznej.",
-  "websiteURL": "https://www.regen.network/",
+  "description": "Moneta REGEN jest tokenem platformy Regen Network Platform Regen Network, platformy umożliwiającej tworzenie i inwestowanie w kredyty węglowe i różnorodność biologiczną o wysokiej integralności z projektów rewitalizacji ekologicznej.",
   "twitterURL": "https://twitter.com/regen_network",
   "coingeckoID": "regen"
 }

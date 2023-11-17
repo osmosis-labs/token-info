@@ -1,0 +1,7 @@
+{
+  "localization": "fr",
+  "name": "Ether",
+  "symbol": "ETH",
+  "description": "Ether est le jeton de frais natif du réseau Ethereum.",
+  "coingeckoID": "ethereum"
+}

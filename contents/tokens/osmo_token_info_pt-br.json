@@ -2,8 +2,7 @@
   "localization": "pt",
   "name": "Osmosis",
   "symbol": "OSMO",
-  "description": "Troque, ganhe e desenvolva a principal bolsa descentralizada Cosmos.",
+  "description": "O token nativo de Osmosis Osmosis (OSMO) é uma troca descentralizada (DEX) para Cosmos, um ecossistema de blockchains soberanos e interoperáveis, todos conectados sem confiança através do IBC, o Protocolo de Comunicação Inter-Blockchain. A Osmosis também oferece ativos não IBC interligados aos ecossistemas Ethereum e Polkadot. O Supercharged Liquidity da Osmosis implementa um mecanismo eficiente de pool de liquidez análogo à liquidez concentrada do Uniswap, alcançando maior eficiência de capital e permitindo que os provedores de liquidez concorram por taxas e incentivos ganhos. Como um DEX de appchain, o Osmosis tem maior controle sobre toda a pilha de blockchain do que os DEXs que devem seguir o código de uma cadeia pai. Este controle refinado permitiu, por exemplo, o desenvolvimento do Superfluid Staking, uma melhoria na segurança do Proof-of-Stake. O piqueteamento superfluido permite que o OSMO subjacente em uma posição LP aumente a segurança da cadeia e ganhe recompensas de piquetagem por isso. A personalização dos appchains também permite o desenvolvimento de um mempool de transação protegido com criptografia de limite, o que reduzirá bastante o MEV prejudicial no Osmose. A visão da Osmosis é construir um DEX nativo entre cadeias e um conjunto de negociação que conecte todas as cadeias através do IBC, incluindo Ethereum e Bitcoin. Para desenvolver as funcionalidades de negociação, a Osmosis convidou desenvolvedores externos para criar um ecossistema DEX personalizado que inclui empréstimos, crédito, margem, rampas de acesso fiduciárias, cofres de estratégia Defi, NFTs, stablecoins e muito mais – todas as funcionalidades de uma bolsa centralizada e mais, além da minimização da confiança nas finanças descentralizadas.",
   "coingeckoID": "osmosis",
-  "twitterURL": "https://twitter.com/osmosiszone",
-  "websiteURL": "https://osmosis.zone/"
+  "twitterURL": "https://twitter.com/osmosiszone"
 }

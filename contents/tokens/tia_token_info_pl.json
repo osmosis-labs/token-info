@@ -1,9 +1,8 @@
 {
   "localization": "pl",
-  "description": "Celestia to modułowa sieć dostępności danych, która bezpiecznie skaluje się wraz z liczbą użytkowników, dzięki czemu każdy może łatwo uruchomić własny blockchain.",
   "name": "Celestia",
   "symbol": "TIA",
   "twitterURL": "https://twitter.com/CelestiaOrg",
   "coingeckoID": "celestia",
-  "websiteURL": "https://celestia.org/"
+  "description": "niezdefiniowana Celestia to modułowa sieć udostępniania danych, która bezpiecznie skaluje się wraz z liczbą użytkowników, dzięki czemu każdy może łatwo uruchomić własny blockchain."
 }

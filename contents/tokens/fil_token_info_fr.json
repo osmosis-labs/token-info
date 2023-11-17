@@ -1,0 +1,7 @@
+{
+  "localization": "fr",
+  "name": "Filecoin",
+  "symbol": "FIL",
+  "description": "Jeton natif de Filecoin",
+  "coingeckoID": "filecoin"
+}

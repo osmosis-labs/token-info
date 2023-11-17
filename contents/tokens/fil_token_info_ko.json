@@ -1,0 +1,7 @@
+{
+  "localization": "ko",
+  "name": "Filecoin",
+  "symbol": "FIL",
+  "description": "Filecoin의 기본 토큰",
+  "coingeckoID": "filecoin"
+}

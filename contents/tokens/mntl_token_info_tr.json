@@ -1,6 +1,6 @@
 {
-  "description": "AssetMantle'ın ürün paketi, NFT ekosistemine odaklanarak dijital varlık sahipliği konusunda oyununuzu geliştirmenize yardımcı olur.",
-  "websiteURL": "https://assetmantle.one/",
+  "localization": "tr",
+  "description": "Asset Mantle AssetMantle'ın ürün grubunun yerel tokeni, NFT ekosistemine odaklanmıştır ve dijital varlık sahipliği konusunda oyununuzu geliştirmenize yardımcı olur.",
   "name": "AssetMantle",
   "symbol": "MNTL",
   "coingeckoID": "assetmantle",
