@@ -1,5 +1,6 @@
 {
-  "description": "BLD to token używany do zabezpieczania łańcucha Agoric poprzez stakowanie i blokowanie protokołu Inter Protocol. Platforma Agoric umożliwia bezpieczne i bezproblemowe tworzenie zdecentralizowanych aplikacji przy użyciu istniejącej wiedzy o JavaScript.",
+  "localization": "pl",
+  "description": "BLD to token używany do zabezpieczenia łańcucha Agoric poprzez stakowanie i blokowanie protokołu Inter Protocol. Platforma Agoric umożliwia bezpieczne i bezproblemowe tworzenie zdecentralizowanych aplikacji przy użyciu istniejącej wiedzy o JavaScript.",
   "name": "Agoric",
   "symbol": "BLD",
   "twitterURL": "https://twitter.com/agoric",

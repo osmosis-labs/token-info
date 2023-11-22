@@ -1,5 +1,6 @@
 {
-  "description": "BLD, Agoric zincirini staking yoluyla güvence altına almak ve Inter Protokolünü desteklemek için kullanılan tokendir. Agoric platformu, mevcut JavaScript bilginizi kullanarak merkezi olmayan uygulamalar oluşturmanızı güvenli ve sorunsuz hale getirir.",
+  "localization": "tr",
+  "description": "BLD, Agoric zincirini staking yoluyla güvence altına almak ve Inter Protokolünü desteklemek için kullanılan tokendır. Agoric platformu, mevcut JavaScript bilginizi kullanarak merkezi olmayan uygulamalar oluşturmanızı güvenli ve sorunsuz hale getirir.",
   "name": "Agoric",
   "symbol": "BLD",
   "twitterURL": "https://twitter.com/agoric",

@@ -2,6 +2,6 @@
   "localization": "ro",
   "name": "Alter",
   "symbol": "ALTER",
-  "description": "Jetonul nativ cw20 pentru Alter on Secret Network",
+  "description": "Tokenul nativ cw20 pentru Alter on Secret Network",
   "coingeckoID": "alter"
 }

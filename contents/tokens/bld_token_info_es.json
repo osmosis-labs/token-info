@@ -1,4 +1,5 @@
 {
+  "localization": "es",
   "description": "BLD es el token utilizado para asegurar la cadena Agórica mediante apuestas y para respaldar Inter Protocol. La plataforma Agoric hace que sea seguro y fluido crear aplicaciones descentralizadas utilizando su conocimiento existente de JavaScript.",
   "name": "Agoric",
   "symbol": "BLD",

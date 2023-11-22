@@ -2,6 +2,6 @@
   "localization": "tr",
   "name": "Acre",
   "symbol": "ACRE",
-  "description": "Acrechain'in yerel EVM'si, yönetişimi ve stake tokenı",
+  "description": "Acrechain'in yerel EVM'si, yönetişimi ve staking token'ı",
   "coingeckoID": "arable-protocol"
 }
