@@ -210,7 +210,7 @@
     "symbol": "TIA",
     "twitterURL": "https://twitter.com/CelestiaOrg",
     "coingeckoID": "celestia",
-    "description": "undefined\n\nCelestia is a modular data availability network that securely scales with the number of users, making it easy for anyone to launch their own blockchain."
+    "description": "Celestia is a modular data availability network that securely scales with the number of users, making it easy for anyone to launch their own blockchain."
   },
   "tgd": {
     "localization": "en",
@@ -1034,7 +1034,9 @@
     "localization": "en",
     "name": "Ion",
     "symbol": "ION",
-    "coingeckoID": "ion"
+    "coingeckoID": "ion",
+    "twitterURL": "https://twitter.com/_IONDAO",
+    "websiteURL": "https://ion.wtf/"
   },
   "invdrs": {
     "localization": "en",

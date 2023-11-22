@@ -1,6 +1,5 @@
 {
-  "localization": "ro",
-  "description": "BLD este simbolul folosit pentru a securiza lanțul Agoric prin staking și pentru a proteja Inter Protocol. Platforma Agoric face ca aplicații descentralizate să fie sigure și fără probleme folosind cunoștințele dvs. JavaScript existente.",
+  "description": "BLD este simbolul folosit pentru a securiza lanțul Agoric prin miza și pentru a proteja Inter Protocol. Platforma Agoric face ca aplicații descentralizate să fie sigure și fără probleme folosind cunoștințele dvs. JavaScript existente.",
   "name": "Agoric",
   "symbol": "BLD",
   "twitterURL": "https://twitter.com/agoric",

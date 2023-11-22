@@ -2,5 +2,7 @@
   "localization": "tr",
   "name": "Ion",
   "symbol": "ION",
-  "coingeckoID": "ion"
+  "coingeckoID": "ion",
+  "twitterURL": "https://twitter.com/_IONDAO",
+  "websiteURL": "https://ion.wtf/"
 }

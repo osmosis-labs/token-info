@@ -2,6 +2,6 @@
   "localization": "tr",
   "name": "PSTAKE staked ATOM",
   "symbol": "stkATOM",
-  "description": "PSTAKE Sıvı Bağlantılı ATOM",
+  "description": "PSTAKE Sıvı-Stakeli ATOM",
   "coingeckoID": "stkatom"
 }
