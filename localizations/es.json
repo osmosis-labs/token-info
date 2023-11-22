@@ -8,7 +8,6 @@
   "xprt": {
     "localization": "es",
     "description": "El token XPRT es principalmente un token de gobernanza para la cadena de persistencia. Persistence es una cadena de aplicaciones para Liquid Stake que impulsa un ecosistema de aplicaciones DeFi centradas en desbloquear la liquidez de los activos apostados.",
-    "name": "Persistencia",
     "symbol": "XPRT",
     "coingeckoID": "persistencia",
     "twitterURL": "https://twitter.com/PersistenceOne"
@@ -46,7 +45,6 @@
     "symbol": "wstETH",
     "description": "wstETH es una versión empaquetada de stETH. Como algunos protocolos DeFi requieren un mecanismo de equilibrio constante para los tokens, wstETH mantiene fijo su saldo de stETH y utiliza un sistema de acciones subyacente para reflejar las recompensas de apuesta obtenidas.",
     "axl": {
-      "localization": "es",
       "name": "Lido envuelto con éter apostado",
       "symbol": "wstETH.axl",
       "description": "wstETH es una versión empaquetada de stETH. Como algunos protocolos DeFi requieren un mecanismo de equilibrio constante para los tokens, wstETH mantiene fijo su saldo de stETH y utiliza un sistema de acciones subyacente para reflejar las recompensas de apuesta obtenidas."
@@ -81,7 +79,6 @@
     "coingeckoID": "bitcoin envuelto",
     "grv": {
       "localization": "es",
-      "name": "Bitcoin envuelto",
       "symbol": "WBTC.grv",
       "description": "Puente de gravedad WBTC"
     }
@@ -101,14 +98,11 @@
   "vdl": {
     "localization": "es",
     "name": "vidulo",
-    "symbol": "VDL",
     "description": "La ficha nativa de Vidulum.",
     "coingeckoID": "vídulo"
   },
   "ustc": {
-    "localization": "es",
     "name": "TerraClásicoUSD",
-    "symbol": "USTC",
     "description": "La moneda estable en USD de Terra Classic.",
     "coingeckoID": "terrausd"
   },
@@ -116,8 +110,7 @@
     "localization": "es",
     "name": "USK",
     "symbol": "USK",
-    "description": "La moneda estable nativa con exceso de garantía de la cadena Kujira.",
-    "coingeckoID": "usk"
+    "description": "La moneda estable nativa con exceso de garantía de la cadena Kujira."
   },
   "usdx": {
     "localization": "es",
@@ -129,9 +122,7 @@
   "usdt": {
     "localization": "es",
     "name": "Atar USD",
-    "symbol": "USDT",
     "description": "Tether le brinda los beneficios conjuntos de la tecnología blockchain abierta y la moneda tradicional al convertir su efectivo en un equivalente de moneda digital estable.",
-    "coingeckoID": "atar",
     "wh": {
       "localization": "es",
       "name": "Tether USD (agujero de gusano)",
@@ -158,7 +149,6 @@
     "description": "USDC es una moneda estable en dólares estadounidenses totalmente garantizada desarrollada por CENTRE, el proyecto de código abierto del que Circle es el primero de varios futuros emisores.",
     "coingeckoID": "moneda-usd",
     "wh": {
-      "localization": "es",
       "name": "Moneda USD (agujero de gusano)",
       "symbol": "USDC.wh",
       "description": "Moneda USD (agujero de gusano), USDC, fábrica/agujero de gusano14ejqjyq8um4p3xfqj74yld5waqljf88fz25yxnma0cngspxe3les00fpjx/GGh9Ufn1SeDGrhzEkMyRKt5568VbbxZK2yvWNsd6PbXt"
@@ -186,7 +176,6 @@
   },
   "umee": {
     "localization": "es",
-    "name": "Umee",
     "symbol": "UMEE",
     "description": "La ficha nativa de Umee",
     "coingeckoID": "umee"
@@ -201,7 +190,6 @@
   "tick": {
     "localization": "es",
     "name": "microtick",
-    "symbol": "GARRAPATA",
     "description": "La moneda TICK es el token de la aplicación Microtick Price Discovery &amp; Oracle"
   },
   "tia": {
@@ -279,6 +267,7 @@
     "twitterURL": "https://twitter.com/stride_zone"
   },
   "stosmo": {
+    "localization": "es",
     "name": "stOSMO",
     "symbol": "stOSMO",
     "description": "El token nativo de Osmosis"
@@ -311,7 +300,7 @@
   },
   "stibcx": {
     "localization": "es",
-    "name": "Núcleo stIBX<Product of ION DAO>",
+    "name": "Núcleo stIBCX<Product of ION DAO>",
     "symbol": "stIBX"
   },
   "stevmos": {
@@ -360,10 +349,8 @@
   },
   "somm": {
     "description": "Somm Token (SOMM) es el token de apuesta nativo de Sommelier Chain. Las bóvedas automatizadas encuentran los mejores rendimientos de su clase y al mismo tiempo mitigan el riesgo.",
-    "localization": "es",
     "name": "Somm",
     "symbol": "SOMM",
-    "coingeckoID": "sumiller",
     "twitterURL": "https://twitter.com/sommfinance"
   },
   "solar": {
@@ -401,8 +388,7 @@
     "localization": "es",
     "name": "TIERRA DE SIENA",
     "symbol": "TIERRA DE SIENA",
-    "description": "El token nativo cw20 para SIENNA en Secret Network",
-    "coingeckoID": "tierra de siena"
+    "description": "El token nativo cw20 para SIENNA en Secret Network"
   },
   "shibac": {
     "localization": "es",
@@ -434,8 +420,7 @@
     "localization": "es",
     "name": "SGE",
     "symbol": "SGE",
-    "description": "El token nativo de SGE Network",
-    "coingeckoID": "seis sigma"
+    "description": "El token nativo de SGE Network"
   },
   "sfrxeth": {
     "localization": "es",
@@ -721,7 +706,6 @@
   },
   "nois": {
     "localization": "es",
-    "name": "ruido",
     "symbol": "RUIDO",
     "description": "El token nativo de Nois"
   },
@@ -782,13 +766,11 @@
     "localization": "es",
     "description": "El token nativo del conjunto de productos de Asset Mantle AssetMantle se centra en el ecosistema NFT y le ayuda a mejorar su juego con la propiedad de activos digitales.",
     "name": "Manto de activos",
-    "symbol": "MNTL",
     "coingeckoID": "manto de activos",
     "twitterURL": "https://twitter.com/AssetMantle"
   },
   "mnta": {
     "localization": "es",
-    "name": "MNTA",
     "symbol": "MNTA",
     "description": "Token de gobernanza MantaDAO",
     "coingeckoID": "mantadao"
@@ -945,7 +927,6 @@
   "kyve": {
     "description": "El token de utilidad nativo de la red KYVE. KYVE Network, que revoluciona la confiabilidad de los datos en el espacio Web3, proporciona herramientas rápidas y sencillas para la validación, inmutabilidad y recuperación de datos, lo que garantiza datos confiables para una escalabilidad perfecta y elimina los riesgos y obstáculos de los datos.",
     "localization": "es",
-    "name": "KYVE",
     "symbol": "KYVE",
     "twitterURL": "https://twitter.com/KYVENetwork",
     "coingeckoID": "red-kyve"
@@ -1003,7 +984,6 @@
   },
   "ixo": {
     "localization": "es",
-    "name": "IXO",
     "symbol": "IXO",
     "description": "El token nativo de IXO Chain",
     "coingeckoID": "ixo"
@@ -1011,12 +991,10 @@
   "ist": {
     "localization": "es",
     "name": "Token interestable",
-    "symbol": "IST",
     "description": "IST es el token estable utilizado por la cadena Agoric para tarifas de ejecución y comercio."
   },
   "iris": {
     "localization": "es",
-    "name": "IRISnet",
     "symbol": "IRIS",
     "description": "El token IRIS es el token de gobernanza nativo de la cadena IrisNet.",
     "coingeckoID": "red-iris"
@@ -1070,7 +1048,7 @@
   },
   "hopers": {
     "localization": "es",
-    "name": "esperanzadores",
+    "name": "esperanzas",
     "symbol": "ESPERANZAS",
     "description": "El token nativo cw20 para Hopers en Juno Chain",
     "coingeckoID": "esperanzadores-io"
@@ -1119,7 +1097,6 @@
   "glx": {
     "localization": "es",
     "name": "Galaxia",
-    "symbol": "GLX",
     "description": "GLX es el token de apuesta de Galaxy Chain"
   },
   "glto": {
@@ -1149,7 +1126,6 @@
   },
   "fx": {
     "localization": "es",
-    "name": "Función X",
     "symbol": "divisas",
     "description": "El token de apuesta nativo de la Función X",
     "coingeckoID": "moneda fx"
@@ -1184,7 +1160,6 @@
   "frax": {
     "localization": "es",
     "name": "Frax",
-    "symbol": "Frax",
     "description": "Frax es un protocolo de moneda estable algorítmico fraccionario. Su objetivo es proporcionar un dinero algorítmico, descentralizado y altamente escalable en lugar de activos de oferta fija como BTC. Además, FXS es el token de gobernanza y acumulación de valor de todo el ecosistema Frax.",
     "coingeckoID": "Frax"
   },
@@ -1227,7 +1202,6 @@
     "description": "El EVM nativo, el token de gobernanza y participación de Evmos Hub. Los desarrolladores utilizan Evmos como Ethereum Canary Chain para implementar aplicaciones del futuro. Obtenga todas las funcionalidades de Ethereum con el poder de IBC y la componibilidad de Interchain.",
     "localization": "es",
     "name": "Evmos",
-    "symbol": "EVMOS",
     "coingeckoID": "evmos",
     "twitterURL": "https://twitter.com/EvmosOrg"
   },
@@ -1288,6 +1262,7 @@
     "coingeckoID": "desmos"
   },
   "dot": {
+    "localization": "es",
     "name": "Lunares",
     "symbol": "PUNTO",
     "description": "El token local de pago, gobernanza, participación y vinculación de la plataforma Polkadot.",
@@ -1306,9 +1281,7 @@
     "description": "El token nativo de participación y gobernanza de la versión Theta testnet de Dora Vota."
   },
   "doga": {
-    "localization": "es",
     "name": "dux abr",
-    "symbol": "perro",
     "description": "dux abr"
   },
   "dig": {
@@ -1319,7 +1292,6 @@
     "coingeckoID": "cadena de excavación"
   },
   "dhk": {
-    "localization": "es",
     "name": "DHK",
     "symbol": "DHK",
     "description": "El token DAO para generar consenso entre el pueblo de Hong Kong"
@@ -1345,7 +1317,6 @@
   },
   "dai": {
     "localization": "es",
-    "name": "Dai moneda estable",
     "symbol": "DAI",
     "description": "Multi-Collateral Dai ofrece muchas características nuevas e interesantes, como soporte para nuevos tipos de garantía CDP y Dai Savings Rate.",
     "coingeckoID": "dai",
@@ -1358,10 +1329,8 @@
   },
   "cudos": {
     "localization": "es",
-    "name": "felicitaciones",
     "symbol": "CUDOS",
-    "description": "El token nativo de la blockchain Cudos",
-    "coingeckoID": "felicitaciones"
+    "description": "El token nativo de la blockchain Cudos"
   },
   "cub": {
     "localization": "es",
@@ -1379,7 +1348,6 @@
   "cro": {
     "localization": "es",
     "description": "CRO es el token nativo de la cadena Crypto.org, conocido como Native CRO. Cronos PoS Chain es una cadena de bloques pública, de código abierto y sin permisos: una red totalmente descentralizada con alta velocidad y tarifas bajas, diseñada para ser un bien público que ayuda a impulsar la adopción masiva de la tecnología blockchain a través de casos de uso como pagos, DeFi y NFT.",
-    "name": "Cronos",
     "symbol": "CRO",
     "coingeckoID": "cadena criptocom",
     "twitterURL": "https://twitter.com/cronos_chain"
@@ -1488,8 +1456,7 @@
     "localization": "es",
     "name": "BinanceUSD",
     "symbol": "BUSD",
-    "description": "Binance USD (BUSD) es una moneda estable respaldada por dólares emitida y custodiada por Paxos Trust Company y regulada por el Departamento de Servicios Financieros del Estado de Nueva York. BUSD está disponible para la venta directamente 1:1 con USD en Paxos.com y aparecerá para su negociación en Binance.",
-    "coingeckoID": "binance-usd"
+    "description": "Binance USD (BUSD) es una moneda estable respaldada por dólares emitida y custodiada por Paxos Trust Company y regulada por el Departamento de Servicios Financieros del Estado de Nueva York. BUSD está disponible para la venta directamente 1:1 con USD en Paxos.com y aparecerá para su negociación en Binance."
   },
   "btsg": {
     "localization": "es",
@@ -1516,8 +1483,7 @@
     "localization": "es",
     "name": "bonk",
     "symbol": "BONK",
-    "description": "La ficha oficial de Bonk Inu",
-    "coingeckoID": "bonk"
+    "description": "La ficha oficial de Bonk Inu"
   },
   "bnb": {
     "localization": "es",
@@ -1527,7 +1493,6 @@
     "coingeckoID": "binancecoin"
   },
   "blz": {
-    "localization": "es",
     "name": "Bluzelle",
     "symbol": "BLZ",
     "description": "La ficha nativa de Bluzelle",
@@ -1577,7 +1542,6 @@
   },
   "axs": {
     "localization": "es",
-    "name": "Fragmento de Axie Infinity",
     "symbol": "HACHAS",
     "description": "Axie Infinity es un universo de mascotas digitales inspirado en Pokémon donde cualquiera puede ganar fichas a través de un juego experto y contribuciones al ecosistema. Los jugadores pueden luchar, recolectar, criar y construir un reino terrestre para sus mascotas (conocidas como Axies).",
     "coingeckoID": "axie-infinito"
@@ -1591,6 +1555,7 @@
   },
   "axl": {
     "description": "El token nativo de Axelar Axelar ofrece comunicación segura entre cadenas para Web3. Nuestra infraestructura permite a los usuarios de dApps interactuar con cualquier activo o aplicación, en cualquier cadena, con un solo clic.",
+    "localization": "es",
     "name": "Axelar",
     "symbol": "XL",
     "twitterURL": "https://twitter.com/axelarnetwork",
@@ -1608,8 +1573,7 @@
       "localization": "es",
       "name": "Moneda USD",
       "symbol": "avalancha.USDC",
-      "description": "USDC es una moneda estable en dólares estadounidenses totalmente garantizada desarrollada por CENTRE, el proyecto de código abierto del que Circle es el primero de varios futuros emisores.",
-      "coingeckoID": "moneda-usd"
+      "description": "USDC es una moneda estable en dólares estadounidenses totalmente garantizada desarrollada por CENTRE, el proyecto de código abierto del que Circle es el primero de varios futuros emisores."
     }
   },
   "atom": {
@@ -1623,7 +1587,6 @@
   "atolo": {
     "localization": "es",
     "name": "Cadena Rizón",
-    "symbol": "ATOLO",
     "description": "Token nativo de Rizon Chain",
     "coingeckoID": "rizo"
   },
@@ -1665,8 +1628,7 @@
     "localization": "es",
     "name": "Aptos Coin",
     "symbol": "APTO",
-    "description": "El token Aptos (APT) es el token nativo de la cadena de bloques Aptos que se utiliza para pagar tarifas de transacción y de red.",
-    "coingeckoID": "aptos"
+    "description": "El token Aptos (APT) es el token nativo de la cadena de bloques Aptos que se utiliza para pagar tarifas de transacción y de red."
   },
   "apemos": {
     "localization": "es",

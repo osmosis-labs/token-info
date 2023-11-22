@@ -8,7 +8,6 @@
   "xprt": {
     "localization": "fr",
     "description": "Le jeton XPRT est avant tout un jeton de gouvernance pour la chaîne de persistance. Persistence est une chaîne d'applications pour Liquid Staking qui alimente un écosystème d'applications DeFi axé sur le déblocage de la liquidité des actifs mis en jeu.",
-    "name": "Persistance",
     "symbol": "XPRT",
     "coingeckoID": "persistance",
     "twitterURL": "https://twitter.com/PersistenceOne"
@@ -46,7 +45,6 @@
     "symbol": "wstETH",
     "description": "wstETH est une version enveloppée de stETH. Comme certains protocoles DeFi nécessitent un mécanisme d'équilibre constant pour les jetons, wstETH maintient votre solde de stETH fixe et utilise un système de partage sous-jacent pour refléter vos récompenses de mise gagnées.",
     "axl": {
-      "localization": "fr",
       "name": "Éther jalonné de Lido enveloppé",
       "symbol": "wstETH.axl",
       "description": "wstETH est une version enveloppée de stETH. Comme certains protocoles DeFi nécessitent un mécanisme d'équilibre constant pour les jetons, wstETH maintient votre solde de stETH fixe et utilise un système de partage sous-jacent pour refléter vos récompenses de mise gagnées."
@@ -75,13 +73,12 @@
   },
   "wbtc": {
     "localization": "fr",
-    "name": "Bitcoin enveloppé",
+    "name": "Bitcoin emballé",
     "symbol": "WBTC",
     "description": "Wrapped Bitcoin (WBTC) est un jeton ERC20 soutenu 1:1 avec Bitcoin. Complètement transparent. 100 % vérifiable. Dirigé par la communauté.",
     "coingeckoID": "Bitcoin enveloppé",
     "grv": {
       "localization": "fr",
-      "name": "Bitcoin emballé",
       "symbol": "WBTC.grv",
       "description": "Pont gravitationnel WBTC"
     }
@@ -101,14 +98,11 @@
   "vdl": {
     "localization": "fr",
     "name": "Vidule",
-    "symbol": "VDL",
     "description": "Le jeton natif de Vidulum",
     "coingeckoID": "vidule"
   },
   "ustc": {
-    "localization": "fr",
     "name": "TerraClassicUSD",
-    "symbol": "USTC",
     "description": "Le stablecoin en USD de Terra Classic.",
     "coingeckoID": "terrausd"
   },
@@ -116,8 +110,7 @@
     "localization": "fr",
     "name": "USK",
     "symbol": "USK",
-    "description": "Le stablecoin natif sur-garanti de la chaîne Kujira.",
-    "coingeckoID": "usk"
+    "description": "Le stablecoin natif sur-garanti de la chaîne Kujira."
   },
   "usdx": {
     "localization": "fr",
@@ -129,9 +122,7 @@
   "usdt": {
     "localization": "fr",
     "name": "Attache USD",
-    "symbol": "USDT",
     "description": "Tether vous offre les avantages conjoints de la technologie blockchain ouverte et de la monnaie traditionnelle en convertissant votre argent en un équivalent en monnaie numérique stable.",
-    "coingeckoID": "attache",
     "wh": {
       "localization": "fr",
       "name": "Tether USD (trou de ver)",
@@ -158,7 +149,6 @@
     "description": "L'USDC est un stablecoin entièrement garanti en dollars américains développé par CENTRE, le projet open source, Circle étant le premier de plusieurs émetteurs à venir.",
     "coingeckoID": "pièce de monnaie USD",
     "wh": {
-      "localization": "fr",
       "name": "Pièce USD (trou de ver)",
       "symbol": "USDC.wh",
       "description": "Pièce USD (trou de ver), USDC, usine/wormhole14ejqjyq8um4p3xfqj74yld5waqljf88fz25yxnma0cngspxe3les00fpjx/GGh9Ufn1SeDGrhzEkMyRKt5568VbbxZK2yvWNsd6PbXt"
@@ -186,7 +176,6 @@
   },
   "umee": {
     "localization": "fr",
-    "name": "Ume",
     "symbol": "UMEE",
     "description": "Le jeton natif d'Umee",
     "coingeckoID": "ume"
@@ -201,7 +190,6 @@
   "tick": {
     "localization": "fr",
     "name": "Microtique",
-    "symbol": "COCHER",
     "description": "La pièce TICK est le jeton de l'application Microtick Price Discovery et Oracle."
   },
   "tia": {
@@ -210,7 +198,7 @@
     "symbol": "AIT",
     "twitterURL": "https://twitter.com/CelestiaOrg",
     "coingeckoID": "Céleste",
-    "description": "undefined Celestia est un réseau modulaire de disponibilité de données qui s'adapte en toute sécurité au nombre d'utilisateurs, permettant à chacun de lancer facilement sa propre blockchain."
+    "description": "Celestia est un réseau modulaire de disponibilité de données qui s'adapte en toute sécurité au nombre d'utilisateurs, permettant à chacun de lancer facilement sa propre blockchain."
   },
   "tgd": {
     "localization": "fr",
@@ -279,6 +267,7 @@
     "twitterURL": "https://twitter.com/stride_zone"
   },
   "stosmo": {
+    "localization": "fr",
     "name": "stOSMO",
     "symbol": "stOSMO",
     "description": "Le jeton natif de l'Osmose"
@@ -360,10 +349,8 @@
   },
   "somm": {
     "description": "Somm Token (SOMM) est le jeton de jalonnement natif de la chaîne Sommelier. Les coffres-forts automatisés trouvent les meilleurs rendements de leur catégorie tout en atténuant les risques.",
-    "localization": "fr",
     "name": "Somme",
     "symbol": "SOMME",
-    "coingeckoID": "sommelier",
     "twitterURL": "https://twitter.com/sommfinance"
   },
   "solar": {
@@ -401,8 +388,7 @@
     "localization": "fr",
     "name": "TERRE DE SIENNE",
     "symbol": "TERRE DE SIENNE",
-    "description": "Le token natif cw20 pour SIENNA sur Secret Network",
-    "coingeckoID": "terre de sienne"
+    "description": "Le token natif cw20 pour SIENNA sur Secret Network"
   },
   "shibac": {
     "localization": "fr",
@@ -434,8 +420,7 @@
     "localization": "fr",
     "name": "SGE",
     "symbol": "SGE",
-    "description": "Le token natif de SGE Network",
-    "coingeckoID": "six Sigma"
+    "description": "Le token natif de SGE Network"
   },
   "sfrxeth": {
     "localization": "fr",
@@ -721,7 +706,6 @@
   },
   "nois": {
     "localization": "fr",
-    "name": "Bruit",
     "symbol": "BRUIT",
     "description": "Le jeton natif de Nois"
   },
@@ -782,13 +766,11 @@
     "localization": "fr",
     "description": "Le jeton natif de la suite de produits Asset Mantle AssetMantle est axé sur l'écosystème NFT, vous aidant à améliorer votre jeu avec la propriété d'actifs numériques.",
     "name": "ActifManteau",
-    "symbol": "MNTL",
     "coingeckoID": "actif",
     "twitterURL": "https://twitter.com/AssetMantle"
   },
   "mnta": {
     "localization": "fr",
-    "name": "MNTA",
     "symbol": "MNTA",
     "description": "Jeton de gouvernance MantaDAO",
     "coingeckoID": "mantadao"
@@ -945,7 +927,6 @@
   "kyve": {
     "description": "Le jeton utilitaire natif du réseau KYVE. Révolutionnant la fiabilité des données dans l'espace Web3, KYVE Network fournit des outils rapides et simples pour la validation, l'immuabilité et la récupération des données, garantissant des données sans confiance pour une évolutivité transparente et éliminant les risques et les obstacles liés aux données.",
     "localization": "fr",
-    "name": "KYVE",
     "symbol": "KYVE",
     "twitterURL": "https://twitter.com/KYVENetwork",
     "coingeckoID": "réseau kyve"
@@ -1003,7 +984,6 @@
   },
   "ixo": {
     "localization": "fr",
-    "name": "IXO",
     "symbol": "IXO",
     "description": "Le jeton natif d’IXO Chain",
     "coingeckoID": "ixo"
@@ -1011,12 +991,10 @@
   "ist": {
     "localization": "fr",
     "name": "Jeton stable inter",
-    "symbol": "IST",
     "description": "IST est le jeton stable utilisé par la chaîne Agoric pour les frais d'exécution et le commerce."
   },
   "iris": {
     "localization": "fr",
-    "name": "IRISnet",
     "symbol": "IRIS",
     "description": "Le jeton IRIS est le jeton de gouvernance natif de la chaîne IrisNet.",
     "coingeckoID": "réseau-iris"
@@ -1119,7 +1097,6 @@
   "glx": {
     "localization": "fr",
     "name": "Galaxie",
-    "symbol": "GLX",
     "description": "GLX est le jeton de jalonnement de la Galaxy Chain"
   },
   "glto": {
@@ -1149,7 +1126,6 @@
   },
   "fx": {
     "localization": "fr",
-    "name": "Fonction X",
     "symbol": "Effets",
     "description": "Le jeton de jalonnement natif de la Fonction X",
     "coingeckoID": "fx-pièce"
@@ -1184,7 +1160,6 @@
   "frax": {
     "localization": "fr",
     "name": "Frax",
-    "symbol": "FRAX",
     "description": "Frax est un protocole stablecoin à algorithme fractionnaire. Il vise à fournir une monnaie algorithmique hautement évolutive et décentralisée à la place des actifs à offre fixe comme le BTC. De plus, FXS est le jeton d’accumulation de valeur et de gouvernance de l’ensemble de l’écosystème Frax.",
     "coingeckoID": "frax"
   },
@@ -1227,7 +1202,6 @@
     "description": "L'EVM natif, la gouvernance et le jeton de jalonnement des développeurs du hub Evmos utilisent Evmos comme chaîne Ethereum Canary pour déployer les applications du futur. Obtenez toutes les fonctionnalités d’Ethereum avec la puissance de la composabilité IBC et Interchain.",
     "localization": "fr",
     "name": "Evmos",
-    "symbol": "EVMOS",
     "coingeckoID": "evmos",
     "twitterURL": "https://twitter.com/EvmosOrg"
   },
@@ -1288,6 +1262,7 @@
     "coingeckoID": "desmos"
   },
   "dot": {
+    "localization": "fr",
     "name": "Pois",
     "symbol": "POINT",
     "description": "Les frais natifs, la gouvernance, le jalonnement et le jeton de liaison de la plateforme Polkadot.",
@@ -1306,9 +1281,7 @@
     "description": "Le jeton natif de jalonnement et de gouvernance de la version Theta testnet de Dora Vota."
   },
   "doga": {
-    "localization": "fr",
     "name": "Doge avril",
-    "symbol": "DOGA",
     "description": "Doge avril"
   },
   "dig": {
@@ -1319,7 +1292,6 @@
     "coingeckoID": "chaîne de fouille"
   },
   "dhk": {
-    "localization": "fr",
     "name": "DHK",
     "symbol": "DHK",
     "description": "Le jeton DAO pour construire un consensus parmi les Hongkongais"
@@ -1345,7 +1317,6 @@
   },
   "dai": {
     "localization": "fr",
-    "name": "Dai Stablecoin",
     "symbol": "DAI",
     "description": "Multi-Collatéral Dai apporte de nombreuses fonctionnalités nouvelles et intéressantes, telles que la prise en charge de nouveaux types de garanties CDP et du taux d'épargne Dai.",
     "coingeckoID": "aujourd'hui",
@@ -1358,10 +1329,8 @@
   },
   "cudos": {
     "localization": "fr",
-    "name": "Cudos",
     "symbol": "CUDOS",
-    "description": "Le token natif de la blockchain Cudos",
-    "coingeckoID": "cudos"
+    "description": "Le token natif de la blockchain Cudos"
   },
   "cub": {
     "localization": "fr",
@@ -1379,7 +1348,6 @@
   "cro": {
     "localization": "fr",
     "description": "CRO est le jeton natif de la chaîne Crypto.org, appelé Native CRO. Cronos PoS Chain est une blockchain publique, open source et sans autorisation - un réseau entièrement décentralisé avec un débit élevé et des frais faibles, conçu pour être un bien public qui contribue à favoriser l'adoption massive de la technologie blockchain à travers des cas d'utilisation tels que les paiements, DeFi et NFT.",
-    "name": "Cronos",
     "symbol": "CRO",
     "coingeckoID": "chaîne crypto-com",
     "twitterURL": "https://twitter.com/cronos_chain"
@@ -1488,8 +1456,7 @@
     "localization": "fr",
     "name": "BinanceUSD",
     "symbol": "BUSD",
-    "description": "Binance USD (BUSD) est une monnaie stable adossée au dollar, émise et conservée par Paxos Trust Company et réglementée par le Département des services financiers de l'État de New York. Le BUSD est disponible directement à la vente 1:1 avec USD sur Paxos.com et sera coté à la négociation sur Binance.",
-    "coingeckoID": "binance-usd"
+    "description": "Binance USD (BUSD) est une monnaie stable adossée au dollar, émise et conservée par Paxos Trust Company et réglementée par le Département des services financiers de l'État de New York. Le BUSD est disponible directement à la vente 1:1 avec USD sur Paxos.com et sera coté à la négociation sur Binance."
   },
   "btsg": {
     "localization": "fr",
@@ -1516,8 +1483,7 @@
     "localization": "fr",
     "name": "Bonk",
     "symbol": "BONK",
-    "description": "Le jeton officiel Bonk Inu",
-    "coingeckoID": "bon sang"
+    "description": "Le jeton officiel Bonk Inu"
   },
   "bnb": {
     "localization": "fr",
@@ -1527,7 +1493,6 @@
     "coingeckoID": "binancecoin"
   },
   "blz": {
-    "localization": "fr",
     "name": "Bluzelle",
     "symbol": "BLZ",
     "description": "Le jeton natif de Bluzelle",
@@ -1577,7 +1542,6 @@
   },
   "axs": {
     "localization": "fr",
-    "name": "Éclat d'Axie Infinity",
     "symbol": "AXS",
     "description": "Axie Infinity est un univers numérique d'animaux de compagnie inspiré de Pokémon où tout le monde peut gagner des jetons grâce à un gameplay qualifié et à des contributions à l'écosystème. Les joueurs peuvent combattre, collecter, élever et construire un royaume terrestre pour leurs animaux de compagnie (appelés Axies).",
     "coingeckoID": "axie-infini"
@@ -1591,6 +1555,7 @@
   },
   "axl": {
     "description": "Le jeton natif d'Axelar Axelar offre une communication inter-chaîne sécurisée pour Web3. Notre infrastructure permet aux utilisateurs de dApp d'interagir avec n'importe quel actif ou application, sur n'importe quelle chaîne, en un seul clic.",
+    "localization": "fr",
     "name": "Axelar",
     "symbol": "AXE",
     "twitterURL": "https://twitter.com/axelarnetwork",
@@ -1608,8 +1573,7 @@
       "localization": "fr",
       "name": "Pièce en USD",
       "symbol": "avalanche.USDC",
-      "description": "L'USDC est un stablecoin entièrement garanti en dollars américains développé par CENTRE, le projet open source, Circle étant le premier de plusieurs émetteurs à venir.",
-      "coingeckoID": "pièce de monnaie USD"
+      "description": "L'USDC est un stablecoin entièrement garanti en dollars américains développé par CENTRE, le projet open source, Circle étant le premier de plusieurs émetteurs à venir."
     }
   },
   "atom": {
@@ -1623,7 +1587,6 @@
   "atolo": {
     "localization": "fr",
     "name": "Chaîne Rizon",
-    "symbol": "ATOLO",
     "description": "Jeton natif de Rizon Chain",
     "coingeckoID": "rizon"
   },
@@ -1665,8 +1628,7 @@
     "localization": "fr",
     "name": "Pièce Aptos",
     "symbol": "APTE",
-    "description": "Le jeton Aptos (APT) est le jeton natif de la blockchain Aptos utilisé pour payer les frais de réseau et de transaction.",
-    "coingeckoID": "aptos"
+    "description": "Le jeton Aptos (APT) est le jeton natif de la blockchain Aptos utilisé pour payer les frais de réseau et de transaction."
   },
   "apemos": {
     "localization": "fr",
