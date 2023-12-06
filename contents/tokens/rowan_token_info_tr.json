@@ -1,7 +1,7 @@
 {
   "localization": "tr",
-  "name": "Sifchain Rowan",
+  "name": "Sifchain",
   "symbol": "ROWAN",
-  "description": "Rowan Token (ROWAN), Sifchain Network'ün yerel hizmet tokenidir; yönetmek, likidite sağlamak, blockchain'i güvence altına almak, katılımcıları teşvik etmek ve değer depolamak ve takas etmek için varsayılan bir mekanizma sağlamak için birincil araç olarak kullanılır.",
+  "description": "Rowan Token (ROWAN), Sifchain Network'ün yerel hizmet tokenidir; yönetmek, likidite sağlamak, blockchain'i güvence altına almak, katılımcıları teşvik etmek ve değer depolamak ve değiştirmek için varsayılan bir mekanizma sağlamak için birincil araç olarak kullanılır.",
   "coingeckoID": "sifchain"
 }

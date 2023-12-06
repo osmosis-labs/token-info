@@ -1,4 +1,5 @@
 {
+  "localization": "ko",
   "name": "TerraClassicUSD",
   "symbol": "USTC",
   "description": "Terra Classic의 USD 스테이블코인입니다.",

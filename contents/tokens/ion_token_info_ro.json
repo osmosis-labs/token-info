@@ -1,6 +1,7 @@
 {
   "localization": "ro",
-  "name": "Ion",
+  "name": "Ion DAO",
   "symbol": "ION",
-  "coingeckoID": "ion"
+  "coingeckoID": "ion",
+  "twitterURL": "https://twitter.com/_IONDAO"
 }

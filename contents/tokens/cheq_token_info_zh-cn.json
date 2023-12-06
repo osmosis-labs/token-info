@@ -1,6 +1,6 @@
 {
   "localization": "zh",
-  "name": "cheqd",
+  "name": "Cheqd",
   "symbol": "CHEQ",
   "description": "cheqd 网络的本机令牌",
   "coingeckoID": "cheqd-network"

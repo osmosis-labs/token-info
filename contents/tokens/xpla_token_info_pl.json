@@ -1,6 +1,5 @@
 {
-  "localization": "pl",
-  "name": "Xpla",
+  "name": "XPLA",
   "symbol": "XPLA",
   "description": "Natywny token stakingowy XPLA.",
   "coingeckoID": "xpla"

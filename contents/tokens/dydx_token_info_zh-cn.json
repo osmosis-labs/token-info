@@ -1,7 +1,6 @@
 {
   "description": "dYdX 协议的原生质押代币。我们的目标是构建开源代码，为一流的产品和交易体验提供动力。",
-  "localization": "zh",
-  "name": "dYdX",
+  "name": "dYdX Protocol",
   "symbol": "DYDX",
   "twitterURL": "https://twitter.com/dYdX",
   "coingeckoID": "dydx"

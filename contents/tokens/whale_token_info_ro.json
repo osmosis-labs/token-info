@@ -1,7 +1,7 @@
 {
   "localization": "ro",
-  "name": "Whale",
+  "name": "Migaloo",
   "symbol": "WHALE",
-  "description": "Jetonul nativ al Migaloo Chain",
+  "description": "Jetonul nativ al lanțului Migaloo",
   "coingeckoID": "white-whale"
 }

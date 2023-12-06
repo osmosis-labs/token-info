@@ -1,7 +1,6 @@
 {
   "description": "El token de apuesta nativo del protocolo dYdX. Nuestro objetivo es crear código fuente abierto que pueda impulsar un producto y una experiencia comercial de primera clase.",
-  "localization": "es",
-  "name": "dYdX",
+  "name": "dYdX Protocol",
   "symbol": "DYDX",
   "twitterURL": "https://twitter.com/dYdX",
   "coingeckoID": "dydx"

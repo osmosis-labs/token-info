@@ -1,6 +1,6 @@
 {
   "localization": "ro",
-  "name": "cheqd",
+  "name": "Cheqd",
   "symbol": "CHEQ",
   "description": "Token nativ pentru rețeaua cheqd",
   "coingeckoID": "cheqd-network"

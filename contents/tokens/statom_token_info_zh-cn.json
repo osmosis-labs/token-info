@@ -1,6 +1,6 @@
 {
   "localization": "zh",
-  "name": "stATOM",
+  "name": "Stride Staked ATOM",
   "symbol": "stATOM",
   "description": "Cosmos Hub 的原生质押和治理代币。",
   "coingeckoID": "stride-staked-atom"

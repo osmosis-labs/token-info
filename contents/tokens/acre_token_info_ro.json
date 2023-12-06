@@ -1,7 +1,7 @@
 {
   "localization": "ro",
-  "name": "Acre",
+  "name": "Acrechain",
   "symbol": "ACRE",
-  "description": "EVM nativ, simbolul de guvernare și de miză al Acrechain",
+  "description": "EVM nativ, simbolul de guvernare și de miză al Acrechain-ului",
   "coingeckoID": "arable-protocol"
 }

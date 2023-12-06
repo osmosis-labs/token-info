@@ -1,6 +1,6 @@
 {
   "localization": "ko",
-  "name": "cheqd",
+  "name": "Cheqd",
   "symbol": "CHEQ",
   "description": "cheqd 네트워크의 기본 토큰",
   "coingeckoID": "cheqd-network"

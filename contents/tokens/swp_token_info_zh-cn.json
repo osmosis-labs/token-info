@@ -1,6 +1,6 @@
 {
   "localization": "zh",
-  "name": "Swap",
+  "name": "Kava Swap",
   "symbol": "SWP",
   "description": "Kava 互换协议的治理代币",
   "coingeckoID": "kava-swap"

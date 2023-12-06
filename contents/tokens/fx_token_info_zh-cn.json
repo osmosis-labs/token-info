@@ -1,6 +1,5 @@
 {
-  "localization": "zh",
-  "name": "Function X",
+  "name": "f(x)Core",
   "symbol": "FX",
   "description": "Function X 的原生质押代币",
   "coingeckoID": "fx-coin"

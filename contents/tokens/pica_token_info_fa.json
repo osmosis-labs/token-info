@@ -1,7 +1,7 @@
 {
   "description": "نشانه اصلی سهامداری و حاکمیت Composable. Composable لایه پایه است که L1s و L2s را به هم متصل می کند. ما IBC را به سایر اکوسیستم‌ها افزایش می‌دهیم، و مرزهای قابلیت همکاری با حداقل اعتماد را پیش می‌بریم. ما تجربه زنجیره‌ای متقابل را برای کاربران انتزاعی می‌کنیم، و اجرای یکپارچه زنجیره‌ای-اگنوستیکی اهداف کاربر را ارائه می‌کنیم.",
   "localization": "en",
-  "name": "Pica",
+  "name": "Composable",
   "symbol": "PICA",
   "coingeckoID": "picasso",
   "twitterURL": "https://twitter.com/ComposableFin"
