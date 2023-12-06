@@ -15,7 +15,7 @@
   },
   "xpla": {
     "localization": "en",
-    "name": "Xpla",
+    "name": "XPLA",
     "symbol": "XPLA",
     "description": "The native staking token of XPLA.",
     "coingeckoID": "xpla"
@@ -45,6 +45,7 @@
     "name": "Wrapped Lido Staked Ether",
     "symbol": "wstETH",
     "description": "wstETH is a wrapped version of stETH. As some DeFi protocols require a constant balance mechanism for tokens, wstETH keeps your balance of stETH fixed and uses an underlying share system to reflect your earned staking rewards.",
+    "coingeckoID": "wrapped-steth",
     "axl": {
       "localization": "en",
       "name": "Wrapped Lido Staked Ether",
@@ -54,7 +55,7 @@
   },
   "whale": {
     "localization": "en",
-    "name": "Whale",
+    "name": "Migaloo",
     "symbol": "WHALE",
     "description": "The native token of Migaloo Chain",
     "coingeckoID": "white-whale"
@@ -68,7 +69,7 @@
     },
     "grv": {
       "localization": "en",
-      "name": "Wrapped Ethereum",
+      "name": "Ether (Gravity Bridge)",
       "symbol": "WETH.grv",
       "description": "Gravity Bridge WETH"
     }
@@ -81,7 +82,7 @@
     "coingeckoID": "wrapped-bitcoin",
     "grv": {
       "localization": "en",
-      "name": "Wrapped Bitcoin",
+      "name": "Wrapped Bitcoin (Gravity Bridge)",
       "symbol": "WBTC.grv",
       "description": "Gravity Bridge WBTC"
     }
@@ -105,6 +106,12 @@
     "description": "The native token of Vidulum",
     "coingeckoID": "vidulum"
   },
+  "v": {
+    "localization": "en",
+    "name": "Bostrom Volt",
+    "symbol": "V",
+    "description": "The resource token of Bostrom"
+  },
   "ustc": {
     "localization": "en",
     "name": "TerraClassicUSD",
@@ -121,7 +128,7 @@
   },
   "usdx": {
     "localization": "en",
-    "name": "USDX",
+    "name": "Kava USDX",
     "symbol": "USDX",
     "description": "The native stablecoin of Kava",
     "coingeckoID": "usdx"
@@ -140,7 +147,7 @@
     },
     "grv": {
       "localization": "en",
-      "name": "Tether USD",
+      "name": "Tether USD (Gravity Bridge)",
       "symbol": "USDT.grv",
       "description": "Gravity Bridge USDT"
     },
@@ -165,7 +172,7 @@
     },
     "grv": {
       "localization": "en",
-      "name": "USD Coin",
+      "name": "USD Coin (Gravity Bridge)",
       "symbol": "USDC.grv",
       "description": "Gravity Bridge USDC"
     },
@@ -198,6 +205,12 @@
     "description": "The native token of Teritori",
     "coingeckoID": "teritori"
   },
+  "tocyb": {
+    "localization": "en",
+    "name": "Bostrom Tocyb",
+    "symbol": "TOCYB",
+    "description": "The staking token of Cyber"
+  },
   "tick": {
     "localization": "en",
     "name": "Microtick",
@@ -228,7 +241,7 @@
   },
   "swp": {
     "localization": "en",
-    "name": "Swap",
+    "name": "Kava Swap",
     "symbol": "SWP",
     "description": "Governance token of Kava Swap Protocol",
     "coingeckoID": "kava-swap"
@@ -248,19 +261,19 @@
   },
   "stumee": {
     "localization": "en",
-    "name": "stUMEE",
+    "name": "Stride Staked UMEE",
     "symbol": "stUMEE",
     "description": "The native token of Umee"
   },
   "ststars": {
     "localization": "en",
-    "name": "stSTARS",
+    "name": "Stride Staked STARS",
     "symbol": "stSTARS",
     "description": "The native token of Stargaze"
   },
   "stsomm": {
     "localization": "en",
-    "name": "stSOMM",
+    "name": "Stride Staked SOMM",
     "symbol": "stSOMM",
     "description": "Somm Token (SOMM) is the native staking token of the Sommelier Chain"
   },
@@ -280,13 +293,13 @@
   },
   "stosmo": {
     "localization": "en",
-    "name": "stOSMO",
+    "name": "Stride Staked OSMO",
     "symbol": "stOSMO",
     "description": "The native token of Osmosis"
   },
   "stluna": {
     "localization": "en",
-    "name": "stLUNA",
+    "name": "Stride Staked LUNA",
     "symbol": "stLUNA",
     "description": "The native staking token of Terra."
   },
@@ -306,23 +319,23 @@
   },
   "stjuno": {
     "localization": "en",
-    "name": "stJUNO",
+    "name": "Stride Staked JUNO",
     "symbol": "stJUNO",
     "description": "The native token of JUNO Chain"
   },
   "stibcx": {
     "localization": "en",
-    "name": "stIBCX Core <Product of ION DAO>",
+    "name": "Staked IBCX",
     "symbol": "stIBCX"
   },
   "stevmos": {
     "localization": "en",
-    "name": "stEVMOS",
+    "name": "Stride Staked EVMOS",
     "symbol": "stEVMOS"
   },
   "statom": {
     "localization": "en",
-    "name": "stATOM",
+    "name": "Stride Staked ATOM",
     "symbol": "stATOM",
     "description": "The native staking and governance token of the Cosmos Hub.",
     "coingeckoID": "stride-staked-atom"
@@ -359,10 +372,17 @@
     "symbol": "SPACER",
     "description": "Spacer"
   },
+  "source": {
+    "localization": "en",
+    "name": "Source",
+    "symbol": "SOURCE",
+    "description": "The native token of SOURCE Chain",
+    "coingeckoID": "source"
+  },
   "somm": {
     "description": "Somm Token (SOMM) is the native staking token of the Sommelier Chain\n\nAutomated vaults find best-in-class yields while mitigating risk.",
     "localization": "en",
-    "name": "Somm",
+    "name": "Sommelier",
     "symbol": "SOMM",
     "coingeckoID": "sommelier",
     "twitterURL": "https://twitter.com/sommfinance"
@@ -464,8 +484,7 @@
     "localization": "en",
     "name": "StakeEasy SEASY",
     "symbol": "SEASY",
-    "description": "StakeEasy governance token",
-    "coingeckoID": "seasy"
+    "description": "StakeEasy governance token"
   },
   "scrt": {
     "localization": "en",
@@ -477,7 +496,7 @@
   },
   "rowan": {
     "localization": "en",
-    "name": "Sifchain Rowan",
+    "name": "Sifchain",
     "symbol": "ROWAN",
     "description": "Rowan Token (ROWAN) is the Sifchain Network's native utility token, used as the primary means to govern, provide liquidity, secure the blockchain, incentivize participants, and provide a default mechanism to store and exchange value.",
     "coingeckoID": "sifchain"
@@ -504,7 +523,7 @@
   },
   "regen": {
     "localization": "en",
-    "name": "Regen Network",
+    "name": "Regen",
     "symbol": "REGEN",
     "description": "REGEN coin is the token for the Regen Network Platform\n\nRegen Network, a platform to originate and invest in high-integrity carbon and biodiversity credits from ecological regeneration projects.",
     "twitterURL": "https://twitter.com/regen_network",
@@ -546,7 +565,7 @@
   },
   "qwoyn": {
     "localization": "en",
-    "name": "Qwoyn Blockchain",
+    "name": "Qwoyn",
     "symbol": "QWOYN",
     "description": "QWOYN is the native governance token for Qwoyn Network"
   },
@@ -596,6 +615,13 @@
     "symbol": "qATOM",
     "description": "Quicksilver Liquid Staked ATOM"
   },
+  "pyth": {
+    "localization": "en",
+    "name": "Pyth Network",
+    "symbol": "PYTH",
+    "description": "Pyth is a protocol that allows market participants to publish pricing information on-chain for others to use. The protocol is an interaction between three parties:\n-Publishers submit pricing information to Pyth's oracle program. Pyth has multiple data publishers for every product to improve the accuracy and robustness of the system.\n-Pyth's oracle program combines publishers' data to produce a single aggregate price and confidence interval.\nConsumers read the price information produced by the oracle program.\n\nPyth's oracle program runs simultaneously on both Solana mainnet and Pythnet. Each instance of the program is responsible for its own set of price feeds. Solana Price Feeds are available for use by Solana protocols. In this case, since the oracle program itself runs on Solana, the resulting prices are immediately available to consumers without requiring any additional work. Pythnet Price Feeds are available on 12+ blockchains. The prices constructed on Pythnet are transferred cross-chain to reach consumers on these blockchains.\n\nIn both cases, the critical component of the system is the oracle program that combines the data from each individual publisher. This program maintains a number of different Solana accounts that list the products on Pyth and their current price data. Publishers publish their price and confidence by interacting with the oracle program on every slot. The program stores this information in its accounts. The first price update in a slot additionally triggers price aggregation, which combines the price data from the previous slot into a single aggregate price and confidence interval. This aggregate price is written to the Solana account where it is readable by other on-chain programs and available for transmission to other blockchains.",
+    "coingeckoID": "pyth-network"
+  },
   "pstake": {
     "localization": "en",
     "name": "pSTAKE Finance",
@@ -606,7 +632,7 @@
   "polygon": {
     "usdc": {
       "localization": "en",
-      "name": "USD Coin",
+      "name": "USD Coin (Polygon)",
       "symbol": "polygon.USDC",
       "description": "USDC is a fully collateralized US Dollar stablecoin developed by CENTRE, the open source project with Circle being the first of several forthcoming issuers.",
       "coingeckoID": "usd-coin"
@@ -622,7 +648,7 @@
   "pica": {
     "description": "The native staking and governance token of Composable.\n\nComposable is the base layer connecting L1s and L2s. We are scaling IBC to other ecosystems, pushing the boundaries of trust-minimized interoperability. We abstract the cross-chain experience for users, delivering seamless chain-agnostic execution of user intentions.",
     "localization": "en",
-    "name": "Pica",
+    "name": "Composable",
     "symbol": "PICA",
     "coingeckoID": "picasso",
     "twitterURL": "https://twitter.com/ComposableFin"
@@ -642,7 +668,7 @@
   },
   "pepe": {
     "localization": "en",
-    "name": "PEPE - Pepe",
+    "name": "Pepe",
     "symbol": "PEPE",
     "coingeckoID": "pepe"
   },
@@ -682,7 +708,7 @@
   },
   "odin": {
     "localization": "en",
-    "name": "ODIN",
+    "name": "Odin Protocol",
     "symbol": "ODIN",
     "description": "Staking and governance token for ODIN Protocol",
     "coingeckoID": "odin-protocol"
@@ -703,7 +729,7 @@
   },
   "nstk": {
     "localization": "en",
-    "name": "NSTK",
+    "name": "Unstake Fi",
     "symbol": "NSTK",
     "description": "The Revenue & Governance token of Unstake.fi"
   },
@@ -715,7 +741,7 @@
   },
   "nom": {
     "localization": "en",
-    "name": "Nom",
+    "name": "Onomy",
     "symbol": "NOM",
     "description": "The native token of Onomy Protocol",
     "coingeckoID": "onomy-protocol"
@@ -775,7 +801,7 @@
   },
   "mpwr": {
     "localization": "en",
-    "name": "MPWR",
+    "name": "EmpowerChain",
     "symbol": "MPWR",
     "description": "The native staking and governance token of Empower."
   },
@@ -789,7 +815,7 @@
   },
   "mnta": {
     "localization": "en",
-    "name": "MNTA",
+    "name": "MantaDAO",
     "symbol": "MNTA",
     "description": "MantaDAO Governance Token",
     "coingeckoID": "mantadao"
@@ -822,20 +848,20 @@
   },
   "medas": {
     "localization": "en",
-    "name": "Medas Digital",
+    "name": "Medas Digital Network",
     "symbol": "MEDAS",
     "description": "The native token of Medas Digital Network"
   },
   "med": {
     "localization": "en",
-    "name": "MediBloc",
+    "name": "Medibloc",
     "symbol": "MED",
     "description": "Panacea is a public blockchain launched by MediBloc, which is the key infrastructure for reinventing the patient-centered healthcare data ecosystem",
     "coingeckoID": "medibloc"
   },
   "mbrn": {
     "localization": "en",
-    "name": "MBRN",
+    "name": "Membrane",
     "symbol": "MBRN",
     "description": "Membrane's protocol token"
   },
@@ -852,7 +878,7 @@
     "coingeckoID": "mars-protocol-a7fcbcfb-fd61-4017-92f0-7ee9f9cc6da3",
     "twitterURL": "https://twitter.com/mars_protocol",
     "symbol": "MARS",
-    "name": "Mars"
+    "name": "Mars Hub"
   },
   "marble": {
     "localization": "en",
@@ -891,13 +917,13 @@
   },
   "lumen": {
     "localization": "en",
-    "name": "LUMEN",
+    "name": "LumenX",
     "symbol": "LUMEN",
     "description": "The native token of LumenX Network"
   },
   "lum": {
     "localization": "en",
-    "name": "Lum",
+    "name": "Lum Network",
     "symbol": "LUM",
     "description": "Native token of the Lum Network",
     "coingeckoID": "lum-network"
@@ -906,7 +932,7 @@
     "description": "The native token of Gitopia\n\nGitopia is the next-generation Code Collaboration Platform fuelled by a decentralized network and interactive token economy. It is designed to optimize the open-source software development process through collaboration, transparency, and incentivization.",
     "localization": "en",
     "coingeckoID": "gitopia",
-    "name": "LORE",
+    "name": "Gitopia",
     "symbol": "LORE",
     "twitterURL": "https://twitter.com/gitopiaDAO"
   },
@@ -957,7 +983,7 @@
     "coingeckoID": "kujira",
     "twitterURL": "https://twitter.com/TeamKujira",
     "symbol": "KUJI",
-    "name": "Kuji"
+    "name": "Kujira"
   },
   "ksm": {
     "localization": "en",
@@ -1004,7 +1030,7 @@
   },
   "ixo": {
     "localization": "en",
-    "name": "IXO",
+    "name": "ixo",
     "symbol": "IXO",
     "description": "The native token of IXO Chain",
     "coingeckoID": "ixo"
@@ -1032,9 +1058,10 @@
   },
   "ion": {
     "localization": "en",
-    "name": "Ion",
+    "name": "Ion DAO",
     "symbol": "ION",
-    "coingeckoID": "ion"
+    "coingeckoID": "ion",
+    "twitterURL": "https://twitter.com/_IONDAO"
   },
   "invdrs": {
     "localization": "en",
@@ -1052,15 +1079,21 @@
   },
   "imv": {
     "localization": "en",
-    "name": "IMV",
+    "name": "Imversed",
     "symbol": "IMV",
     "description": "The native EVM, governance and staking token of the Imversed",
     "coingeckoID": "imv"
   },
   "ibcx": {
     "localization": "en",
-    "name": "IBCX Core <Product of ION DAO>",
+    "name": "IBC Index",
     "symbol": "IBCX"
+  },
+  "hydrogen": {
+    "localization": "en",
+    "name": "Bostrom Hydrogen",
+    "symbol": "HYDROGEN",
+    "description": "The liquid staking token of Bostrom"
   },
   "huahua": {
     "localization": "en",
@@ -1085,14 +1118,14 @@
   },
   "hash": {
     "localization": "en",
-    "name": "Hash",
+    "name": "Provenance",
     "symbol": "HASH",
     "description": "Hash is the staking token of the Provenance Blockchain",
     "coingeckoID": "provenance-blockchain"
   },
   "hard": {
     "localization": "en",
-    "name": "Hard",
+    "name": "Kava Hard",
     "symbol": "HARD",
     "description": "Governance token of Kava Lend Protocol",
     "coingeckoID": "kava-lend"
@@ -1112,7 +1145,7 @@
   "grav": {
     "localization": "en",
     "description": "The native token of Gravity Bridge\n\nAn open, decentralized bridge that unlocks the power of interoperability & liquidity between blockchain ecosystems.",
-    "name": "Graviton",
+    "name": "Gravity Bridge",
     "symbol": "GRAV",
     "twitterURL": "https://twitter.com/gravity_bridge",
     "coingeckoID": "graviton"
@@ -1150,7 +1183,7 @@
   },
   "fx": {
     "localization": "en",
-    "name": "Function X",
+    "name": "f(x)Core",
     "symbol": "FX",
     "description": "The native staking token of the Function X",
     "coingeckoID": "fx-coin"
@@ -1164,7 +1197,7 @@
   },
   "fund": {
     "localization": "en",
-    "name": "Unification Network",
+    "name": "Unification",
     "symbol": "FUND",
     "description": "Staking and governance coin for the Unification Blockchain",
     "coingeckoID": "unification"
@@ -1198,14 +1231,14 @@
   "flix": {
     "description": "The native staking token of OmniFlix Hub.\n\nDecentralized media and network layer for Creators & Sovereign Communities powered by NFTs and related distribution protocols.",
     "localization": "en",
-    "name": "Flix",
+    "name": "OmniFlix",
     "twitterURL": "https://twitter.com/OmniFlixNetwork",
     "coingeckoID": "omniflix-network",
     "symbol": "FLIX"
   },
   "fis": {
     "localization": "en",
-    "name": "FIS",
+    "name": "StaFi Hub",
     "symbol": "FIS",
     "description": "The native staking and governance token of the StaFi Hub.",
     "coingeckoID": "stafi"
@@ -1214,12 +1247,12 @@
     "localization": "en",
     "name": "Filecoin",
     "symbol": "FIL",
-    "description": "Native token of Filecoin",
+    "description": "Filecoin is a decentralized storage network designed to turn cloud storage into an algorithmic market. The network facilitates open markets for storing and retrieving data, where users pay to store their files on storage miners. Filecoin is built on top of the InterPlanetary File System (IPFS), a peer-to-peer storage network. Filecoin aims to store data in a decentralized manner, unlike traditional cloud storage providers.\n\nParticipants in the Filecoin network are incentivized to act honestly and store as much data as possible because they earn the Filecoin cryptocurrency (FIL) in exchange for their storage services. This setup ensures the integrity and accessibility of data stored. Filecoin's model allows for a variety of storage options, including long-term archival storage and more rapid retrieval services, making it a versatile solution for decentralized data storage. The project, developed by Protocol Labs, also focuses on ensuring that data is stored reliably and efficiently.",
     "coingeckoID": "filecoin"
   },
   "fet": {
     "localization": "en",
-    "name": "fetch-ai",
+    "name": "Fetch.ai",
     "symbol": "FET",
     "description": "The native staking and governance token of the Fetch Hub.",
     "coingeckoID": "fetch-ai"
@@ -1236,7 +1269,7 @@
     "localization": "en",
     "name": "Ether",
     "symbol": "ETH",
-    "description": "Ether is the native fee token of the Ethereum network.",
+    "description": "Ethereum (ETH) is a decentralized, open-source blockchain system featuring smart contract functionality. It's the native cryptocurrency of the Ethereum platform, often regarded as the second most popular digital currency after Bitcoin. Ethereum was proposed in late 2013 and development was crowdfunded in 2014, leading to its network going live on 30 July 2015.\n\nETH, as a digital currency, is used for a variety of purposes within the Ethereum ecosystem, including the execution of decentralized smart contracts and as a mode of payment. Unlike Bitcoin, Ethereum was designed to be a platform for applications that can operate without the need for intermediaries, using blockchain technology. This has made Ethereum a leading platform for various applications, including decentralized finance (DeFi), non-fungible tokens (NFTs), and more. Ethereum is constantly evolving, with a significant upgrade termed Ethereum 2.0, which aims to improve its scalability, security, and sustainability.",
     "coingeckoID": "ethereum"
   },
   "eeur": {
@@ -1261,14 +1294,14 @@
   },
   "dys": {
     "localization": "en",
-    "name": "Dys",
+    "name": "Dyson Protocol",
     "symbol": "DYS",
     "description": "The native staking and governance token of the Dyson Protocol"
   },
   "dydx": {
     "description": "The native staking token of dYdX Protocol.\n\nOur goal is to build open source code that can power a first class product and trading experience.",
     "localization": "en",
-    "name": "dYdX",
+    "name": "dYdX Protocol",
     "symbol": "DYDX",
     "twitterURL": "https://twitter.com/dYdX",
     "coingeckoID": "dydx"
@@ -1340,7 +1373,7 @@
   },
   "darc": {
     "localization": "en",
-    "name": "DARC",
+    "name": "Konstellation",
     "symbol": "DARC",
     "description": "The native token of Konstellation Network",
     "coingeckoID": "darcmatter-coin"
@@ -1353,7 +1386,7 @@
     "coingeckoID": "dai",
     "grv": {
       "localization": "en",
-      "name": "Dai Stablecoin",
+      "name": "DAI Stablecoin (Gravity Bridge)",
       "symbol": "DAI.grv",
       "description": "Gravity Bridge DAI"
     }
@@ -1381,7 +1414,7 @@
   "cro": {
     "localization": "en",
     "description": "CRO is the native token of the Crypto.org Chain, referred to as Native CRO.\n\nCronos PoS Chain is a public, open-source and permissionless blockchain - a fully decentralized network with high speed and low fees, designed to be a public good that helps drive mass adoption of blockchain technology through use cases like Payments, DeFi and NFTs.",
-    "name": "Cronos",
+    "name": "Cronos POS Chain",
     "symbol": "CRO",
     "coingeckoID": "crypto-com-chain",
     "twitterURL": "https://twitter.com/cronos_chain"
@@ -1435,14 +1468,14 @@
   },
   "cheq": {
     "localization": "en",
-    "name": "cheqd",
+    "name": "Cheqd",
     "symbol": "CHEQ",
     "description": "Native token for the cheqd network",
     "coingeckoID": "cheqd-network"
   },
   "cdt": {
     "localization": "en",
-    "name": "CDT",
+    "name": "CDT Stablecoin",
     "symbol": "CDT",
     "description": "Membrane's CDP-style stablecoin called CDT"
   },
@@ -1509,7 +1542,7 @@
   },
   "boot": {
     "localization": "en",
-    "name": "Bostrom",
+    "name": "bostrom",
     "symbol": "BOOT",
     "description": "The staking token of Bostrom",
     "coingeckoID": "bostrom"
@@ -1609,7 +1642,7 @@
   "avalanche": {
     "usdc": {
       "localization": "en",
-      "name": "USD Coin",
+      "name": "USD Coin (Avalanche)",
       "symbol": "avalanche.USDC",
       "description": "USDC is a fully collateralized US Dollar stablecoin developed by CENTRE, the open source project with Circle being the first of several forthcoming issuers.",
       "coingeckoID": "usd-coin"
@@ -1625,7 +1658,7 @@
   },
   "atolo": {
     "localization": "en",
-    "name": "Rizon Chain",
+    "name": "Rizon",
     "symbol": "ATOLO",
     "description": "Native token of Rizon Chain",
     "coingeckoID": "rizon"
@@ -1645,7 +1678,7 @@
   },
   "arkh": {
     "localization": "en",
-    "name": "Arkh",
+    "name": "Arkhadian",
     "symbol": "ARKH",
     "description": "The native token of Arkhadian"
   },
@@ -1705,7 +1738,7 @@
   },
   "akt": {
     "localization": "en",
-    "name": "Akash Network",
+    "name": "Akash",
     "symbol": "AKT",
     "description": "Akash Token (AKT) is the Akash Network's native utility token, used as the primary means to govern, secure the blockchain, incentivize participants, and provide a default mechanism to store and exchange value.\n\nAkash is open-source Supercloud that lets users buy and sell computing resources securely and efficiently. Purpose-built for public utility.",
     "twitterURL": "https://twitter.com/akashnet_",
@@ -1713,7 +1746,7 @@
   },
   "acre": {
     "localization": "en",
-    "name": "Acre",
+    "name": "Acrechain",
     "symbol": "ACRE",
     "description": "The native EVM, governance and staking token of the Acrechain",
     "coingeckoID": "arable-protocol"
@@ -1724,5 +1757,11 @@
     "symbol": "AAVE",
     "description": "Aave is an Open Source and Non-Custodial protocol to earn interest on deposits & borrow assets. It also features access to highly innovative flash loans, which let developers borrow instantly and easily; no collateral needed. With 16 different assets, 5 of which are stablecoins.",
     "coingeckoID": "aave"
+  },
+  "a": {
+    "localization": "en",
+    "name": "Bostrom Ampere",
+    "symbol": "A",
+    "description": "The resource token of Bostrom"
   }
 }

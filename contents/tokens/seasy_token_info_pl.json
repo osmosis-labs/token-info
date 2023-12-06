@@ -2,6 +2,5 @@
   "localization": "pl",
   "name": "StakeEasy SEASY",
   "symbol": "SEASY",
-  "description": "Token zarządzania StakeEasy",
-  "coingeckoID": "seasy"
+  "description": "Token zarządzania StakeEasy"
 }

@@ -1,6 +1,7 @@
 {
   "description": "Somm 代币 (SOMM) 是 Sommelier Chain AutomatedVault 的原生质押代币，可在降低风险的同时找到一流的收益。",
-  "name": "Somm",
+  "localization": "zh",
+  "name": "Sommelier",
   "symbol": "SOMM",
   "coingeckoID": "sommelier",
   "twitterURL": "https://twitter.com/sommfinance"

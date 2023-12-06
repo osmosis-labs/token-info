@@ -1,6 +1,5 @@
 {
-  "localization": "pt",
-  "name": "Function X",
+  "name": "f(x)Core",
   "symbol": "FX",
   "description": "O token de piquetagem nativo da Função X",
   "coingeckoID": "fx-coin"

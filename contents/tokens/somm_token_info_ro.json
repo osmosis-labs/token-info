@@ -1,6 +1,7 @@
 {
   "description": "Somm Token (SOMM) este tokenul nativ de miză al seifurilor automate de Sommelier Chain găsește cele mai bune randamente din clasă, reducând în același timp riscul.",
-  "name": "Somm",
+  "localization": "ro",
+  "name": "Sommelier",
   "symbol": "SOMM",
   "coingeckoID": "sommelier",
   "twitterURL": "https://twitter.com/sommfinance"

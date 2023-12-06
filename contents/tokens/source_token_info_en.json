@@ -1,0 +1,7 @@
+{
+  "localization": "en",
+  "name": "Source",
+  "symbol": "SOURCE",
+  "description": "The native token of SOURCE Chain",
+  "coingeckoID": "source"
+}

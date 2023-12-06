@@ -1,6 +1,6 @@
 {
   "localization": "tr",
-  "name": "stATOM",
+  "name": "Stride Staked ATOM",
   "symbol": "stATOM",
   "description": "Cosmos Hub'ın yerel stake ve yönetişim tokenı.",
   "coingeckoID": "stride-staked-atom"

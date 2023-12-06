@@ -2,7 +2,7 @@
   "yieldeth": {
     "localization": "en",
     "name": "ETH بازده واقعی",
-    "symbol": "عملکرد ETH",
+    "symbol": "بازده ETH",
     "description": "بازده ETH را از طریق سهام اهرمی در Aave، Compound و Morpho و تامین نقدینگی توکن‌های اشتراک مایع ETH در Uniswap V3 به حداکثر برسانید."
   },
   "xprt": {
@@ -13,8 +13,7 @@
     "twitterURL": "https://twitter.com/PersistenceOne"
   },
   "xpla": {
-    "localization": "en",
-    "name": "Xpla",
+    "name": "XPLA",
     "symbol": "XPLA",
     "description": "توکن بومی شرط بندی XPLA.",
     "coingeckoID": "xpla"
@@ -23,8 +22,7 @@
     "localization": "en",
     "name": "کی",
     "symbol": "XKI",
-    "description": "نشانه بومی کی چین",
-    "coingeckoID": "کی"
+    "description": "نشانه بومی کی چین"
   },
   "xcn": {
     "localization": "en",
@@ -42,17 +40,18 @@
   "wsteth": {
     "localization": "en",
     "name": "بسته بندی شده Lido Staked Ether",
-    "symbol": "wstETH",
     "description": "wstETH یک نسخه پیچیده از stETH است. از آنجایی که برخی از پروتکل‌های DeFi نیاز به مکانیزم تعادل ثابت برای توکن‌ها دارند، wstETH تعادل stETH شما را ثابت نگه می‌دارد و از یک سیستم اشتراک زیربنایی برای منعکس کردن پاداش‌های شرط‌بندی کسب‌شده شما استفاده می‌کند.",
+    "coingeckoID": "پیچیده شده-steth",
     "axl": {
+      "localization": "en",
       "name": "بسته بندی شده Lido Staked Ether",
       "symbol": "wstETH.axl",
-      "description": "wstETH یک نسخه پیچیده از stETH است. از آنجایی که برخی از پروتکل‌های DeFi به مکانیزم تعادل ثابت برای توکن‌ها نیاز دارند، wstETH تعادل stETH شما را ثابت نگه می‌دارد و از یک سیستم اشتراک زیربنایی برای منعکس کردن پاداش‌های شرط‌بندی کسب‌شده شما استفاده می‌کند."
+      "description": "wstETH یک نسخه پیچیده از stETH است. از آنجایی که برخی از پروتکل‌های DeFi نیاز به مکانیزم تعادل ثابت برای توکن‌ها دارند، wstETH تعادل stETH شما را ثابت نگه می‌دارد و از یک سیستم اشتراک زیربنایی برای منعکس کردن پاداش‌های شرط‌بندی کسب‌شده شما استفاده می‌کند."
     }
   },
   "whale": {
     "localization": "en",
-    "name": "نهنگ",
+    "name": "میگالو",
     "symbol": "نهنگ",
     "description": "نشانه بومی زنجیره میگالو",
     "coingeckoID": "نهنگ سفید"
@@ -66,7 +65,7 @@
     },
     "grv": {
       "localization": "en",
-      "name": "اتریوم پیچیده شده",
+      "name": "اتر (پل جاذبه)",
       "symbol": "WETH.grv",
       "description": "پل جاذبه WETH"
     }
@@ -76,9 +75,9 @@
     "name": "بیت کوین پیچیده شده",
     "symbol": "WBTC",
     "description": "بیت کوین پیچیده (WBTC) یک توکن ERC20 است که با بیت کوین 1:1 پشتیبانی می شود. کاملا شفاف 100% قابل تایید جامعه رهبری شد.",
-    "coingeckoID": "بیت کوین پیچیده شده",
     "grv": {
       "localization": "en",
+      "name": "بیت کوین پیچیده (پل جاذبه)",
       "symbol": "WBTC.grv",
       "description": "پل جاذبه WBTC"
     }
@@ -98,23 +97,31 @@
   "vdl": {
     "localization": "en",
     "name": "ویدولوم",
+    "symbol": "VDL",
     "description": "نشانه بومی Vidulum",
     "coingeckoID": "ویدولوم"
   },
+  "v": {
+    "localization": "en",
+    "name": "بوستروم ولت",
+    "symbol": "V",
+    "description": "نشانه منبع Bostrom"
+  },
   "ustc": {
+    "localization": "en",
     "name": "TerraClassicUSD",
+    "symbol": "USTC",
     "description": "استیبل کوین USD Terra Classic.",
-    "coingeckoID": "خاکی"
+    "coingeckoID": "خاکستری"
   },
   "usk": {
-    "localization": "en",
     "name": "USK",
     "symbol": "USK",
     "description": "استیبل کوین بومی با بیش از حد وثیقه از زنجیره کوجیرا."
   },
   "usdx": {
     "localization": "en",
-    "name": "USDX",
+    "name": "کاوا USDX",
     "symbol": "USDX",
     "description": "استیبل کوین بومی کاوا",
     "coingeckoID": "usdx"
@@ -122,7 +129,8 @@
   "usdt": {
     "localization": "en",
     "name": "تتر USD",
-    "description": "تتر با تبدیل پول نقد شما به معادل ارز دیجیتال پایدار، مزایای مشترک فناوری بلاک چین باز و ارز سنتی را به شما می دهد.",
+    "description": "تتر با تبدیل پول نقد شما به یک معادل ارز دیجیتال پایدار، مزایای مشترک فناوری بلاک چین باز و ارز سنتی را به شما می دهد.",
+    "coingeckoID": "متصل کردن",
     "wh": {
       "localization": "en",
       "name": "Tether USD (Wormhole)",
@@ -131,9 +139,9 @@
     },
     "grv": {
       "localization": "en",
-      "name": "تتر USD",
+      "name": "Tether USD (پل جاذبه)",
       "symbol": "USDT.grv",
-      "description": "پل گرانشی USDT"
+      "description": "پل جاذبه USDT"
     },
     "axl": {
       "localization": "en",
@@ -144,18 +152,17 @@
   },
   "usdc": {
     "localization": "en",
-    "name": "سکه USD",
     "symbol": "USDC",
     "description": "USDC یک استیبل کوین کاملاً وثیقه شده به دلار آمریکا است که توسط CENTRE توسعه یافته است، پروژه منبع باز با Circle اولین صادرکننده از چندین صادرکننده آینده است.",
-    "coingeckoID": "USD-coin",
     "wh": {
+      "localization": "en",
       "name": "سکه USD (Wormhole)",
       "symbol": "USDC.wh",
       "description": "سکه USD (Wormhole)، USDC، کارخانه/wormhole14ejqjyq8um4p3xfqj74yld5waqljf88fz25yxnma0cngspxe3les00fpjx/GGh9Ufn1SeDGrhzEkMyRKt55K2PWbtx"
     },
     "grv": {
       "localization": "en",
-      "name": "سکه USD",
+      "name": "سکه USD (پل جاذبه)",
       "symbol": "USDC.grv",
       "description": "پل جاذبه USDC"
     },
@@ -171,11 +178,11 @@
     "localization": "en",
     "name": "Unswap",
     "symbol": "UNI",
-    "description": "توکن UNI به عنوان نشانه حاکمیتی برای پروتکل Uniswap با 1 میلیارد UNI در زمان پیدایش ضرب شده است. 60 درصد از عرضه UNI genesis به اعضای انجمن Uniswap اختصاص داده شده و برای تیم، سرمایه گذاران و مشاوران باقی می ماند.",
-    "coingeckoID": "unswap"
+    "description": "توکن UNI به عنوان نشانه حاکمیتی برای پروتکل Uniswap با 1 میلیارد UNI در زمان پیدایش ضرب شده است. 60 درصد از عرضه UNI genesis به اعضای انجمن Uniswap اختصاص داده شده و برای تیم، سرمایه گذاران و مشاوران باقی می ماند."
   },
   "umee": {
     "localization": "en",
+    "name": "اومی",
     "symbol": "UMEE",
     "description": "نشانه بومی Umee",
     "coingeckoID": "اومی"
@@ -187,14 +194,20 @@
     "description": "نشانه بومی Teritori",
     "coingeckoID": "teritori"
   },
+  "tocyb": {
+    "localization": "en",
+    "name": "بوستروم توسیب",
+    "symbol": "TOCYB",
+    "description": "نشانه شرط بندی سایبر"
+  },
   "tick": {
     "localization": "en",
     "name": "میکروتیک",
+    "symbol": "تیک بزنید",
     "description": "TICK coin نشانه اپلیکیشن Microtick Price Discovery &amp; Oracle است"
   },
   "tia": {
     "localization": "en",
-    "name": "سلستیا",
     "symbol": "TIA",
     "twitterURL": "https://twitter.com/CelestiaOrg",
     "coingeckoID": "سلستیا",
@@ -216,7 +229,7 @@
   },
   "swp": {
     "localization": "en",
-    "name": "تعویض کنید",
+    "name": "کاوا سوآپ",
     "symbol": "SWP",
     "description": "نشانه حاکمیت پروتکل مبادله کاوا",
     "coingeckoID": "kava-swap"
@@ -236,19 +249,19 @@
   },
   "stumee": {
     "localization": "en",
-    "name": "stUMEE",
+    "name": "گام به گام UMEE",
     "symbol": "stUMEE",
     "description": "نشانه بومی Umee"
   },
   "ststars": {
     "localization": "en",
-    "name": "stSTARS",
+    "name": "ستارگان گام به گام",
     "symbol": "stSTARS",
     "description": "نشانه بومی Stargaze"
   },
   "stsomm": {
     "localization": "en",
-    "name": "stSOMM",
+    "name": "گام به گام SOMM",
     "symbol": "stSOMM",
     "description": "توکن Somm (SOMM) نماد سهامداری بومی زنجیره Sommelier است"
   },
@@ -268,13 +281,13 @@
   },
   "stosmo": {
     "localization": "en",
-    "name": "stOSMO",
+    "name": "Stride Staked OSMO",
     "symbol": "stOSMO",
     "description": "نشانه بومی اسمز"
   },
   "stluna": {
     "localization": "en",
-    "name": "stLUNA",
+    "name": "LUNA گام برداشت",
     "symbol": "stLUNA",
     "description": "نشانه بومی ترا."
   },
@@ -294,23 +307,23 @@
   },
   "stjuno": {
     "localization": "en",
-    "name": "stJUNO",
+    "name": "Stride Staked JUNO",
     "symbol": "stJUNO",
     "description": "نشانه بومی زنجیره JUNO"
   },
   "stibcx": {
     "localization": "en",
-    "name": "هسته stIBCX<Product of ION DAO>",
+    "name": "سهامدار IBCX",
     "symbol": "stIBCX"
   },
   "stevmos": {
     "localization": "en",
-    "name": "stEVMOS",
+    "name": "EVMOS Stride Staked",
     "symbol": "stEVMOS"
   },
   "statom": {
     "localization": "en",
-    "name": "STATOM",
+    "name": "گام به گام ATOM",
     "symbol": "STATOM",
     "description": "نشانه اصلی سهامداری و حکمرانی Cosmos Hub.",
     "coingeckoID": "اتم گام به گام"
@@ -320,7 +333,6 @@
     "description": "توکن بومی Stargaze برترین بلاک چین متمرکز بر جامعه برای NFTها. Stargaze به سازندگان، توسعه دهندگان، کلکسیونرها و معامله گران قدرت می دهد تا در پلتفرم شرکت کنند. زنجیره Stargaze از برنامه‌های مختلف مرتبط با NFT مانند Launchpad و یک بازار با پیشنهادات و حراج‌ها تشکیل شده است.",
     "name": "ستارگان",
     "symbol": "ستاره ها",
-    "coingeckoID": "نگاه ستارگان",
     "twitterURL": "https://twitter.com/StargazeZone"
   },
   "sqosmo": {
@@ -330,7 +342,6 @@
     "description": "توکن قدرت حاشیه دار sqOSMO"
   },
   "sqbtc": {
-    "localization": "en",
     "name": "بیت کوین مربع",
     "symbol": "sqBTC",
     "description": "توکن پاور حاشیه sqBTC"
@@ -347,10 +358,18 @@
     "symbol": "SPACER",
     "description": "اسپیسر"
   },
+  "source": {
+    "localization": "en",
+    "name": "منبع",
+    "symbol": "منبع",
+    "description": "نشانه بومی زنجیره SOURCE"
+  },
   "somm": {
     "description": "توکن Somm (SOMM) نماد سهامداری بومی خزانه های خودکار زنجیره ای Sommelier است که بهترین بازدهی را در کلاس خود و در عین حال کاهش ریسک پیدا می کند.",
-    "name": "سام",
+    "localization": "en",
+    "name": "سوملیه",
     "symbol": "SOMM",
+    "coingeckoID": "ساملیه",
     "twitterURL": "https://twitter.com/sommfinance"
   },
   "solar": {
@@ -360,7 +379,6 @@
     "description": "Solarbank DAO Governance Token برای تسریع حرکت به سمت انرژی های تجدیدپذیر و سبز"
   },
   "sol": {
-    "localization": "en",
     "name": "سولانا",
     "symbol": "SOL",
     "description": "سولانا (SOL) دارایی اصلی بلاک چین سولانا است.",
@@ -386,9 +404,9 @@
   },
   "sienna": {
     "localization": "en",
-    "name": "سینا",
     "symbol": "سینا",
-    "description": "توکن بومی cw20 برای SIENNA در شبکه مخفی"
+    "description": "توکن بومی cw20 برای SIENNA در شبکه مخفی",
+    "coingeckoID": "سینا"
   },
   "shibac": {
     "localization": "en",
@@ -399,9 +417,7 @@
   "shib": {
     "localization": "en",
     "name": "شیبا اینو",
-    "symbol": "SHIB",
-    "description": "SHIBA INU یک آزمایش اجتماعی 100٪ غیرمتمرکز است که در آن ادعا می کند که 1/2 توکن ها به Vitalik ارسال شده اند و نیمی دیگر در یک استخر Uniswap قفل شده و کلیدها سوخته اند.",
-    "coingeckoID": "شیبا-اینو"
+    "description": "SHIBA INU یک آزمایش اجتماعی 100٪ غیرمتمرکز است که در آن ادعا می کند که 1/2 توکن ها به Vitalik ارسال شده اند و نیمی دیگر در یک استخر Uniswap قفل شده و کلیدها سوخته اند."
   },
   "shd": {
     "localization": "en",
@@ -420,7 +436,8 @@
     "localization": "en",
     "name": "SGE",
     "symbol": "SGE",
-    "description": "توکن بومی شبکه SGE"
+    "description": "توکن بومی شبکه SGE",
+    "coingeckoID": "شش سیگما"
   },
   "sfrxeth": {
     "localization": "en",
@@ -439,7 +456,6 @@
   "sei": {
     "description": "نشانه بومی سای. Sei سریعترین بلاک چین لایه 1 است که برای مقیاس پذیری با صنعت طراحی شده است.",
     "localization": "en",
-    "name": "سی",
     "symbol": "SEI",
     "twitterURL": "https://twitter.com/SeiNetwork",
     "coingeckoID": "شبکه sei"
@@ -448,20 +464,19 @@
     "localization": "en",
     "name": "StakeEasy SEASY",
     "symbol": "SEASY",
-    "description": "نشانه حکمرانی StakeEasy",
-    "coingeckoID": "دریایی"
+    "description": "نشانه حکمرانی StakeEasy"
   },
   "scrt": {
     "localization": "en",
     "symbol": "SCRT",
     "name": "شبکه مخفی",
-    "description": "توکن اصلی شبکه مخفی شبکه مخفی اولین بلاک چین با حریم خصوصی قابل تنظیم است. شما باید انتخاب کنید که چه چیزی، با چه کسی و چگونه به اشتراک بگذارید. این از کاربران محافظت می کند و به توسعه دهندگان قدرت می دهد تا یک Web3 بهتر بسازند.",
+    "description": "توکن بومی شبکه مخفی شبکه مخفی اولین بلاک چین با حریم خصوصی قابل تنظیم است. شما باید انتخاب کنید که چه چیزی، با چه کسی و چگونه به اشتراک بگذارید. این از کاربران محافظت می کند و به توسعه دهندگان قدرت می دهد تا یک Web3 بهتر بسازند.",
     "twitterURL": "https://twitter.com/SecretNetwork",
     "coingeckoID": "راز"
   },
   "rowan": {
     "localization": "en",
-    "name": "سیف چین روون",
+    "name": "سیف چین",
     "symbol": "روآن",
     "description": "Rowan Token (ROWAN) توکن ابزار بومی شبکه Sifchain است که به عنوان ابزار اصلی برای اداره کردن، تامین نقدینگی، ایمن سازی بلاک چین، ایجاد انگیزه در شرکت کنندگان و ارائه مکانیزم پیش فرض برای ذخیره و تبادل ارزش استفاده می شود.",
     "coingeckoID": "زنجیره سیف"
@@ -470,7 +485,7 @@
     "localization": "en",
     "name": "شیر DAO",
     "symbol": "غرش",
-    "description": "Lion DAO یک انجمن DAO است که بر روی بلاک چین Terra زندگی می کند و ماموریت دارد تا جامعه LUNAtic را دوباره فعال کند و پروتکل ها و ابزار Terra را به نمایش بگذارد."
+    "description": "Lion DAO یک انجمن DAO است که روی بلاک چین Terra زندگی می کند و ماموریت دارد تا جامعه LUNAtic را دوباره فعال کند و پروتکل ها و ابزار Terra را به نمایش بگذارد."
   },
   "rio": {
     "localization": "en",
@@ -480,19 +495,15 @@
     "coingeckoID": "realio-network"
   },
   "reth": {
-    "localization": "en",
     "name": "راکت استخر اتر",
-    "symbol": "rETH",
     "description": "Rocket Pool یک استخر غیرمتمرکز اثبات سهام اتریوم است.",
     "coingeckoID": "موشک-استخر-eth"
   },
   "regen": {
     "localization": "en",
-    "name": "شبکه Regen",
     "symbol": "REGEN",
-    "description": "سکه REGEN نشانه شبکه Regen Platform Platform است، پلت فرمی برای ایجاد و سرمایه گذاری در اعتبارات کربن و تنوع زیستی با یکپارچگی بالا از پروژه های بازسازی زیست محیطی.",
-    "twitterURL": "https://twitter.com/regen_network",
-    "coingeckoID": "regen"
+    "description": "سکه REGEN نشانه شبکه Regen Platform Platform است، پلتفرمی برای ایجاد و سرمایه‌گذاری در اعتبارات کربن و تنوع زیستی با یکپارچگی بالا از پروژه‌های بازسازی اکولوژیکی.",
+    "twitterURL": "https://twitter.com/regen_network"
   },
   "rebus": {
     "localization": "en",
@@ -524,13 +535,12 @@
   "rac": {
     "localization": "en",
     "name": "راکون",
-    "symbol": "RAC",
     "description": "Racoon قصد دارد دسترسی به هوش مصنوعی، NFT و قمار در اکوسیستم کیهان را ساده کند.",
     "coingeckoID": "راکون"
   },
   "qwoyn": {
     "localization": "en",
-    "name": "بلاک چین Qwoyn",
+    "name": "قویون",
     "symbol": "QWOYN",
     "description": "QWOYN نشانه حاکمیت بومی برای شبکه Qwoyn است"
   },
@@ -543,7 +553,6 @@
   "qsr": {
     "description": "توکن بومی Quasar Quasar اولین پلتفرم مدیریت دارایی غیرمتمرکز (DAM) است که توسط IBC فعال شده است. یک تجربه DeFi بین زنجیره ای ایمن، بدون مجوز، قابل ترکیب و متنوع بالاخره آمد.",
     "localization": "en",
-    "name": "کوازار",
     "symbol": "QSR",
     "twitterURL": "https://twitter.com/QuasarFi",
     "coingeckoID": "اختروش-2"
@@ -555,7 +564,6 @@
     "description": "Quicksilver Liquid Staked SOMM"
   },
   "qregen": {
-    "localization": "en",
     "name": "Quicksilver Liquid Staked Regen",
     "symbol": "qREGEN",
     "description": "Quicksilver Liquid Staked REGEN"
@@ -569,16 +577,20 @@
   "qck": {
     "description": "QCK - توکن اصلی Quicksilver Liquid دارایی‌های Cosmos خود را با اعتباردهنده دلخواه خود به اشتراک بگذارید و دارایی‌های سهامدار مایع (qASSETs) را دریافت کنید که می‌توانید از آنها برای مبادله، ادغام، وام دادن و موارد دیگر استفاده کنید، در حالی که سهام اصلی شما از ایمن کردن شبکه، APY سهام را به دست می‌آورد.",
     "localization": "en",
-    "coingeckoID": "نقره ای",
     "name": "Quicksilver",
-    "twitterURL": "https://twitter.com/quicksilverzone",
-    "symbol": "QCK"
+    "twitterURL": "https://twitter.com/quicksilverzone"
   },
   "qatom": {
     "localization": "en",
     "name": "Quicksilver Liquid Staked ATOM",
     "symbol": "qATOM",
     "description": "Quicksilver Liquid Staked ATOM"
+  },
+  "pyth": {
+    "localization": "en",
+    "symbol": "PYTH",
+    "description": "Pyth پروتکلی است که به فعالان بازار اجازه می دهد اطلاعات قیمت گذاری را در زنجیره منتشر کنند تا دیگران از آن استفاده کنند. این پروتکل تعاملی بین سه طرف است: -ناشران اطلاعات قیمت را به برنامه اوراکل Pyth ارسال می کنند. Pyth چندین ناشر داده برای هر محصول دارد تا دقت و استحکام سیستم را بهبود بخشد. -برنامه اوراکل Pyth داده های ناشران را برای تولید یک قیمت کل و فاصله اطمینان ترکیب می کند. مصرف کنندگان اطلاعات قیمت تولید شده توسط برنامه اوراکل را می خوانند. برنامه Oracle Pyth به طور همزمان بر روی شبکه اصلی Solana و Pythnet اجرا می شود. هر نمونه از برنامه مسئول مجموعه فیدهای قیمت خود است. فیدهای قیمت Solana برای استفاده توسط پروتکل های Solana در دسترس هستند. در این حالت، از آنجایی که خود برنامه اوراکل روی Solana اجرا می شود، قیمت های حاصل بلافاصله بدون نیاز به کار اضافی در دسترس مصرف کنندگان قرار می گیرد. فید قیمت Pythnet بر روی 12 بلاک چین در دسترس است. قیمت‌های ساخته شده در Pythnet به صورت زنجیره‌ای متقاطع منتقل می‌شوند تا به مصرف‌کنندگان در این بلاک‌چین‌ها برسد. در هر دو مورد، جزء حیاتی سیستم، برنامه اوراکل است که داده‌های هر ناشر را ترکیب می‌کند. این برنامه تعدادی حساب مختلف Solana را نگهداری می کند که محصولات موجود در Pyth و اطلاعات قیمت فعلی آنها را فهرست می کند. ناشران قیمت و اطمینان خود را با تعامل با برنامه اوراکل در هر شکاف منتشر می کنند. این برنامه این اطلاعات را در حساب های خود ذخیره می کند. اولین به‌روزرسانی قیمت در یک اسلات علاوه بر این باعث تجمیع قیمت می‌شود، که داده‌های قیمت از اسلات قبلی را در یک قیمت مجموع و فاصله اطمینان ترکیب می‌کند. این قیمت کل به حساب Solana نوشته می شود، جایی که توسط سایر برنامه های زنجیره ای قابل خواندن است و برای انتقال به سایر بلاک چین ها در دسترس است.",
+    "coingeckoID": "pyth-network"
   },
   "pstake": {
     "localization": "en",
@@ -590,7 +602,7 @@
   "polygon": {
     "usdc": {
       "localization": "en",
-      "name": "سکه USD",
+      "name": "سکه USD (چند ضلعی)",
       "symbol": "چند ضلعی.USDC",
       "description": "USDC یک استیبل کوین کاملاً وثیقه شده به دلار آمریکا است که توسط CENTRE توسعه یافته است، پروژه منبع باز با Circle اولین صادرکننده از چندین صادرکننده آینده است.",
       "coingeckoID": "USD-coin"
@@ -606,13 +618,11 @@
   "pica": {
     "description": "نشانه اصلی سهامداری و حاکمیت Composable. Composable لایه پایه است که L1s و L2s را به هم متصل می کند. ما IBC را به سایر اکوسیستم‌ها افزایش می‌دهیم، و مرزهای قابلیت همکاری با حداقل اعتماد را پیش می‌بریم. ما تجربه زنجیره‌ای متقابل را برای کاربران انتزاعی می‌کنیم، و اجرای یکپارچه زنجیره‌ای-اگنوستیکی اهداف کاربر را ارائه می‌کنیم.",
     "localization": "en",
-    "name": "پیکا",
     "symbol": "پیکا",
     "coingeckoID": "پیکاسو",
     "twitterURL": "https://twitter.com/ComposableFin"
   },
   "phmn": {
-    "localization": "en",
     "name": "پس از انسان",
     "symbol": "PHMN",
     "description": "توکن بومی cw20 برای PHMN در Juno Chain",
@@ -626,8 +636,7 @@
   },
   "pepe": {
     "localization": "en",
-    "name": "PEPE - پپه",
-    "symbol": "PEPE",
+    "name": "پپه",
     "coingeckoID": "پپه"
   },
   "pasg": {
@@ -640,9 +649,7 @@
   "osmo": {
     "localization": "en",
     "name": "اسمز",
-    "symbol": "OSMO",
-    "description": "توکن بومی اسموز اسموز (OSMO) یک صرافی غیرمتمرکز (DEX) برای Cosmos است، اکوسیستمی از زنجیره‌های بلوکی مستقل و قابل تعامل که همگی به‌طور بی‌اعتماد از طریق IBC، پروتکل ارتباطات بین بلاک‌چینی، متصل هستند. اسموز همچنین دارایی های غیر IBC را ارائه می دهد که از اکوسیستم های اتریوم و پولکادوت پل شده اند. نقدینگی Supercharged Osmosis یک مکانیزم استخر نقدینگی کارآمد مشابه نقدینگی متمرکز Uniswap را پیاده‌سازی می‌کند و به کارایی سرمایه بهبود یافته دست می‌یابد و به ارائه‌دهندگان نقدینگی اجازه می‌دهد تا برای کارمزدها و مشوق‌های کسب‌شده رقابت کنند. Osmosis به عنوان یک DEX appchain کنترل بیشتری بر پشته بلاک چین کامل نسبت به DEXهایی دارد که باید از کد یک زنجیره مادر پیروی کنند. این کنترل دقیق، برای مثال، توسعه Superfluid Staking، بهبود امنیت اثبات سهام را ممکن کرده است. شرط بندی Superfluid به OSMO زیربنایی در موقعیت LP اجازه می دهد تا به امنیت زنجیره بیافزاید و برای انجام این کار جوایزی کسب کند. قابلیت سفارشی‌سازی اپ‌چین‌ها همچنین امکان توسعه یک مخزن تراکنش محافظت شده با رمزگذاری آستانه را فراهم می‌کند که تا حد زیادی MEV مضر در اسمز را کاهش می‌دهد. چشم انداز Osmosis ساخت یک DEX بومی زنجیره ای و مجموعه معاملاتی است که همه زنجیره ها را از طریق IBC، از جمله اتریوم و بیت کوین، به هم متصل می کند. برای ایجاد قابلیت‌های معاملاتی، Osmosis از توسعه‌دهندگان خارجی دعوت کرده است تا یک اکوسیستم سفارشی DEX ایجاد کنند که شامل وام، اعتبار، حاشیه، رمپ‌های فیات، خزانه‌های استراتژی Defi، NFT، استیبل کوین و موارد دیگر می‌شود - همه عملکردهای یک صرافی متمرکز و بیشتر، به علاوه اعتماد به حداقل رساندن تامین مالی غیرمتمرکز.",
-    "coingeckoID": "اسمز",
+    "description": "توکن بومی اسموز اسموز (OSMO) یک صرافی غیرمتمرکز (DEX) برای Cosmos است، اکوسیستمی از زنجیره‌های بلوکی مستقل و قابل همکاری که همه به‌طور مطمئن از طریق IBC، پروتکل ارتباطات بین بلاک‌چین، متصل هستند. اسموز همچنین دارایی های غیر IBC را ارائه می دهد که از اکوسیستم های اتریوم و پولکادوت پل شده اند. نقدینگی Supercharged Osmosis یک مکانیزم استخر نقدینگی کارآمد مشابه نقدینگی متمرکز Uniswap را پیاده‌سازی می‌کند و به کارایی سرمایه بهبود یافته دست می‌یابد و به ارائه‌دهندگان نقدینگی اجازه می‌دهد تا برای کارمزدها و مشوق‌های کسب‌شده رقابت کنند. Osmosis به عنوان یک DEX appchain کنترل بیشتری بر پشته بلاک چین کامل نسبت به DEXهایی دارد که باید از کد یک زنجیره مادر پیروی کنند. این کنترل دقیق، برای مثال، توسعه Superfluid Staking، بهبود امنیت اثبات سهام را ممکن کرده است. شرط بندی Superfluid به OSMO زیربنایی در موقعیت LP اجازه می دهد تا به امنیت زنجیره بیافزاید و برای انجام این کار جوایزی کسب کند. قابلیت سفارشی‌سازی اپ‌چین‌ها همچنین امکان توسعه یک مخزن تراکنش محافظت شده با رمزگذاری آستانه را فراهم می‌کند، که تا حد زیادی MEV مضر در اسمز را کاهش می‌دهد. چشم انداز Osmosis ساخت یک DEX بومی زنجیره ای و مجموعه معاملاتی است که همه زنجیره ها را از طریق IBC، از جمله اتریوم و بیت کوین، به هم متصل می کند. برای ایجاد قابلیت‌های معاملاتی، Osmosis از توسعه‌دهندگان خارجی دعوت کرده است تا یک اکوسیستم سفارشی DEX ایجاد کنند که شامل وام، اعتبار، حاشیه، رمپ‌های فیات، خزانه‌های استراتژی Defi، NFT، استیبل کوین‌ها و موارد دیگر می‌شود - همه عملکردهای یک صرافی متمرکز و بیشتر، به علاوه اعتماد به حداقل رساندن تامین مالی غیرمتمرکز.",
     "twitterURL": "https://twitter.com/osmosiszone"
   },
   "osdoge": {
@@ -666,7 +673,7 @@
   },
   "odin": {
     "localization": "en",
-    "name": "ODIN",
+    "name": "پروتکل اودین",
     "symbol": "ODIN",
     "description": "توکن سهامداری و حاکمیت برای پروتکل ODIN",
     "coingeckoID": "odin-protocol"
@@ -687,7 +694,7 @@
   },
   "nstk": {
     "localization": "en",
-    "name": "NSTK",
+    "name": "Unstake Fi",
     "symbol": "NSTK",
     "description": "نشانه درآمد و حکومت Unstake.fi"
   },
@@ -699,14 +706,14 @@
   },
   "nom": {
     "localization": "en",
-    "name": "نام",
+    "name": "اونومی",
     "symbol": "NOM",
     "description": "توکن بومی پروتکل Onomy",
     "coingeckoID": "onomy-protocol"
   },
   "nois": {
     "localization": "en",
-    "symbol": "NOIS",
+    "name": "سر و صدا",
     "description": "نشانه بومی Nois"
   },
   "nls": {
@@ -714,19 +721,16 @@
     "localization": "en",
     "coingeckoID": "نولوس",
     "twitterURL": "https://twitter.com/NolusProtocol",
-    "name": "نولوس",
-    "symbol": "NLS"
+    "name": "نولوس"
   },
   "ngm": {
     "localization": "en",
     "name": "پول الکترونیکی",
-    "symbol": "NGM",
     "description": "رمز سهام NGM e-Money. علاوه بر کسب جوایز سهام، این توکن بر اساس تورم استیبل کوین پول الکترونیکی بازخرید و سوزانده می شود.",
     "coingeckoID": "پول الکترونیکی"
   },
   "neta": {
     "localization": "en",
-    "name": "نتا",
     "symbol": "NETA",
     "description": "توکن بومی cw20 برای Neta در Juno Chain",
     "coingeckoID": "نتا"
@@ -758,20 +762,20 @@
   },
   "mpwr": {
     "localization": "en",
-    "name": "MPWR",
-    "symbol": "MPWR",
+    "name": "EmpowerChain",
     "description": "نماد بومی و حاکمیتی توانمندسازی."
   },
   "mntl": {
     "localization": "en",
     "description": "نشانه اصلی مجموعه محصولات Asset Mantle AssetMantle بر روی اکوسیستم NFT متمرکز شده است و به شما کمک می کند تا بازی خود را با مالکیت دارایی دیجیتال ارتقا دهید.",
     "name": "AssetMantle",
+    "symbol": "MNTL",
     "coingeckoID": "دارایی",
     "twitterURL": "https://twitter.com/AssetMantle"
   },
   "mnta": {
     "localization": "en",
-    "symbol": "MNTA",
+    "name": "MantaDAO",
     "description": "توکن مدیریت MantaDAO",
     "coingeckoID": "مانتادائو"
   },
@@ -791,7 +795,6 @@
   "mile": {
     "localization": "en",
     "name": "میل",
-    "symbol": "مایل",
     "description": "میل: هزارمین نشانه اسمز"
   },
   "meme": {
@@ -803,20 +806,18 @@
   },
   "medas": {
     "localization": "en",
-    "name": "مداس دیجیتال",
+    "name": "شبکه دیجیتال مداس",
     "symbol": "MEDAS",
     "description": "توکن بومی شبکه دیجیتال مداس"
   },
   "med": {
     "localization": "en",
-    "name": "MediBloc",
-    "symbol": "MED",
+    "name": "Medibloc",
     "description": "Panacea یک بلاک چین عمومی است که توسط MediBloc راه اندازی شده است، که زیرساخت کلیدی برای اختراع مجدد اکوسیستم داده مراقبت های بهداشتی بیمار محور است.",
     "coingeckoID": "مدیبلوک"
   },
   "mbrn": {
     "localization": "en",
-    "name": "MBRN",
     "symbol": "MBRN",
     "description": "توکن پروتکل غشایی"
   },
@@ -833,10 +834,9 @@
     "coingeckoID": "mars-protocol-a7fcbcfb-fd61-4017-92f0-7ee9f9cc6da3",
     "twitterURL": "https://twitter.com/mars_protocol",
     "symbol": "مریخ",
-    "name": "مریخ"
+    "name": "مریخ هاب"
   },
   "marble": {
-    "localization": "en",
     "name": "سنگ مرمر",
     "symbol": "سنگ مرمر",
     "description": "توکن بومی cw20 برای Marble DAO در Juno Chain",
@@ -851,7 +851,6 @@
   "lvn": {
     "localization": "en",
     "name": "LVN",
-    "symbol": "LVN",
     "description": "توکن وفاداری ELEVENPARIS در KiChain",
     "coingeckoID": "lvn"
   },
@@ -872,13 +871,13 @@
   },
   "lumen": {
     "localization": "en",
-    "name": "لومن",
+    "name": "LumenX",
     "symbol": "لومن",
     "description": "توکن اصلی شبکه LumenX"
   },
   "lum": {
     "localization": "en",
-    "name": "لوم",
+    "name": "شبکه لوم",
     "symbol": "LUM",
     "description": "توکن بومی شبکه Lum",
     "coingeckoID": "شبکه lum"
@@ -887,13 +886,11 @@
     "description": "توکن اصلی Gitopia Gitopia نسل بعدی پلتفرم همکاری کد است که توسط یک شبکه غیرمتمرکز و اقتصاد توکن تعاملی تغذیه می شود. این برنامه برای بهینه سازی فرآیند توسعه نرم افزار منبع باز از طریق همکاری، شفافیت و ایجاد انگیزه طراحی شده است.",
     "localization": "en",
     "coingeckoID": "ژیتوپیا",
-    "name": "LORE",
-    "symbol": "LORE",
+    "name": "گیتوپیا",
     "twitterURL": "https://twitter.com/gitopiaDAO"
   },
   "link": {
     "localization": "en",
-    "name": "لینک زنجیره ای",
     "symbol": "ارتباط دادن",
     "description": "یک میان‌افزار مبتنی بر بلاک‌چین که به‌عنوان پلی بین قراردادهای هوشمند ارزهای دیجیتال، فیدهای داده، APIها و پرداخت‌های سنتی حساب بانکی عمل می‌کند.",
     "coingeckoID": "لینک زنجیره ای"
@@ -919,14 +916,13 @@
     "coingeckoID": "لامبدا"
   },
   "l1": {
-    "localization": "en",
     "name": "GenesisL1",
-    "symbol": "L1",
     "description": "سکه L1 ابزار بلاک چین، مدیریت و توکن EVM GenesisL1 است"
   },
   "kyve": {
     "description": "توکن ابزار بومی شبکه KYVE. انقلابی در قابلیت اطمینان داده ها در فضای Web3، شبکه KYVE ابزارهای سریع و آسانی را برای اعتبارسنجی، تغییرناپذیری و بازیابی داده ها فراهم می کند و از داده های مطمئن برای مقیاس پذیری یکپارچه اطمینان می دهد و خطرات و موانع داده را حذف می کند.",
     "localization": "en",
+    "name": "KYVE",
     "symbol": "KYVE",
     "twitterURL": "https://twitter.com/KYVENetwork",
     "coingeckoID": "kyve-network"
@@ -936,15 +932,13 @@
     "description": "نشانه اصلی سهامداری و حکمرانی زنجیره کوجیرا. یک اکوسیستم غیرمتمرکز برای پروتکل ها، سازندگان و کاربران وب 3 که به دنبال فین تک پایدار هستند.",
     "coingeckoID": "کوجیرا",
     "twitterURL": "https://twitter.com/TeamKujira",
-    "symbol": "KUJI",
-    "name": "کوجی"
+    "name": "کوجیرا"
   },
   "ksm": {
     "localization": "en",
     "name": "کوساما",
     "symbol": "KSM",
-    "description": "کارمزد بومی، حاکمیت، سهامداری، و نشانه پیوند پلت فرم پولکادوت.",
-    "coingeckoID": "کوساما"
+    "description": "کارمزد بومی، حاکمیت، سهامداری، و نشانه پیوند پلت فرم پولکادوت."
   },
   "krtc": {
     "localization": "en",
@@ -957,14 +951,12 @@
     "description": "نشانه اصلی سهامداری و حاکمیت Kava Kava یک بلاک چین غیرمتمرکز است که سرعت و قابلیت همکاری Cosmos را با قدرت توسعه دهنده اتریوم ترکیب می کند.",
     "localization": "en",
     "name": "کاوا",
-    "symbol": "کاوا",
     "coingeckoID": "کاوا",
     "twitterURL": "https://twitter.com/KAVA_CHAIN"
   },
   "juno": {
     "description": "توکن بومی JUNO Chain Juno یک پلت فرم قرارداد هوشمند کاملاً متعلق به جامعه و اداره می شود.",
     "localization": "en",
-    "name": "جونو",
     "symbol": "جونو",
     "twitterURL": "https://twitter.com/JunoNetwork",
     "coingeckoID": "شبکه جونو"
@@ -984,17 +976,19 @@
   },
   "ixo": {
     "localization": "en",
+    "name": "ixo",
     "symbol": "IXO",
-    "description": "توکن بومی زنجیره IXO",
-    "coingeckoID": "ixo"
+    "description": "توکن بومی زنجیره IXO"
   },
   "ist": {
     "localization": "en",
     "name": "توکن اینتر استیبل",
+    "symbol": "IST",
     "description": "IST نشانه پایداری است که توسط زنجیره آگوریک برای هزینه های اجرا و تجارت استفاده می شود."
   },
   "iris": {
     "localization": "en",
+    "name": "IRISnet",
     "symbol": "عنبیه",
     "description": "توکن IRIS نشانه حاکمیت بومی برای زنجیره IrisNet است.",
     "coingeckoID": "شبکه عنبیه"
@@ -1009,12 +1003,12 @@
   },
   "ion": {
     "localization": "en",
-    "name": "یون",
+    "name": "یون DAO",
     "symbol": "یون",
-    "coingeckoID": "یون"
+    "coingeckoID": "یون",
+    "twitterURL": "https://twitter.com/_IONDAO"
   },
   "invdrs": {
-    "localization": "en",
     "name": "مهاجمان",
     "symbol": "INVDRS",
     "description": "توکن Evmos Guardians Invaders DAO."
@@ -1029,70 +1023,69 @@
   },
   "imv": {
     "localization": "en",
-    "name": "IMV",
-    "symbol": "IMV",
+    "name": "بی قرار",
     "description": "EVM بومی، نشانه حاکمیت و سهامداری Imversed",
     "coingeckoID": "imv"
   },
   "ibcx": {
     "localization": "en",
-    "name": "هسته IBCX<Product of ION DAO>",
+    "name": "شاخص IBC",
     "symbol": "IBCX"
+  },
+  "hydrogen": {
+    "localization": "en",
+    "name": "هیدروژن بوستروم",
+    "symbol": "هیدروژن",
+    "description": "نماد استیکینگ مایع Bostrom"
   },
   "huahua": {
     "localization": "en",
     "name": "چیهواهوا",
-    "symbol": "HUAHUA",
     "description": "نشانه بومی زنجیره چیهواهوا",
     "coingeckoID": "نشانه چیهواهوا"
   },
   "hopers": {
     "localization": "en",
     "name": "هوپرها",
-    "symbol": "هوپرز",
+    "symbol": "هاپرز",
     "description": "توکن بومی cw20 برای Hopers در Juno Chain",
     "coingeckoID": "امیدها-یو"
   },
   "hope": {
     "localization": "en",
     "name": "کهکشان امید",
-    "symbol": "امید",
     "description": "Hope Galaxy یک مجموعه NFT است که بر اساس Token بومی خودش $HOPE، یک توکن cw20 در زنجیره Juno است.",
     "coingeckoID": "کهکشان امید"
   },
   "hash": {
     "localization": "en",
-    "name": "هش",
+    "name": "منشأ",
     "symbol": "HASH",
     "description": "هش نشانه سهام بلاک چین Provenance است",
     "coingeckoID": "منشأ-بلاک چین"
   },
   "hard": {
     "localization": "en",
-    "name": "سخت",
+    "name": "کاوا هارد",
     "symbol": "سخت",
     "description": "نشانه حاکمیت پروتکل Kava Lend",
     "coingeckoID": "کاوا-قرض دادن"
   },
   "harbor": {
-    "localization": "en",
     "name": "بندرگاه",
     "symbol": "بندرگاه",
     "description": "پروتکل Governance Token of Harbor در شبکه Comdex"
   },
   "grdn": {
     "localization": "en",
-    "name": "نگهبان",
     "symbol": "GRDN",
     "description": "نشانه حکومتداری Evmos Guardians."
   },
   "grav": {
-    "localization": "en",
     "description": "نشانه اصلی پل گرانشی پل باز و غیرمتمرکز است که قدرت تعامل و نقدینگی بین اکوسیستم های بلاک چین را باز می کند.",
-    "name": "گراویتون",
+    "name": "پل جاذبه",
     "symbol": "GRAV",
-    "twitterURL": "https://twitter.com/gravity_bridge",
-    "coingeckoID": "گراویتون"
+    "twitterURL": "https://twitter.com/gravity_bridge"
   },
   "glx": {
     "localization": "en",
@@ -1100,14 +1093,12 @@
     "description": "GLX نشانه شرط بندی زنجیره Galaxy است"
   },
   "glto": {
-    "localization": "en",
     "name": "ژلوتو",
     "symbol": "GLTO",
     "description": "پلت فرم بازی DeFi ساخته شده بر روی Juno"
   },
   "glmr": {
     "localization": "en",
-    "name": "پرتو ماه",
     "symbol": "GLMR",
     "description": "Glimmer (GLMR) توکن ابزار شبکه Moonbeam، استقرار اولیه Moonbeam در شبکه Polkadot است که به عنوان یک پاراچین مناسب برای توسعه‌دهندگان عمل می‌کند.",
     "coingeckoID": "پرتو ماه"
@@ -1119,13 +1110,11 @@
     "description": "نماد جایزه بزرگ سال اول ژلوتو"
   },
   "geo": {
-    "localization": "en",
     "name": "GEO",
-    "symbol": "GEO",
     "description": "توکن GEO برای پروتکل ODIN"
   },
   "fx": {
-    "localization": "en",
+    "name": "f(x) هسته",
     "symbol": "FX",
     "description": "توکن بومی شرط بندی Function X",
     "coingeckoID": "fx-coin"
@@ -1139,14 +1128,13 @@
   },
   "fund": {
     "localization": "en",
-    "name": "شبکه اتحاد",
+    "name": "اتحاد",
     "symbol": "سرمایه",
     "description": "سکه سهامداری و حاکمیت برای بلاک چین وحدت",
     "coingeckoID": "اتحاد"
   },
   "ftm": {
     "localization": "en",
-    "name": "فانتوم",
     "symbol": "FTM",
     "description": "توکن ابزار بومی Fantom - FTM - قدرت کل اکوسیستم بلاک چین Fantom را تامین می کند. توکن های FTM برای شرط بندی، حاکمیت، پرداخت ها و هزینه ها در شبکه استفاده می شوند.",
     "coingeckoID": "فانتوم"
@@ -1158,8 +1146,8 @@
     "description": "Frienzies یک توکن IBC است که منحصراً برای یک دارایی فیزیکی صادر شده توسط نهاد Noble قابل بازخرید است."
   },
   "frax": {
-    "localization": "en",
     "name": "فراکس",
+    "symbol": "FRAX",
     "description": "Frax یک پروتکل استیبل کوین کسری-الگوریتمی است. هدف آن ارائه پولی الگوریتمی غیرمتمرکز، مقیاس پذیر و بسیار مقیاس پذیر به جای دارایی های عرضه ثابت مانند بیت کوین است. علاوه بر این، FXS نشان دهنده ارزش تعهدی و حاکمیت کل اکوسیستم Frax است.",
     "coingeckoID": "frax"
   },
@@ -1172,45 +1160,39 @@
   "flix": {
     "description": "نشانه شرط بندی بومی OmniFlix Hub. رسانه غیرمتمرکز و لایه شبکه برای سازندگان و جوامع مستقل که توسط NFTها و پروتکل‌های توزیع مربوطه پشتیبانی می‌شوند.",
     "localization": "en",
-    "name": "فلیکس",
+    "name": "OmniFlix",
     "twitterURL": "https://twitter.com/OmniFlixNetwork",
     "coingeckoID": "omniflix-network",
     "symbol": "FLIX"
   },
   "fis": {
-    "localization": "en",
-    "name": "FIS",
-    "symbol": "FIS",
+    "name": "StaFi Hub",
     "description": "نشانه اصلی سهامداری و حاکمیت StaFi Hub.",
     "coingeckoID": "کارکنان"
   },
   "fil": {
     "localization": "en",
-    "name": "فایل کوین",
     "symbol": "FIL",
-    "description": "توکن بومی Filecoin",
-    "coingeckoID": "فایل کوین"
+    "description": "Filecoin یک شبکه ذخیره سازی غیرمتمرکز است که برای تبدیل فضای ذخیره سازی ابری به یک بازار الگوریتمی طراحی شده است. این شبکه بازارهای باز را برای ذخیره و بازیابی داده ها تسهیل می کند، جایی که کاربران برای ذخیره فایل های خود در استخراج کنندگان ذخیره سازی پول پرداخت می کنند. Filecoin بر روی سیستم فایل بین سیاره ای (IPFS)، یک شبکه ذخیره سازی نظیر به نظیر ساخته شده است. هدف Filecoin این است که برخلاف ارائه دهندگان ذخیره سازی ابری سنتی، داده ها را به روشی غیرمتمرکز ذخیره کند. شرکت‌کنندگان در شبکه Filecoin تشویق می‌شوند صادقانه عمل کنند و تا حد امکان داده‌ها را ذخیره کنند، زیرا آنها ارز دیجیتال Filecoin (FIL) را در ازای خدمات ذخیره‌سازی خود کسب می‌کنند. این تنظیمات یکپارچگی و دسترسی به داده های ذخیره شده را تضمین می کند. مدل Filecoin به گزینه‌های ذخیره‌سازی متنوعی از جمله ذخیره‌سازی بایگانی طولانی‌مدت و خدمات بازیابی سریع‌تر اجازه می‌دهد که آن را به یک راه‌حل همه کاره برای ذخیره‌سازی غیرمتمرکز داده تبدیل می‌کند. این پروژه که توسط Protocol Labs توسعه یافته است، همچنین بر اطمینان از ذخیره مطمئن و کارآمد داده ها تمرکز دارد."
   },
   "fet": {
     "localization": "en",
-    "name": "fetch-ai",
+    "name": "Fetch.ai",
     "symbol": "FET",
     "description": "نشانه اصلی سهامداری و حاکمیت Fetch Hub.",
     "coingeckoID": "fetch-ai"
   },
   "evmos": {
-    "description": "توکن اصلی EVM، حاکمیت و سهامداری Evmos Hub Developers از Evmos به عنوان زنجیره قناری اتریوم برای استقرار برنامه‌های کاربردی آینده استفاده می‌کند. تمام عملکردهای اتریوم را با قدرت IBC و ترکیب پذیری Interchain دریافت کنید.",
+    "description": "توکن بومی EVM، حاکمیت و سهامداری Evmos Hub Developers از Evmos به عنوان زنجیره قناری اتریوم برای استقرار برنامه‌های کاربردی آینده استفاده می‌کند. تمام عملکردهای اتریوم را با قدرت IBC و ترکیب پذیری Interchain دریافت کنید.",
     "localization": "en",
-    "name": "Evmos",
+    "symbol": "EVMOS",
     "coingeckoID": "evmos",
     "twitterURL": "https://twitter.com/EvmosOrg"
   },
   "eth": {
     "localization": "en",
     "name": "اتر",
-    "symbol": "ETH",
-    "description": "اتر نماد هزینه بومی شبکه اتریوم است.",
-    "coingeckoID": "اتریوم"
+    "description": "اتریوم (ETH) یک سیستم بلاک چین غیرمتمرکز و منبع باز است که دارای عملکرد قرارداد هوشمند است. این ارز دیجیتال بومی پلتفرم اتریوم است که اغلب به عنوان دومین ارز دیجیتال محبوب پس از بیت کوین در نظر گرفته می شود. اتریوم در اواخر سال 2013 پیشنهاد شد و توسعه آن در سال 2014 با تامین مالی جمعی انجام شد که منجر به راه اندازی شبکه آن در 30 جولای 2015 شد. اتریوم به عنوان یک ارز دیجیتال برای اهداف مختلفی در اکوسیستم اتریوم از جمله اجرای قراردادهای هوشمند غیرمتمرکز استفاده می شود. و به عنوان روش پرداخت بر خلاف بیت کوین، اتریوم به گونه ای طراحی شده است که پلتفرمی برای برنامه هایی باشد که می توانند بدون نیاز به واسطه و با استفاده از فناوری بلاک چین عمل کنند. این امر باعث شده است که اتریوم به یک پلتفرم پیشرو برای برنامه های مختلف از جمله امور مالی غیرمتمرکز (DeFi)، توکن های غیرقابل تعویض (NFT) و غیره تبدیل شود. اتریوم با ارتقای قابل توجهی به نام اتریوم 2.0 که هدف آن بهبود مقیاس پذیری، امنیت و پایداری آن است، دائما در حال تحول است."
   },
   "eeur": {
     "localization": "en",
@@ -1222,7 +1204,6 @@
   "ech": {
     "localization": "en",
     "name": "Echelon",
-    "symbol": "ECH",
     "description": "Echelon - یک EVM مقیاس پذیر در Cosmos، ساخته شده بر روی Proof-of-Stake با نهایی شدن سریع که قابلیت همکاری و اقتصاد جدید را در اولویت قرار می دهد.",
     "coingeckoID": "طبقه"
   },
@@ -1234,17 +1215,14 @@
   },
   "dys": {
     "localization": "en",
-    "name": "دیس",
-    "symbol": "DYS",
+    "name": "پروتکل دایسون",
     "description": "نشانه اصلی سهامداری و حاکمیت پروتکل Dyson"
   },
   "dydx": {
-    "description": "توکن ذخیره سازی بومی پروتکل dYdX. هدف ما ایجاد کد منبع باز است که بتواند یک محصول درجه یک و تجربه تجارت را تقویت کند.",
-    "localization": "en",
-    "name": "dYdX",
+    "description": "توکن ذخایر بومی پروتکل dYdX. هدف ما ایجاد کد منبع باز است که بتواند یک محصول درجه یک و تجربه تجارت را تقویت کند.",
+    "name": "پروتکل dYdX",
     "symbol": "DYDX",
-    "twitterURL": "https://twitter.com/dYdX",
-    "coingeckoID": "dydx"
+    "twitterURL": "https://twitter.com/dYdX"
   },
   "dvpn": {
     "localization": "en",
@@ -1256,10 +1234,8 @@
   },
   "dsm": {
     "localization": "en",
-    "name": "دسموس",
     "symbol": "DSM",
-    "description": "نشانه بومی دسموس",
-    "coingeckoID": "دسموس"
+    "description": "نشانه بومی دسموس"
   },
   "dot": {
     "localization": "en",
@@ -1268,20 +1244,18 @@
     "description": "کارمزد بومی، حاکمیت، سهامداری، و نشانه پیوند پلت فرم پولکادوت.",
     "coingeckoID": "پولکادوت",
     "axl": {
-      "localization": "en",
-      "name": "پولکاد پیچیده شده",
+      "name": "پولکادوت پیچیده شده",
       "symbol": "DOT.axl",
       "description": "پولکادوت روی اکسلار پیچید"
     }
   },
   "dora": {
-    "localization": "en",
     "name": "دورا وتا",
-    "symbol": "دورا",
     "description": "نشانه اصلی سهامداری و حاکمیت نسخه آزمایشی تتا Dora Vota."
   },
   "doga": {
     "name": "دوج آوریل",
+    "symbol": "DOGA",
     "description": "دوج آوریل"
   },
   "dig": {
@@ -1292,49 +1266,47 @@
     "coingeckoID": "زنجیر حفاری"
   },
   "dhk": {
+    "localization": "en",
     "name": "DHK",
     "symbol": "DHK",
     "description": "توکن DAO برای ایجاد اجماع بین مردم هنگ کنگ"
   },
   "dgl": {
-    "localization": "en",
     "name": "شیرین بیان",
     "symbol": "DGL"
   },
   "dec": {
-    "localization": "en",
     "name": "متین",
     "symbol": "دسامبر",
     "description": "نشانه بومی Decentr",
     "coingeckoID": "معقول"
   },
   "darc": {
-    "localization": "en",
-    "name": "DARC",
-    "symbol": "DARC",
+    "name": "صورت فلکی",
     "description": "نشانه اصلی شبکه Konstellation",
     "coingeckoID": "دارکماتر-سکه"
   },
   "dai": {
     "localization": "en",
+    "name": "دای استیبل کوین",
     "symbol": "DAI",
     "description": "چند وثیقه دای، بسیاری از ویژگی های جدید و هیجان انگیز، مانند پشتیبانی از انواع وثیقه CDP جدید و نرخ پس انداز دای را به ارمغان می آورد.",
-    "coingeckoID": "دای",
     "grv": {
       "localization": "en",
-      "name": "دای استیبل کوین",
+      "name": "استیبل کوین DAI (پل جاذبه)",
       "symbol": "DAI.grv",
       "description": "پل جاذبه DAI"
     }
   },
   "cudos": {
     "localization": "en",
-    "symbol": "CUDOS",
-    "description": "توکن بومی بلاک چین Cudos"
+    "name": "ادای احترام",
+    "description": "توکن بومی بلاک چین Cudos",
+    "coingeckoID": "تبریک"
   },
   "cub": {
     "localization": "en",
-    "name": "توله شیر DAO",
+    "name": "Lion Cub DAO",
     "symbol": "توله",
     "description": "Lion Cub DAO یک جامعه میم بی فایده DAO در Terra است"
   },
@@ -1348,14 +1320,13 @@
   "cro": {
     "localization": "en",
     "description": "CRO نشانه اصلی زنجیره Crypto.org است که به عنوان Native CRO شناخته می شود. Cronos PoS Chain یک بلاک چین عمومی، منبع باز و بدون مجوز است - یک شبکه کاملاً غیرمتمرکز با سرعت بالا و کارمزد کم، که به عنوان یک کالای عمومی طراحی شده است که به پذیرش انبوه فناوری بلاک چین از طریق موارد استفاده مانند Payments، DeFi و NFT کمک می کند.",
-    "symbol": "CRO",
+    "name": "زنجیره ای Cronos POS",
     "coingeckoID": "crypto-com-chain",
     "twitterURL": "https://twitter.com/cronos_chain"
   },
   "cre": {
     "localization": "en",
     "name": "هلال",
-    "symbol": "CRE",
     "description": "نشانه بومی کرسنت",
     "coingeckoID": "شبکه هلال"
   },
@@ -1401,14 +1372,14 @@
   },
   "cheq": {
     "localization": "en",
-    "name": "بررسی شد",
+    "name": "چکد",
     "symbol": "چک",
     "description": "رمز بومی برای شبکه چک شده",
     "coingeckoID": "شبکه چک"
   },
   "cdt": {
     "localization": "en",
-    "name": "CDT",
+    "name": "استیبل کوین CDT",
     "symbol": "CDT",
     "description": "استیبل کوین به سبک CDP غشایی به نام CDT"
   },
@@ -1454,9 +1425,9 @@
   },
   "busd": {
     "localization": "en",
-    "name": "Binance USD",
     "symbol": "BUSD",
-    "description": "Binance USD (BUSD) یک استیبل کوین با پشتوانه دلار است که توسط Paxos Trust Company صادر و نگهداری می شود و توسط وزارت خدمات مالی ایالت نیویورک تنظیم می شود. BUSD به طور مستقیم برای فروش 1:1 با USD در Paxos.com در دسترس است و برای تجارت در Binance فهرست می شود."
+    "description": "Binance USD (BUSD) یک استیبل کوین با پشتوانه دلار است که توسط Paxos Trust Company صادر و نگهداری می شود و توسط وزارت خدمات مالی ایالت نیویورک تنظیم می شود. BUSD به طور مستقیم برای فروش 1:1 با USD در Paxos.com در دسترس است و برای معامله در Binance فهرست می شود.",
+    "coingeckoID": "binance-USd"
   },
   "btsg": {
     "localization": "en",
@@ -1468,7 +1439,6 @@
   },
   "brnch": {
     "localization": "en",
-    "name": "شاخه",
     "symbol": "BRNCH",
     "description": "توکن ohhNFT LP."
   },
@@ -1480,7 +1450,6 @@
     "coingeckoID": "بوستروم"
   },
   "bonk": {
-    "localization": "en",
     "name": "بونک",
     "symbol": "BONK",
     "description": "توکن رسمی Bonk Inu"
@@ -1493,7 +1462,7 @@
     "coingeckoID": "بایننس کوین"
   },
   "blz": {
-    "name": "بلوزل",
+    "localization": "en",
     "symbol": "BLZ",
     "description": "نشانه بومی بلوزل",
     "coingeckoID": "بلوزل"
@@ -1513,7 +1482,6 @@
   "bld": {
     "localization": "en",
     "description": "BLD توکنی است که برای ایمن کردن زنجیره آگوریک از طریق staking و برای توقف پروتکل اینتر استفاده می شود. پلتفرم Agoric ساخت برنامه های غیرمتمرکز با استفاده از دانش جاوا اسکریپت موجود را ایمن و بدون درز می کند.",
-    "name": "آگوریک",
     "symbol": "BLD",
     "twitterURL": "https://twitter.com/agoric",
     "coingeckoID": "آزاریک"
@@ -1536,57 +1504,53 @@
     "localization": "en",
     "description": "توکن بومی BandChain Band Protocol یک پلتفرم اوراکل داده متقابل زنجیره ای است که داده های دنیای واقعی و API ها را به قراردادهای هوشمند تجمیع و متصل می کند.",
     "name": "پروتکل باند",
-    "symbol": "باند",
     "twitterURL": "https://twitter.com/BandProtocol",
     "coingeckoID": "باند پروتکل"
   },
   "axs": {
-    "localization": "en",
-    "symbol": "AXS",
-    "description": "Axie Infinity یک دنیای حیوانات خانگی دیجیتال با الهام از پوکمون است که در آن هر کسی می‌تواند از طریق گیم‌پلی ماهر و کمک به اکوسیستم، توکن‌هایی به دست آورد. بازیکنان می توانند بجنگند، جمع آوری کنند، بزرگ کنند و برای حیوانات خانگی خود پادشاهی زمینی بسازند (معروف به Axies).",
+    "name": "Axie Infinity Shard",
+    "description": "Axie Infinity یک دنیای حیوانات خانگی دیجیتال با الهام از پوکمون است که در آن هر کسی می تواند از طریق گیم پلی ماهر و کمک به اکوسیستم توکن به دست آورد. بازیکنان می توانند بجنگند، جمع آوری کنند، بزرگ کنند و برای حیوانات خانگی خود پادشاهی زمینی بسازند (معروف به Axies).",
     "coingeckoID": "axie-infinity"
   },
   "axlfil": {
     "localization": "en",
     "name": "FIL پیچیده شده از Filecoin",
     "symbol": "axlFIL",
-    "description": "FIL پیچیده روی Axelar",
-    "coingeckoID": "فایل کوین"
+    "description": "FIL پیچیده روی Axelar"
   },
   "axl": {
     "description": "توکن اصلی Axelar Axelar ارتباطات زنجیره ای ایمن را برای Web3 ارائه می دهد. زیرساخت ما به کاربران dApp این امکان را می‌دهد تا با یک کلیک با هر دارایی یا برنامه، در هر زنجیره، تعامل داشته باشند.",
     "localization": "en",
     "name": "اکسلار",
-    "symbol": "AXL",
     "twitterURL": "https://twitter.com/axelarnetwork",
     "coingeckoID": "اکسلار"
   },
   "avax": {
-    "localization": "en",
     "name": "بهمن",
     "symbol": "AVAX",
-    "description": "AVAX نشانه بومی Avalanche است. این یک دارایی سخت و کمیاب است که برای پرداخت هزینه‌ها، ایمن کردن پلتفرم از طریق سهام‌بندی و ارائه یک واحد حساب پایه بین زیرشبکه‌های متعدد ایجاد شده در Avalanche استفاده می‌شود.",
+    "description": "AVAX نشانه بومی Avalanche است. این یک دارایی سخت و کمیاب است که برای پرداخت هزینه ها، ایمن کردن پلتفرم از طریق سهامداری، و ارائه یک واحد حساب پایه بین زیرشبکه های متعدد ایجاد شده در Avalanche استفاده می شود.",
     "coingeckoID": "بهمن-2"
   },
   "avalanche": {
     "usdc": {
       "localization": "en",
-      "name": "سکه USD",
+      "name": "سکه دلار آمریکا (بهمن)",
       "symbol": "بهمن.USDC",
-      "description": "USDC یک استیبل کوین کاملاً وثیقه شده به دلار آمریکا است که توسط CENTRE توسعه یافته است، پروژه منبع باز با Circle اولین صادرکننده از چندین صادرکننده آینده است."
+      "description": "USDC یک استیبل کوین کاملاً وثیقه شده به دلار آمریکا است که توسط CENTRE توسعه یافته است، پروژه منبع باز با Circle اولین صادرکننده از چندین صادرکننده آینده است.",
+      "coingeckoID": "USD-coin"
     }
   },
   "atom": {
     "localization": "en",
-    "name": "هاب کیهان",
     "symbol": "اتم",
-    "description": "نشانه اصلی سهامداری و حکمرانی Cosmos Hub. به طور خلاصه، Cosmos Hub خود را به عنوان پروژه ای معرفی می کند که برخی از سخت ترین مشکلات پیش روی صنعت بلاک چین را حل می کند. هدف آن ارائه پادزهری برای پروتکل‌های اثبات کار آهسته، گران، غیرقابل مقیاس‌پذیر و مضر برای محیط‌زیست، مانند پروتکل‌های مورد استفاده توسط بیت‌کوین، با ارائه اکوسیستمی از بلاک‌چین‌های متصل است. از دیگر اهداف این پروژه می‌توان به کاهش پیچیدگی و دشواری فناوری بلاک چین برای توسعه‌دهندگان به لطف یک چارچوب ماژولار اشاره کرد که برنامه‌های غیرمتمرکز را از بین می‌برد. آخرین اما نه کم اهمیت، پروتکل ارتباطات بین بلاک چین، ارتباط شبکه های بلاک چین با یکدیگر را آسان تر می کند - از پراکندگی در صنعت جلوگیری می کند. خاستگاه Cosmos Hub را می توان به سال 2014 برمی گرداند، زمانی که Tendermint، یکی از مشارکت کنندگان اصلی این شبکه، تاسیس شد. در سال 2016، کاغذ سفیدی برای Cosmos منتشر شد - و یک فروش توکن در سال بعد برگزار شد. توکن‌های ATOM از طریق یک الگوریتم اثبات سهام ترکیبی به دست می‌آیند و به ایمن نگه داشتن Cosmos Hub، بلاک چین شاخص پروژه کمک می‌کنند. این ارز دیجیتال در حاکمیت شبکه نیز نقش دارد.",
+    "description": "نشانه اصلی سهامداری و حکمرانی Cosmos Hub. به طور خلاصه، Cosmos Hub خود را به عنوان پروژه ای معرفی می کند که برخی از سخت ترین مشکلات پیش روی صنعت بلاک چین را حل می کند. هدف آن ارائه پادزهری برای پروتکل‌های اثبات کار آهسته، گران، غیرقابل مقیاس‌پذیر و مضر برای محیط‌زیست، مانند پروتکل‌های مورد استفاده بیت‌کوین، با ارائه اکوسیستمی از بلاک‌چین‌های متصل است. از دیگر اهداف این پروژه می‌توان به کاهش پیچیدگی و دشواری فناوری بلاک چین برای توسعه‌دهندگان به لطف یک چارچوب ماژولار که برنامه‌های غیرمتمرکز را ابهام کرد، اشاره کرد. آخرین اما نه کم‌اهمیت، پروتکل ارتباطات بین بلاک‌چینی ارتباط شبکه‌های بلاک چین با یکدیگر را آسان‌تر می‌کند و از پراکندگی در صنعت جلوگیری می‌کند. خاستگاه Cosmos Hub را می توان به سال 2014 برمی گرداند، زمانی که Tendermint، یکی از مشارکت کنندگان اصلی این شبکه، تاسیس شد. در سال 2016، کاغذ سفیدی برای Cosmos منتشر شد - و یک فروش توکن در سال بعد برگزار شد. توکن‌های ATOM از طریق یک الگوریتم اثبات سهام ترکیبی به دست می‌آیند و به امن نگه داشتن Cosmos Hub، بلاک چین شاخص پروژه کمک می‌کنند. این ارز دیجیتال در حاکمیت شبکه نیز نقش دارد.",
     "coingeckoID": "کیهان",
     "twitterURL": "https://twitter.com/cosmoshub"
   },
   "atolo": {
     "localization": "en",
-    "name": "زنجیره Rizon",
+    "name": "Rizon",
+    "symbol": "ATOLO",
     "description": "توکن بومی زنجیره Rizon",
     "coingeckoID": "ریزن"
   },
@@ -1605,7 +1569,7 @@
   },
   "arkh": {
     "localization": "en",
-    "name": "آرخ",
+    "name": "ارخادیان",
     "symbol": "ارخ",
     "description": "نشانه بومی ارخادیان"
   },
@@ -1620,9 +1584,7 @@
   "arb": {
     "localization": "en",
     "name": "آربیتروم",
-    "symbol": "ARB",
-    "description": "نشانه بومی Arbitrum",
-    "coingeckoID": "داوری"
+    "description": "نشانه بومی Arbitrum"
   },
   "apt": {
     "localization": "en",
@@ -1640,7 +1602,7 @@
     "localization": "en",
     "name": "ApeCoin",
     "symbol": "بوزینه",
-    "description": "ApeCoin از طریق هنر، بازی، سرگرمی و رویدادها بیان جدیدی در وب 3 پیدا کرد. APE توکنی است که برای پشتیبانی از آنچه در آینده، کنترل شده و ساخته شده توسط جامعه ساخته شده است. این به عنوان یک لایه پروتکل غیرمتمرکز برای ابتکارات تحت رهبری جامعه عمل می کند که فرهنگ را به سمت ماوراء جهان پیش می برد.",
+    "description": "ApeCoin از طریق هنر، بازی، سرگرمی و رویدادها بیان جدیدی در وب 3 پیدا کرد. APE توکنی است که برای پشتیبانی از آنچه در آینده، کنترل و ساخته شده توسط جامعه ساخته شده است. این به عنوان یک لایه پروتکل غیرمتمرکز برای ابتکارات تحت رهبری جامعه که فرهنگ را به سمت ماوراء جهان پیش می برد، عمل خواهد کرد.",
     "coingeckoID": "apecoin"
   },
   "amposmo": {
@@ -1657,31 +1619,32 @@
   },
   "alter": {
     "localization": "en",
-    "name": "تغییر دهید",
     "symbol": "تغییر دهید",
     "description": "توکن بومی cw20 برای Alter on Secret Network",
     "coingeckoID": "تغییر دهید"
   },
   "akt": {
     "localization": "en",
-    "name": "شبکه آکاش",
-    "symbol": "AKT",
+    "name": "آکاش",
     "description": "Akash Token (AKT) توکن ابزار بومی شبکه Akash است که به عنوان ابزار اصلی برای اداره کردن، ایمن سازی بلاک چین، ایجاد انگیزه در شرکت کنندگان و ارائه مکانیزم پیش فرض برای ذخیره و تبادل ارزش استفاده می شود. Akash یک Supercloud منبع باز است که به کاربران امکان می دهد منابع محاسباتی را به صورت ایمن و کارآمد خریداری و بفروشند. هدف ساخته شده برای خدمات عمومی.",
     "twitterURL": "https://twitter.com/akashnet_",
     "coingeckoID": "akash-network"
   },
   "acre": {
     "localization": "en",
-    "name": "آکر",
-    "symbol": "ACRE",
+    "name": "Acrechain",
     "description": "نماد بومی EVM، حاکمیت و سهامداری Acrechain",
     "coingeckoID": "پروتکل زراعی"
   },
   "aave": {
     "localization": "en",
-    "name": "Aave",
     "symbol": "AAVE",
-    "description": "Aave یک پروتکل منبع باز و غیر نگهبانی برای کسب سود سپرده ها و دارایی های وام است. همچنین دارای دسترسی به وام های فلش بسیار نوآورانه است که به توسعه دهندگان اجازه می دهد فورا و به راحتی وام بگیرند. بدون نیاز به وثیقه با 16 دارایی مختلف که 5 تای آن استیبل کوین است.",
-    "coingeckoID": "aave"
+    "description": "Aave یک پروتکل منبع باز و غیر نگهبانی برای کسب سود سپرده ها و دارایی های وام است. همچنین دارای دسترسی به وام های فلش بسیار نوآورانه است که به توسعه دهندگان اجازه می دهد فورا و به راحتی وام بگیرند. بدون نیاز به وثیقه با 16 دارایی مختلف که 5 تای آن استیبل کوین است."
+  },
+  "a": {
+    "localization": "en",
+    "name": "بوستروم آمپر",
+    "symbol": "آ",
+    "description": "نشانه منبع Bostrom"
   }
 }

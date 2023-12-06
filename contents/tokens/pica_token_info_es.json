@@ -1,7 +1,7 @@
 {
   "description": "El token nativo de participación y gobernanza de Composable. Composable es la capa base que conecta L1 y L2. Estamos ampliando IBC a otros ecosistemas, ampliando los límites de la interoperabilidad minimizada por la confianza. Abstraemos la experiencia entre cadenas para los usuarios, brindando una ejecución perfecta e independiente de la cadena de las intenciones de los usuarios.",
   "localization": "es",
-  "name": "Pica",
+  "name": "Composable",
   "symbol": "PICA",
   "coingeckoID": "picasso",
   "twitterURL": "https://twitter.com/ComposableFin"

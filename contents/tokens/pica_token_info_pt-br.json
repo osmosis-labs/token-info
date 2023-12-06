@@ -1,7 +1,7 @@
 {
   "description": "O token nativo de piquetagem e governança do Composable. Composable é a camada base que conecta L1s e L2s. Estamos expandindo o IBC para outros ecossistemas, ampliando os limites da interoperabilidade com confiança minimizada. Abstraímos a experiência entre cadeias para os usuários, proporcionando uma execução perfeita e independente da cadeia das intenções do usuário.",
   "localization": "pt",
-  "name": "Pica",
+  "name": "Composable",
   "symbol": "PICA",
   "coingeckoID": "picasso",
   "twitterURL": "https://twitter.com/ComposableFin"

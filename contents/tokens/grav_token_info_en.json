@@ -1,7 +1,7 @@
 {
   "localization": "en",
   "description": "The native token of Gravity Bridge\n\nAn open, decentralized bridge that unlocks the power of interoperability & liquidity between blockchain ecosystems.",
-  "name": "Graviton",
+  "name": "Gravity Bridge",
   "symbol": "GRAV",
   "twitterURL": "https://twitter.com/gravity_bridge",
   "coingeckoID": "graviton"

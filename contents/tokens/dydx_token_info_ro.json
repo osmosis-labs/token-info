@@ -1,7 +1,6 @@
 {
   "description": "Jetonul nativ de miză al protocolului dYdX. Scopul nostru este să construim cod sursă deschis, care poate alimenta un produs de primă clasă și o experiență de tranzacționare.",
-  "localization": "ro",
-  "name": "dYdX",
+  "name": "dYdX Protocol",
   "symbol": "DYDX",
   "twitterURL": "https://twitter.com/dYdX",
   "coingeckoID": "dydx"

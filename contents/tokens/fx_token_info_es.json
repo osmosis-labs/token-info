@@ -1,6 +1,5 @@
 {
-  "localization": "es",
-  "name": "Function X",
+  "name": "f(x)Core",
   "symbol": "FX",
   "description": "El token de apuesta nativo de la Función X",
   "coingeckoID": "fx-coin"

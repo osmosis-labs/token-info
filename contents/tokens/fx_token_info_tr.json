@@ -1,6 +1,5 @@
 {
-  "localization": "tr",
-  "name": "Function X",
+  "name": "f(x)Core",
   "symbol": "FX",
   "description": "Function X'in yerel stake tokenı",
   "coingeckoID": "fx-coin"
