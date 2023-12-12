@@ -1,8 +1,8 @@
 {
   "description": "Somm Token (SOMM) est le jeton de jalonnement natif de la chaîne Sommelier. Les coffres-forts automatisés trouvent les meilleurs rendements de leur catégorie tout en atténuant les risques.",
-  "localization": "fr",
   "name": "Sommelier",
   "symbol": "SOMM",
   "coingeckoID": "sommelier",
-  "twitterURL": "https://twitter.com/sommfinance"
+  "twitterURL": "https://twitter.com/sommfinance",
+  "stakingURL": "https://wallet.keplr.app/chains/sommelier"
 }

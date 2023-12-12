@@ -1,5 +1,6 @@
 {
   "description": "توکن ذخایر بومی پروتکل dYdX. هدف ما ایجاد کد منبع باز است که بتواند یک محصول درجه یک و تجربه تجارت را تقویت کند.",
+  "localization": "en",
   "name": "dYdX Protocol",
   "symbol": "DYDX",
   "twitterURL": "https://twitter.com/dYdX",

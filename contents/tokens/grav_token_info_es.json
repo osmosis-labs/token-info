@@ -1,4 +1,5 @@
 {
+  "localization": "es",
   "description": "El token nativo de Gravity Bridge. Un puente abierto y descentralizado que desbloquea el poder de la interoperabilidad y la liquidez entre los ecosistemas blockchain.",
   "name": "Gravity Bridge",
   "symbol": "GRAV",

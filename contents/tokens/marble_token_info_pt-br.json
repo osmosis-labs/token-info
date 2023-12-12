@@ -1,4 +1,5 @@
 {
+  "localization": "pt",
   "name": "Marble",
   "symbol": "MARBLE",
   "description": "O token nativo cw20 para Marble DAO na Juno Chain",

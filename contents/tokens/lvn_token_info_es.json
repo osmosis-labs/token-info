@@ -1,7 +1,6 @@
 {
   "localization": "es",
-  "name": "LVN",
+  "name": "Levana",
   "symbol": "LVN",
-  "description": "Token de fidelidad ELEVENPARIS en KiChain",
-  "coingeckoID": "lvn"
+  "description": "Token nativo de Levana"
 }

@@ -303,6 +303,12 @@
     "symbol": "stLUNA",
     "description": "The native staking token of Terra."
   },
+  "stkosmo": {
+    "localization": "en",
+    "name": "PSTAKE staked OSMO",
+    "symbol": "stkOSMO",
+    "description": "PSTAKE Liquid-Staked OSMO"
+  },
   "stkd-scrt": {
     "localization": "en",
     "name": "SCRT Staking Derivatives",
@@ -385,7 +391,8 @@
     "name": "Sommelier",
     "symbol": "SOMM",
     "coingeckoID": "sommelier",
-    "twitterURL": "https://twitter.com/sommfinance"
+    "twitterURL": "https://twitter.com/sommfinance",
+    "stakingURL": "https://wallet.keplr.app/chains/sommelier"
   },
   "solar": {
     "localization": "en",
@@ -685,7 +692,8 @@
     "symbol": "OSMO",
     "description": "The native token of Osmosis\n\nOsmosis (OSMO) is a decentralized exchange (DEX) for Cosmos, an ecosystem of sovereign, interoperable blockchains all connected trustlessly over IBC, the Inter-Blockchain Communication Protocol. Osmosis also offers non-IBC assets bridged from the Ethereum and Polkadot ecosystems. Osmosis' Supercharged Liquidity implements an efficient liquidity pool mechanism analogous to Uniswap's concentrated liquidity, attaining improved capital efficiency and allowing liquidity providers to compete for earned fees and incentives.\n\nAs an appchain DEX, Osmosis has greater control over the full blockchain stack than DEXs that must follow the code of a parent chain. This fine-grained control has enabled, for example, the development of Superfluid Staking, an improvement to Proof-of-Stake security. Superfluid staking allows the underlying OSMO in an LP position to add to chain security and earn staking rewards for doing so. The customizability of appchains also allows for the development of a transaction mempool shielded with threshold encryption, which will greatly reduce harmful MEV on Osmosis.\n\nOsmosis's vision is to build a cross-chain native DEX and trading suite that connects all chains over IBC, including Ethereum and Bitcoin. To build out the trading functionalities, Osmosis has invited external developers to create a bespoke DEX ecosystem that includes lending, credit, margin, fiat on-ramps, Defi strategy vaults, NFTs, stablecoins, and more – all the functionalities of a centralized exchange and more, plus the trust-minimization of decentralized finance.",
     "coingeckoID": "osmosis",
-    "twitterURL": "https://twitter.com/osmosiszone"
+    "twitterURL": "https://twitter.com/osmosiszone",
+    "stakingURL": "https://wallet.keplr.app/chains/osmosis"
   },
   "osdoge": {
     "localization": "en",
@@ -895,10 +903,9 @@
   },
   "lvn": {
     "localization": "en",
-    "name": "LVN",
+    "name": "Levana",
     "symbol": "LVN",
-    "description": "ELEVENPARIS loyalty token on KiChain",
-    "coingeckoID": "lvn"
+    "description": "Levana native token"
   },
   "lunc": {
     "localization": "en",
@@ -998,6 +1005,15 @@
     "symbol": "KRTC",
     "description": "The KRW stablecoin of Terra Classic.",
     "coingeckoID": "terrakrw"
+  },
+  "kichain": {
+    "lvn": {
+      "localization": "en",
+      "name": "LVN",
+      "symbol": "kichain.LVN",
+      "description": "ELEVENPARIS loyalty token on KiChain",
+      "coingeckoID": "lvn"
+    }
   },
   "kava": {
     "description": "The native staking and governance token of Kava\n\nKava is a decentralized blockchain that combines the speed and interoperability of Cosmos with the developer power of Ethereum.",

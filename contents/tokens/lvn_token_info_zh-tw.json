@@ -1,7 +1,6 @@
 {
   "localization": "zh",
-  "name": "LVN",
+  "name": "Levana",
   "symbol": "LVN",
-  "description": "KiChain 上的 ELEVENPARIS 忠誠度代幣",
-  "coingeckoID": "lvn"
+  "description": "Levana 原生代幣"
 }

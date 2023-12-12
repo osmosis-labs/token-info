@@ -1,7 +1,6 @@
 {
   "localization": "tr",
-  "name": "LVN",
+  "name": "Levana",
   "symbol": "LVN",
-  "description": "KiChain'de ELEVENPARIS sadakat tokenı",
-  "coingeckoID": "lvn"
+  "description": "Levana yerel jetonu"
 }
