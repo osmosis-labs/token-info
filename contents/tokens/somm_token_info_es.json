@@ -1,8 +1,8 @@
 {
   "description": "Somm Token (SOMM) es el token de apuesta nativo de Sommelier Chain. Las bóvedas automatizadas encuentran los mejores rendimientos de su clase y al mismo tiempo mitigan el riesgo.",
-  "localization": "es",
   "name": "Sommelier",
   "symbol": "SOMM",
   "coingeckoID": "sommelier",
-  "twitterURL": "https://twitter.com/sommfinance"
+  "twitterURL": "https://twitter.com/sommfinance",
+  "stakingURL": "https://wallet.keplr.app/chains/sommelier"
 }

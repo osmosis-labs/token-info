@@ -1,8 +1,8 @@
 {
   "description": "Somm Token (SOMM), Sommelier Chain Automated kasalarının yerel staking token'ıdır ve riski azaltırken sınıfının en iyi getirilerini bulur.",
-  "localization": "tr",
   "name": "Sommelier",
   "symbol": "SOMM",
   "coingeckoID": "sommelier",
-  "twitterURL": "https://twitter.com/sommfinance"
+  "twitterURL": "https://twitter.com/sommfinance",
+  "stakingURL": "https://wallet.keplr.app/chains/sommelier"
 }

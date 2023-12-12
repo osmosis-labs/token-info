@@ -1,5 +1,6 @@
 {
   "description": "dYdX Protokolünün yerel stake tokenı. Amacımız birinci sınıf ürün ve ticaret deneyimini güçlendirebilecek açık kaynak kodu oluşturmaktır.",
+  "localization": "tr",
   "name": "dYdX Protocol",
   "symbol": "DYDX",
   "twitterURL": "https://twitter.com/dYdX",

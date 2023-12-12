@@ -1,7 +1,6 @@
 {
   "localization": "ro",
-  "name": "LVN",
+  "name": "Levana",
   "symbol": "LVN",
-  "description": "Jeton de fidelitate ELEVENPARIS pe KiChain",
-  "coingeckoID": "lvn"
+  "description": "Jeton nativ Levana"
 }

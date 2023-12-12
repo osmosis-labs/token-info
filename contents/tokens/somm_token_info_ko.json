@@ -1,8 +1,8 @@
 {
   "description": "Somm 토큰(SOMM)은 Sommelier Chain Automated Vault의 기본 스테이킹 토큰으로 위험을 완화하면서 동급 최고의 수익률을 찾습니다.",
-  "localization": "ko",
   "name": "Sommelier",
   "symbol": "SOMM",
   "coingeckoID": "sommelier",
-  "twitterURL": "https://twitter.com/sommfinance"
+  "twitterURL": "https://twitter.com/sommfinance",
+  "stakingURL": "https://wallet.keplr.app/chains/sommelier"
 }

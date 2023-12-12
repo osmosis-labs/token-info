@@ -1,5 +1,6 @@
 {
-  "description": "نشانه اصلی پل گرانشی پل باز و غیرمتمرکز است که قدرت تعامل و نقدینگی بین اکوسیستم های بلاک چین را باز می کند.",
+  "localization": "en",
+  "description": "نشانه اصلی پل گرانشی پل باز و غیرمتمرکز است که قدرت تعامل و نقدینگی را بین اکوسیستم های بلاک چین باز می کند.",
   "name": "Gravity Bridge",
   "symbol": "GRAV",
   "twitterURL": "https://twitter.com/gravity_bridge",

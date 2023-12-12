@@ -2,6 +2,6 @@
   "localization": "ko",
   "name": "Kava USDX",
   "symbol": "USDX",
-  "description": "Kava의 기본 스테이블코인",
+  "description": "Kava의 기본 스테이블 코인",
   "coingeckoID": "usdx"
 }
