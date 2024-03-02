@@ -1,6 +1,6 @@
 {
   "localization": "fr",
-  "description": "La pièce IOV est le jeton du service de nom d'actif Starname (IOV). Starname est le meilleur moyen de revendiquer votre part de la blockchain. Vous pouvez l'utiliser pour l'identification, les paiements, la propriété et les applications décentralisés. Starname peut être intégré aux portefeuilles numériques, aux dapps et aux échanges.",
+  "description": "La pièce IOV est le jeton du service de noms d'actifs Starname (IOV).<inlang-LineFeed>\nStarname est le meilleur moyen de revendiquer votre part de la blockchain. Vous pouvez l'utiliser pour l'identification, les paiements, la propriété et les applications décentralisés. Starname peut être intégré aux portefeuilles numériques, aux dapps et aux échanges.",
   "name": "Starname",
   "symbol": "IOV",
   "coingeckoID": "starname",

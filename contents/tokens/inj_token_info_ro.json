@@ -1,6 +1,6 @@
 {
   "localization": "ro",
-  "description": "Jetonul INJ este jetonul de guvernare nativ pentru lanțul Injective. Misiunea Injective este de a crea un sistem financiar cu adevărat liber și incluziv prin descentralizare.",
+  "description": "Jetonul INJ este jetonul de guvernare nativ pentru lanțul Injective.<inlang-LineFeed>\nMisiunea Injective este de a crea un sistem financiar cu adevărat liber și incluziv prin descentralizare.",
   "name": "Injective",
   "symbol": "INJ",
   "coingeckoID": "injective-protocol",

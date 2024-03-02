@@ -1,6 +1,6 @@
 {
   "localization": "tr",
-  "description": "IOV coin, Starname (IOV) Varlık Adı Hizmetinin belirtecidir Starname, blok zincirindeki payınızı talep etmenin en iyi yoludur. Merkezi olmayan tanımlama, ödemeler, sahiplik ve uygulamalar için kullanabilirsiniz. Starname dijital cüzdanlara, dapp'lere ve borsalara entegre edilebilir.",
+  "description": "IOV jetonu, Starname (IOV) Varlık Adı Hizmetinin simgesidir<inlang-LineFeed>\nYıldız adı, blockchaindeki payınızı talep etmenin en iyi yoludur. Merkezi olmayan tanımlama, ödemeler, sahiplik ve uygulamalar için kullanabilirsiniz. Starname dijital cüzdanlara, dapp'lere ve borsalara entegre edilebilir.",
   "name": "Starname",
   "symbol": "IOV",
   "coingeckoID": "starname",

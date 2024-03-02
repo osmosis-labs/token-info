@@ -1,6 +1,6 @@
 {
   "localization": "zh",
-  "description": "BLD 是用于通过质押保护 Agoric 链并支持 Inter Protocol 的代币。 Agoric 平台使您可以使用现有的 JavaScript 知识安全、无缝地构建去中心化应用程序。",
+  "description": "BLD 是用于通过质押保护 Agoric 链并支持 Inter Protocol 的代币。<inlang-LineFeed>\nAgoric 平台使您可以使用现有的 JavaScript 知识安全、无缝地构建去中心化应用程序。",
   "name": "Agoric",
   "symbol": "BLD",
   "twitterURL": "https://twitter.com/agoric",

@@ -1,6 +1,6 @@
 {
   "localization": "es",
-  "description": "El token nativo de la red Archway. Una cadena de bloques L1 incentivada que permite a los desarrolladores capturar el valor que crean sus dapps, permitiendo modelos económicos sostenibles.",
+  "description": "El token nativo de la red Archway<inlang-LineFeed>\nUna cadena de bloques L1 incentivada que permite a los desarrolladores capturar el valor que crean sus dapps, permitiendo modelos económicos sostenibles.",
   "coingeckoID": "archway",
   "twitterURL": "https://twitter.com/archwayHQ",
   "name": "Archway",

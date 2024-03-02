@@ -1,6 +1,6 @@
 {
   "localization": "en",
-  "description": "توکن INJ نشانه حاکمیت بومی برای زنجیره Injective است. ماموریت Injective ایجاد یک سیستم مالی واقعاً رایگان و فراگیر از طریق تمرکززدایی است.",
+  "description": "توکن INJ نشانه حاکمیت بومی برای زنجیره Injective است.<inlang-LineFeed>\nماموریت Injective ایجاد یک سیستم مالی واقعاً رایگان و فراگیر از طریق تمرکززدایی است.",
   "name": "Injective",
   "symbol": "INJ",
   "coingeckoID": "injective-protocol",

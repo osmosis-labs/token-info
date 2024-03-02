@@ -1,6 +1,6 @@
 {
   "localization": "pl",
-  "description": "Natywny token Stride Stride to blockchain zapewniający płynność postawionych tokenów. Korzystając ze Stride, możesz zarabiać zarówno na przyjmowaniu, jak i na plonach DeFi w całym ekosystemie Cosmos IBC.",
+  "description": "Natywny token Stride<inlang-LineFeed>\nStride to blockchain zapewniający płynność postawionych tokenów. Korzystając ze Stride, możesz zarabiać zarówno na przyjmowaniu, jak i na plonach DeFi w całym ekosystemie Cosmos IBC.",
   "name": "Stride",
   "symbol": "STRD",
   "coingeckoID": "stride",

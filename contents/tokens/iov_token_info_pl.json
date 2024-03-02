@@ -1,6 +1,6 @@
 {
   "localization": "pl",
-  "description": "Moneta IOV jest tokenem usługi Starname (IOV). Starname to najlepszy sposób na zdobycie swojej części łańcucha bloków. Można go używać do zdecentralizowanej identyfikacji, płatności, własności i aplikacji. Starname można zintegrować z portfelami cyfrowymi, dappami i giełdami.",
+  "description": "Moneta IOV jest tokenem usługi nazw aktywów Starname (IOV).<inlang-LineFeed>\nStarname to najlepszy sposób na zdobycie swojej części łańcucha bloków. Można go używać do zdecentralizowanej identyfikacji, płatności, własności i aplikacji. Starname można zintegrować z portfelami cyfrowymi, dappami i giełdami.",
   "name": "Starname",
   "symbol": "IOV",
   "coingeckoID": "starname",

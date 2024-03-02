@@ -2,7 +2,7 @@
   "localization": "zh",
   "symbol": "SCRT",
   "name": "Secret Network",
-  "description": "Secret Network的原生代币Secret Network是第一个可定制隐私的区块链。您可以选择分享内容、与谁分享以及如何分享。这可以保护用户，并使开发人员能够构建更好的 Web3。",
+  "description": "Secret Network的原生代币<inlang-LineFeed><inlang-LineFeed>Secret Network是第一个具有可定制隐私性的区块链。您可以选择分享内容、与谁分享以及如何分享。这可以保护用户，并使开发人员能够构建更好的 Web3。",
   "twitterURL": "https://twitter.com/SecretNetwork",
   "coingeckoID": "secret"
 }

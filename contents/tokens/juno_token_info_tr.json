@@ -1,6 +1,5 @@
 {
-  "description": "JUNO Chain Juno'nun yerel tokeni, tamamen topluluğun sahip olduğu ve işlettiği bir akıllı sözleşme platformudur.",
-  "localization": "tr",
+  "description": "JUNO Chain'in yerel tokenı<inlang-LineFeed>\nJuno, tamamen topluluğun sahip olduğu ve işlettiği bir akıllı sözleşme platformudur.",
   "name": "Juno",
   "symbol": "JUNO",
   "twitterURL": "https://twitter.com/JunoNetwork",

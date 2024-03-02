@@ -6,13 +6,11 @@
     "description": "Maximizați randamentul ETH prin miza cu efect de levier în Aave, Compound și Morpho și furnizarea de lichiditate a jetoanelor lichide de miză ETH pe Uniswap V3."
   },
   "xprt": {
-    "description": "Tokenul XPRT este în primul rând un simbol de guvernare pentru lanțul Persistence. Persistență este un lanț de aplicații pentru Liquid Staking care alimentează un ecosistem de aplicații DeFi axate pe deblocarea lichidității activelor mizate.",
+    "description": "Tokenul XPRT este în primul rând un simbol de guvernare pentru lanțul Persistence.<inlang-LineFeed>\nPersistență este un lanț de aplicații pentru Liquid Staking care alimentează un ecosistem de aplicații DeFi axate pe deblocarea lichidității activelor mizate.",
     "symbol": "XPRT",
-    "coingeckoID": "persistenţă",
     "twitterURL": "https://twitter.com/PersistenceOne"
   },
   "xpla": {
-    "localization": "ro",
     "name": "XPLA",
     "symbol": "XPLA",
     "description": "Jetonul nativ de miză al XPLA.",
@@ -21,23 +19,20 @@
   "xki": {
     "name": "Ki",
     "symbol": "XKI",
-    "description": "Jetonul nativ al Lanțului Ki",
-    "coingeckoID": "ki"
+    "description": "Jetonul nativ al Lanțului Ki"
   },
   "xcn": {
-    "name": "Lanţ",
+    "localization": "ro",
     "symbol": "XCN",
     "description": "Chain este un protocol blockchain în cloud care permite organizațiilor să construiască servicii financiare mai bune de la zero, alimentate de Sequence și Chain Core.",
     "coingeckoID": "lanț-2"
   },
   "wynd": {
-    "localization": "ro",
     "name": "Token de guvernare Wynd DAO",
     "symbol": "WYND",
     "description": "Token de guvernare WYND DAO"
   },
   "wsteth": {
-    "localization": "ro",
     "name": "Înfășurat Lido Staked Ether",
     "symbol": "wstETH",
     "description": "wstETH este o versiune înfășurată a stETH. Întrucât unele protocoale DeFi necesită un mecanism de echilibru constant pentru jetoane, wstETH vă menține echilibrul stETH fix și utilizează un sistem de partajare subiacent pentru a reflecta recompensele de miza câștigate.",
@@ -53,7 +48,7 @@
     "localization": "ro",
     "name": "Migaloo",
     "symbol": "BALENĂ",
-    "description": "Jetonul nativ al lanțului Migaloo",
+    "description": "Jetonul nativ al Migaloo Chain",
     "coingeckoID": "alb-balenă"
   },
   "weth": {
@@ -64,7 +59,6 @@
       "description": "Eter înfășurat (găuri de vierme), WETH, fabrică/găuri de vierme14ejqjyq8um4p3xfqj74yld5waqljf88fz25yxnma0cngspxe3les00fpjx/5BWqpR48Lubd55szM5iTFb62zhbd55szM5iTFkddyck6"
     },
     "grv": {
-      "localization": "ro",
       "name": "Eter (Podul gravitațional)",
       "symbol": "WETH.grv",
       "description": "Podul gravitațional WETH"
@@ -81,29 +75,32 @@
       "name": "Bitcoin împachetat (Gravity Bridge)",
       "symbol": "WBTC.grv",
       "description": "Podul gravitațional WBTC"
+    },
+    "axl": {
+      "localization": "ro",
+      "name": "Bitcoin împachetat",
+      "symbol": "WBTC.axl",
+      "description": "Înfășurat Bitcoin pe Axelar"
     }
   },
   "watr": {
     "localization": "ro",
     "name": "WATR",
     "symbol": "WATR",
-    "description": "O DAO revoluționară creată pentru a aduce apă potabilă curată bărbaților, femeilor și copiilor din întreaga lume. Sperăm să ni te alături în călătoria noastră!"
+    "description": "Un DAO revoluționar creat pentru a aduce apă potabilă curată bărbaților, femeilor și copiilor din întreaga lume. Sperăm să ni te alături în călătoria noastră!"
   },
   "void": {
     "localization": "ro",
     "name": "Vidul",
-    "symbol": "NUL",
-    "description": "Vidul"
+    "symbol": "NUL"
   },
   "vdl": {
     "localization": "ro",
     "name": "Vidulum",
-    "symbol": "VDL",
     "description": "Jetonul nativ din Vidulum",
     "coingeckoID": "vidul"
   },
   "v": {
-    "localization": "ro",
     "name": "Bostrom Volt",
     "symbol": "V",
     "description": "Jetonul de resursă al Bostrom"
@@ -118,9 +115,7 @@
   "usk": {
     "localization": "ro",
     "name": "USK",
-    "symbol": "USK",
-    "description": "Moneda stabilă nativă supra-colateralizată din lanțul Kujira.",
-    "coingeckoID": "usk"
+    "description": "Moneda stabilă nativă supra-colateralizată din lanțul Kujira."
   },
   "usdx": {
     "localization": "ro",
@@ -131,28 +126,30 @@
   },
   "usdt": {
     "localization": "ro",
-    "symbol": "USDT",
+    "name": "Tether USD",
     "description": "Tether vă oferă beneficiile comune ale tehnologiei blockchain deschise și ale monedei tradiționale prin conversia numerarului dvs. într-un echivalent stabil în monedă digitală.",
     "coingeckoID": "pripon",
     "wh": {
       "localization": "ro",
       "name": "Tether USD (găură de vierme)",
       "symbol": "USDT.wh",
-      "description": "Tether USD (Wormhole), USDT, fabrică/wormhole14ejqjyq8um4p3xfqj74yld5waqljf88fz25yxnma0cngspxe3les00fpjx/8iuAc6DSeLvi2JDUtwJxLytsZT8R19LL"
+      "description": "Tether USD (găuri de vierme), USDT, fabrică/găuri de vierme14ejqjyq8um4p3xfqj74yld5waqljf88fz25yxnma0cngspxe3les00fpjx/8iuAc6DSeLvi2JDUtwJxLytsZT8R19LL"
     },
     "grv": {
       "localization": "ro",
-      "name": "Tether USD (Gravity Bridge)",
+      "name": "Tether USD (Podul gravitațional)",
       "symbol": "USDT.grv",
       "description": "Podul gravitațional USDT"
     },
     "axl": {
+      "localization": "ro",
       "name": "Tether USD",
       "symbol": "USDT.axl",
       "description": "Moneda stabilă USD a lui Tether pe Axelar"
     }
   },
   "usdc": {
+    "localization": "ro",
     "name": "Moneda USD",
     "symbol": "USDC",
     "description": "USDC este o monedă stabilă în dolari SUA, complet garantată, dezvoltată de CENTRE, proiectul open source, Circle fiind primul dintre câțiva emitenți viitori.",
@@ -179,8 +176,9 @@
   },
   "uni": {
     "localization": "ro",
-    "name": "Uniswap",
-    "description": "Tokenul UNI a servit ca simbol de guvernanță pentru protocolul Uniswap, cu 1 miliard de UNI au fost bătuți la geneză. 60% din aprovizionarea UNI Genesis este alocată membrilor comunității Uniswap și rămâne pentru echipă, investitori și consilieri."
+    "symbol": "UNI",
+    "description": "Tokenul UNI a servit ca simbol de guvernanță pentru protocolul Uniswap, cu 1 miliard de UNI au fost bătuți la geneză. 60% din aprovizionarea UNI Genesis este alocată membrilor comunității Uniswap și rămâne pentru echipă, investitori și consilieri.",
+    "coingeckoID": "uniswap"
   },
   "umee": {
     "localization": "ro",
@@ -192,7 +190,6 @@
   "tori": {
     "localization": "ro",
     "name": "Teritori",
-    "symbol": "TORI",
     "description": "Jetonul nativ din Teritori",
     "coingeckoID": "teritori"
   },
@@ -211,13 +208,13 @@
   "tia": {
     "localization": "ro",
     "name": "Celestia",
+    "symbol": "TIA",
     "twitterURL": "https://twitter.com/CelestiaOrg",
     "coingeckoID": "celestia",
     "description": "Celestia este o rețea modulară de disponibilitate a datelor care se adaptează în siguranță la numărul de utilizatori, făcând ușor pentru oricine să-și lanseze propriul blockchain."
   },
   "tgd": {
     "localization": "ro",
-    "name": "Tgrade",
     "symbol": "TGD",
     "description": "Jetonul nativ din Tgrade",
     "coingeckoID": "tgrade"
@@ -225,7 +222,6 @@
   "swth": {
     "localization": "ro",
     "name": "Carbon",
-    "symbol": "SWTH",
     "description": "Indicatorul de guvernare nativ al Carbonului",
     "coingeckoID": "switcheo"
   },
@@ -245,15 +241,19 @@
   "sui": {
     "localization": "ro",
     "name": "Sui",
-    "symbol": "SUI",
-    "description": "Activul nativ al lui Sui se numește SUI.",
-    "coingeckoID": "sui"
+    "description": "Activul nativ al lui Sui se numește SUI."
   },
   "stumee": {
     "localization": "ro",
     "name": "Stride Staked UMEE",
     "symbol": "STUMEE",
     "description": "Jetonul nativ din Umee"
+  },
+  "sttia": {
+    "localization": "ro",
+    "name": "Stride Staked TIA",
+    "symbol": "stTIA",
+    "description": "TIA lichidă a lui Stride"
   },
   "ststars": {
     "localization": "ro",
@@ -275,8 +275,8 @@
   },
   "strd": {
     "localization": "ro",
-    "description": "Tokenul nativ al Stride Stride este un blockchain care oferă lichiditate pentru jetoanele mizate. Folosind Stride, puteți câștiga atât câștiguri, cât și venituri DeFi în ecosistemul Cosmos IBC.",
-    "name": "Pas",
+    "description": "Indicatorul nativ al lui Stride<inlang-LineFeed>\nStride este un blockchain care oferă lichiditate pentru jetoanele mizate. Folosind Stride, puteți câștiga atât câștiguri, cât și venituri DeFi în ecosistemul Cosmos IBC.",
+    "symbol": "STRD",
     "coingeckoID": "pas",
     "twitterURL": "https://twitter.com/stride_zone"
   },
@@ -328,8 +328,13 @@
     "name": "Stride Staked EVMOS",
     "symbol": "stEVMOS"
   },
-  "statom": {
+  "stdydx": {
     "localization": "ro",
+    "name": "Stride Staked DYDX",
+    "symbol": "stDYDX",
+    "description": "DYDX lichid al lui Stride"
+  },
+  "statom": {
     "name": "Stride Staked ATOM",
     "symbol": "STATOM",
     "description": "Indicatorul nativ de miză și guvernare al Cosmos Hub.",
@@ -337,19 +342,23 @@
   },
   "stars": {
     "localization": "ro",
-    "description": "Jetonul nativ al Stargaze, principalul blockchain centrat pe comunitate pentru NFT. Stargaze dă posibilitatea creatorilor, dezvoltatorilor, colecționarilor și comercianților să participe pe platformă. Lanțul Stargaze este format din diverse aplicații legate de NFT, cum ar fi un Launchpad și o piață cu oferte și licitații.",
+    "description": "Indicatorul nativ al Stargaze<inlang-LineFeed>\nCel mai important blockchain centrat pe comunitate pentru NFT. Stargaze dă posibilitatea creatorilor, dezvoltatorilor, colecționarilor și comercianților să participe pe platformă. Lanțul Stargaze este format din diverse aplicații legate de NFT, cum ar fi un Launchpad și o piață cu oferte și licitații.",
+    "name": "Privirea stelelor",
     "symbol": "STELE",
-    "coingeckoID": "privirea stelelor",
     "twitterURL": "https://twitter.com/StargazeZone"
   },
-  "sqosmo": {
+  "sqtia": {
     "localization": "ro",
+    "name": "TIA Squared",
+    "symbol": "sqTIA",
+    "description": "Margined Power Token sqTIA"
+  },
+  "sqosmo": {
     "name": "OSMO Squared",
     "symbol": "sqOSMO",
     "description": "Margined Power Token sqOSMO"
   },
   "sqbtc": {
-    "localization": "ro",
     "name": "BTC pătrat",
     "symbol": "sqBTC",
     "description": "Margined Power Token sqBTC"
@@ -358,30 +367,29 @@
     "localization": "ro",
     "name": "ATOM pătrat",
     "symbol": "sqATOM",
-    "description": "Margined Power Token sqATOM"
+    "description": "Jeton de putere cu marjă sqATOM"
   },
   "spacer": {
     "localization": "ro",
-    "symbol": "DISTANȚIER"
+    "name": "distanțier",
+    "symbol": "DISTANȚIER",
+    "description": "distanțier"
   },
   "source": {
-    "localization": "ro",
     "name": "Sursă",
     "symbol": "SURSĂ",
     "description": "Jetonul nativ al SOURCE Chain",
     "coingeckoID": "sursă"
   },
   "somm": {
-    "description": "Somm Token (SOMM) este tokenul nativ de miză al seifurilor automate de Sommelier Chain găsește cele mai bune randamente din clasă, reducând în același timp riscul.",
+    "description": "Somm Token (SOMM) este jetonul de miză nativ al Lanțului Sommelier<inlang-LineFeed>\nSeifurile automate găsesc cele mai bune randamente din clasă, reducând în același timp riscurile.",
     "name": "Sommelier",
-    "coingeckoID": "somelier",
+    "symbol": "SOMM",
     "twitterURL": "https://twitter.com/sommfinance",
     "stakingURL": "https://wallet.keplr.app/chains/sommelier"
   },
   "solar": {
-    "localization": "ro",
     "name": "Solarbank DAO",
-    "symbol": "SOLAR",
     "description": "Solarbank DAO Governance Token pentru accelerarea trecerii la energie regenerabilă și verde"
   },
   "sol": {
@@ -393,6 +401,7 @@
   },
   "slca": {
     "localization": "ro",
+    "name": "Silice",
     "symbol": "SLCA",
     "description": "Silice"
   },
@@ -403,9 +412,7 @@
     "description": "Jeton de guvernare Sikoba"
   },
   "silk": {
-    "localization": "ro",
     "name": "Mătase",
-    "symbol": "MĂTASE",
     "description": "Jetonul nativ cw20 pentru Silk on Secret Network"
   },
   "sienna": {
@@ -425,7 +432,8 @@
     "localization": "ro",
     "name": "Shiba Inu",
     "symbol": "SHIB",
-    "description": "SHIBA INU este un experiment comunitar 100% descentralizat în care susține că 1/2 jetoane au fost trimise la Vitalik, iar cealaltă jumătate au fost blocate într-un pool Uniswap și cheile au fost arse."
+    "description": "SHIBA INU este un experiment comunitar 100% descentralizat în care susține că 1/2 jetoane au fost trimise la Vitalik, iar cealaltă jumătate au fost blocate într-un pool Uniswap și cheile au fost arse.",
+    "coingeckoID": "shiba-inu"
   },
   "shd": {
     "localization": "ro",
@@ -440,27 +448,26 @@
     "description": "Jetonul nativ cw20 pentru Shade on Secret Network"
   },
   "sge": {
-    "localization": "ro",
     "name": "SGE",
     "symbol": "SGE",
-    "description": "Tokenul nativ al rețelei SGE"
+    "description": "Tokenul nativ al rețelei SGE",
+    "coingeckoID": "șase sigma"
   },
   "sfrxeth": {
     "localization": "ro",
     "name": "Mizat Frax Ether",
     "symbol": "sfrxETH",
-    "description": "sfrxETH este versiunea frxETH care acumulează randament de miză. Tot profitul generat de validatorii Frax Ether este distribuit deținătorilor de sfrxETH. Schimbând frxETH cu sfrxETH, cineva devine eligibil pentru randamentul mizarii, care este răscumpărat la convertirea sfrxETH înapoi în frxETH.",
+    "description": "sfrxETH este versiunea frxETH care acumulează randament de miză. Tot profitul generat de validatorii Frax Ether este distribuit deținătorilor de sfrxETH. Schimbând frxETH cu sfrxETH, cineva devine eligibil pentru randamentul de miză, care este răscumpărat la convertirea sfrxETH înapoi în frxETH.",
     "coingeckoID": "mizat-frax-eter"
   },
   "sejuno": {
-    "localization": "ro",
     "name": "StakeEasy seJUNO",
     "symbol": "SEJUNO",
     "description": "Miza derivată seJUNO pentru staked JUNO",
     "coingeckoID": "stakeeasy-juno-derivat"
   },
   "sei": {
-    "description": "Jetonul nativ de miză al lui Sei. Sei este cel mai rapid blockchain de nivel 1, conceput pentru a se extinde cu industrie.",
+    "description": "Jetonul nativ de miză al lui Sei.<inlang-LineFeed>\nSei este cel mai rapid blockchain de nivel 1, conceput pentru a se extinde cu industrie.",
     "localization": "ro",
     "name": "Sei",
     "symbol": "SEI",
@@ -468,29 +475,26 @@
     "coingeckoID": "sei-retea"
   },
   "seasy": {
-    "localization": "ro",
     "name": "StakeEasy SEASY",
     "symbol": "SEASY",
     "description": "Indicativ de guvernare StakeEasy"
   },
   "scrt": {
     "localization": "ro",
-    "symbol": "SCRT",
     "name": "Rețeaua secretă",
-    "description": "Tokenul nativ al Secret Network Secret Network este primul blockchain cu confidențialitate personalizabilă. Puteți alege ce împărtășiți, cu cine și cum. Acest lucru protejează utilizatorii și dă putere dezvoltatorilor să construiască un Web3 mai bun.",
+    "description": "Indicatorul nativ al Secret Network<inlang-LineFeed>\nSecret Network este primul blockchain cu confidențialitate personalizabilă. Puteți alege ce împărtășiți, cu cine și cum. Acest lucru protejează utilizatorii și dă putere dezvoltatorilor să construiască un Web3 mai bun.",
     "twitterURL": "https://twitter.com/SecretNetwork",
     "coingeckoID": "secret"
   },
   "rowan": {
+    "localization": "ro",
     "name": "Sifchain",
-    "symbol": "ROWAN",
     "description": "Rowan Token (ROWAN) este tokenul de utilitate nativ al rețelei Sifchain, folosit ca mijloc principal de a guverna, de a furniza lichiditate, de a asigura blockchain-ul, de a stimula participanții și de a oferi un mecanism implicit de stocare și schimb de valoare.",
     "coingeckoID": "sifchain"
   },
   "roar": {
     "localization": "ro",
     "name": "Leul DAO",
-    "symbol": "HOHOTE",
     "description": "Lion DAO este o comunitate DAO care trăiește pe blockchain-ul Terra cu misiunea de a reactiva comunitatea LUNAtic și de a prezenta protocoalele și instrumentele Terra."
   },
   "rio": {
@@ -501,7 +505,6 @@
     "coingeckoID": "rețea realio"
   },
   "reth": {
-    "localization": "ro",
     "name": "Rocket Pool Ether",
     "symbol": "rETH",
     "description": "Rocket Pool este un pool descentralizat Ethereum Proof of Stake.",
@@ -509,15 +512,16 @@
   },
   "regen": {
     "localization": "ro",
-    "name": "Regen",
     "symbol": "REGEN",
-    "description": "Moneda REGEN este simbolul Regen Network Platform Regen Network, o platformă pentru a crea și a investi în credite de carbon de înaltă integritate și biodiversitate din proiecte de regenerare ecologică.",
+    "description": "Moneda REGEN este simbolul pentru platforma Regen Network<inlang-LineFeed>\nRegen Network, o platformă pentru a crea și investi în credite de carbon și biodiversitate de înaltă integritate din proiecte de regenerare ecologică.",
     "twitterURL": "https://twitter.com/regen_network",
     "coingeckoID": "regen"
   },
   "rebus": {
+    "localization": "ro",
     "name": "Rebus",
-    "description": "REBUS, moneda nativă a lanțului Rebus."
+    "description": "REBUS, moneda nativă a lanțului Rebus.",
+    "coingeckoID": "rebus"
   },
   "raw": {
     "localization": "ro",
@@ -528,14 +532,13 @@
   },
   "ratom": {
     "localization": "ro",
-    "name": "rATOM",
-    "symbol": "rATOM",
+    "name": "RATOM",
+    "symbol": "RATOM",
     "description": "O reprezentare lichidă de miză a ATOM-urilor mizate"
   },
   "rai": {
     "localization": "ro",
     "name": "Rai Reflex Index",
-    "symbol": "RAI",
     "description": "RAI este un activ stabil nelegat, susținut de ETH. Este util ca garanție mai „stabilă” pentru alte protocoale DeFi (comparativ cu ETH sau BTC) sau ca un activ stabil cu o rată a dobânzii încorporată.",
     "coingeckoID": "rai"
   },
@@ -543,8 +546,7 @@
     "localization": "ro",
     "name": "Racoon",
     "symbol": "RAC",
-    "description": "Racoon își propune să simplifice accesibilitatea la AI, NFT și jocuri de noroc pe ecosistemul Cosmos",
-    "coingeckoID": "raton"
+    "description": "Racoon își propune să simplifice accesibilitatea la AI, NFT și jocuri de noroc pe ecosistemul Cosmos"
   },
   "qwoyn": {
     "localization": "ro",
@@ -556,11 +558,12 @@
     "localization": "ro",
     "name": "Quicksilver Liquid Staked STELE",
     "symbol": "qSTELE",
-    "description": "Quicksilver Liquid Staked STARS"
+    "description": "Quicksilver Liquid Staked STELE"
   },
   "qsr": {
-    "description": "Tokenul nativ Quasar Quasar este prima platformă descentralizată de management al activelor (DAM) activată de IBC. O experiență DeFi interchain sigură, fără permisiune, componabilă și diversificată este în sfârșit aici.",
+    "description": "Jetonul nativ al Quasarului<inlang-LineFeed>\nQuasar este prima platformă descentralizată de management al activelor (DAM) activată de IBC. O experiență DeFi interchain sigură, fără permisiune, componabilă și diversificată este în sfârșit aici.",
     "localization": "ro",
+    "name": "Quasar",
     "symbol": "QSR",
     "twitterURL": "https://twitter.com/QuasarFi",
     "coingeckoID": "quasar-2"
@@ -584,7 +587,7 @@
     "description": "Quicksilver Liquid Staked OSMO"
   },
   "qck": {
-    "description": "QCK - token nativ al Quicksilver Liquid Stake-ți activele Cosmos cu validatorul tău preferat și primești active lichide mizate (qASSET-uri) pe care le poți folosi pentru schimb, pooling, împrumut și multe altele, totul în timp ce miza ta originală câștigă miza APY din securizarea rețelei.",
+    "description": "QCK - token nativ al Quicksilver<inlang-LineFeed>\nLichid Mizați-vă activele Cosmos cu validatorul preferat și primiți active lichide mizate (qASSETT) pe care le puteți utiliza pentru schimb, pooling, împrumut și multe altele, toate în timp ce miza inițială câștigă miza APY din securizarea rețelei.",
     "localization": "ro",
     "coingeckoID": "mercur",
     "name": "Mercur",
@@ -599,15 +602,20 @@
   "pyth": {
     "localization": "ro",
     "name": "Rețeaua Pyth",
-    "symbol": "PYTH",
-    "description": "Pyth este un protocol care permite participanților de pe piață să publice informații despre prețuri în lanț pentru ca alții să le folosească. Protocolul este o interacțiune între trei părți: - Editorii trimit informații despre prețuri programului oracle Pyth. Pyth are mai mulți editori de date pentru fiecare produs pentru a îmbunătăți acuratețea și robustețea sistemului. -Programul oracle al lui Pyth combină datele editorilor pentru a produce un singur preț agregat și un interval de încredere. Consumatorii citesc informațiile despre preț produse de programul Oracle. Programul oracol al lui Pyth rulează simultan atât pe rețeaua principală Solana, cât și pe Pythnet. Fiecare instanță a programului este responsabilă pentru propriul set de fluxuri de prețuri. Feedurile de preț Solana sunt disponibile pentru utilizare prin protocoalele Solana. În acest caz, deoarece programul Oracle în sine rulează pe Solana, prețurile rezultate sunt imediat disponibile pentru consumatori, fără a necesita nicio muncă suplimentară. Feedurile de preț Pythnet sunt disponibile pe peste 12 blockchain-uri. Prețurile construite pe Pythnet sunt transferate încrucișat pentru a ajunge la consumatorii pe aceste blockchain. În ambele cazuri, componenta critică a sistemului este programul oracle care combină datele de la fiecare editor individual. Acest program menține un număr de conturi Solana diferite care listează produsele pe Pyth și datele actuale ale prețurilor acestora. Editorii își publică prețul și încrederea interacționând cu programul Oracle pe fiecare slot. Programul stochează aceste informații în conturile sale. Prima actualizare a prețului într-un slot declanșează suplimentar agregarea prețurilor, care combină datele de preț din intervalul anterior într-un singur preț agregat și interval de încredere. Acest preț agregat este scris în contul Solana unde este citit de alte programe în lanț și disponibil pentru transmitere către alte blockchain-uri.",
+    "description": "Pyth este un protocol care permite participanților de pe piață să publice informații despre prețuri în lanț pentru ca alții să le folosească. Protocolul este o interacțiune între trei părți:\n-Editorii trimit informații despre prețuri programului Pyth Oracle. Pyth are mai mulți editori de date pentru fiecare produs pentru a îmbunătăți acuratețea și robustețea sistemului.\n-Programul oracle al lui Pyth combină datele editorilor pentru a produce un singur preț agregat și un interval de încredere.\nConsumatorii citesc informațiile despre preț produse de programul Oracle.<inlang-LineFeed>\nProgramul oracol al lui Pyth rulează simultan atât pe rețeaua principală Solana, cât și pe Pythnet. Fiecare instanță a programului este responsabilă pentru propriul set de fluxuri de prețuri. Feedurile de preț Solana sunt disponibile pentru utilizare prin protocoalele Solana. În acest caz, deoarece programul Oracle în sine rulează pe Solana, prețurile rezultate sunt imediat disponibile pentru consumatori, fără a necesita nicio muncă suplimentară. Feedurile de preț Pythnet sunt disponibile pe peste 12 blockchain-uri. Prețurile construite pe Pythnet sunt transferate încrucișat pentru a ajunge la consumatorii pe aceste blockchain.<inlang-LineFeed>\nÎn ambele cazuri, componenta critică a sistemului este programul oracle care combină datele de la fiecare editor individual. Acest program menține un număr de conturi Solana diferite care listează produsele pe Pyth și datele actuale ale prețurilor acestora. Editorii își publică prețul și încrederea interacționând cu programul Oracle pe fiecare slot. Programul stochează aceste informații în conturile sale. Prima actualizare a prețului într-un slot declanșează suplimentar agregarea prețurilor, care combină datele de preț din intervalul anterior într-un singur preț agregat și interval de încredere. Acest preț agregat este scris în contul Solana unde este citit de alte programe în lanț și disponibil pentru transmitere către alte blockchain-uri.",
     "coingeckoID": "pyth-network"
+  },
+  "puppy": {
+    "localization": "ro",
+    "name": "catelus",
+    "symbol": "CĂTELU",
+    "description": "catelus"
   },
   "pstake": {
     "localization": "ro",
     "name": "pSTAKE Finanțe",
     "symbol": "PSTAKE",
-    "description": "pSTAKE este un protocol de staking lichid care deblochează lichiditatea activelor mizate. Participanții la jetoane PoS își pot miza activele, menținând în același timp lichiditatea acestor active. Utilizatorii câștigă recompense de miză + primesc jetoane reprezentative cu miză 1:1 care pot fi folosite pentru a genera randament suplimentar.",
+    "description": "pSTAKE este un protocol de staking lichid care deblochează lichiditatea activelor mizate. Stakerurile de jetoane PoS își pot miza activele, menținând în același timp lichiditatea acestor active. Utilizatorii câștigă recompense de miză + primesc jetoane reprezentative cu miză 1:1 care pot fi folosite pentru a genera randament suplimentar.",
     "coingeckoID": "pstake-finance"
   },
   "polygon": {
@@ -622,16 +630,14 @@
   "plq": {
     "localization": "ro",
     "name": "Planq",
-    "symbol": "PLQ",
     "description": "EVM nativ, simbolul de guvernare și de miză al rețelei Planq",
     "coingeckoID": "planq"
   },
   "pica": {
-    "description": "Indicatorul nativ de miză și guvernare al Composable. Composabil este stratul de bază care conectează L1-urile și L2-urile. Extindem IBC la alte ecosisteme, depășind granițele interoperabilității minimizate de încredere. Abstragem experiența în lanțuri încrucișate pentru utilizatori, oferind o execuție fără întreruperi a intențiilor utilizatorului, indiferent de lanț.",
+    "description": "Indicatorul nativ de miză și guvernare al Composable.<inlang-LineFeed>\nComposabil este stratul de bază care conectează L1-urile și L2-urile. Extindem IBC la alte ecosisteme, depășind granițele interoperabilității minimizate de încredere. Abstragem experiența în lanțuri încrucișate pentru utilizatori, oferind o execuție fără întreruperi a intențiilor utilizatorului, indiferent de lanț.",
     "localization": "ro",
     "name": "Composabil",
     "symbol": "PICA",
-    "coingeckoID": "picasso",
     "twitterURL": "https://twitter.com/ComposableFin"
   },
   "phmn": {
@@ -644,27 +650,30 @@
   "pepec": {
     "localization": "ro",
     "name": "Pepec",
-    "symbol": "PEPEC",
     "description": "Pepec"
   },
   "pepe": {
     "localization": "ro",
     "name": "Pepe",
-    "symbol": "PEPE",
     "coingeckoID": "pepe"
   },
   "pasg": {
     "localization": "ro",
-    "name": "Trecere",
     "symbol": "PASG",
     "description": "Indicatorul nativ de miză și guvernare al lanțului Passage.",
     "coingeckoID": "trecere"
   },
+  "page": {
+    "localization": "ro",
+    "name": "Pagină",
+    "symbol": "PAGINĂ",
+    "description": "Tokenul PAGE este folosit pentru acțiuni în ecosistemul literar PageDAO NFT și pentru guvernarea DAO.",
+    "coingeckoID": "pagină"
+  },
   "osmo": {
     "localization": "ro",
-    "symbol": "OSMO",
-    "description": "Tokenul nativ al Osmosis Osmosis (OSMO) este un schimb descentralizat (DEX) pentru Cosmos, un ecosistem de blockchain-uri suverane, interoperabile, toate conectate fără încredere prin IBC, Protocolul de comunicare Inter-Blockchain. Osmosis oferă, de asemenea, active non-IBC legate de ecosistemele Ethereum și Polkadot. Supercharged Liquidity de la Osmosis implementează un mecanism eficient de fond de lichiditate analog lichidității concentrate a Uniswap, obținând o eficiență îmbunătățită a capitalului și permițând furnizorilor de lichidități să concureze pentru comisioane și stimulente câștigate. Ca DEX de aplicație, Osmosis are un control mai mare asupra întregii stive de blockchain decât DEX-urile care trebuie să urmeze codul unui lanț părinte. Acest control cu granulație fină a permis, de exemplu, dezvoltarea Superfluid Staking, o îmbunătățire a securității Proof-of-Stake. Miza superfluid permite OSMO-ul de bază într-o poziție LP să adauge securitatea lanțului și să câștige recompense de miza pentru acest lucru. Personalizarea aplicațiilor permite, de asemenea, dezvoltarea unui mempool de tranzacții protejat cu criptare de prag, care va reduce foarte mult MEV dăunător pe osmoză. Viziunea Osmosis este de a construi un DEX nativ cross-chain și o suită de tranzacționare care să conecteze toate lanțurile prin IBC, inclusiv Ethereum și Bitcoin. Pentru a construi funcționalitățile de tranzacționare, Osmosis a invitat dezvoltatorii externi să creeze un ecosistem DEX la comandă, care include împrumuturi, credit, marjă, rampe fiat, seifuri de strategie Defi, NFT, stablecoins și multe altele - toate funcționalitățile unui schimb centralizat și mai mult, plus reducerea la minimum a încrederii finanțelor descentralizate.",
-    "coingeckoID": "osmoză",
+    "name": "Osmoză",
+    "description": "Semnul nativ al Osmozei<inlang-LineFeed>\nOsmosis (OSMO) este principalul hub DEX și cross-chain DeFi din cadrul ecosistemului Cosmos, o rețea de peste 50 de blockchain-uri suverane, interoperabile, conectate perfect prin Protocolul de comunicare Inter-Blockchain (IBC). Pionier în abordarea sa, Osmosis oferă o experiență dinamică de tranzacționare și furnizare de lichidități, integrând active non-IBC din alte ecosisteme, inclusiv Ethereum, Solana, Avalanche și Polkadot. Adoptând inițial pool-uri în stil Balancer, Osmosis are acum și un model de lichiditate concentrat, care este mult mai eficient de capital, ceea ce înseamnă că este necesară o lichiditate semnificativ mai mică pentru a gestiona aceeași cantitate de volum de tranzacționare cu un derapaj minim.<inlang-LineFeed>\nCa un adevărat Appchain, Osmosis are un control mai mare asupra întregii stive de blockchain decât DEX-urile tradiționale de smart contract, care trebuie să urmeze codul lanțului părinte pe care este construit. Acest control cu granulație fină a permis, de exemplu, dezvoltarea Superfluid Staking, o extensie a Proof of Stake care permite stabilirea activelor la nivelul aplicației pentru a securiza lanțul. Personalizarea aplicațiilor permite, de asemenea, implementarea unor funcții precum modulul Protocol Revenue, care îi permite Osmosis să efectueze arbitraj în lanț în numele participanților OSMO, echilibrând prețurile între grupuri, generând în același timp venituri reale din acest volum. În plus, ca lanț de aplicații suveran, guvernarea Osmosis poate vota cu privire la actualizările protocolului. Un exemplu în acest sens a fost introducerea unui Taker Fee, care a activat colectarea taxelor de schimb pentru a genera randament divers din volumul Osmosis și a le distribui participanților OSMO.<inlang-LineFeed>\nOsmosis aduce experiența completă de schimb centralizat în lumea descentralizată prin construirea unui DEX nativ cross-chain și a suită de tranzacționare care conectează toate lanțurile prin IBC, inclusiv Ethereum și Bitcoin. Pentru a atinge acest obiectiv, Osmosis găzduiește o suită în continuă expansiune de aplicații DeFi menite să ofere o experiență unică, care include împrumuturi, credit, marjă, seifuri de strategie DeFi, power perps, fiat on-ramps, NFT-uri, stablecoins și multe altele - toate funcționalitățile oferite de schimbul centralizat și multe altele, în mediul de încredere minimizat al finanțelor descentralizate.",
     "twitterURL": "https://twitter.com/osmosiszone",
     "stakingURL": "https://wallet.keplr.app/chains/osmosis"
   },
@@ -677,7 +686,6 @@
   "orai": {
     "localization": "ro",
     "name": "Oraichain",
-    "symbol": "ORAI",
     "description": "Jetonul nativ al Oraichainului",
     "coingeckoID": "oraichain-token"
   },
@@ -687,7 +695,6 @@
     "description": "OIN Token ($OIN) este un activ digital revoluționar dezvoltat pe $SEI Blockchain. Transcende a fi doar o criptomonedă; $OIN reprezintă un depozit robust de valoare, simbolizând viitorul finanțelor descentralizate și potențialul acesteia de a remodela peisajul cripto."
   },
   "odin": {
-    "localization": "ro",
     "name": "Protocolul Odin",
     "symbol": "ODIN",
     "description": "Miza și simbolul de guvernare pentru Protocolul ODIN",
@@ -699,11 +706,16 @@
     "symbol": "O9W",
     "description": "Token O9W pentru protocolul ODIN"
   },
+  "nym": {
+    "localization": "ro",
+    "symbol": "NYM",
+    "description": "NYM Token (NYM) este tokenul de utilitate nativ al rețelei Nym, folosit ca mijloc principal pentru a stimula operatorii nodurilor mixnet.",
+    "coingeckoID": "nym"
+  },
   "ntrn": {
-    "description": "Indicatorul nativ al lanțului de neutroni. Cea mai sigură platformă CosmWasm din Cosmos, Neutron permite contractelor inteligente să folosească tehnologia Interchain de ultimă oră cu un cost minim.",
+    "description": "Indicatorul nativ al lanțului de neutroni.<inlang-LineFeed>\nCea mai sigură platformă CosmWasm din Cosmos, Neutron permite contractelor inteligente să folosească tehnologia Interchain de ultimă oră cu un cost minim.",
     "localization": "ro",
     "name": "Neutroni",
-    "symbol": "NTRN",
     "coingeckoID": "neutron-3",
     "twitterURL": "https://twitter.com/Neutron_org"
   },
@@ -722,6 +734,7 @@
   "nom": {
     "localization": "ro",
     "name": "Onomie",
+    "symbol": "NOM",
     "description": "Indicatorul nativ al Protocolului Onomy",
     "coingeckoID": "onomie-protocol"
   },
@@ -731,11 +744,12 @@
     "description": "Semnul nativ din Nois"
   },
   "nls": {
-    "description": "Jetonul nativ al lanțului Nolus Creșteți-vă jocul cu un capital de până la 3x. Puneți-vă într-o lume a riscurilor minime și deblocați întregul potențial al activelor dvs.",
+    "description": "Indicatorul nativ al lanțului Nolus<inlang-LineFeed>\nCrește-ți jocul cu un capital de până la 3x. Puneți-vă într-o lume a riscurilor minime și deblocați întregul potențial al activelor dvs.",
     "localization": "ro",
     "coingeckoID": "nolus",
     "twitterURL": "https://twitter.com/NolusProtocol",
-    "name": "Nolus"
+    "name": "Nolus",
+    "symbol": "NLS"
   },
   "ngm": {
     "localization": "ro",
@@ -746,14 +760,16 @@
   },
   "neta": {
     "localization": "ro",
+    "name": "Neta",
     "symbol": "NETA",
-    "description": "Jetonul nativ cw20 pentru Neta pe Juno Chain"
+    "description": "Jetonul nativ cw20 pentru Neta pe Juno Chain",
+    "coingeckoID": "neta"
   },
   "neok": {
     "localization": "ro",
     "name": "Neokingdom DAO",
     "symbol": "NEOK",
-    "description": "Jetonul Neokingdom DAO."
+    "description": "Indicatorul Neokingdom DAO."
   },
   "nct": {
     "localization": "ro",
@@ -771,18 +787,16 @@
   "muse": {
     "localization": "ro",
     "name": "MuseDAO",
-    "symbol": "MUZĂ",
     "description": "Jetonul nativ cw20 pentru MuseDAO pe Juno Chain"
   },
   "mpwr": {
     "localization": "ro",
     "name": "EmpowerChain",
-    "symbol": "MPWR",
     "description": "Indicatorul nativ de miză și guvernare al Empowerului."
   },
   "mntl": {
     "localization": "ro",
-    "description": "Tokenul nativ al suitei de produse AssetMantle AssetMantle este axat pe ecosistemul NFT, ajutându-vă să vă îmbunătățiți jocul cu deținerea activelor digitale.",
+    "description": "Jetonul nativ al Asset Mantle<inlang-LineFeed>\nSuita de produse AssetMantle este axată pe ecosistemul NFT, ajutându-vă să vă îmbunătățiți jocul cu deținerea activelor digitale.",
     "name": "AssetMantle",
     "symbol": "MNTL",
     "coingeckoID": "assetmantle",
@@ -808,21 +822,25 @@
     "description": "Maker este o organizație autonomă descentralizată care creează și asigură stablecoin-ul dai pe blockchain-ul Ethereum",
     "coingeckoID": "făcător"
   },
+  "milktia": {
+    "localization": "ro",
+    "name": "milkTIA",
+    "symbol": "milkTIA",
+    "description": "TIA lichidă a lui MilkyWay",
+    "coingeckoID": "milkyway-stated-tia"
+  },
   "mile": {
     "localization": "ro",
-    "name": "Mille",
     "symbol": "MILE",
     "description": "Mille: al 1000-lea jeton pe osmoză"
   },
   "meme": {
     "localization": "ro",
     "name": "EU EU",
-    "symbol": "EU EU",
     "description": "MEME Token (MEME) este jetonul de miza nativ al lanțului MEME",
     "coingeckoID": "retea-meme"
   },
   "medas": {
-    "localization": "ro",
     "name": "Rețeaua digitală Medas",
     "symbol": "MEDAS",
     "description": "Jetonul nativ al rețelei digitale Medas"
@@ -842,19 +860,20 @@
   },
   "matic": {
     "localization": "ro",
-    "symbol": "MATIC",
-    "description": "Polygon (fostul Matic) Network aduce la scară masivă Ethereum folosind o versiune adaptată a Plasma cu lanțuri laterale bazate pe PoS. Polygon este o platformă bine structurată, ușor de utilizat pentru scalarea Ethereum și dezvoltarea infrastructurii.",
-    "coingeckoID": "matic-network"
+    "name": "Poligon",
+    "description": "Polygon (fostul Matic) Network aduce la scară masivă Ethereum folosind o versiune adaptată a Plasma cu lanțuri laterale bazate pe PoS. Polygon este o platformă bine structurată, ușor de utilizat pentru scalarea Ethereum și dezvoltarea infrastructurii."
   },
   "mars": {
     "localization": "ro",
-    "description": "Token de protocol Marte Împrumutați, împrumutați și câștigați cu un protocol de credit autonom în universul Cosmos. Deschis tuturor, închis pentru nimeni.",
+    "description": "Jeton de protocol Marte<inlang-LineFeed>\nÎmprumutați, împrumutați și câștigați cu un protocol de credit autonom în universul Cosmos. Deschis tuturor, închis pentru nimeni.",
     "coingeckoID": "mars-protocol-a7fcbcfb-fd61-4017-92f0-7ee9f9cc6da3",
     "twitterURL": "https://twitter.com/mars_protocol",
-    "symbol": "MARTE"
+    "symbol": "MARTE",
+    "name": "Mars Hub"
   },
   "marble": {
     "localization": "ro",
+    "name": "Marmură",
     "symbol": "MARMURĂ",
     "description": "Jetonul nativ cw20 pentru Marble DAO pe Juno Chain",
     "coingeckoID": "marmură"
@@ -867,7 +886,6 @@
   },
   "lvn": {
     "localization": "ro",
-    "name": "Levana",
     "symbol": "LVN",
     "description": "Jeton nativ Levana"
   },
@@ -881,14 +899,14 @@
   "luna": {
     "localization": "ro",
     "name": "Luna",
-    "description": "Jetonul nativ de miză al Terrei. Alimentat de o comunitate pasionată și de un bazin profund de talent pentru dezvoltatori, blockchain-ul Terra este construit pentru a permite următoarea generație de produse și servicii Web3.",
-    "symbol": "LUNA",
+    "description": "Jetonul nativ de miză al Terrei.<inlang-LineFeed>\nAlimentat de o comunitate pasionată și de un bazin profund de talent pentru dezvoltatori, blockchain-ul Terra este construit pentru a permite următoarea generație de produse și servicii Web3.",
     "twitterURL": "https://twitter.com/terra_money",
     "coingeckoID": "terra-luna-2"
   },
   "lumen": {
     "localization": "ro",
     "name": "LumenX",
+    "symbol": "LUMEN",
     "description": "Tokenul nativ al rețelei LumenX"
   },
   "lum": {
@@ -898,7 +916,7 @@
     "coingeckoID": "lum-rețea"
   },
   "lore": {
-    "description": "Tokenul nativ al Gitopia Gitopia este platforma de colaborare cu cod de ultimă generație alimentată de o rețea descentralizată și o economie interactivă de token. Este conceput pentru a optimiza procesul de dezvoltare a software-ului open-source prin colaborare, transparență și stimulare.",
+    "description": "Jetonul nativ al Gitopiei<inlang-LineFeed>\nGitopia este platforma de colaborare cu cod de ultimă generație alimentată de o rețea descentralizată și o economie interactivă de jetoane. Este conceput pentru a optimiza procesul de dezvoltare a software-ului open-source prin colaborare, transparență și stimulare.",
     "localization": "ro",
     "coingeckoID": "gitopia",
     "name": "Gitopia",
@@ -937,7 +955,7 @@
     "description": "Moneda L1 este utilitatea blockchain GenesisL1, guvernanța și simbolul EVM"
   },
   "kyve": {
-    "description": "Jetonul de utilitate nativ al rețelei KYVE. Revoluționând fiabilitatea datelor în spațiul Web3, KYVE Network oferă instrumente rapide și ușoare pentru validarea, imuabilitatea și recuperarea datelor, asigurând date fără încredere pentru o scalabilitate fără probleme și eliminând riscurile și blocajele de date.",
+    "description": "Jetonul de utilitate nativ al rețelei KYVE.<inlang-LineFeed>\nRevoluționând fiabilitatea datelor în spațiul Web3, KYVE Network oferă instrumente rapide și ușoare pentru validarea, imuabilitatea și recuperarea datelor, asigurând date fără încredere pentru o scalabilitate fără probleme și eliminând riscurile și blocajele de date.",
     "localization": "ro",
     "symbol": "KYVE",
     "twitterURL": "https://twitter.com/KYVENetwork",
@@ -945,16 +963,16 @@
   },
   "kuji": {
     "localization": "ro",
-    "description": "Indicatorul nativ de miză și guvernare al lanțului Kujira. Un ecosistem descentralizat pentru protocoale, constructori și utilizatori web3 care caută FinTech durabil.",
+    "description": "Indicatorul nativ de miză și guvernare al lanțului Kujira.<inlang-LineFeed>\nUn ecosistem descentralizat pentru protocoale, constructori și utilizatori web3 care caută FinTech durabil.",
     "coingeckoID": "kujira",
     "twitterURL": "https://twitter.com/TeamKujira",
-    "symbol": "KUJI",
-    "name": "Kujira"
+    "symbol": "KUJI"
   },
   "ksm": {
     "localization": "ro",
+    "name": "Kusama",
     "symbol": "KSM",
-    "description": "Taxa nativă, guvernare, miza și simbolul de asociere al platformei Polkadot."
+    "description": "Taxa nativă, guvernanța, miza și simbolul de asociere al platformei Polkadot."
   },
   "krtc": {
     "localization": "ro",
@@ -963,25 +981,32 @@
     "description": "Moneda stabilă KRW a Terra Classic.",
     "coingeckoID": "terrakrw"
   },
+  "kleo": {
+    "localization": "ro",
+    "name": "Kleomedes",
+    "symbol": "KLEO",
+    "description": "Jetonul Kleomedes<inlang-LineFeed>\nKleomedes este un furnizor de infrastructură care găzduiește singur noduri care validează rețelele IBC. Suntem activi în sprijinirea lanțurilor pe care le validăm prin furnizarea de suport pentru infrastructură sub formă de puncte terminale și relee RPC.<inlang-LineFeed>\nÎn calitate de DAO, avem o comunitate de delegatori care sunt activi în discuția despre guvernare pe toate lanțurile pe care le validăm. Suntem unul dintre singurii validatori din ecosistemul Cosmos care plasează 100% din profituri sub controlul guvernării DAO.<inlang-LineFeed>\nSusținem inovația în Ecosistemul Cosmos prin finanțarea și sprijinirea proiectelor în care credem că sprijină creșterea și descentralizarea rețelelor pe care le validăm.",
+    "coingeckoID": "kleomedes",
+    "twitterURL": "https://twitter.com/KleomedesDAO"
+  },
   "kichain": {
     "lvn": {
-      "name": "LVN",
+      "localization": "ro",
       "symbol": "kichain.LVN",
       "description": "Jeton de fidelitate ELEVENPARIS pe KiChain",
       "coingeckoID": "lvn"
     }
   },
   "kava": {
-    "description": "Tokenul nativ de miza și guvernare al Kava Kava este un blockchain descentralizat care combină viteza și interoperabilitatea Cosmos cu puterea de dezvoltare a Ethereum.",
+    "description": "Indicatorul nativ de miză și guvernare al Kava<inlang-LineFeed>\nKava este un blockchain descentralizat care combină viteza și interoperabilitatea Cosmos cu puterea de dezvoltare a Ethereum.",
     "localization": "ro",
     "name": "Kava",
-    "symbol": "KAVA",
     "coingeckoID": "kava",
     "twitterURL": "https://twitter.com/KAVA_CHAIN"
   },
   "juno": {
-    "description": "Tokenul nativ al JUNO Chain Juno este o platformă de contract inteligent deținută și operată în totalitate de comunitate.",
-    "localization": "ro",
+    "description": "Jetonul nativ al JUNO Chain<inlang-LineFeed>\nJuno este o platformă de contract inteligent deținută și operată în totalitate de comunitate.",
+    "name": "Juno",
     "symbol": "JUNO",
     "twitterURL": "https://twitter.com/JunoNetwork",
     "coingeckoID": "juno-rețea"
@@ -989,37 +1014,42 @@
   "joe": {
     "localization": "ro",
     "name": "JoeDAO",
-    "symbol": "JOE",
     "description": "DAO dedicat construirii de instrumente în rețeaua Juno"
   },
   "jkl": {
     "localization": "ro",
     "name": "Şacal",
     "symbol": "JKL",
-    "description": "Indicatorul nativ de miză și guvernare al șacalului.",
+    "description": "Indicatorul nativ de miza și guvernare al șacalului.",
     "coingeckoID": "şacal-protocol"
   },
   "ixo": {
-    "localization": "ro",
+    "name": "ixo",
     "symbol": "IXO",
-    "description": "Jetonul nativ al IXO Chain"
+    "description": "Jetonul nativ al IXO Chain",
+    "coingeckoID": "ixo"
   },
   "ist": {
     "localization": "ro",
-    "name": "Token Inter Stable",
-    "symbol": "IST",
+    "name": "Inter Stable Token",
     "description": "IST este simbolul stabil folosit de lanțul Agoric pentru comisioane de execuție și comerț."
+  },
+  "islm": {
+    "localization": "ro",
+    "name": "Rețeaua Haqq",
+    "symbol": "ISLM",
+    "description": "EVM nativ, simbolul de guvernare și de miză al rețelei Haqq",
+    "coingeckoID": "islamic-monedă"
   },
   "iris": {
     "localization": "ro",
-    "name": "IRISnet",
     "symbol": "IRIS",
     "description": "Jetonul IRIS este jetonul nativ de guvernare pentru lanțul IrisNet.",
     "coingeckoID": "iris-rețea"
   },
   "iov": {
     "localization": "ro",
-    "description": "Moneda IOV este simbolul pentru Starname (IOV) Asset Name Service Starname este cea mai bună modalitate de a vă revendica partea dvs. din blockchain. Îl puteți folosi pentru identificarea descentralizată, plăți, proprietate și aplicații. Starname poate fi integrat în portofelele digitale, dapp-uri și schimburi.",
+    "description": "Moneda IOV este simbolul pentru Serviciul de nume de active Starname (IOV).<inlang-LineFeed>\nStarname este cel mai bun mod de a vă revendica partea dvs. din blockchain. Îl puteți folosi pentru identificarea descentralizată, plăți, proprietate și aplicații. Starname poate fi integrat în portofelele digitale, dapp-uri și schimburi.",
     "name": "Starname",
     "symbol": "IOV",
     "coingeckoID": "nume de stea",
@@ -1039,7 +1069,7 @@
   },
   "inj": {
     "localization": "ro",
-    "description": "Jetonul INJ este jetonul de guvernare nativ pentru lanțul Injective. Misiunea Injective este de a crea un sistem financiar cu adevărat liber și incluziv prin descentralizare.",
+    "description": "Jetonul INJ este jetonul de guvernare nativ pentru lanțul Injective.<inlang-LineFeed>\nMisiunea Injective este de a crea un sistem financiar cu adevărat liber și incluziv prin descentralizare.",
     "name": "Injectiv",
     "symbol": "INJ",
     "coingeckoID": "injectiv-protocol",
@@ -1048,8 +1078,8 @@
   "imv": {
     "localization": "ro",
     "name": "Inversat",
-    "description": "EVM-ul nativ, simbolul de guvernare și de miză al Imversed",
-    "coingeckoID": "imv"
+    "symbol": "IMV",
+    "description": "EVM nativ, simbolul de guvernare și de miză al Imversed"
   },
   "ibcx": {
     "localization": "ro",
@@ -1059,12 +1089,10 @@
   "hydrogen": {
     "localization": "ro",
     "name": "Bostrom Hidrogen",
-    "symbol": "HIDROGEN",
     "description": "Jetonul lichid de miză al Bostrom"
   },
   "huahua": {
     "localization": "ro",
-    "name": "Chihuahua",
     "symbol": "HUAHUA",
     "description": "Jetonul nativ al lanțului Chihuahua",
     "coingeckoID": "chihuahua-token"
@@ -1074,11 +1102,11 @@
     "name": "Sperante",
     "symbol": "SPERANTE",
     "description": "Jetonul nativ cw20 pentru Hopers pe Juno Chain",
-    "coingeckoID": "spera-io"
+    "coingeckoID": "spera-io "
   },
   "hope": {
-    "localization": "ro",
-    "name": "Speranța Galaxy",
+    "name": "Speranta Galaxy",
+    "symbol": "SPERANŢĂ",
     "description": "Hope Galaxy este o colecție NFT bazată pe propriul token nativ $HOPE, un jeton cw20 pe lanțul Juno.",
     "coingeckoID": "speranță-galaxie"
   },
@@ -1099,46 +1127,45 @@
   "harbor": {
     "localization": "ro",
     "name": "Port",
-    "symbol": "PORT",
     "description": "Protocolul Token of Harbour de guvernare pe rețeaua Comdex"
   },
   "grdn": {
     "localization": "ro",
-    "name": "paznic",
     "symbol": "GRDN",
     "description": "Jeton de guvernare Evmos Guardians."
   },
   "grav": {
     "localization": "ro",
-    "description": "Tokenul nativ al Gravity Bridge O punte deschisă, descentralizată, care deblochează puterea interoperabilității și lichidității între ecosistemele blockchain.",
+    "description": "Indicatorul nativ al Gravity Bridge<inlang-LineFeed>\nO punte deschisă, descentralizată, care deblochează puterea interoperabilității și lichidității între ecosistemele blockchain.",
     "name": "Podul gravitațional",
     "twitterURL": "https://twitter.com/gravity_bridge",
     "coingeckoID": "graviton"
   },
   "glx": {
     "localization": "ro",
+    "name": "Galaxie",
     "symbol": "GLX",
     "description": "GLX este simbolul de miză al lanțului Galaxy"
   },
   "glto": {
-    "localization": "ro",
     "name": "Gelotto",
     "symbol": "GLTO",
     "description": "Platformă de jocuri DeFi construită pe Juno"
   },
   "glmr": {
+    "localization": "ro",
     "name": "Rază de lună",
     "symbol": "GLMR",
     "description": "Glimmer (GLMR) este simbolul utilitar al rețelei Moonbeam, principala implementare a lui Moonbeam în rețeaua Polkadot, care servește ca un paralanț prietenos pentru dezvoltatori.",
     "coingeckoID": "rază de lună"
   },
   "gkey": {
+    "localization": "ro",
     "name": "Tasta G",
     "symbol": "GKEY",
     "description": "Jeton pentru Marele Premiu Gelotto Anul 1"
   },
   "geo": {
-    "localization": "ro",
     "name": "GEO",
     "symbol": "GEO",
     "description": "Token GEO pentru Protocolul ODIN"
@@ -1146,6 +1173,7 @@
   "fx": {
     "localization": "ro",
     "name": "f(x)Miez",
+    "symbol": "FX",
     "description": "Jetonul de miză nativ al funcției X",
     "coingeckoID": "fx-coin"
   },
@@ -1158,11 +1186,13 @@
   },
   "fund": {
     "localization": "ro",
+    "name": "Unificare",
     "symbol": "FOND",
     "description": "Miza și monedă de guvernare pentru Unification Blockchain",
     "coingeckoID": "unificare"
   },
   "ftm": {
+    "localization": "ro",
     "name": "Fantom",
     "symbol": "FTM",
     "description": "Tokenul de utilitate nativ al Fantom – FTM – alimentează întregul ecosistem blockchain Fantom. Tokenurile FTM sunt folosite pentru miza, guvernare, plăți și comisioane în rețea."
@@ -1176,6 +1206,7 @@
   "frax": {
     "localization": "ro",
     "name": "Frax",
+    "symbol": "FRAX",
     "description": "Frax este un protocol fracționar-algoritmic stablecoin. Acesta își propune să ofere bani algoritmici, descentralizați și extrem de scalabili, în locul activelor cu aprovizionare fixă, cum ar fi BTC. În plus, FXS este simbolul de acumulare a valorii și de guvernare a întregului ecosistem Frax.",
     "coingeckoID": "frax"
   },
@@ -1183,10 +1214,10 @@
     "localization": "ro",
     "name": "Juno Fox",
     "symbol": "VULPE",
-    "description": "Inspirat de Bonk. Un proiect comunitar pentru a sărbători coloniștii din JunoNetwork."
+    "description": "Inspirat de Bonk. Un proiect comunitar pentru a celebra coloniștii din JunoNetwork."
   },
   "flix": {
-    "description": "Jetonul nativ de miză al OmniFlix Hub. Media descentralizată și strat de rețea pentru creatori și comunități suverane alimentate de NFT și protocoale de distribuție aferente.",
+    "description": "Jetonul nativ de miză al OmniFlix Hub.<inlang-LineFeed>\nMedia descentralizată și strat de rețea pentru creatori și comunități suverane alimentate de NFT și protocoale de distribuție aferente.",
     "localization": "ro",
     "name": "OmniFlix",
     "twitterURL": "https://twitter.com/OmniFlixNetwork",
@@ -1204,7 +1235,8 @@
     "localization": "ro",
     "name": "Filecoin",
     "symbol": "FIL",
-    "description": "Filecoin este o rețea de stocare descentralizată concepută pentru a transforma stocarea în cloud într-o piață algoritmică. Rețeaua facilitează piețele deschise pentru stocarea și preluarea datelor, unde utilizatorii plătesc pentru a-și stoca fișierele pe mineri de stocare. Filecoin este construit pe sistemul de fișiere InterPlanetary (IPFS), o rețea de stocare peer-to-peer. Filecoin își propune să stocheze datele într-o manieră descentralizată, spre deosebire de furnizorii tradiționali de stocare în cloud. Participanții la rețeaua Filecoin sunt stimulați să acționeze cinstit și să stocheze cât mai multe date posibil, deoarece câștigă criptomoneda Filecoin (FIL) în schimbul serviciilor lor de stocare. Această configurare asigură integritatea și accesibilitatea datelor stocate. Modelul Filecoin permite o varietate de opțiuni de stocare, inclusiv arhivare pe termen lung și servicii de recuperare mai rapidă, ceea ce îl face o soluție versatilă pentru stocarea descentralizată a datelor. Proiectul, dezvoltat de Protocol Labs, se concentrează, de asemenea, pe asigurarea faptului că datele sunt stocate în mod fiabil și eficient."
+    "description": "Filecoin este o rețea de stocare descentralizată concepută pentru a transforma stocarea în cloud într-o piață algoritmică. Rețeaua facilitează piețele deschise pentru stocarea și preluarea datelor, unde utilizatorii plătesc pentru a-și stoca fișierele pe mineri de stocare. Filecoin este construit pe sistemul de fișiere InterPlanetary (IPFS), o rețea de stocare peer-to-peer. Filecoin își propune să stocheze datele într-o manieră descentralizată, spre deosebire de furnizorii tradiționali de stocare în cloud.<inlang-LineFeed>\nParticipanții la rețeaua Filecoin sunt stimulați să acționeze cinstit și să stocheze cât mai multe date posibil, deoarece câștigă criptomoneda Filecoin (FIL) în schimbul serviciilor lor de stocare. Această configurare asigură integritatea și accesibilitatea datelor stocate. Modelul Filecoin permite o varietate de opțiuni de stocare, inclusiv arhivare pe termen lung și servicii de recuperare mai rapidă, ceea ce îl face o soluție versatilă pentru stocarea descentralizată a datelor. Proiectul, dezvoltat de Protocol Labs, se concentrează, de asemenea, pe asigurarea faptului că datele sunt stocate în mod fiabil și eficient.",
+    "coingeckoID": "filecoin"
   },
   "fet": {
     "localization": "ro",
@@ -1214,22 +1246,22 @@
     "coingeckoID": "fetch-ai"
   },
   "evmos": {
-    "description": "EVM nativ, token-ul de guvernare și staking al Evmos Hub Dezvoltatorii folosesc Evmos ca Ethereum Canary Chain pentru a implementa aplicații ale viitorului. Obțineți toate funcționalitățile Ethereum cu puterea IBC și a compoziției Interchain.",
+    "description": "EVM nativ, simbolul de guvernare și de miză al Evmos Hub<inlang-LineFeed>\nDezvoltatorii folosesc Evmos ca Ethereum Canary Chain pentru a implementa aplicații ale viitorului. Obțineți toate funcționalitățile Ethereum cu puterea IBC și a compoziției Interchain.",
     "localization": "ro",
+    "name": "Evmos",
     "symbol": "EVMOS",
-    "coingeckoID": "evmos",
     "twitterURL": "https://twitter.com/EvmosOrg"
   },
   "eth": {
     "localization": "ro",
     "name": "Eter",
     "symbol": "ETH",
-    "description": "Ethereum (ETH) este un sistem blockchain descentralizat, open-source, cu funcționalitate de contract inteligent. Este criptomoneda nativă a platformei Ethereum, adesea considerată a doua cea mai populară monedă digitală după Bitcoin. Ethereum a fost propus la sfârșitul anului 2013, iar dezvoltarea a fost finanțată în mod participativ în 2014, ceea ce a condus la lansarea rețelei sale pe 30 iulie 2015. ETH, ca monedă digitală, este utilizată pentru o varietate de scopuri în cadrul ecosistemului Ethereum, inclusiv pentru executarea de contracte inteligente descentralizate. și ca mod de plată. Spre deosebire de Bitcoin, Ethereum a fost conceput pentru a fi o platformă pentru aplicații care pot funcționa fără a fi nevoie de intermediari, folosind tehnologia blockchain. Acest lucru a făcut din Ethereum o platformă lider pentru diverse aplicații, inclusiv finanțare descentralizată (DeFi), jetoane nefungibile (NFT) și multe altele. Ethereum evoluează constant, cu o actualizare semnificativă numită Ethereum 2.0, care își propune să-și îmbunătățească scalabilitatea, securitatea și sustenabilitatea.",
-    "coingeckoID": "ethereum"
+    "description": "Ethereum (ETH) este un sistem blockchain descentralizat, open-source, cu funcționalitate de contract inteligent. Este criptomoneda nativă a platformei Ethereum, adesea considerată a doua cea mai populară monedă digitală după Bitcoin. Ethereum a fost propus la sfârșitul anului 2013, iar dezvoltarea a fost finanțată în mod participativ în 2014, ceea ce a condus la lansarea rețelei sale pe 30 iulie 2015.<inlang-LineFeed>\nETH, ca monedă digitală, este utilizată pentru o varietate de scopuri în cadrul ecosistemului Ethereum, inclusiv pentru executarea de contracte inteligente descentralizate și ca mod de plată. Spre deosebire de Bitcoin, Ethereum a fost conceput pentru a fi o platformă pentru aplicații care pot funcționa fără a fi nevoie de intermediari, folosind tehnologia blockchain. Acest lucru a făcut din Ethereum o platformă lider pentru diverse aplicații, inclusiv finanțare descentralizată (DeFi), jetoane nefungibile (NFT) și multe altele. Ethereum evoluează constant, cu o actualizare semnificativă numită Ethereum 2.0, care își propune să-și îmbunătățească scalabilitatea, securitatea și sustenabilitatea."
   },
   "eeur": {
     "localization": "ro",
     "name": "e-Money EUR",
+    "symbol": "EEUR",
     "description": "e-Money EUR stablecoin. Auditat și susținut de depozite fiat EUR și obligațiuni de stat.",
     "coingeckoID": "e-money-eur"
   },
@@ -1250,9 +1282,13 @@
     "name": "Protocolul Dyson",
     "description": "Indicatorul nativ de miză și guvernare a Protocolului Dyson"
   },
+  "dym": {
+    "name": "Dymension Hub",
+    "symbol": "DYM",
+    "description": "Indicatorul nativ de guvernare și miză al Dymension Hub<inlang-LineFeed>\nDymension este o rețea de blockchain-uri modulare ușor de implementat și rapid, numite RollApps."
+  },
   "dydx": {
-    "description": "Jetonul nativ de miză al protocolului dYdX. Scopul nostru este să construim cod sursă deschis, care poate alimenta un produs de primă clasă și o experiență de tranzacționare.",
-    "localization": "ro",
+    "description": "Jetonul nativ de miză al protocolului dYdX.<inlang-LineFeed>\nScopul nostru este să construim cod sursă deschis, care poate alimenta un produs de primă clasă și o experiență de tranzacționare.",
     "name": "Protocolul dYdX",
     "twitterURL": "https://twitter.com/dYdX"
   },
@@ -1260,22 +1296,25 @@
     "localization": "ro",
     "name": "Santinelă",
     "symbol": "DVPN",
-    "description": "DVPN este simbolul nativ al Sentinel Hub. Ecosistemul Sentinel este o rețea globală de aplicații dVPN autonome care permit accesul la internet privat și rezistent la cenzură.",
+    "description": "DVPN este simbolul nativ al Sentinel Hub.<inlang-LineFeed>\nEcosistemul Sentinel este o rețea globală de aplicații dVPN autonome care permit accesul la internet privat și rezistent la cenzură.",
     "coingeckoID": "santinelă",
     "twitterURL": "https://twitter.com/SentinelVPN"
   },
   "dsm": {
     "localization": "ro",
+    "name": "Desmos",
     "symbol": "DSM",
-    "description": "Jetonul nativ al lui Desmos"
+    "description": "Jetonul nativ al lui Desmos",
+    "coingeckoID": "desmos"
   },
   "dot": {
     "localization": "ro",
     "name": "Buline",
     "symbol": "PUNCT",
-    "description": "Taxa nativă, guvernanța, miza și simbolul de asociere al platformei Polkadot.",
+    "description": "Taxa nativă, guvernare, miza și simbolul de asociere al platformei Polkadot.",
     "coingeckoID": "buline",
     "axl": {
+      "localization": "ro",
       "name": "Polkadot înfășurat",
       "symbol": "DOT.axl",
       "description": "Polkadot înfășurat pe Axelar"
@@ -1301,17 +1340,14 @@
   "dhk": {
     "localization": "ro",
     "name": "DHK",
-    "symbol": "DHK",
     "description": "Jetonul DAO pentru a construi un consens în rândul oamenilor din Hong Kong"
   },
   "dgl": {
     "localization": "ro",
-    "name": "lemn dulce",
     "symbol": "DGL"
   },
   "dec": {
     "localization": "ro",
-    "name": "Decentr",
     "symbol": "DEC",
     "description": "Jetonul nativ al Decentr",
     "coingeckoID": "decentr"
@@ -1319,16 +1355,19 @@
   "darc": {
     "localization": "ro",
     "name": "Konstellation",
+    "symbol": "DARC",
     "description": "Jetonul nativ al rețelei Konstellation",
     "coingeckoID": "darcmatter-coin"
   },
   "dai": {
+    "localization": "ro",
     "name": "Dai Stablecoin",
     "symbol": "DAI",
     "description": "Multi-Collateral Dai, aduce o mulțime de caracteristici noi și interesante, cum ar fi suport pentru noile tipuri de garanții CDP și Rata de economii Dai.",
+    "coingeckoID": "dai",
     "grv": {
       "localization": "ro",
-      "name": "DAI Stablecoin (Gravity Bridge)",
+      "name": "DAI Stablecoin (Podul Gravitativ)",
       "symbol": "DAI.grv",
       "description": "Gravity Bridge DAI"
     }
@@ -1336,31 +1375,30 @@
   "cudos": {
     "localization": "ro",
     "name": "Cudos",
-    "symbol": "CUDOS",
-    "description": "Tokenul nativ al blockchain-ului Cudos",
+    "description": "Jetonul nativ al blockchain-ului Cudos",
     "coingeckoID": "cudos"
   },
   "cub": {
+    "localization": "ro",
     "name": "Lion Cub DAO",
     "symbol": "PUI",
     "description": "Lion Cub DAO este o comunitate de meme inutil DAO pe Terra"
   },
   "ctk": {
     "localization": "ro",
+    "name": "Shentu",
     "symbol": "CTK",
     "description": "Jetonul nativ al lui Shentu",
     "coingeckoID": "certik"
   },
   "cro": {
     "localization": "ro",
-    "description": "CRO este simbolul nativ al lanțului Crypto.org, denumit CRO nativ. Cronos PoS Chain este un blockchain public, open-source și fără permisiune - o rețea complet descentralizată, cu viteză mare și taxe mici, concepută pentru a fi un bun public care ajută la promovarea adoptării în masă a tehnologiei blockchain prin cazuri de utilizare precum Payments, DeFi și NFT.",
+    "description": "CRO este simbolul nativ al lanțului Crypto.org, denumit CRO nativ.<inlang-LineFeed>\nCronos PoS Chain este un blockchain public, open-source și fără permisiune - o rețea complet descentralizată, cu viteză mare și taxe mici, concepută pentru a fi un bun public care ajută la promovarea adoptării în masă a tehnologiei blockchain prin cazuri de utilizare precum Payments, DeFi și NFT.",
     "name": "Lanțul POS Cronos",
     "symbol": "CRO",
-    "coingeckoID": "crypto-com-chain",
     "twitterURL": "https://twitter.com/cronos_chain"
   },
   "cre": {
-    "localization": "ro",
     "name": "Semilună",
     "symbol": "CRE",
     "description": "Jetonul nativ al Semilunii",
@@ -1368,7 +1406,6 @@
   },
   "crbrus": {
     "localization": "ro",
-    "name": "Cerberus",
     "symbol": "CRBRUS",
     "description": "Jetonul nativ al Lanțului Cerberus",
     "coingeckoID": "cerberus-2"
@@ -1407,7 +1444,6 @@
   },
   "cheq": {
     "localization": "ro",
-    "name": "Cheqd",
     "symbol": "CHEQ",
     "description": "Token nativ pentru rețeaua cheqd",
     "coingeckoID": "cheqd-network"
@@ -1415,17 +1451,15 @@
   "cdt": {
     "localization": "ro",
     "name": "CDT Stablecoin",
-    "symbol": "CDT",
     "description": "Moneda stabilă în stil CDP a Membrane numită CDT"
   },
   "cbeth": {
     "localization": "ro",
-    "name": "Coinbase Wrapped Staked ETH",
+    "symbol": "cbETH",
     "description": "Coinbase Wrapped Staked ETH („cbETH”) este un simbol utilitar și o reprezentare lichidă a ETH mizată prin Coinbase. cbETH oferă clienților opțiunea de a vinde, transfera sau utiliza în alt mod ETH-ul mizat în dapps, în timp ce acesta rămâne blocat de protocolul Ethereum.",
-    "coingeckoID": "coinbase-wrapped-stacked-eth"
+    "coingeckoID": "coinbase-wrapped-stated-eth"
   },
   "catmos": {
-    "localization": "ro",
     "name": "Catmos",
     "symbol": "CATMOS",
     "description": "Catmos"
@@ -1440,11 +1474,11 @@
     "localization": "ro",
     "name": "Canto",
     "symbol": "CANTO",
-    "description": "Canto este un blockchain de nivel 1 construit pentru a-și îndeplini promisiunea DeFi",
+    "description": "Canto este un blockchain de nivel 1 construit pentru a îndeplini promisiunea DeFi",
     "coingeckoID": "canto"
   },
   "bze": {
-    "name": "BeeZee",
+    "localization": "ro",
     "symbol": "BZE",
     "description": "Blockchain nativ BeeZee",
     "coingeckoID": "bzedge"
@@ -1458,31 +1492,33 @@
   },
   "busd": {
     "localization": "ro",
+    "name": "Binance USD",
     "symbol": "BUSD",
     "description": "Binance USD (BUSD) este o monedă stabilă susținută de dolari emisă și păstrată de Paxos Trust Company și reglementată de Departamentul de Servicii Financiare de Stat din New York. BUSD este disponibil direct pentru vânzare 1:1 cu USD pe Paxos.com și va fi listat pentru tranzacționare pe Binance.",
     "coingeckoID": "binance-usd"
   },
   "btsg": {
-    "localization": "ro",
+    "name": "BitSong",
     "symbol": "BTSG",
-    "description": "Artiști, fani, manageri și etichete BitSong Native Token într-un singur ecosistem holistic: $BTSG. Câștigați redevențe în timp real, descoperiți conținut exclusiv, bateți și tranzacționați Fantoken-uri, cumpărați și vindeți NFT.",
+    "description": "Token nativ BitSong<inlang-LineFeed>\nArtiști, fani, manageri și etichete într-un singur ecosistem holistic: $BTSG. Câștigați redevențe în timp real, descoperiți conținut exclusiv, bateți și tranzacționați Fantoken-uri, cumpărați și vindeți NFT.",
     "twitterURL": "https://twitter.com/BitSongOfficial",
     "coingeckoID": "bitsong"
   },
   "brnch": {
     "localization": "ro",
-    "name": "Ramura",
     "symbol": "BRNCH",
     "description": "jeton ohhNFT LP."
   },
   "boot": {
     "localization": "ro",
     "name": "bostrom",
+    "symbol": "BOOTĂ",
     "description": "Jetonul de miză al Bostrom",
     "coingeckoID": "bostrom"
   },
   "bonk": {
     "localization": "ro",
+    "name": "Bonk",
     "symbol": "BONK",
     "description": "Jetonul oficial Bonk Inu"
   },
@@ -1496,7 +1532,6 @@
   "blz": {
     "localization": "ro",
     "name": "Bluzelle",
-    "symbol": "BLZ",
     "description": "Jetonul nativ al lui Bluzelle",
     "coingeckoID": "bluzelle"
   },
@@ -1514,8 +1549,8 @@
   },
   "bld": {
     "localization": "ro",
-    "description": "BLD este simbolul folosit pentru a securiza lanțul Agoric prin staking și pentru a proteja Inter Protocol. Platforma Agoric face ca aplicații descentralizate să fie sigure și fără probleme folosind cunoștințele dvs. JavaScript existente.",
-    "name": "Agoric",
+    "description": "BLD este simbolul folosit pentru a securiza lanțul Agoric prin miza și pentru a proteja Inter Protocol.<inlang-LineFeed>\nPlatforma Agoric face ca aplicații descentralizate să fie sigure și fără probleme folosind cunoștințele dvs. JavaScript existente.",
+    "symbol": "BLD",
     "twitterURL": "https://twitter.com/agoric",
     "coingeckoID": "agoric"
   },
@@ -1530,22 +1565,21 @@
     "localization": "ro",
     "name": "BitCanna",
     "symbol": "BCNA",
-    "description": "Moneda BCNA este simbolul tranzacțional din cadrul rețelei BitCanna, care servește industria legală de canabis prin intermediul rețelei de plăți, lanțului de aprovizionare și rețelei de încredere.",
+    "description": "Moneda BCNA este simbolul tranzacțional din cadrul rețelei BitCanna, care servește industria legală de canabis prin rețeaua de plăți, lanțul de aprovizionare și rețeaua de încredere.",
     "coingeckoID": "bitcanna"
   },
   "band": {
     "localization": "ro",
-    "description": "Tokenul nativ al BandChain Band Protocol este o platformă oracol de date încrucișată care agregează și conectează date și API-uri din lumea reală la contracte inteligente.",
+    "description": "Jetonul nativ al BandChain<inlang-LineFeed>\nBand Protocol este o platformă de oracol de date încrucișată care agregează și conectează date și API-uri din lumea reală la contracte inteligente.",
+    "name": "Protocol de bandă",
     "symbol": "GRUP",
     "twitterURL": "https://twitter.com/BandProtocol",
     "coingeckoID": "band-protocol"
   },
   "axs": {
     "localization": "ro",
-    "name": "Ciob Infinit Axie",
     "symbol": "AXS",
-    "description": "Axie Infinity este un univers digital pentru animalele de companie inspirat de Pokémon, în care oricine poate câștiga jetoane prin joc calificat și contribuții la ecosistem. Jucătorii se pot lupta, colecta, ridica și construi un regat terestre pentru animalele lor de companie (cunoscut sub numele de Axies).",
-    "coingeckoID": "axie-infinit"
+    "description": "Axie Infinity este un univers digital pentru animalele de companie inspirat de Pokémon, în care oricine poate câștiga jetoane prin joc calificat și contribuții la ecosistem. Jucătorii pot lupta, colecta, ridica și construi un regat terestre pentru animalele lor de companie (cunoscute sub numele de Axies)."
   },
   "axlfil": {
     "localization": "ro",
@@ -1555,7 +1589,7 @@
     "coingeckoID": "filecoin"
   },
   "axl": {
-    "description": "Tokenul nativ al Axelar Axelar oferă comunicații încrucișate sigure pentru Web3. Infrastructura noastră permite utilizatorilor dApp să interacționeze cu orice activ sau aplicație, din orice lanț, cu un singur clic.",
+    "description": "Jetonul nativ al lui Axelar<inlang-LineFeed>\nAxelar oferă comunicații încrucișate sigure pentru Web3. Infrastructura noastră permite utilizatorilor dApp să interacționeze cu orice activ sau aplicație, din orice lanț, cu un singur clic.",
     "localization": "ro",
     "symbol": "AXL",
     "twitterURL": "https://twitter.com/axelarnetwork",
@@ -1563,29 +1597,25 @@
   },
   "avax": {
     "localization": "ro",
-    "name": "Avalanşă",
     "symbol": "AVAX",
-    "description": "AVAX este simbolul nativ al Avalanchei. Este un activ limitat, limitat, care este folosit pentru a plăti taxe, pentru a securiza platforma prin miza și pentru a oferi o unitate de cont de bază între multiplele subrețele create pe Avalanche.",
-    "coingeckoID": "avalanșă-2"
+    "description": "AVAX este simbolul nativ al Avalanchei. Este un activ limitat, limitat, care este folosit pentru a plăti taxe, pentru a securiza platforma prin miza și pentru a oferi o unitate de cont de bază între multiplele subrețele create pe Avalanche."
   },
   "avalanche": {
     "usdc": {
       "localization": "ro",
       "name": "Monedă USD (Avalanșă)",
       "symbol": "avalanşă.USDC",
-      "description": "USDC este o monedă stabilă în dolari SUA, complet garantată, dezvoltată de CENTRE, proiectul open source, Circle fiind primul dintre câțiva emitenți viitori."
+      "description": "USDC este o monedă stabilă în dolari SUA, complet garantată, dezvoltată de CENTRE, proiectul open source, Circle fiind primul dintre câțiva emitenți viitori.",
+      "coingeckoID": "usd-coin"
     }
   },
   "atom": {
-    "localization": "ro",
     "name": "Cosmos Hub",
     "symbol": "ATOM",
-    "description": "Indicatorul nativ de miză și guvernare al Cosmos Hub. Pe scurt, Cosmos Hub se autoproclamă ca un proiect care rezolvă unele dintre cele mai grele probleme cu care se confruntă industria blockchain. Acesta își propune să ofere un antidot pentru protocoalele de dovadă de lucru lente, costisitoare, nescalabile și dăunătoare mediului, precum cele utilizate de Bitcoin, oferind un ecosistem de blockchain conectate. Celelalte obiective ale proiectului includ ca tehnologia blockchain să fie mai puțin complexă și dificilă pentru dezvoltatori, datorită unui cadru modular care demitizează aplicațiile descentralizate. Nu în ultimul rând, un protocol de comunicare inter-blockchain facilitează comunicarea între rețelele blockchain - prevenind fragmentarea în industrie. Originile Cosmos Hub pot fi datate din 2014, când a fost fondat Tendermint, un contributor principal al rețelei. În 2016, a fost publicată o carte albă pentru Cosmos, iar anul următor a avut loc o vânzare simbol. Tokenurile ATOM sunt câștigate printr-un algoritm hibrid de verificare a mizei și ajută la menținerea în siguranță a Cosmos Hub, blockchain-ul emblematic al proiectului. Această criptomonedă are și un rol în guvernarea rețelei.",
-    "coingeckoID": "cosmos",
+    "description": "Indicatorul nativ de miză și guvernare al Cosmos Hub.<inlang-LineFeed>\nPe scurt, Cosmos Hub se autoproclamă ca un proiect care rezolvă unele dintre cele mai grele probleme cu care se confruntă industria blockchain. Acesta își propune să ofere un antidot pentru protocoalele de dovadă de lucru lente, costisitoare, nescalabile și dăunătoare mediului, precum cele utilizate de Bitcoin, oferind un ecosistem de blockchain conectate.<inlang-LineFeed>\nCelelalte obiective ale proiectului includ ca tehnologia blockchain să fie mai puțin complexă și dificilă pentru dezvoltatori, datorită unui cadru modular care demitizează aplicațiile descentralizate. Nu în ultimul rând, un protocol de comunicare inter-blockchain facilitează comunicarea între rețelele blockchain - prevenind fragmentarea în industrie.<inlang-LineFeed>\nOriginile Cosmos Hub pot fi datate din 2014, când a fost fondat Tendermint, un contributor principal al rețelei. În 2016, a fost publicată o carte albă pentru Cosmos, iar anul următor a avut loc o vânzare simbol. Tokenurile ATOM sunt câștigate printr-un algoritm hibrid de verificare a mizei și ajută la menținerea în siguranță a Cosmos Hub, blockchain-ul emblematic al proiectului. Această criptomonedă are și un rol în guvernarea rețelei.",
     "twitterURL": "https://twitter.com/cosmoshub"
   },
   "atolo": {
-    "localization": "ro",
     "name": "Rizon",
     "description": "Jeton nativ al Rizon Chain",
     "coingeckoID": "rizon"
@@ -1611,12 +1641,14 @@
   },
   "arch": {
     "localization": "ro",
-    "description": "Tokenul nativ al rețelei Archway Un blockchain L1 stimulat care permite dezvoltatorilor să capteze valoarea pe care o creează dapp-urile lor, permițând modele economice durabile.",
+    "description": "Indicatorul nativ al rețelei Archway<inlang-LineFeed>\nUn blockchain L1 stimulat care permite dezvoltatorilor să capteze valoarea creată de dapp-urile lor, permițând modele economice durabile.",
+    "coingeckoID": "arcadă",
     "twitterURL": "https://twitter.com/archwayHQ",
     "name": "Arcadă",
     "symbol": "ARC"
   },
   "arb": {
+    "localization": "ro",
     "name": "Arbitrum",
     "symbol": "ARB",
     "description": "Jeton nativ al Arbitrum"
@@ -1628,6 +1660,12 @@
     "description": "Jetonul Aptos (APT) este jetonul nativ Aptos blockchain utilizat pentru plata taxelor de rețea și de tranzacție.",
     "coingeckoID": "aptos"
   },
+  "apollo": {
+    "localization": "ro",
+    "name": "Apollo DAO",
+    "symbol": "APOLLO",
+    "description": "Jetonul utilitar deflaționist al proiectului Apollo DAO"
+  },
   "apemos": {
     "name": "Apemos",
     "symbol": "APEMOS",
@@ -1635,10 +1673,8 @@
   },
   "ape": {
     "localization": "ro",
-    "name": "ApeCoin",
     "symbol": "MAIMUŢĂ",
-    "description": "ApeCoin și-a găsit o nouă expresie în web3 prin artă, jocuri, divertisment și evenimente. APE este un simbol creat pentru a sprijini ceea ce urmează, controlat și construit de către comunitate. Va servi ca un strat de protocol descentralizat pentru inițiativele conduse de comunitate care conduc cultura înainte în metavers.",
-    "coingeckoID": "apecoin"
+    "description": "ApeCoin și-a găsit o nouă expresie în web3 prin artă, jocuri, divertisment și evenimente. APE este un simbol creat pentru a sprijini ceea ce urmează, controlat și construit de către comunitate. Va servi ca un strat de protocol descentralizat pentru inițiativele conduse de comunitate care conduc cultura înainte în metavers."
   },
   "amposmo": {
     "localization": "ro",
@@ -1648,42 +1684,37 @@
   },
   "amber": {
     "localization": "ro",
-    "name": "Chihlimbar",
     "symbol": "CHIHLIMBAR",
     "description": "Jetonul nativ cw20 pentru Amber pe Secret Network"
   },
   "alter": {
-    "localization": "ro",
     "name": "Modifica",
     "symbol": "MODIFICA",
-    "description": "Jetonul nativ cw20 pentru Alter on Secret Network",
+    "description": "Tokenul nativ cw20 pentru Alter on Secret Network",
     "coingeckoID": "modifica"
   },
   "akt": {
-    "localization": "ro",
+    "name": "Akash",
     "symbol": "AKT",
-    "description": "Akash Token (AKT) este jetonul utilitar nativ al rețelei Akash, folosit ca mijloc principal de guvernare, securizare a blockchain-ului, stimularea participanților și un mecanism implicit de stocare și schimb de valoare. Akash este un Supercloud open-source care permite utilizatorilor să cumpere și să vândă resurse de calcul în siguranță și eficient. Proiectat special pentru utilitate publica.",
+    "description": "Akash Token (AKT) este jetonul utilitar nativ al rețelei Akash, folosit ca mijloc principal de guvernare, securizare a blockchain-ului, stimularea participanților și un mecanism implicit de stocare și schimb de valoare.<inlang-LineFeed>\nAkash este un Supercloud open-source care permite utilizatorilor să cumpere și să vândă resurse de calcul în siguranță și eficient. Proiectat special pentru utilitate publica.",
     "twitterURL": "https://twitter.com/akashnet_",
     "coingeckoID": "rețea-akash"
   },
   "acre": {
     "localization": "ro",
     "name": "Acrechain",
-    "symbol": "ACRU",
-    "description": "EVM nativ, simbolul de guvernare și de miză al Acrechain",
+    "description": "EVM nativ, simbolul de guvernare și de miză al Acrechain-ului",
     "coingeckoID": "arabil-protocol"
   },
   "aave": {
     "localization": "ro",
     "name": "Aave",
     "symbol": "AAVE",
-    "description": "Aave este un protocol cu sursă deschisă și fără custodie pentru a câștiga dobândă la depozite și a împrumuta active. De asemenea, oferă acces la împrumuturi flash extrem de inovatoare, care le permit dezvoltatorilor să împrumute instantaneu și ușor; nu este nevoie de garanție. Cu 16 active diferite, dintre care 5 sunt monede stabile.",
-    "coingeckoID": "aave"
+    "description": "Aave este un protocol cu sursă deschisă și fără custodie pentru a câștiga dobândă la depozite și a împrumuta active. De asemenea, oferă acces la împrumuturi flash extrem de inovatoare, care le permit dezvoltatorilor să împrumute instantaneu și ușor; nu este nevoie de garanție. Cu 16 active diferite, dintre care 5 sunt monede stabile."
   },
   "a": {
     "localization": "ro",
     "name": "Bostrom Ampere",
-    "symbol": "A",
     "description": "Jetonul de resursă al Bostrom"
   }
 }

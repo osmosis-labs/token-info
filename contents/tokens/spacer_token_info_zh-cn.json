@@ -1,5 +1,6 @@
 {
   "localization": "zh",
   "name": "Spacer",
-  "symbol": "SPACER"
+  "symbol": "SPACER",
+  "description": "垫片"
 }

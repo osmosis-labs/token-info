@@ -1,6 +1,6 @@
 {
   "localization": "fr",
-  "description": "Le jeton INJ est le jeton de gouvernance natif de la chaîne Injective. La mission d'Injective est de créer un système financier véritablement libre et inclusif grâce à la décentralisation.",
+  "description": "Le jeton INJ est le jeton de gouvernance natif de la chaîne Injective.<inlang-LineFeed>\nLa mission d'Injective est de créer un système financier véritablement libre et inclusif grâce à la décentralisation.",
   "name": "Injective",
   "symbol": "INJ",
   "coingeckoID": "injective-protocol",

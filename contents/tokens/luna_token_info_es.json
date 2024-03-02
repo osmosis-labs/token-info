@@ -1,7 +1,7 @@
 {
   "localization": "es",
   "name": "Luna",
-  "description": "La ficha de apuesta nativa de Terra. Impulsada por una comunidad apasionada y un amplio grupo de talentos de desarrolladores, la cadena de bloques Terra está diseñada para permitir la próxima generación de productos y servicios Web3.",
+  "description": "La ficha de apuesta nativa de Terra.<inlang-LineFeed>\nImpulsada por una comunidad apasionada y un amplio grupo de talentos de desarrolladores, la cadena de bloques Terra está diseñada para permitir la próxima generación de productos y servicios Web3.",
   "symbol": "LUNA",
   "twitterURL": "https://twitter.com/terra_money",
   "coingeckoID": "terra-luna-2"

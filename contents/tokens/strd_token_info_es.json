@@ -1,6 +1,6 @@
 {
   "localization": "es",
-  "description": "El token nativo de Stride Stride es una cadena de bloques que proporciona liquidez para los tokens apostados. Con Stride, puede obtener rendimientos tanto de DeFi como de tomas en todo el ecosistema Cosmos IBC.",
+  "description": "El token nativo de Stride<inlang-LineFeed>\nStride es una cadena de bloques que proporciona liquidez para los tokens apostados. Con Stride, puede obtener rendimientos tanto de DeFi como de tomas en todo el ecosistema Cosmos IBC.",
   "name": "Stride",
   "symbol": "STRD",
   "coingeckoID": "stride",

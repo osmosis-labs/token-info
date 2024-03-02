@@ -1,6 +1,6 @@
 {
   "localization": "pl",
-  "description": "Token INJ jest natywnym tokenem zarządzania dla łańcucha Injective. Misją Injective jest stworzenie prawdziwie wolnego i włączającego systemu finansowego poprzez decentralizację.",
+  "description": "Token INJ jest natywnym tokenem zarządzania dla łańcucha Injective.<inlang-LineFeed>\nMisją Injective jest stworzenie prawdziwie wolnego i włączającego systemu finansowego poprzez decentralizację.",
   "name": "Injective",
   "symbol": "INJ",
   "coingeckoID": "injective-protocol",

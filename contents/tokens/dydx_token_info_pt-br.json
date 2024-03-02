@@ -1,6 +1,5 @@
 {
-  "description": "O token de piquetagem nativo do protocolo dYdX. Nosso objetivo é construir código-fonte aberto que possa potencializar um produto e uma experiência comercial de primeira classe.",
-  "localization": "pt",
+  "description": "O token de piquetagem nativo do protocolo dYdX.<inlang-LineFeed>\nNosso objetivo é construir código-fonte aberto que possa potencializar um produto e uma experiência comercial de primeira classe.",
   "name": "dYdX Protocol",
   "symbol": "DYDX",
   "twitterURL": "https://twitter.com/dYdX",
