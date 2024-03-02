@@ -1,5 +1,5 @@
 {
-  "description": "O token nativo da cadeia Neutron. A plataforma CosmWasm mais segura do Cosmos, Neutron permite que contratos inteligentes aproveitem a tecnologia Interchain de ponta com sobrecarga mínima.",
+  "description": "O token nativo da cadeia Neutron.<inlang-LineFeed>\nA plataforma CosmWasm mais segura do Cosmos, Neutron permite que contratos inteligentes aproveitem a tecnologia Interchain de ponta com sobrecarga mínima.",
   "localization": "pt",
   "name": "Neutron",
   "symbol": "NTRN",

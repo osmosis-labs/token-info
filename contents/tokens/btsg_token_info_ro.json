@@ -1,8 +1,7 @@
 {
-  "localization": "ro",
   "name": "BitSong",
   "symbol": "BTSG",
-  "description": "Artiști, fani, manageri și etichete BitSong Native Token într-un singur ecosistem holistic: $BTSG. Câștigați redevențe în timp real, descoperiți conținut exclusiv, bateți și tranzacționați Fantoken-uri, cumpărați și vindeți NFT.",
+  "description": "Token nativ BitSong<inlang-LineFeed>\nArtiști, fani, manageri și etichete într-un singur ecosistem holistic: $BTSG. Câștigați redevențe în timp real, descoperiți conținut exclusiv, bateți și tranzacționați Fantoken-uri, cumpărați și vindeți NFT.",
   "twitterURL": "https://twitter.com/BitSongOfficial",
   "coingeckoID": "bitsong"
 }

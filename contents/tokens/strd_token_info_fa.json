@@ -1,6 +1,6 @@
 {
   "localization": "en",
-  "description": "توکن بومی Stride Stride یک بلاک چین است که نقدینگی را برای توکن های سهام فراهم می کند. با استفاده از Stride، می‌توانید بازده و بازدهی DeFi را در سراسر اکوسیستم Cosmos IBC کسب کنید.",
+  "description": "نشانه بومی استراید<inlang-LineFeed>\nStride یک بلاک چین است که نقدینگی را برای توکن های سهام فراهم می کند. با استفاده از Stride، می‌توانید بازده و بازدهی DeFi را در سراسر اکوسیستم Cosmos IBC کسب کنید.",
   "name": "Stride",
   "symbol": "STRD",
   "coingeckoID": "stride",

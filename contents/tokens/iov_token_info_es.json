@@ -1,6 +1,6 @@
 {
   "localization": "es",
-  "description": "La moneda IOV es el token para el servicio de nombres de activos Starname (IOV). Starname es la mejor manera de reclamar su parte de la cadena de bloques. Puede usarlo para identificación, pagos, propiedad y aplicaciones descentralizadas. Starname se puede integrar en billeteras digitales, dapps e intercambios.",
+  "description": "La moneda IOV es el token del servicio de nombres de activos Starname (IOV)<inlang-LineFeed>\nStarname es la mejor manera de reclamar tu parte de la cadena de bloques. Puede usarlo para identificación, pagos, propiedad y aplicaciones descentralizadas. Starname se puede integrar en billeteras digitales, dapps e intercambios.",
   "name": "Starname",
   "symbol": "IOV",
   "coingeckoID": "starname",

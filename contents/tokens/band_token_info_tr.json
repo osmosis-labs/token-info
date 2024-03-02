@@ -1,6 +1,6 @@
 {
   "localization": "tr",
-  "description": "BandChain Band Protokolünün yerel tokenı, gerçek dünyadaki verileri ve API'leri akıllı sözleşmelere toplayan ve bağlayan zincirler arası bir veri oracle platformudur.",
+  "description": "BandChain'in yerel tokenı<inlang-LineFeed>\nBand Protokolü, gerçek dünya verilerini ve API'lerini akıllı sözleşmelere toplayan ve bağlayan zincirler arası bir veri oracle platformudur.",
   "name": "Band Protocol",
   "symbol": "BAND",
   "twitterURL": "https://twitter.com/BandProtocol",

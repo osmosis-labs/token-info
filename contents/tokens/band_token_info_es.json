@@ -1,6 +1,6 @@
 {
   "localization": "es",
-  "description": "El token nativo de BandChain Band Protocol es una plataforma de oráculo de datos entre cadenas que agrega y conecta datos del mundo real y API con contratos inteligentes.",
+  "description": "El token nativo de BandChain<inlang-LineFeed>\nBand Protocol es una plataforma de Oracle de datos entre cadenas que agrega y conecta datos del mundo real y API con contratos inteligentes.",
   "name": "Band Protocol",
   "symbol": "BAND",
   "twitterURL": "https://twitter.com/BandProtocol",

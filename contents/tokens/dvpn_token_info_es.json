@@ -2,7 +2,7 @@
   "localization": "es",
   "name": "Sentinel",
   "symbol": "DVPN",
-  "description": "DVPN es el token nativo de Sentinel Hub. El ecosistema Sentinel es una red global de aplicaciones dVPN autónomas que permiten un acceso a Internet privado y resistente a la censura.",
+  "description": "DVPN es el token nativo de Sentinel Hub.<inlang-LineFeed>\nEl ecosistema Sentinel es una red global de aplicaciones dVPN autónomas que permiten un acceso a Internet privado y resistente a la censura.",
   "coingeckoID": "sentinel",
   "twitterURL": "https://twitter.com/SentinelVPN"
 }
