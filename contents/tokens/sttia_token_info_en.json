@@ -2,5 +2,6 @@
   "localization": "en",
   "name": "Stride Staked TIA",
   "symbol": "stTIA",
-  "description": "Stride's liquid staked TIA"
+  "description": "Stride's liquid staked TIA",
+  "websiteURL": "https://stride.zone/"
 }

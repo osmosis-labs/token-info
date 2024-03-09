@@ -3,5 +3,6 @@
   "name": "USD Coin",
   "symbol": "USDC.axl",
   "description": "Circle's stablecoin on Axelar",
-  "coingeckoID": "axlusdc"
+  "coingeckoID": "axlusdc",
+  "websiteURL": "https://axelar.network/"
 }

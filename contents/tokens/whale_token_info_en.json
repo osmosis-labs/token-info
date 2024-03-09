@@ -3,5 +3,6 @@
   "name": "Migaloo",
   "symbol": "WHALE",
   "description": "The native token of Migaloo Chain",
-  "coingeckoID": "white-whale"
+  "coingeckoID": "white-whale",
+  "websiteURL": "https://www.whitewhale.money/"
 }

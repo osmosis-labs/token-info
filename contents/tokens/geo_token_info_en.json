@@ -2,5 +2,6 @@
   "localization": "en",
   "name": "GEO",
   "symbol": "GEO",
-  "description": "GEO token for ODIN Protocol"
+  "description": "GEO token for ODIN Protocol",
+  "websiteURL": "https://odinprotocol.io/"
 }

@@ -2,5 +2,6 @@
   "localization": "en",
   "name": "Wrapped Bitcoin (Gravity Bridge)",
   "symbol": "WBTC.grv",
-  "description": "Gravity Bridge WBTC"
+  "description": "Gravity Bridge WBTC",
+  "websiteURL": "https://www.gravitybridge.net/"
 }

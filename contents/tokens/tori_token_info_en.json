@@ -3,5 +3,6 @@
   "name": "Teritori",
   "symbol": "TORI",
   "description": "The native token of Teritori",
-  "coingeckoID": "teritori"
+  "coingeckoID": "teritori",
+  "websiteURL": "https://teritori.com/"
 }

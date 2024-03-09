@@ -1,8 +1,9 @@
 {
   "localization": "en",
   "name": "Luna",
-  "description": "The native staking token of Terra.\n\nFueled by a passionate community and deep developer talent pool, the Terra blockchain is built to enable the next generation of Web3 products and services.",
   "symbol": "LUNA",
-  "twitterURL": "https://twitter.com/terra_money",
-  "coingeckoID": "terra-luna-2"
+  "description": "The native staking token of Terra.\n\nFueled by a passionate community and deep developer talent pool, the Terra blockchain is built to enable the next generation of Web3 products and services.",
+  "coingeckoID": "terra-luna-2",
+  "websiteURL": "https://www.terra.money/",
+  "twitterURL": "https://twitter.com/terra_money"
 }
