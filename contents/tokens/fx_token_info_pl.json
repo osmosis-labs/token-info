@@ -3,5 +3,6 @@
   "name": "f(x)Core",
   "symbol": "FX",
   "description": "Natywny token stakingowy funkcji X",
-  "coingeckoID": "fx-coin"
+  "coingeckoID": "fx-coin",
+  "websiteURL": "https://functionx.io"
 }

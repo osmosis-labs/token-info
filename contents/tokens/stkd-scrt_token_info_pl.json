@@ -3,5 +3,6 @@
   "name": "SCRT Staking Derivatives",
   "symbol": "stkd-SCRT",
   "description": "Natywny token cw20 dla instrumentów pochodnych SCRT staking w tajnej sieci",
-  "coingeckoID": "stkd-scrt"
+  "coingeckoID": "stkd-scrt",
+  "websiteURL": "https://scrt.network/"
 }

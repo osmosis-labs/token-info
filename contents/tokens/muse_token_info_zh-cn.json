@@ -2,5 +2,6 @@
   "localization": "zh",
   "name": "MuseDAO",
   "symbol": "MUSE",
-  "description": "Juno Chain 上 MuseDAO 的原生代币 cw20"
+  "description": "Juno Chain 上 MuseDAO 的原生代币 cw20",
+  "websiteURL": "https://www.junonetwork.io/"
 }

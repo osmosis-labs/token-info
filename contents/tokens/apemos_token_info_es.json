@@ -1,5 +1,7 @@
 {
+  "localization": "es",
   "name": "Apemos",
   "symbol": "APEMOS",
-  "description": "apemos"
+  "description": "apemos",
+  "websiteURL": "https://www.junonetwork.io/"
 }

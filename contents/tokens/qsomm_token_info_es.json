@@ -2,5 +2,6 @@
   "localization": "es",
   "name": "Quicksilver Liquid Staked SOMM",
   "symbol": "qSOMM",
-  "description": "SOMM con apuestas líquidas Quicksilver"
+  "description": "SOMM con apuestas líquidas Quicksilver",
+  "websiteURL": "https://quicksilver.zone/"
 }

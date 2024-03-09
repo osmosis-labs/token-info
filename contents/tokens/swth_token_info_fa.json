@@ -3,5 +3,6 @@
   "name": "Carbon",
   "symbol": "SWTH",
   "description": "نشانه حاکمیت بومی کربن",
-  "coingeckoID": "switcheo"
+  "coingeckoID": "switcheo",
+  "websiteURL": "https://www.carbon.network/"
 }

@@ -3,5 +3,6 @@
   "name": "Unification",
   "symbol": "FUND",
   "description": "Moneta stakowania i zarządzania dla Blockchain Unifikacji",
-  "coingeckoID": "unification"
+  "coingeckoID": "unification",
+  "websiteURL": "https://unification.com/"
 }

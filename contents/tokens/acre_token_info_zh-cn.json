@@ -3,5 +3,6 @@
   "name": "Acrechain",
   "symbol": "ACRE",
   "description": "Acrechain 的原生 EVM、治理和质押代币",
-  "coingeckoID": "arable-protocol"
+  "coingeckoID": "arable-protocol",
+  "websiteURL": "https://arable.finance/"
 }

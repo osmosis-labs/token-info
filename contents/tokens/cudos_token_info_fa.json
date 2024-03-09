@@ -3,5 +3,6 @@
   "name": "Cudos",
   "symbol": "CUDOS",
   "description": "توکن بومی بلاک چین Cudos",
-  "coingeckoID": "cudos"
+  "coingeckoID": "cudos",
+  "websiteURL": "https://www.cudos.org/"
 }

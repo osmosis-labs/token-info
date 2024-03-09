@@ -2,5 +2,6 @@
   "localization": "zh",
   "name": "Stride Staked DYDX",
   "symbol": "stDYDX",
-  "description": "Stride 的液體質押 DYDX"
+  "description": "Stride 的液體質押 DYDX",
+  "websiteURL": "https://stride.zone/"
 }

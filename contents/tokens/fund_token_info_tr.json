@@ -3,5 +3,6 @@
   "name": "Unification",
   "symbol": "FUND",
   "description": "Birleşme Blockchain'i için stake etme ve yönetişim parası",
-  "coingeckoID": "unification"
+  "coingeckoID": "unification",
+  "websiteURL": "https://unification.com/"
 }

@@ -1,5 +1,6 @@
 {
   "name": "LVN",
   "symbol": "kichain.LVN",
-  "coingeckoID": "lvn"
+  "coingeckoID": "lvn",
+  "websiteURL": "https://foundation.ki/"
 }

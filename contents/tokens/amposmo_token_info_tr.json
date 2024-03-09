@@ -2,5 +2,6 @@
   "localization": "tr",
   "name": "ERIS Amplified OSMO",
   "symbol": "ampOSMO",
-  "description": "ERIS sıvı yığınlı OSMO"
+  "description": "ERIS sıvı yığınlı OSMO",
+  "websiteURL": "https://osmosis.zone/"
 }

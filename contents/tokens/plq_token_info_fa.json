@@ -3,5 +3,6 @@
   "name": "Planq",
   "symbol": "PLQ",
   "description": "EVM بومی، نشانه حاکمیت و سهامداری شبکه پلانک",
-  "coingeckoID": "planq"
+  "coingeckoID": "planq",
+  "websiteURL": "https://planq.network/"
 }

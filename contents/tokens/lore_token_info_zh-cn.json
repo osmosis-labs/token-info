@@ -1,8 +1,8 @@
 {
-  "description": "Gitopia 原生代币<inlang-LineFeed><inlang-LineFeed>Gitopia 是由去中心化网络和交互式代币经济推动的下一代代码协作平台。它旨在通过协作、透明度和激励来优化开源软件开发流程。",
-  "localization": "zh",
-  "coingeckoID": "gitopia",
   "name": "Gitopia",
   "symbol": "LORE",
+  "description": "Gitopia 原生代币<inlang-LineFeed><inlang-LineFeed>Gitopia 是由去中心化网络和交互式代币经济推动的下一代代码协作平台。它旨在通过协作、透明度和激励来优化开源软件开发流程。",
+  "coingeckoID": "gitopia",
+  "websiteURL": "https://gitopia.com/",
   "twitterURL": "https://twitter.com/gitopiaDAO"
 }

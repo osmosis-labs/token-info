@@ -1,8 +1,9 @@
 {
-  "description": "Natywny token sieci Nolus<inlang-LineFeed>\nPodnieś poziom swojej gry dzięki 3-krotnemu equity. Zanurz się w świat zminimalizowanego ryzyka i odblokuj pełny potencjał swoich aktywów.",
   "localization": "pl",
-  "coingeckoID": "nolus",
-  "twitterURL": "https://twitter.com/NolusProtocol",
   "name": "Nolus",
-  "symbol": "NLS"
+  "symbol": "NLS",
+  "description": "Natywny token sieci Nolus<inlang-LineFeed>\nPodnieś poziom swojej gry dzięki 3-krotnemu equity. Zanurz się w świat zminimalizowanego ryzyka i odblokuj pełny potencjał swoich aktywów.",
+  "coingeckoID": "nolus",
+  "websiteURL": "https://nolus.io/",
+  "twitterURL": "https://twitter.com/NolusProtocol"
 }

@@ -2,5 +2,7 @@
   "localization": "ro",
   "name": "Levana",
   "symbol": "LVN",
-  "description": "Jeton nativ Levana"
+  "description": "Jeton nativ Levana",
+  "coingeckoID": "levana-protocol",
+  "websiteURL": "https://osmosis.zone/"
 }

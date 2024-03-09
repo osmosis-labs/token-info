@@ -2,5 +2,6 @@
   "localization": "pl",
   "name": "ERIS Amplified OSMO",
   "symbol": "ampOSMO",
-  "description": "Płyn ERIS postawiony OSMO"
+  "description": "Płyn ERIS postawiony OSMO",
+  "websiteURL": "https://osmosis.zone/"
 }

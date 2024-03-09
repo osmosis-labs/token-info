@@ -2,5 +2,6 @@
   "localization": "es",
   "name": "Neokingdom DAO",
   "symbol": "NEOK",
-  "description": "La ficha de Neokingdom DAO."
+  "description": "La ficha de Neokingdom DAO.",
+  "websiteURL": "https://evmos.org/"
 }

@@ -2,5 +2,6 @@
   "localization": "zh",
   "name": "Arkhadian",
   "symbol": "ARKH",
-  "description": "阿卡迪亚语的原生标记"
+  "description": "阿卡迪亚语的原生标记",
+  "websiteURL": "https://arkhadian.com/"
 }

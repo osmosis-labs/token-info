@@ -1,6 +1,8 @@
 {
+  "localization": "tr",
   "name": "Stride Staked ATOM",
   "symbol": "stATOM",
-  "description": "Cosmos Hub'ın yerel stake ve yönetişim tokenı.",
-  "coingeckoID": "stride-staked-atom"
+  "description": "Tanımsız<inlang-LineFeed>\nStride, stake edilen tokenlar için likidite sağlayan bir blockchaindir. Stride'ı kullanarak Cosmos IBC ekosisteminde hem alım hem de DeFi getirisi elde edebilirsiniz.",
+  "coingeckoID": "stride-staked-atom",
+  "websiteURL": "https://stride.zone/"
 }

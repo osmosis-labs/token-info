@@ -2,5 +2,6 @@
   "localization": "ko",
   "name": "Nois",
   "symbol": "NOIS",
-  "description": "Nois의 기본 토큰"
+  "description": "Nois의 기본 토큰",
+  "websiteURL": "https://nois.network"
 }

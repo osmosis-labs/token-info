@@ -1,5 +1,7 @@
 {
   "localization": "ro",
   "name": "Licorice",
-  "symbol": "DGL"
+  "symbol": "DGL",
+  "description": "nedefinit<inlang-LineFeed>\nJuno este o platformă de contract inteligent deținută și operată în totalitate de comunitate.",
+  "websiteURL": "https://www.junonetwork.io/"
 }

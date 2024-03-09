@@ -1,8 +1,9 @@
 {
   "localization": "tr",
-  "description": "Kujira zincirinin yerel stake ve yönetim tokenı.<inlang-LineFeed>\nSürdürülebilir FinTech arayan protokoller, geliştiriciler ve web3 kullanıcıları için merkezi olmayan bir ekosistem.",
-  "coingeckoID": "kujira",
-  "twitterURL": "https://twitter.com/TeamKujira",
+  "name": "Kujira",
   "symbol": "KUJI",
-  "name": "Kujira"
+  "description": "Kujira zincirinin yerel stake ve yönetişim tokenı.<inlang-LineFeed>\nSürdürülebilir FinTech arayan protokoller, geliştiriciler ve web3 kullanıcıları için merkezi olmayan bir ekosistem.",
+  "coingeckoID": "kujira",
+  "websiteURL": "https://kujira.app/",
+  "twitterURL": "https://twitter.com/TeamKujira"
 }

@@ -2,5 +2,7 @@
   "localization": "pt",
   "name": "Stride Staked STARS",
   "symbol": "stSTARS",
-  "description": "O token nativo do Stargaze"
+  "description": "indefinido<inlang-LineFeed>\nStride é um blockchain que fornece liquidez para tokens apostados. Usando o Stride, você pode obter rendimentos de take e DeFi em todo o ecossistema Cosmos IBC.",
+  "coingeckoID": "stride-staked-stars",
+  "websiteURL": "https://stride.zone/"
 }

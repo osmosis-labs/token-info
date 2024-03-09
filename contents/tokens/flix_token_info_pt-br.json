@@ -1,8 +1,8 @@
 {
-  "description": "O token de piquetagem nativo do OmniFlix Hub.<inlang-LineFeed>\nMídia descentralizada e camada de rede para criadores e comunidades soberanas alimentadas por NFTs e protocolos de distribuição relacionados.",
-  "localization": "pt",
   "name": "OmniFlix",
-  "twitterURL": "https://twitter.com/OmniFlixNetwork",
+  "symbol": "FLIX",
+  "description": "O token de piquetagem nativo do OmniFlix Hub.<inlang-LineFeed>\nMídia descentralizada e camada de rede para criadores e comunidades soberanas alimentadas por NFTs e protocolos de distribuição relacionados.",
   "coingeckoID": "omniflix-network",
-  "symbol": "FLIX"
+  "websiteURL": "https://omniflix.network/",
+  "twitterURL": "https://twitter.com/OmniFlixNetwork"
 }

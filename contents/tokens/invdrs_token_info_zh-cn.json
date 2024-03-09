@@ -2,5 +2,6 @@
   "localization": "zh",
   "name": "Invaders",
   "symbol": "INVDRS",
-  "description": "Evmos Guardians 的 Invaders DAO 代币。"
+  "description": "Evmos Guardians 的 Invaders DAO 代币。",
+  "websiteURL": "https://www.junonetwork.io/"
 }

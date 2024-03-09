@@ -1,6 +1,8 @@
 {
+  "localization": "tr",
   "name": "Source",
   "symbol": "SOURCE",
   "description": "SOURCE Chain'in yerel tokenı",
-  "coingeckoID": "source"
+  "coingeckoID": "source",
+  "websiteURL": "https://www.sourceprotocol.io/"
 }

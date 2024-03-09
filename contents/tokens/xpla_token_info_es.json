@@ -2,5 +2,6 @@
   "name": "XPLA",
   "symbol": "XPLA",
   "description": "El token de apuesta nativo de XPLA.",
-  "coingeckoID": "xpla"
+  "coingeckoID": "xpla",
+  "websiteURL": "https://xpla.io"
 }

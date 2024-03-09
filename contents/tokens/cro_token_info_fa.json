@@ -1,8 +1,9 @@
 {
   "localization": "en",
-  "description": "CRO توکن بومی زنجیره Crypto.org است که به آن Native CRO گفته می شود.<inlang-LineFeed>\nCronos PoS Chain یک بلاک چین عمومی، منبع باز و بدون مجوز است - یک شبکه کاملاً غیرمتمرکز با سرعت بالا و کارمزد کم، که به عنوان یک کالای عمومی طراحی شده است که به پذیرش انبوه فناوری بلاک چین از طریق موارد استفاده مانند Payments، DeFi و NFT کمک می کند.",
   "name": "Cronos POS Chain",
   "symbol": "CRO",
+  "description": "CRO نشانه اصلی زنجیره Crypto.org است که به عنوان Native CRO شناخته می شود.<inlang-LineFeed>\nCronos PoS Chain یک بلاک چین عمومی، منبع باز و بدون مجوز است - یک شبکه کاملاً غیرمتمرکز با سرعت بالا و کارمزد کم، که به عنوان یک کالای عمومی طراحی شده است که به پذیرش انبوه فناوری بلاک چین از طریق موارد استفاده مانند Payments، DeFi و NFT کمک می کند.",
   "coingeckoID": "crypto-com-chain",
+  "websiteURL": "https://cronos-pos.org/",
   "twitterURL": "https://twitter.com/cronos_chain"
 }

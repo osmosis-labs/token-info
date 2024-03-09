@@ -2,5 +2,6 @@
   "localization": "fr",
   "name": "Block",
   "symbol": "BLOCK",
-  "description": "Le jeton natif de Marble DEX sur Juno Chain"
+  "description": "Le jeton natif de Marble DEX sur Juno Chain",
+  "websiteURL": "https://www.junonetwork.io/"
 }

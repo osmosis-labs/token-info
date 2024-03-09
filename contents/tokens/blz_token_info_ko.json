@@ -1,7 +1,7 @@
 {
-  "localization": "ko",
   "name": "Bluzelle",
   "symbol": "BLZ",
   "description": "Bluzelle의 기본 토큰",
-  "coingeckoID": "bluzelle"
+  "coingeckoID": "bluzelle",
+  "websiteURL": "https://bluzelle.com/"
 }

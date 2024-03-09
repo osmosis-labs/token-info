@@ -1,4 +1,5 @@
 {
   "name": "Tether USD",
-  "symbol": "USDT.axl"
+  "symbol": "USDT.axl",
+  "websiteURL": "https://axelar.network/"
 }

@@ -2,5 +2,6 @@
   "name": "XPLA",
   "symbol": "XPLA",
   "description": "توکن بومی شرط بندی XPLA.",
-  "coingeckoID": "xpla"
+  "coingeckoID": "xpla",
+  "websiteURL": "https://xpla.io"
 }

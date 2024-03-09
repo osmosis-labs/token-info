@@ -3,5 +3,6 @@
   "name": "Kava Hard",
   "symbol": "HARD",
   "description": "Indicatorul de guvernanță al protocolului Kava Lend",
-  "coingeckoID": "kava-lend"
+  "coingeckoID": "kava-lend",
+  "websiteURL": "https://www.kava.io/"
 }

@@ -1,8 +1,9 @@
 {
-  "description": "Le jeton natif de la chaîne Nolus<inlang-LineFeed>\nAméliorez votre jeu avec jusqu'à 3x d'équité. Plongez dans un monde aux risques minimisés et libérez tout le potentiel de vos actifs.",
   "localization": "fr",
-  "coingeckoID": "nolus",
-  "twitterURL": "https://twitter.com/NolusProtocol",
   "name": "Nolus",
-  "symbol": "NLS"
+  "symbol": "NLS",
+  "description": "Le jeton natif de la chaîne Nolus<inlang-LineFeed>\nAméliorez votre jeu avec jusqu'à 3x d'équité. Plongez dans un monde aux risques minimisés et libérez tout le potentiel de vos actifs.",
+  "coingeckoID": "nolus",
+  "websiteURL": "https://nolus.io/",
+  "twitterURL": "https://twitter.com/NolusProtocol"
 }

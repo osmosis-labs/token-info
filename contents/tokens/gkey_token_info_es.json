@@ -2,5 +2,6 @@
   "localization": "es",
   "name": "GKey",
   "symbol": "GKEY",
-  "description": "Ficha del gran premio del año 1 de Gelotto"
+  "description": "Ficha del gran premio del año 1 de Gelotto",
+  "websiteURL": "https://www.junonetwork.io/"
 }

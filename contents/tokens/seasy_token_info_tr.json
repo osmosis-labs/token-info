@@ -1,5 +1,7 @@
 {
+  "localization": "tr",
   "name": "StakeEasy SEASY",
   "symbol": "SEASY",
-  "description": "StakeEasy yönetişim tokenı"
+  "description": "StakeEasy yönetim tokenı",
+  "websiteURL": "https://www.junonetwork.io/"
 }

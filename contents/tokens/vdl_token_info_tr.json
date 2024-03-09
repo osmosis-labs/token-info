@@ -3,5 +3,6 @@
   "name": "Vidulum",
   "symbol": "VDL",
   "description": "Vidulum'un yerel jetonu",
-  "coingeckoID": "vidulum"
+  "coingeckoID": "vidulum",
+  "websiteURL": "https://vidulum.app/"
 }

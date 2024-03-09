@@ -3,5 +3,6 @@
   "name": "SCRT Staking Derivatives",
   "symbol": "stkd-SCRT",
   "description": "Le jeton natif cw20 pour les dérivés de jalonnement SCRT sur le réseau secret",
-  "coingeckoID": "stkd-scrt"
+  "coingeckoID": "stkd-scrt",
+  "websiteURL": "https://scrt.network/"
 }

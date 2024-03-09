@@ -1,7 +1,7 @@
 {
-  "localization": "pt",
   "name": "PSTAKE staked ATOM",
   "symbol": "stkATOM",
   "description": "PSTAKE ATOM com aposta líquida",
-  "coingeckoID": "stkatom"
+  "coingeckoID": "stkatom",
+  "websiteURL": "https://persistence.one/"
 }

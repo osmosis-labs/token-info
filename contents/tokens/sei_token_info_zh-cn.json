@@ -1,8 +1,9 @@
 {
-  "description": "Sei 的原生质押代币。<inlang-LineFeed>\nSei 是最快的第 1 层区块链，旨在与行业一起扩展。",
   "localization": "zh",
   "name": "Sei",
   "symbol": "SEI",
-  "twitterURL": "https://twitter.com/SeiNetwork",
-  "coingeckoID": "sei-network"
+  "description": "Sei 的原生质押代币。<inlang-LineFeed>\nSei 是最快的第 1 层区块链，旨在与行业一起扩展。",
+  "coingeckoID": "sei-network",
+  "websiteURL": "https://www.sei.io/",
+  "twitterURL": "https://twitter.com/SeiNetwork"
 }

@@ -2,5 +2,6 @@
   "name": "XPLA",
   "symbol": "XPLA",
   "description": "XPLA의 기본 스테이킹 토큰입니다.",
-  "coingeckoID": "xpla"
+  "coingeckoID": "xpla",
+  "websiteURL": "https://xpla.io"
 }

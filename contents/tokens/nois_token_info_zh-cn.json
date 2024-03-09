@@ -2,5 +2,6 @@
   "localization": "zh",
   "name": "Nois",
   "symbol": "NOIS",
-  "description": "Nois 的原生代币"
+  "description": "Nois 的原生代币",
+  "websiteURL": "https://nois.network"
 }

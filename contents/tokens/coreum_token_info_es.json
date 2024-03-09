@@ -3,5 +3,6 @@
   "name": "Coreum",
   "symbol": "COREUM",
   "description": "El token nativo de Coreum",
-  "coingeckoID": "coreum"
+  "coingeckoID": "coreum",
+  "websiteURL": "https://www.coreum.com"
 }

@@ -1,8 +1,9 @@
 {
-  "description": "Rodzimy token tyczenia i zarządzania Kavy<inlang-LineFeed>\nKava to zdecentralizowany blockchain, który łączy w sobie szybkość i interoperacyjność Cosmos z możliwościami programistycznymi Ethereum.",
   "localization": "pl",
   "name": "Kava",
   "symbol": "KAVA",
+  "description": "Rodzimy token tyczenia i zarządzania Kavy<inlang-LineFeed>\nKava to zdecentralizowany blockchain, który łączy w sobie szybkość i interoperacyjność Cosmos z możliwościami programistycznymi Ethereum.",
   "coingeckoID": "kava",
+  "websiteURL": "https://www.kava.io/",
   "twitterURL": "https://twitter.com/KAVA_CHAIN"
 }

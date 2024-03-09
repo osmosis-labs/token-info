@@ -3,5 +3,6 @@
   "name": "Lum Network",
   "symbol": "LUM",
   "description": "Natywny token sieci Lum",
-  "coingeckoID": "lum-network"
+  "coingeckoID": "lum-network",
+  "websiteURL": "https://lum.network/"
 }

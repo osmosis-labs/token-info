@@ -3,5 +3,6 @@
   "name": "Realio Network",
   "symbol": "RIO",
   "description": "Realio Ağının yerel para birimi.",
-  "coingeckoID": "realio-network"
+  "coingeckoID": "realio-network",
+  "websiteURL": "https://realio.network/"
 }

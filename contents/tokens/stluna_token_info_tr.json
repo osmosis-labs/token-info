@@ -2,5 +2,7 @@
   "localization": "tr",
   "name": "Stride Staked LUNA",
   "symbol": "stLUNA",
-  "description": "Terra'nın yerel stake tokenı."
+  "description": "Tanımsız<inlang-LineFeed>\nStride, stake edilen tokenlar için likidite sağlayan bir blockchaindir. Stride'ı kullanarak Cosmos IBC ekosisteminde hem alım hem de DeFi getirisi elde edebilirsiniz.",
+  "coingeckoID": "stride-staked-luna",
+  "websiteURL": "https://stride.zone/"
 }

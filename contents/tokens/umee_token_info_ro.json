@@ -1,7 +1,8 @@
 {
   "localization": "ro",
-  "name": "Umee",
+  "name": "UX Chain",
   "symbol": "UMEE",
   "description": "Jetonul nativ din Umee",
-  "coingeckoID": "umee"
+  "coingeckoID": "umee",
+  "websiteURL": "https://www.ux.xyz"
 }

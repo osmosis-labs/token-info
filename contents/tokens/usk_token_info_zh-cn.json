@@ -1,7 +1,7 @@
 {
-  "localization": "zh",
   "name": "USK",
   "symbol": "USK",
   "description": "来自 Kujira 链的原生超额抵押稳定币。",
-  "coingeckoID": "usk"
+  "coingeckoID": "usk",
+  "websiteURL": "https://kujira.app/"
 }

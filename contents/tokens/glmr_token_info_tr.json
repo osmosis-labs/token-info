@@ -2,6 +2,6 @@
   "localization": "tr",
   "name": "Moonbeam",
   "symbol": "GLMR",
-  "description": "Glimmer (GLMR), Moonbeam'in Polkadot ağındaki birincil dağıtımı olan ve geliştirici dostu bir parachain görevi gören Moonbeam Ağının yardımcı tokenidir.",
+  "description": "Glimmer (GLMR), Moonbeam'in Polkadot ağındaki geliştirici dostu bir parachain görevi gören birincil konuşlandırması olan Moonbeam Ağının yardımcı tokenidir.",
   "coingeckoID": "moonbeam"
 }

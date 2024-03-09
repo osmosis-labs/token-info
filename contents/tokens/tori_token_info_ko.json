@@ -3,5 +3,6 @@
   "name": "Teritori",
   "symbol": "TORI",
   "description": "Teritori의 기본 토큰",
-  "coingeckoID": "teritori"
+  "coingeckoID": "teritori",
+  "websiteURL": "https://teritori.com/"
 }

@@ -2,5 +2,6 @@
   "localization": "tr",
   "name": "Neokingdom DAO",
   "symbol": "NEOK",
-  "description": "Neokingdom DAO'nun jetonu."
+  "description": "Neokingdom DAO'nun jetonu.",
+  "websiteURL": "https://evmos.org/"
 }

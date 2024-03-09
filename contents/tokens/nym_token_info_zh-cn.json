@@ -3,5 +3,6 @@
   "name": "NYM",
   "symbol": "NYM",
   "description": "NYM 代币（NYM）是 Nym 网络的原生实用代币，用作激励 mixnet 节点运营商的主要手段。",
-  "coingeckoID": "nym"
+  "coingeckoID": "nym",
+  "websiteURL": "https://nymtech.net/"
 }

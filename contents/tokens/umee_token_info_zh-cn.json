@@ -1,7 +1,8 @@
 {
   "localization": "zh",
-  "name": "Umee",
+  "name": "UX Chain",
   "symbol": "UMEE",
   "description": "Umee原生代币",
-  "coingeckoID": "umee"
+  "coingeckoID": "umee",
+  "websiteURL": "https://www.ux.xyz"
 }

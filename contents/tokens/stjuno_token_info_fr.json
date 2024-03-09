@@ -1,6 +1,7 @@
 {
-  "localization": "fr",
   "name": "Stride Staked JUNO",
   "symbol": "stJUNO",
-  "description": "Le jeton natif de JUNO Chain"
+  "description": "indéfini<inlang-LineFeed>\nStride est une blockchain qui fournit de la liquidité pour les jetons mis en jeu. En utilisant Stride, vous pouvez gagner à la fois des rendements de prise et de DeFi dans l'ensemble de l'écosystème Cosmos IBC.",
+  "coingeckoID": "stride-staked-juno",
+  "websiteURL": "https://stride.zone/"
 }

@@ -3,36 +3,45 @@
     "localization": "zh",
     "name": "以太坊实际收益率",
     "symbol": "收益率ETH",
-    "description": "通过 Aave、Compound 和 Morpho 之间的杠杆质押以及 Uniswap V3 上 ETH 流动性质押代币的流动性提供，最大化 ETH 收益。"
+    "description": "通过 Aave、Compound 和 Morpho 之间的杠杆质押以及 Uniswap V3 上 ETH 流动性质押代币的流动性提供，最大化 ETH 收益。",
+    "coingeckoID": "产量侍酒师"
   },
   "xprt": {
+    "name": "坚持",
     "description": "XPRT 代币主要是持久性链的治理代币。<inlang-LineFeed>\nPersistence 是一个用于 Liquid Stake 的应用程序链，为 DeFi 应用程序生态系统提供动力，专注于释放质押资产的流动性。",
-    "symbol": "XPRT",
+    "websiteURL": "https://persistence.one/",
     "twitterURL": "https://twitter.com/PersistenceOne"
   },
   "xpla": {
     "name": "XPLA",
     "symbol": "XPLA",
     "description": "XPLA 的原生质押代币。",
-    "coingeckoID": "XPLA"
+    "websiteURL": "https://xpla.io"
   },
   "xki": {
     "name": "基",
     "symbol": "西凯",
-    "description": "Ki Chain 原生代币"
+    "description": "Ki Chain 原生代币",
+    "coingeckoID": "气",
+    "websiteURL": "https://foundation.ki/"
   },
   "xcn": {
     "localization": "zh",
+    "name": "链",
     "symbol": "XCN",
     "description": "Chain 是一种云区块链协议，使组织能够在 Sequence 和 Chain Core 的支持下从头开始构建更好的金融服务。",
     "coingeckoID": "链2"
   },
   "wynd": {
+    "localization": "zh",
     "name": "Wynd DAO 治理代币",
     "symbol": "温德",
-    "description": "WYND DAO 治理代币"
+    "description": "WYND DAO 治理代币",
+    "coingeckoID": "温德",
+    "websiteURL": "https://www.junonetwork.io/"
   },
   "wsteth": {
+    "localization": "zh",
     "name": "包裹的 Lido 质押以太币",
     "symbol": "西斯特以太坊",
     "description": "wstETH 是 stETH 的包装版本。由于一些 DeFi 协议需要代币的恒定平衡机制，wstETH 使您的 stETH 余额保持固定，并使用底层份额系统来反映您赚取的质押奖励。",
@@ -41,66 +50,87 @@
       "localization": "zh",
       "name": "包裹的 Lido 质押以太币",
       "symbol": "wstETH.axl",
-      "description": "wstETH 是 stETH 的包装版本。由于一些 DeFi 协议需要代币的恒定平衡机制，wstETH 使您的 stETH 余额保持固定，并使用底层份额系统来反映您赚取的质押奖励。"
+      "description": "不明确的<inlang-LineFeed><inlang-LineFeed>Axelar 为 Web3 提供安全的跨链通信。我们的基础设施使 dApp 用户能够一键与任何链上的任何资产或应用程序进行交互。",
+      "websiteURL": "https://axelar.network/"
     }
+  },
+  "wosmo": {
+    "localization": "zh",
+    "name": "世界气象组织",
+    "symbol": "世界气象组织",
+    "description": "Osmosis 上的第一个本地模因币。由疯狂实验室中灵巧的双手精心打造。这在科学上是无政府主义的，在专业上是愚蠢的，而且是通往疯人院的门票。",
+    "websiteURL": "https://osmosis.zone/"
+  },
+  "woof": {
+    "localization": "zh",
+    "name": "纬",
+    "symbol": "纬",
+    "description": "纬",
+    "websiteURL": "https://chihuahua.wtf/"
   },
   "whale": {
     "localization": "zh",
     "name": "米加洛",
     "symbol": "鲸",
     "description": "Migaloo Chain 原生代币",
-    "coingeckoID": "白鲸"
+    "coingeckoID": "白鲸",
+    "websiteURL": "https://www.whitewhale.money/"
   },
   "weth": {
     "wh": {
       "localization": "zh",
       "name": "包裹以太（虫洞）",
       "symbol": "体重",
-      "description": "包裹以太（虫洞），WETH，工厂/虫洞14ejqjyq8um4p3xfqj74yld5waqljf88fz25yxnma0cngspxe3les00fpjx/5BWqpR48Lubd55szM5i62zK7TFkddckhbT48yy6mNbDp"
+      "description": "包裹以太（虫洞），WETH，工厂/虫洞14ejqjyq8um4p3xfqj74yld5waqljf88fz25yxnma0cngspxe3les00fpjx/5BWqpR48Lubd55szM5i62zK7TFkddckhbT48yy6mNbDp",
+      "websiteURL": "https://wormhole.com"
     },
     "grv": {
       "name": "以太（重力桥）",
       "symbol": "韦斯.grv",
-      "description": "重力桥 WETH"
+      "description": "重力桥 WETH",
+      "websiteURL": "https://www.gravitybridge.net/"
     }
   },
   "wbtc": {
     "localization": "zh",
-    "name": "包装比特币",
     "symbol": "世界比特币交易所",
-    "description": "Wrapped Bitcoin (WBTC) 是一种与比特币 1:1 支持的 ERC20 代币。完全透明。 100%可验证。社区主导。",
-    "coingeckoID": "包裹比特币",
+    "description": "不明确的<inlang-LineFeed><inlang-LineFeed>Osmosis (OSMO) 是 Cosmos 生态系统中首屈一指的 DEX 和跨链 DeFi 中心，该网络由 50 多个主权、可互操作的区块链组成，通过区块链间通信协议 (IBC) 无缝连接。 Osmosis 的方法具有开创性，提供动态交易和流动性提供体验，集成了来自其他生态系统（包括以太坊、Solana、Avalanche 和 Polkadot）的非 IBC 资产。 Osmosis 最初采用 Balancer 式资金池，现在还具有集中流动性模型，该模型的资本效率提高了几个数量级，这意味着以最小的滑点处理相同数量的交易量所需的流动性要少得多。<inlang-LineFeed><inlang-LineFeed>作为真正的应用链，Osmosis 比传统的智能合约 DEX 拥有更大的对整个区块链堆栈的控制权，传统的智能合约 DEX 必须遵循其构建的母链的代码。这种细粒度的控制使得 Superfluid Stake 的开发成为可能，这是权益证明的扩展，允许对应用程序层的资产进行质押以确保链的安全。应用程序链的可定制性还允许实现协议收入模块等功能，该模块使 Osmosis 能够代表 OSMO 质押者进行链上套利，平衡池之间的价格，同时从该数量中产生实际收益收入。此外，作为主权应用链，Osmosis 治理可以对协议升级进行投票。其中一个例子是引入了 Taker Fee，它通过收取交易费用来从 Osmosis 交易量中产生不同的收益，并将其分配给 OSMO 质押者。<inlang-LineFeed>\nOsmosis 通过构建跨链原生 DEX 和交易套件，通过 IBC 连接所有链（包括以太坊和比特币），为去中心化世界带来完整的中心化交易体验。为了实现这一目标，Osmosis 托管了一套不断扩展的 DeFi 应用程序，旨在提供一站式体验，包括借贷、信贷、保证金、DeFi 策略金库、power perps、法定入口、NFT、稳定币等 -在去中心化金融的信任最小化环境中，中心化交易所提供的所有功能等等。",
+    "websiteURL": "https://osmosis.zone/",
     "grv": {
       "localization": "zh",
       "name": "包裹的比特币（重力桥）",
       "symbol": "WBTC.grv",
-      "description": "重力桥 WBTC"
+      "description": "重力桥 WBTC",
+      "websiteURL": "https://www.gravitybridge.net/"
     },
     "axl": {
       "localization": "zh",
-      "name": "包装比特币",
       "symbol": "WBTC.axl",
-      "description": "在 Axelar 上包装比特币"
+      "description": "在 Axelar 上包装比特币",
+      "websiteURL": "https://axelar.network/"
     }
   },
   "watr": {
-    "localization": "zh",
     "name": "瓦特",
-    "symbol": "瓦特",
-    "description": "一个革命性的 DAO 旨在为全世界的男人、女人和儿童提供清洁的饮用水。我们希望您加入我们的旅程！"
+    "description": "一个革命性的 DAO 旨在为全世界的男人、女人和儿童提供清洁的饮用水。我们希望您加入我们的旅程！",
+    "websiteURL": "https://www.junonetwork.io/"
   },
   "void": {
     "localization": "zh",
     "name": "空白",
-    "symbol": "空白"
+    "symbol": "空白",
+    "description": "空白",
+    "websiteURL": "https://www.junonetwork.io/"
   },
   "vdl": {
     "localization": "zh",
     "name": "维杜鲁姆",
     "description": "Vidulum 的原生代币",
-    "coingeckoID": "维杜卢姆"
+    "coingeckoID": "维杜卢姆",
+    "websiteURL": "https://vidulum.app/"
   },
   "v": {
+    "localization": "zh",
     "name": "博斯特罗姆伏特",
     "symbol": "V",
     "description": "Bostrom 的资源代币"
@@ -108,44 +138,48 @@
   "ustc": {
     "localization": "zh",
     "name": "TerraClassicUSD",
-    "symbol": "中国科学技术大学",
     "description": "Terra Classic 的美元稳定币。",
     "coingeckoID": "特劳斯德"
   },
   "usk": {
-    "localization": "zh",
     "name": "USK",
-    "description": "来自 Kujira 链的原生超额抵押稳定币。"
+    "symbol": "USK",
+    "description": "来自 Kujira 链的原生超额抵押稳定币。",
+    "websiteURL": "https://kujira.app/"
   },
   "usdx": {
     "localization": "zh",
     "name": "卡瓦美元指数",
-    "symbol": "美元指数",
     "description": "Kava 原生稳定币",
-    "coingeckoID": "美元指数"
+    "coingeckoID": "美元指数",
+    "websiteURL": "https://www.kava.io/"
   },
   "usdt": {
     "localization": "zh",
     "name": "系绳美元",
+    "symbol": "泰达币",
     "description": "Tether 通过将您的现金转换为稳定的数字货币等价物，为您提供开放区块链技术和传统货币的共同优势。",
     "coingeckoID": "系绳",
     "wh": {
       "localization": "zh",
       "name": "Tether 美元（虫洞）",
       "symbol": "USDT.wh",
-      "description": "Tether USD（虫洞）、USDT、工厂/虫洞14ejqjyq8um4p3xfqj74yld5waqljf88fz25yxnma0cngspxe3les00fpjx/8iuAc6DSeLvi2JDUtwJxLytsZT8R19itXebZsNReLLNi"
+      "description": "Tether USD（虫洞）、USDT、工厂/虫洞14ejqjyq8um4p3xfqj74yld5waqljf88fz25yxnma0cngspxe3les00fpjx/8iuAc6DSeLvi2JDUtwJxLytsZT8R19itXebZsNReLLNi",
+      "websiteURL": "https://wormhole.com"
     },
     "grv": {
       "localization": "zh",
       "name": "Tether 美元（重力桥）",
       "symbol": "USDT.grv",
-      "description": "重力桥USDT"
+      "description": "重力桥USDT",
+      "websiteURL": "https://www.gravitybridge.net/"
     },
     "axl": {
       "localization": "zh",
       "name": "系绳美元",
       "symbol": "USDT.axl",
-      "description": "Axelar 上的 Tether 美元稳定币"
+      "description": "Axelar 上的 Tether 美元稳定币",
+      "websiteURL": "https://axelar.network/"
     }
   },
   "usdc": {
@@ -153,48 +187,49 @@
     "name": "美元硬币",
     "symbol": "美国农业部",
     "description": "USDC 是由开源项目 CENTRE 开发的完全抵押的美元稳定币，Circle 是即将推出的几个发行人中的第一个。",
-    "coingeckoID": "美元硬币",
     "wh": {
       "localization": "zh",
       "name": "美元硬币（虫洞）",
       "symbol": "USDC.wh",
-      "description": "美元硬币（虫洞），USDC，工厂/虫洞14ejqjyq8um4p3xfqj74yld5waqljf88fz25yxnma0cngspxe3les00fpjx/GGh9Ufn1SeDGrhzEkMyRKt5568VbbxZK2yvWNsd6PbXt"
+      "description": "美元硬币（虫洞），USDC，工厂/虫洞14ejqjyq8um4p3xfqj74yld5waqljf88fz25yxnma0cngspxe3les00fpjx/GGh9Ufn1SeDGrhzEkMyRKt5568VbbxZK2yvWNsd6PbXt",
+      "websiteURL": "https://wormhole.com"
     },
     "grv": {
-      "localization": "zh",
       "name": "美元硬币（重力桥）",
       "symbol": "USDC.grv",
-      "description": "重力桥USDC"
+      "description": "重力桥USDC",
+      "websiteURL": "https://www.gravitybridge.net/"
     },
     "axl": {
       "localization": "zh",
       "name": "美元硬币",
       "symbol": "USDC.axl",
       "description": "Axelar 上的 Circle 稳定币",
-      "coingeckoID": "轴流"
+      "coingeckoID": "轴流",
+      "websiteURL": "https://axelar.network/"
     }
   },
   "uni": {
     "localization": "zh",
+    "name": "Uniswap",
     "symbol": "大学",
-    "description": "UNI 代币作为 Uniswap 协议的治理代币，创世时已铸造了 10 亿个 UNI。 UNI 创世供应量的 60% 分配给 Uniswap 社区成员，其余分配给团队、投资者和顾问。",
-    "coingeckoID": "统一交换"
+    "description": "UNI 代币作为 Uniswap 协议的治理代币，创世时已铸造了 10 亿个 UNI。 UNI 创世供应量的 60% 分配给 Uniswap 社区成员，其余分配给团队、投资者和顾问。"
   },
   "umee": {
     "localization": "zh",
-    "name": "乌梅",
+    "name": "用户体验链",
     "symbol": "UMEE",
     "description": "Umee原生代币",
-    "coingeckoID": "乌梅"
+    "websiteURL": "https://www.ux.xyz"
   },
   "tori": {
     "localization": "zh",
     "name": "泰里托里",
     "description": "Teritori 的原生代币",
-    "coingeckoID": "泰里托里"
+    "coingeckoID": "泰里托里",
+    "websiteURL": "https://teritori.com/"
   },
   "tocyb": {
-    "localization": "zh",
     "name": "博斯特罗姆·托西布",
     "symbol": "托西布",
     "description": "Cyber的质押代币"
@@ -203,310 +238,404 @@
     "localization": "zh",
     "name": "微滴答",
     "symbol": "打钩",
-    "description": "TICK 币是 Microtick 价格发现和 Oracle 应用程序的代币"
+    "description": "TICK 币是 Microtick 价格发现和 Oracle 应用程序的代币",
+    "coingeckoID": "微滴答声"
   },
   "tia": {
     "localization": "zh",
     "name": "塞拉斯蒂娅",
     "symbol": "TIA",
-    "twitterURL": "https://twitter.com/CelestiaOrg",
-    "coingeckoID": "塞拉斯蒂娅",
-    "description": "Celestia 是一个模块化的数据可用性网络，可以根据用户数量安全地扩展，使任何人都可以轻松启动自己的区块链。"
+    "description": "<inlang-LineFeed><inlang-LineFeed>Celestia 是一个模块化的数据可用性网络，可以根据用户数量安全地扩展，使任何人都可以轻松启动自己的区块链。",
+    "websiteURL": "https://celestia.org/",
+    "twitterURL": "https://twitter.com/CelestiaOrg"
   },
   "tgd": {
     "localization": "zh",
-    "symbol": "TGD",
+    "name": "特级",
     "description": "Tgrade的原生代币",
-    "coingeckoID": "特级"
+    "coingeckoID": "特级",
+    "websiteURL": "https://tgrade.finance/"
   },
   "swth": {
     "localization": "zh",
-    "name": "碳",
+    "symbol": "西南交通大学",
     "description": "Carbon 的原生治理代币",
-    "coingeckoID": "交换机"
+    "coingeckoID": "交换机",
+    "websiteURL": "https://www.carbon.network/"
   },
   "swp": {
     "localization": "zh",
     "name": "卡瓦互换",
-    "symbol": "西南水务局",
     "description": "Kava 互换协议的治理代币",
-    "coingeckoID": "卡瓦交换"
+    "coingeckoID": "卡瓦交换",
+    "websiteURL": "https://www.kava.io/"
   },
   "summit": {
-    "localization": "zh",
     "name": "首脑",
     "symbol": "首脑",
-    "description": "社会影响 DAO 为无家可归者提供淋浴、膳食和车辆"
+    "description": "社会影响 DAO 为无家可归者提供淋浴、膳食和车辆",
+    "websiteURL": "https://www.junonetwork.io/"
   },
   "sui": {
     "localization": "zh",
     "name": "隋",
-    "description": "Sui 的原生资产称为 SUI。"
+    "symbol": "隋",
+    "description": "Sui 的原生资产称为 SUI。",
+    "coingeckoID": "睢"
   },
   "stumee": {
-    "localization": "zh",
     "name": "跨步押注 UMEE",
     "symbol": "斯图梅",
-    "description": "Umee原生代币"
+    "description": "不明确的<inlang-LineFeed><inlang-LineFeed>Stride 是一个为质押代币提供流动性的区块链。使用 Stride，您可以在 Cosmos IBC 生态系统中同时赚取收益和 DeFi 收益。",
+    "coingeckoID": "迈步 umee",
+    "websiteURL": "https://stride.zone/"
   },
   "sttia": {
     "localization": "zh",
     "name": "跨步固定 TIA",
     "symbol": "短暂性TIA",
-    "description": "Stride 的液体固定 TIA"
+    "description": "Stride 的液体固定 TIA",
+    "websiteURL": "https://stride.zone/"
   },
   "ststars": {
     "localization": "zh",
     "name": "迈步踏上星星",
     "symbol": "圣星",
-    "description": "Stargaze 原生代币"
+    "description": "不明确的<inlang-LineFeed><inlang-LineFeed>Stride 是一个为质押代币提供流动性的区块链。使用 Stride，您可以在 Cosmos IBC 生态系统中同时赚取收益和 DeFi 收益。",
+    "coingeckoID": "大步踏星",
+    "websiteURL": "https://stride.zone/"
   },
   "stsomm": {
     "localization": "zh",
     "name": "跨步押注 SOMM",
     "symbol": "圣索姆",
-    "description": "Somm 代币（SOMM）是 Sommelier Chain 的原生质押代币"
+    "description": "不明确的<inlang-LineFeed><inlang-LineFeed>Stride 是一个为质押代币提供流动性的区块链。使用 Stride，您可以在 Cosmos IBC 生态系统中同时赚取收益和 DeFi 收益。",
+    "coingeckoID": "大步迈进的侍酒师",
+    "websiteURL": "https://stride.zone/"
   },
   "strdst": {
     "localization": "zh",
     "name": "星尘STRDST",
     "symbol": "STRDST",
-    "description": "ohhNFT 的原生代币。"
+    "description": "ohhNFT 的原生代币。",
+    "websiteURL": "https://stargaze.zone/"
   },
   "strd": {
     "localization": "zh",
+    "name": "跨步",
     "description": "Stride 的原生代币<inlang-LineFeed><inlang-LineFeed>Stride 是一个为质押代币提供流动性的区块链。使用 Stride，您可以在 Cosmos IBC 生态系统中同时赚取收益和 DeFi 收益。",
-    "symbol": "STRD",
     "coingeckoID": "跨步",
+    "websiteURL": "https://stride.zone/",
     "twitterURL": "https://twitter.com/stride_zone"
   },
   "stosmo": {
     "localization": "zh",
     "name": "跨步锁定 OSMO",
     "symbol": "斯托斯莫",
-    "description": "Osmosis 的原生代币"
+    "description": "不明确的<inlang-LineFeed><inlang-LineFeed>Stride 是一个为质押代币提供流动性的区块链。使用 Stride，您可以在 Cosmos IBC 生态系统中同时赚取收益和 DeFi 收益。",
+    "coingeckoID": "跨步渗透",
+    "websiteURL": "https://stride.zone/"
   },
   "stluna": {
     "localization": "zh",
     "name": "大步踏入 LUNA",
     "symbol": "星露娜",
-    "description": "Terra 的原生质押代币。"
+    "description": "不明确的<inlang-LineFeed><inlang-LineFeed>Stride 是一个为质押代币提供流动性的区块链。使用 Stride，您可以在 Cosmos IBC 生态系统中同时赚取收益和 DeFi 收益。",
+    "coingeckoID": "跨步月神",
+    "websiteURL": "https://stride.zone/"
   },
   "stkosmo": {
     "localization": "zh",
     "name": "PSTAKE质押OSMO",
     "symbol": "斯托克OSMO",
-    "description": "PSTAKE 液体固定式 OSMO"
+    "description": "PSTAKE 液体固定式 OSMO",
+    "coingeckoID": "质押-质押-渗透",
+    "websiteURL": "https://persistence.one/"
   },
   "stkd-scrt": {
     "localization": "zh",
     "name": "SCRT 质押衍生品",
     "symbol": "SCRT",
     "description": "Secret Network 上 SCRT 质押衍生品的原生代币 cw20",
-    "coingeckoID": "stkd脚本"
+    "coingeckoID": "stkd脚本",
+    "websiteURL": "https://scrt.network/"
   },
   "stkatom": {
-    "localization": "zh",
     "name": "PSTAKE质押ATOM",
     "symbol": "原子核",
     "description": "PSTAKE 液体质押 ATOM",
-    "coingeckoID": "斯特卡托姆"
+    "coingeckoID": "斯特卡托姆",
+    "websiteURL": "https://persistence.one/"
   },
   "stjuno": {
-    "localization": "zh",
     "name": "大步迈进朱诺",
     "symbol": "圣朱诺",
-    "description": "JUNO Chain的原生代币"
+    "description": "不明确的<inlang-LineFeed><inlang-LineFeed>Stride 是一个为质押代币提供流动性的区块链。使用 Stride，您可以在 Cosmos IBC 生态系统中同时赚取收益和 DeFi 收益。",
+    "coingeckoID": "跨步朱诺",
+    "websiteURL": "https://stride.zone/"
   },
   "stibcx": {
     "localization": "zh",
     "name": "质押 IBCX",
-    "symbol": "稳定IBCX"
+    "symbol": "稳定IBCX",
+    "description": "不明确的<inlang-LineFeed><inlang-LineFeed>Osmosis (OSMO) 是 Cosmos 生态系统中首屈一指的 DEX 和跨链 DeFi 中心，该网络由 50 多个主权、可互操作的区块链组成，通过区块链间通信协议 (IBC) 无缝连接。 Osmosis 的方法具有开创性，提供动态交易和流动性提供体验，集成了来自其他生态系统（包括以太坊、Solana、Avalanche 和 Polkadot）的非 IBC 资产。 Osmosis 最初采用 Balancer 式资金池，现在还具有集中流动性模型，该模型的资本效率提高了几个数量级，这意味着以最小的滑点处理相同数量的交易量所需的流动性要少得多。<inlang-LineFeed><inlang-LineFeed>作为真正的应用链，Osmosis 比传统的智能合约 DEX 拥有更大的对整个区块链堆栈的控制权，传统的智能合约 DEX 必须遵循其构建的母链的代码。这种细粒度的控制使得 Superfluid Stake 的开发成为可能，这是权益证明的扩展，允许对应用程序层的资产进行质押以确保链的安全。应用程序链的可定制性还允许实现协议收入模块等功能，该模块使 Osmosis 能够代表 OSMO 质押者进行链上套利，平衡池之间的价格，同时从该数量中产生实际收益收入。此外，作为主权应用链，Osmosis 治理可以对协议升级进行投票。其中一个例子是引入了 Taker Fee，它通过收取交易费用来从 Osmosis 交易量中产生不同的收益，并将其分配给 OSMO 质押者。<inlang-LineFeed>\nOsmosis 通过构建跨链原生 DEX 和交易套件，通过 IBC 连接所有链（包括以太坊和比特币），为去中心化世界带来完整的中心化交易体验。为了实现这一目标，Osmosis 托管了一套不断扩展的 DeFi 应用程序，旨在提供一站式体验，包括借贷、信贷、保证金、DeFi 策略金库、power perps、法定入口、NFT、稳定币等 -在去中心化金融的信任最小化环境中，中心化交易所提供的所有功能等等。",
+    "websiteURL": "https://osmosis.zone/"
   },
   "stevmos": {
     "localization": "zh",
     "name": "Stride 质押式 EVMOS",
-    "symbol": "星EVMOS"
+    "symbol": "星EVMOS",
+    "description": "不明确的<inlang-LineFeed><inlang-LineFeed>Stride 是一个为质押代币提供流动性的区块链。使用 Stride，您可以在 Cosmos IBC 生态系统中同时赚取收益和 DeFi 收益。",
+    "coingeckoID": "跨步式 evmos",
+    "websiteURL": "https://stride.zone/"
   },
   "stdydx": {
     "localization": "zh",
     "name": "跨步锁定 DYDX",
     "symbol": "DYDX",
-    "description": "Stride 的液体质押 DYDX"
+    "description": "Stride 的液体质押 DYDX",
+    "websiteURL": "https://stride.zone/"
   },
   "statom": {
+    "localization": "zh",
     "name": "跨步质押 ATOM",
-    "symbol": "原子",
-    "description": "Cosmos Hub 的原生质押和治理代币。",
-    "coingeckoID": "跨步原子"
+    "description": "不明确的<inlang-LineFeed><inlang-LineFeed>Stride 是一个为质押代币提供流动性的区块链。使用 Stride，您可以在 Cosmos IBC 生态系统中同时赚取收益和 DeFi 收益。",
+    "coingeckoID": "跨步原子",
+    "websiteURL": "https://stride.zone/"
   },
   "stars": {
     "localization": "zh",
-    "description": "Stargaze 原生代币<inlang-LineFeed><inlang-LineFeed>首屈一指的以社区为中心的 NFT 区块链。 Stargaze 使创作者、开发者、收藏家和交易者能够参与该平台。 Stargaze 链由各种 NFT 相关应用程序组成，例如 Launchpad 以及提供报价和拍卖的 Marketplace。",
-    "name": "观星",
     "symbol": "星星",
+    "description": "Stargaze 原生代币<inlang-LineFeed><inlang-LineFeed>首屈一指的以社区为中心的 NFT 区块链。 Stargaze 使创作者、开发者、收藏家和交易者能够参与该平台。 Stargaze 链由各种 NFT 相关应用程序组成，例如 Launchpad 以及提供报价和拍卖的 Marketplace。",
+    "websiteURL": "https://stargaze.zone/",
     "twitterURL": "https://twitter.com/StargazeZone"
   },
-  "sqtia": {
+  "srcx": {
     "localization": "zh",
+    "name": "源代币",
+    "symbol": "SRCX",
+    "description": "源协议的SRCX代币。",
+    "coingeckoID": "源协议"
+  },
+  "sqtia": {
     "name": "TIA 平方",
     "symbol": "方形TIA",
-    "description": "保证金电力代币 sqTIA"
+    "description": "保证金电力代币 sqTIA",
+    "websiteURL": "https://osmosis.zone/"
   },
   "sqosmo": {
+    "localization": "zh",
     "name": "OSMO 平方",
     "symbol": "sqOSMO",
-    "description": "保证金电力代币 sqOSMO"
+    "description": "保证金电力代币 sqOSMO",
+    "websiteURL": "https://osmosis.zone/"
   },
   "sqbtc": {
+    "localization": "zh",
     "name": "比特币平方",
     "symbol": "sqBTC",
-    "description": "保证金电力代币 sqBTC"
+    "description": "保证金电力代币 sqBTC",
+    "websiteURL": "https://osmosis.zone/"
   },
   "sqatom": {
     "localization": "zh",
     "name": "原子平方",
     "symbol": "方原子",
-    "description": "保证金电力代币 sqATOM"
+    "description": "保证金电力代币 sqATOM",
+    "websiteURL": "https://osmosis.zone/"
   },
   "spacer": {
     "localization": "zh",
     "name": "垫片",
-    "symbol": "间隔器",
-    "description": "垫片"
+    "description": "垫片",
+    "websiteURL": "https://www.junonetwork.io/"
   },
   "source": {
+    "localization": "zh",
     "name": "来源",
     "symbol": "来源",
     "description": "SOURCE Chain的原生代币",
-    "coingeckoID": "来源"
+    "coingeckoID": "来源",
+    "websiteURL": "https://www.sourceprotocol.io/"
   },
   "somm": {
-    "description": "Somm 代币（SOMM）是 Sommelier Chain 的原生质押代币<inlang-LineFeed><inlang-LineFeed>自动化金库在降低风险的同时获得一流的收益。",
+    "localization": "zh",
     "name": "侍酒师",
-    "symbol": "SOMM",
-    "twitterURL": "https://twitter.com/sommfinance",
-    "stakingURL": "https://wallet.keplr.app/chains/sommelier"
+    "description": "Somm 代币（SOMM）是 Sommelier Chain 的原生质押代币<inlang-LineFeed><inlang-LineFeed>自动化金库在降低风险的同时获得一流的收益。",
+    "websiteURL": "https://sommelier.finance/",
+    "twitterURL": "https://twitter.com/sommfinance"
   },
   "solar": {
+    "localization": "zh",
     "name": "Solarbank DAO",
-    "description": "Solarbank DAO 治理代币加速向可再生能源和绿色能源的转变"
+    "description": "Solarbank DAO 治理代币加速向可再生能源和绿色能源的转变",
+    "websiteURL": "https://www.junonetwork.io/"
+  },
+  "solana": {
+    "usdc": {
+      "wh": {
+        "localization": "zh",
+        "name": "Solana 美元硬币（虫洞）",
+        "symbol": "solana.USDC.wh",
+        "description": "Solana 美元硬币（虫洞），Solana USDC，工厂/虫洞14ejqjyq8um4p3xfqj74yld5waqljf88fz25yxnma0cngspxe3les00fpjx/HJk1XMDRNUbRrpKkNZYui7SwWDMjXZAsySzqgyNcQoU3",
+        "websiteURL": "https://wormhole.com"
+      }
+    }
   },
   "sol": {
     "localization": "zh",
     "name": "索拉纳",
-    "symbol": "索尔",
-    "description": "Solana (SOL) 是 Solana 区块链的原生资产。",
-    "coingeckoID": "索拉纳"
+    "description": "Solana (SOL) 是 Solana 区块链的原生资产。"
+  },
+  "sneaky": {
+    "localization": "zh",
+    "name": "偷偷摸摸的制作",
+    "symbol": "鬼鬼祟祟",
+    "description": "Sneaky Productions 的原生硬币。",
+    "websiteURL": "https://stargaze.zone/"
   },
   "slca": {
     "localization": "zh",
     "name": "二氧化硅",
     "symbol": "SLCA",
-    "description": "二氧化硅"
+    "websiteURL": "https://www.junonetwork.io/"
   },
   "skoj": {
     "localization": "zh",
     "name": "Sikoba 代币",
     "symbol": "SKOJ",
-    "description": "Sikoba 治理代币"
+    "description": "Sikoba 治理代币",
+    "websiteURL": "https://www.junonetwork.io/"
   },
   "silk": {
-    "name": "丝绸",
-    "description": "Secret Network 上 Silk 的原生代币 CW20"
+    "localization": "zh",
+    "symbol": "丝绸",
+    "description": "Secret Network 上 Silk 的原生代币 CW20",
+    "coingeckoID": "丝绸-bcec1136-561c-4706-a42c-8b67d0d7f7d2",
+    "websiteURL": "https://scrt.network/"
   },
   "sienna": {
     "localization": "zh",
-    "name": "赭色",
     "symbol": "赭色",
     "description": "Secret Network 上 SIENNA 的原生代币 cw20",
-    "coingeckoID": "赭色"
+    "coingeckoID": "赭色",
+    "websiteURL": "https://scrt.network/"
   },
   "shibac": {
     "localization": "zh",
     "name": "芝波斯菊",
     "symbol": "施巴克",
-    "description": "柴波斯菊"
+    "description": "柴波斯菊",
+    "websiteURL": "https://www.junonetwork.io/"
   },
   "shib": {
     "localization": "zh",
     "name": "柴犬",
-    "symbol": "SHIB",
-    "description": "SHIBA INU 是一个 100% 去中心化的社区实验，它声称 1/2 的代币已发送给 Vitalik，另一半被锁定到 Uniswap 池中并烧毁密钥。",
-    "coingeckoID": "柴犬"
+    "description": "SHIBA INU 是一个 100% 去中心化的社区实验，它声称 1/2 的代币已发送给 Vitalik，另一半被锁定到 Uniswap 池中并烧毁密钥。"
   },
   "shd": {
     "localization": "zh",
-    "name": "遮荫",
+    "symbol": "SHD",
     "description": "Shade on Secret Network 的原生代币 cw20",
-    "coingeckoID": "阴影协议"
+    "coingeckoID": "阴影协议",
+    "websiteURL": "https://scrt.network/"
   },
   "shd(old)": {
     "localization": "zh",
     "name": "灯罩（旧）",
     "symbol": "SHD（旧）",
-    "description": "Shade on Secret Network 的原生代币 cw20"
+    "description": "Shade on Secret Network 的原生代币 cw20",
+    "websiteURL": "https://scrt.network/"
+  },
+  "sgnl": {
+    "localization": "zh",
+    "name": "信号",
+    "symbol": "新加坡国家实验室",
+    "description": "朱诺号上的信号艺术和游戏",
+    "websiteURL": "https://www.junonetwork.io/"
   },
   "sge": {
-    "name": "上交所",
+    "localization": "zh",
     "symbol": "上交所",
-    "description": "SGE网络的原生代币",
-    "coingeckoID": "六个西格玛"
+    "description": "SGE网络的原生代币"
   },
   "sfrxeth": {
     "localization": "zh",
     "name": "质押 Frax 以太币",
     "symbol": "sfrxETH",
-    "description": "sfrxETH 是 frxETH 的版本，可累积质押收益。 Frax 以太验证器产生的所有利润都分配给 sfrxETH 持有者。通过将 frxETH 兑换为 sfrxETH，人们就有资格获得质押收益，该收益在将 sfrxETH 兑换回 frxETH 时赎回。",
+    "description": "sfrxETH 是 frxETH 的版本，可累积质押收益。 Frax 以太验证器产生的所有利润都分配给 sfrxETH 持有者。通过将 frxETH 兑换为 sfrxETH，人们就有资格获得质押收益，该收益在将 sfrxETH 兑换回 frxETH 后即可赎回。",
     "coingeckoID": "质押frax以太坊"
   },
   "sejuno": {
-    "name": "StakeEasy 塞朱诺",
+    "localization": "zh",
+    "name": "StakeEasy SeJUNO",
     "symbol": "世朱诺",
     "description": "为抵押的 JUNO 抵押衍生品 seJUNO",
-    "coingeckoID": "stakeeasy-juno-衍生品"
+    "coingeckoID": "stakeeasy-juno-衍生品",
+    "websiteURL": "https://www.junonetwork.io/"
   },
   "sei": {
-    "description": "Sei 的原生质押代币。<inlang-LineFeed>\nSei 是最快的第 1 层区块链，旨在与行业一起扩展。",
     "localization": "zh",
     "name": "清",
     "symbol": "SEI",
-    "twitterURL": "https://twitter.com/SeiNetwork",
-    "coingeckoID": "塞伊网络"
+    "description": "Sei 的原生质押代币。<inlang-LineFeed>\nSei 是最快的第 1 层区块链，旨在与行业一起扩展。",
+    "coingeckoID": "塞伊网络",
+    "websiteURL": "https://www.sei.io/",
+    "twitterURL": "https://twitter.com/SeiNetwork"
   },
   "seasy": {
+    "localization": "zh",
     "name": "StakeEasy",
     "symbol": "西西",
-    "description": "StakeEasy 治理代币"
+    "description": "StakeEasy 治理代币",
+    "websiteURL": "https://www.junonetwork.io/"
   },
   "scrt": {
     "localization": "zh",
-    "name": "秘密网络",
-    "description": "Secret Network的原生代币<inlang-LineFeed><inlang-LineFeed>Secret Network是第一个具有可定制隐私性的区块链。您可以选择分享内容、与谁分享以及如何分享。这可以保护用户，并使开发人员能够构建更好的 Web3。",
-    "twitterURL": "https://twitter.com/SecretNetwork",
-    "coingeckoID": "秘密"
+    "symbol": "选择性放射治疗",
+    "description": "Secret Network的原生代币<inlang-LineFeed><inlang-LineFeed>Secret Network是第一个具有可定制隐私的区块链。您可以选择分享内容、与谁分享以及如何分享。这可以保护用户，并使开发人员能够构建更好的 Web3。",
+    "coingeckoID": "秘密",
+    "websiteURL": "https://scrt.network/",
+    "twitterURL": "https://twitter.com/SecretNetwork"
+  },
+  "scr": {
+    "name": "斯科鲁姆",
+    "symbol": "可控硅",
+    "description": "Scorum 的原生代币"
   },
   "rowan": {
     "localization": "zh",
     "name": "丝芙链",
+    "symbol": "罗文",
     "description": "Rowan 代币（ROWAN）是 Sifchain 网络的原生实用代币，用作治理、提供流动性、保护区块链、激励参与者以及提供默认机制来存储和交换价值的主要手段。",
-    "coingeckoID": "丝芙链"
+    "coingeckoID": "丝芙链",
+    "websiteURL": "https://sifchain.finance/"
+  },
+  "rock": {
+    "localization": "zh",
+    "symbol": "岩石",
+    "description": "Pylons 的收入代币",
+    "websiteURL": "https://pylons.tech",
+    "twitterURL": "https://twitter.com/pylonstech"
   },
   "roar": {
     "localization": "zh",
     "name": "狮子道",
-    "description": "Lion DAO 是一个生活在 Terra 区块链上的社区 DAO，其使命是重新激活 LUNAtic 社区并展示 Terra 协议和工具"
+    "symbol": "吼",
+    "description": "Lion DAO 是一个生活在 Terra 区块链上的社区 DAO，其使命是重新激活 LUNAtic 社区并展示 Terra 协议和工具",
+    "coingeckoID": "狮子刀",
+    "websiteURL": "https://www.terra.money/"
   },
   "rio": {
     "localization": "zh",
-    "name": "真实网络",
     "symbol": "里欧",
     "description": "Realio 网络的原生货币。",
-    "coingeckoID": "现实网络"
+    "coingeckoID": "现实网络",
+    "websiteURL": "https://realio.network/"
   },
   "reth": {
+    "localization": "zh",
     "name": "火箭池以太币",
-    "symbol": "重组以太坊",
     "description": "Rocket Pool 是一个去中心化的以太坊权益证明池。",
     "coingeckoID": "火箭池 ETH"
   },
@@ -514,27 +643,37 @@
     "localization": "zh",
     "symbol": "雷根",
     "description": "REGEN币是Regen网络平台的代币<inlang-LineFeed><inlang-LineFeed>Regen Network，一个从生态再生项目中发起和投资高完整性碳和生物多样性信用的平台。",
-    "twitterURL": "https://twitter.com/regen_network",
-    "coingeckoID": "再生"
+    "websiteURL": "https://www.regen.network/",
+    "twitterURL": "https://twitter.com/regen_network"
   },
   "rebus": {
     "localization": "zh",
     "name": "画画",
+    "symbol": "雷布斯",
     "description": "REBUS，Rebus链的原生币。",
-    "coingeckoID": "画谜"
+    "coingeckoID": "画谜",
+    "websiteURL": "https://www.rebuschain.com/"
   },
   "raw": {
-    "localization": "zh",
     "name": "朱诺交换",
     "symbol": "生的",
     "description": "Junoswap 的代币治理",
-    "coingeckoID": "Junoswap-raw-dao"
+    "coingeckoID": "Junoswap-raw-dao",
+    "websiteURL": "https://www.junonetwork.io/"
   },
   "ratom": {
     "localization": "zh",
     "name": "原子",
     "symbol": "原子",
-    "description": "质押 ATOM 的流动性质押表示"
+    "description": "质押 ATOM 的流动性质押表示",
+    "websiteURL": "https://stafihub.io/"
+  },
+  "raptr": {
+    "localization": "zh",
+    "name": "RAPTR",
+    "symbol": "RAPTR",
+    "description": "Rapture 保险是 $OSMO 上第一个 P2P 保险平台。在被提后照顾人们的亲人而获得奖励。",
+    "websiteURL": "https://osmosis.zone/"
   },
   "rai": {
     "localization": "zh",
@@ -544,78 +683,92 @@
   },
   "rac": {
     "localization": "zh",
-    "name": "浣熊",
+    "name": "RAC",
     "symbol": "RAC",
-    "description": "Racoon 旨在简化 Cosmos 生态系统上人工智能、NFT 和赌博的可访问性"
+    "description": "RAC",
+    "websiteURL": "https://www.whitewhale.money/"
   },
   "qwoyn": {
     "localization": "zh",
     "name": "奎文",
     "symbol": "奇沃因",
-    "description": "QWOYN 是 Qwoyn 网络的原生治理代币"
+    "description": "QWOYN 是 Qwoyn 网络的原生治理代币<inlang-LineFeed><inlang-LineFeed>Qwoyn Network 是一个尖端的游戏中心，它将 Web3 技术嵌入到互动娱乐的核心中。它通过区块链确保玩家真正拥有游戏内资产，从而彻底改变了游戏行业。这种方法不仅增强了游戏玩法，还培育了独特的互操作性和创新生态系统。作为游戏世界的灯塔，Qwoyn Network 致力于将传统游戏的刺激与 Web3 的变革潜力融合起来，创造无缝且丰富的游戏体验。",
+    "websiteURL": "https://qwoyn.studio/"
   },
   "qstars": {
     "localization": "zh",
     "name": "水银液体桩星",
     "symbol": "qSTARS",
-    "description": "水银液体桩星"
+    "description": "水银液体桩星",
+    "websiteURL": "https://quicksilver.zone/"
   },
   "qsr": {
-    "description": "Quasar的原生代币<inlang-LineFeed><inlang-LineFeed>Quasar 是 IBC 启用的第一个去中心化资产管理（DAM）平台。安全、无需许可、可组合、多元化的跨链 DeFi 体验终于来临。",
     "localization": "zh",
     "name": "类星体",
     "symbol": "快速反应",
-    "twitterURL": "https://twitter.com/QuasarFi",
-    "coingeckoID": "类星体2号"
+    "description": "Quasar的原生代币<inlang-LineFeed><inlang-LineFeed>Quasar 是 IBC 启用的第一个去中心化资产管理（DAM）平台。安全、无需许可、可组合、多元化的跨链 DeFi 体验终于来临。",
+    "coingeckoID": "类星体2号",
+    "websiteURL": "https://www.quasar.fi/",
+    "twitterURL": "https://twitter.com/QuasarFi"
   },
   "qsomm": {
     "localization": "zh",
     "name": "水银液体固定 SOMM",
     "symbol": "qSOMM",
-    "description": "水银液体固定 SOMM"
+    "description": "水银液体固定 SOMM",
+    "websiteURL": "https://quicksilver.zone/"
   },
   "qregen": {
-    "localization": "zh",
     "name": "水银液体固定再生",
     "symbol": "q再生",
-    "description": "水银液体注入再生"
+    "description": "水银液体注入再生",
+    "websiteURL": "https://quicksilver.zone/"
   },
   "qosmo": {
     "localization": "zh",
     "name": "水银液体固定式 OSMO",
     "symbol": "准OSMO",
-    "description": "水银液体固定式 OSMO"
+    "description": "水银液体固定式 OSMO",
+    "websiteURL": "https://quicksilver.zone/"
   },
   "qck": {
-    "description": "QCK - Quicksilver 的原生代币<inlang-LineFeed><inlang-LineFeed>使用您首选的验证器对您的 Cosmos 资产进行质押，并接收可用于交换、池化、借贷等的流动性质押资产 (qASSET)，同时您的原始质押通过保护网络来赚取质押 APY。",
     "localization": "zh",
-    "coingeckoID": "水银",
     "name": "水银",
+    "description": "QCK - Quicksilver 的原生代币<inlang-LineFeed><inlang-LineFeed>使用您首选的验证器对您的 Cosmos 资产进行质押，并接收可用于交换、池化、借贷等的流动性质押资产 (qASSET)，同时您的原始质押通过保护网络来赚取质押 APY。",
+    "coingeckoID": "水银",
+    "websiteURL": "https://quicksilver.zone/",
     "twitterURL": "https://twitter.com/quicksilverzone"
   },
   "qatom": {
     "localization": "zh",
     "name": "Quicksilver 液体质押 ATOM",
     "symbol": "原子原子",
-    "description": "水银液体质押 ATOM"
+    "description": "Quicksilver 液体质押 ATOM",
+    "websiteURL": "https://quicksilver.zone/"
   },
   "pyth": {
     "localization": "zh",
-    "name": "皮斯网络",
+    "symbol": "皮亚特",
     "description": "Pyth 是一种允许市场参与者在链上发布定价信息以供其他人使用的协议。该协议是三方之间的交互：\n- 出版商向 Pyth 的预言机程序提交定价信息。 Pyth针对每个产品都有多个数据发布者，以提高系统的准确性和稳健性。\n-Pyth 的预言机程序结合出版商的数据来生成单一的总价格和置信区间。<inlang-LineFeed>消费者阅读预言机程序产生的价格信息。<inlang-LineFeed>\nPyth 的预言机程序同时在 Solana 主网和 Pythnet 上运行。该程序的每个实例负责其自己的一组价格供给。 Solana 价格源可供 Solana 协议使用。在这种情况下，由于预言机程序本身运行在 Solana 上，因此消费者可以立即获得结果价格，而不需要任何额外的工作。 Pythnet Price Feeds 可在超过 12 个区块链上使用。 Pythnet 上构建的价格通过跨链传输到达这些区块链上的消费者。<inlang-LineFeed><inlang-LineFeed>在这两种情况下，系统的关键组件都是预言机程序，它结合了来自每个发布者的数据。该程序维护着许多不同的 Solana 帐户，其中列出了 Pyth 上的产品及其当前价格数据。发行商通过与每个时段的预言机程序交互来发布他们的价格和信心。该程序将此信息存储在其帐户中。时段中的第一次价格更新还会触发价格聚合，将前一个时段的价格数据合并为单个聚合价格和置信区间。该总价格被写入 Solana 帐户，其他链上程序可以读取该帐户，并可传输到其他区块链。",
     "coingeckoID": "pyth网络"
+  },
+  "purse": {
+    "localization": "zh",
+    "name": "钱包代币",
+    "symbol": "钱包",
+    "description": "钱包代币",
+    "websiteURL": "https://pundix.com"
   },
   "puppy": {
     "localization": "zh",
     "name": "小狗",
     "symbol": "小狗",
-    "description": "小狗"
+    "description": "小狗",
+    "websiteURL": "https://chihuahua.wtf/"
   },
   "pstake": {
-    "localization": "zh",
     "name": "pSTAKE 财经",
-    "symbol": "PSTAKE",
-    "description": "pSTAKE 是一种流动性质押协议，可释放质押资产的流动性。 PoS 代币的质押者可以质押其资产，同时保持这些资产的流动性。用户获得质押奖励 + 获得 1:1 挂钩的质押代表代币，可用于产生额外收益。",
+    "description": "pSTAKE 是一种流动性质押协议，可释放质押资产的流动性。 PoS 代币的质押者可以质押其资产，同时保持这些资产的流动性。用户获得质押奖励+获得1:1挂钩的质押代表代币，可用于产生额外收益。",
     "coingeckoID": "股权融资"
   },
   "polygon": {
@@ -624,20 +777,29 @@
       "name": "美元硬币（多边形）",
       "symbol": "多边形.USDC",
       "description": "USDC 是由开源项目 CENTRE 开发的完全抵押的美元稳定币，Circle 是即将推出的几个发行人中的第一个。",
-      "coingeckoID": "美元硬币"
+      "axl": {
+        "localization": "zh",
+        "name": "美元硬币（多边形）",
+        "symbol": "多边形.USDC.axl",
+        "description": "USDC 是由开源项目 CENTRE 开发的完全抵押的美元稳定币，Circle 是即将推出的几个发行人中的第一个。"
+      }
     }
   },
   "plq": {
     "localization": "zh",
     "name": "普兰克",
+    "symbol": "PLQ",
     "description": "Planq 网络的原生 EVM、治理和质押代币",
-    "coingeckoID": "普兰克"
+    "coingeckoID": "普兰克",
+    "websiteURL": "https://planq.network/"
   },
   "pica": {
-    "description": "Composable 的原生质押和治理代币。<inlang-LineFeed>\nComposable 是连接 L1 和 L2 的基础层。我们正在将 IBC 扩展到其他生态系统，突破信任最小化互操作性的界限。我们为用户抽象跨链体验，提供与链无关的用户意图的无缝执行。",
     "localization": "zh",
     "name": "可组合的",
     "symbol": "PICA",
+    "description": "Composable 的原生质押和治理代币。<inlang-LineFeed>\nComposable 是连接 L1 和 L2 的基础层。我们正在将 IBC 扩展到其他生态系统，突破信任最小化互操作性的界限。我们为用户抽象跨链体验，提供与链无关的用户意图的无缝执行。",
+    "coingeckoID": "毕加索",
+    "websiteURL": "https://www.composable.finance/",
     "twitterURL": "https://twitter.com/ComposableFin"
   },
   "phmn": {
@@ -645,12 +807,14 @@
     "name": "后人类",
     "symbol": "PHMN",
     "description": "Juno Chain 上 PHMN 的原生代币 cw20",
-    "coingeckoID": "后人类"
+    "coingeckoID": "后人类",
+    "websiteURL": "https://www.junonetwork.io/"
   },
   "pepec": {
     "localization": "zh",
     "name": "佩佩克",
-    "description": "佩佩克"
+    "description": "佩佩克",
+    "websiteURL": "https://www.junonetwork.io/"
   },
   "pepe": {
     "localization": "zh",
@@ -659,13 +823,13 @@
   },
   "pasg": {
     "localization": "zh",
-    "symbol": "PASG",
+    "name": "通道",
     "description": "Passage 链的原生质押和治理代币。",
-    "coingeckoID": "通道"
+    "coingeckoID": "通道",
+    "websiteURL": "https://passage3d.com/"
   },
   "page": {
     "localization": "zh",
-    "name": "页",
     "symbol": "页",
     "description": "PAGE 代币用于 PageDAO NFT 文学生态系统中的操作以及 DAO 治理。",
     "coingeckoID": "页"
@@ -673,147 +837,197 @@
   "osmo": {
     "localization": "zh",
     "name": "渗透作用",
+    "symbol": "奥斯莫",
     "description": "Osmosis 的原生代币<inlang-LineFeed><inlang-LineFeed>Osmosis (OSMO) 是 Cosmos 生态系统中首屈一指的 DEX 和跨链 DeFi 中心，该网络由 50 多个主权、可互操作的区块链组成，通过区块链间通信协议 (IBC) 无缝连接。 Osmosis 的方法具有开创性，提供动态交易和流动性提供体验，集成了来自其他生态系统（包括以太坊、Solana、Avalanche 和 Polkadot）的非 IBC 资产。 Osmosis 最初采用 Balancer 式资金池，现在还具有集中流动性模型，该模型的资本效率提高了几个数量级，这意味着以最小的滑点处理相同数量的交易量所需的流动性要少得多。<inlang-LineFeed><inlang-LineFeed>作为真正的应用链，Osmosis 比传统的智能合约 DEX 拥有更大的对整个区块链堆栈的控制权，传统的智能合约 DEX 必须遵循其构建的母链的代码。这种细粒度的控制使得 Superfluid Stake 的开发成为可能，这是权益证明的扩展，允许对应用程序层的资产进行质押以确保链的安全。应用程序链的可定制性还允许实现协议收入模块等功能，该模块使 Osmosis 能够代表 OSMO 质押者进行链上套利，平衡池之间的价格，同时从该数量中产生实际收益收入。此外，作为主权应用链，Osmosis 治理可以对协议升级进行投票。其中一个例子是引入了 Taker Fee，它通过收取交易费用来从 Osmosis 交易量中产生不同的收益，并将其分配给 OSMO 质押者。<inlang-LineFeed>\nOsmosis 通过构建跨链原生 DEX 和交易套件，通过 IBC 连接所有链（包括以太坊和比特币），为去中心化世界带来完整的中心化交易体验。为了实现这一目标，Osmosis 托管了一套不断扩展的 DeFi 应用程序，旨在提供一站式体验，包括借贷、信贷、保证金、DeFi 策略金库、power perps、法定入口、NFT、稳定币等 -在去中心化金融的信任最小化环境中，中心化交易所提供的所有功能等等。",
-    "twitterURL": "https://twitter.com/osmosiszone",
-    "stakingURL": "https://wallet.keplr.app/chains/osmosis"
+    "websiteURL": "https://osmosis.zone/",
+    "twitterURL": "https://twitter.com/osmosiszone"
   },
   "osdoge": {
     "localization": "zh",
     "name": "渗透总督",
     "symbol": "奥斯多吉",
-    "description": "第一个关于渗透的总督"
+    "description": "第一个关于渗透的总督",
+    "websiteURL": "https://www.junonetwork.io/"
   },
   "orai": {
     "localization": "zh",
-    "name": "奥莱链",
+    "symbol": "欧莱",
     "description": "Oraichain 原生代币",
-    "coingeckoID": "oraichain 代币"
+    "coingeckoID": "oraichain 代币",
+    "websiteURL": "https://orai.io/"
   },
   "oin": {
     "localization": "zh",
     "name": "价值储存",
-    "description": "OIN 代币（$OIN）是在 $SEI 区块链上开发的突破性数字资产。它不仅仅是一种加密货币； $OIN 是一种强大的价值储存手段，象征着去中心化金融的未来及其重塑加密货币格局的潜力。"
+    "symbol": "奥因",
+    "description": "OIN 代币（$OIN）是在 $SEI 区块链上开发的突破性数字资产。它不仅仅是一种加密货币； $OIN 是一种强大的价值储存手段，象征着去中心化金融的未来及其重塑加密货币格局的潜力。",
+    "websiteURL": "https://www.sei.io/"
   },
   "odin": {
-    "name": "奥丁协议",
+    "localization": "zh",
     "symbol": "奥丁",
     "description": "ODIN 协议的质押和治理代币",
-    "coingeckoID": "Odin协议"
+    "coingeckoID": "Odin协议",
+    "websiteURL": "https://odinprotocol.io/"
   },
   "o9w": {
     "localization": "zh",
     "name": "O9W",
     "symbol": "O9W",
-    "description": "ODIN 协议的 O9W 代币"
+    "description": "ODIN 协议的 O9W 代币",
+    "websiteURL": "https://odinprotocol.io/"
+  },
+  "nyx": {
+    "localization": "zh",
+    "name": "尼姆",
+    "symbol": "纽约X",
+    "description": "NYX 代币（NYX）是 Nym 网络的原生质押和治理代币。",
+    "websiteURL": "https://nymtech.net/"
   },
   "nym": {
     "localization": "zh",
+    "name": "纽约市",
     "symbol": "纽约市",
     "description": "NYM 代币（NYM）是 Nym 网络的原生实用代币，用作激励 mixnet 节点运营商的主要手段。",
-    "coingeckoID": "尼姆"
+    "websiteURL": "https://nymtech.net/"
   },
   "ntrn": {
-    "description": "Neutron链的原生代币。<inlang-LineFeed>\nNeutron 是 Cosmos 中最安全的 CosmWasm 平台，让智能合约能够以最小的开销利用尖端的 Interchain 技术。",
     "localization": "zh",
     "name": "中子",
+    "symbol": "NTRN",
+    "description": "Neutron链的原生代币。<inlang-LineFeed>\nNeutron 是 Cosmos 中最安全的 CosmWasm 平台，让智能合约能够以最小的开销利用尖端的 Interchain 技术。",
     "coingeckoID": "中子-3",
+    "websiteURL": "https://neutron.org/",
     "twitterURL": "https://twitter.com/Neutron_org"
   },
   "nstk": {
     "localization": "zh",
     "name": "取消质押 Fi",
-    "symbol": "NSTK",
-    "description": "Unstake.fi 的收入与治理代币"
+    "description": "Unstake.fi 的收入与治理代币",
+    "coingeckoID": "取消质押-fi",
+    "websiteURL": "https://kujira.app/"
   },
   "nride": {
     "localization": "zh",
     "name": "nRide代币",
     "symbol": "耐瑞德",
-    "description": "nRide代币"
+    "description": "nRide代币",
+    "websiteURL": "https://www.junonetwork.io/"
   },
   "nom": {
     "localization": "zh",
     "name": "奥诺米",
-    "symbol": "诺姆",
     "description": "Onomy 协议的原生代币",
-    "coingeckoID": "命名协议"
+    "coingeckoID": "命名协议",
+    "websiteURL": "https://onomy.io/"
   },
   "nois": {
     "localization": "zh",
     "name": "噪音",
-    "description": "Nois 的原生代币"
+    "symbol": "噪音",
+    "description": "Nois 的原生代币",
+    "websiteURL": "https://nois.network"
   },
   "nls": {
-    "description": "Nolus链原生代币<inlang-LineFeed><inlang-LineFeed>以高达 3 倍的权益提升您的游戏水平。潜入风险最小化的世界，释放您资产的全部潜力。",
     "localization": "zh",
+    "symbol": "非线性LS",
+    "description": "Nolus链原生代币<inlang-LineFeed><inlang-LineFeed>以高达 3 倍的权益提升您的游戏水平。潜入风险最小化的世界，释放您资产的全部潜力。",
     "coingeckoID": "诺卢斯",
-    "twitterURL": "https://twitter.com/NolusProtocol",
-    "name": "诺卢斯",
-    "symbol": "非线性LS"
+    "websiteURL": "https://nolus.io/",
+    "twitterURL": "https://twitter.com/NolusProtocol"
+  },
+  "ninja": {
+    "name": "狗 Wif 双节棍",
+    "symbol": "忍者",
+    "description": "Injective 上的第一个 meme 硬币。这是一只狗，但他有双截棍",
+    "coingeckoID": "狗妻双肩包",
+    "websiteURL": "https://injective.com/"
   },
   "ngm": {
     "localization": "zh",
-    "name": "电子货币",
     "symbol": "NGM",
-    "description": "电子货币 NGM 质押代币。除了赚取质押奖励之外，还根据电子货币稳定币通胀回购并销毁代币。",
-    "coingeckoID": "电子货币"
+    "description": "电子货币 NGM 质押代币。除了赚取质押奖励之外，还根据电子货币稳定币通胀回购并销毁代币。"
+  },
+  "newt": {
+    "localization": "zh",
+    "name": "蝾螈",
+    "symbol": "纽特",
+    "description": "Neutron 链上最可爱的 NEWT 代币。",
+    "coingeckoID": "蝾螈",
+    "websiteURL": "https://neutron.org/"
   },
   "neta": {
     "localization": "zh",
-    "name": "内塔",
     "symbol": "内塔",
     "description": "Juno 链上 Neta 的原生代币 CW20",
-    "coingeckoID": "内塔"
+    "coingeckoID": "内塔",
+    "websiteURL": "https://www.junonetwork.io/"
   },
   "neok": {
     "localization": "zh",
     "name": "新王国 DAO",
-    "symbol": "尼奥克",
-    "description": "Neokingdom DAO 的代币。"
+    "description": "Neokingdom DAO 的代币。",
+    "websiteURL": "https://evmos.org/"
   },
   "nct": {
     "localization": "zh",
     "name": "自然碳吨",
     "symbol": "NCT",
     "description": "Nature Carbon Ton (NCT) 是一种碳代币标准，由自愿碳市场的全球领导者 Verra 发行的碳信用额以 1:1 的比例支持。 Regen Network 上的 NCT 积分已被 Toucan.earth 代币化。",
-    "coingeckoID": "巨嘴鸟协议自然碳吨"
+    "coingeckoID": "巨嘴鸟协议自然碳吨",
+    "websiteURL": "https://www.regen.network/"
   },
   "nbtc": {
-    "localization": "zh",
     "name": "诺米克比特币",
     "symbol": "比特币",
-    "description": "比特币。关于宇宙。"
+    "description": "比特币。关于宇宙。",
+    "websiteURL": "https://nomic.io/"
   },
   "muse": {
     "localization": "zh",
     "name": "缪斯DAO",
-    "description": "Juno Chain 上 MuseDAO 的原生代币 cw20"
+    "symbol": "沉思",
+    "description": "Juno Chain 上 MuseDAO 的原生代币 cw20",
+    "websiteURL": "https://www.junonetwork.io/"
   },
   "mpwr": {
     "localization": "zh",
     "name": "赋能链",
+    "symbol": "MPWR",
     "description": "Empower 的原生质押和治理代币。"
+  },
+  "moonbeam": {
+    "dot": {
+      "axl": {
+        "localization": "zh",
+        "name": "包裹的波卡",
+        "symbol": "月光.DOT.axl",
+        "description": "Axelar 上包裹的 Polkadot",
+        "websiteURL": "https://axelar.network/"
+      }
+    }
   },
   "mntl": {
     "localization": "zh",
-    "description": "Asset Mantle 原生代币<inlang-LineFeed><inlang-LineFeed>AssetMantle 的产品套件专注于 NFT 生态系统，帮助您提升数字资产所有权的游戏水平。",
-    "name": "资产披肩",
     "symbol": "蒙古国家语言中心",
+    "description": "Asset Mantle 原生代币<inlang-LineFeed><inlang-LineFeed>AssetMantle 的产品套件专注于 NFT 生态系统，帮助您提升数字资产所有权的游戏水平。",
     "coingeckoID": "资产保护",
+    "websiteURL": "https://assetmantle.one/",
     "twitterURL": "https://twitter.com/AssetMantle"
   },
   "mnta": {
     "localization": "zh",
     "name": "曼塔道",
-    "symbol": "国家旅游局",
     "description": "MantaDAO 治理代币",
-    "coingeckoID": "曼塔岛"
+    "coingeckoID": "曼塔岛",
+    "websiteURL": "https://kujira.app/"
   },
   "mnpu": {
     "localization": "zh",
     "name": "迷你朋克",
     "symbol": "MNPU",
-    "description": "迷你朋克代币"
+    "description": "迷你朋克代币",
+    "websiteURL": "https://www.junonetwork.io/"
   },
   "mkr": {
     "localization": "zh",
@@ -827,67 +1041,77 @@
     "name": "牛奶TIA",
     "symbol": "牛奶TIA",
     "description": "MilkyWay 的液体固定式 TIA",
-    "coingeckoID": "银河系桩蒂亚"
+    "coingeckoID": "银河系桩蒂亚",
+    "websiteURL": "https://osmosis.zone/"
   },
   "mile": {
     "localization": "zh",
     "symbol": "英里",
-    "description": "Mille：第 1000 个渗透代币"
+    "description": "Mille：第 1000 个渗透代币",
+    "websiteURL": "https://www.junonetwork.io/"
   },
   "meme": {
     "localization": "zh",
     "name": "模模",
+    "symbol": "模模",
     "description": "MEME 代币（MEME）是 MEME 链的原生质押代币",
     "coingeckoID": "模因网络"
   },
   "medas": {
     "name": "麦达斯数字网络",
     "symbol": "梅达斯",
-    "description": "Medas数字网络的原生代币"
+    "description": "Medas数字网络的原生代币",
+    "websiteURL": "https://medas-digital.io/"
   },
   "med": {
     "localization": "zh",
     "name": "麦德布洛克",
-    "symbol": "医学教育",
     "description": "Panacea是MediBloc推出的公链，是重塑以患者为中心的医疗数据生态系统的关键基础设施",
-    "coingeckoID": "梅迪布洛克"
+    "coingeckoID": "梅迪布洛克",
+    "websiteURL": "https://medibloc.com/en/"
   },
   "mbrn": {
-    "localization": "zh",
     "name": "膜",
     "symbol": "MBRN",
-    "description": "Membrane 的协议令牌"
+    "description": "Membrane 的协议令牌",
+    "coingeckoID": "膜",
+    "websiteURL": "https://osmosis.zone/"
   },
   "matic": {
     "localization": "zh",
     "name": "多边形",
+    "symbol": "玛蒂克",
     "description": "Polygon（以前称为 Matic）网络使用 Plasma 的改编版本和基于 PoS 的侧链，为以太坊带来了大规模的规模。 Polygon 是一个结构良好、易于使用的平台，用于以太坊扩展和基础设施开发。"
   },
   "mars": {
     "localization": "zh",
+    "symbol": "火星",
     "description": "火星协议代币<inlang-LineFeed><inlang-LineFeed>通过 Cosmos 宇宙中的自主信用协议进行借贷和赚钱。对所有人开放，对任何人关闭。",
     "coingeckoID": "火星协议-a7fcbcfb-fd61-4017-92f0-7ee9f9cc6da3",
-    "twitterURL": "https://twitter.com/mars_protocol",
-    "symbol": "火星",
-    "name": "火星中心"
+    "websiteURL": "https://www.marsprotocol.io/",
+    "twitterURL": "https://twitter.com/mars_protocol"
   },
   "marble": {
     "localization": "zh",
     "name": "大理石",
     "symbol": "大理石",
     "description": "Juno Chain 上 Marble DAO 的原生代币 cw20",
-    "coingeckoID": "大理石"
+    "coingeckoID": "大理石",
+    "websiteURL": "https://www.junonetwork.io/"
   },
   "manna": {
     "localization": "zh",
     "name": "甘露",
     "symbol": "吗哪",
-    "description": "社会影响 DAO 致力于应对粮食不安全和营养不良"
+    "description": "社会影响 DAO 致力于应对粮食不安全和营养不良",
+    "websiteURL": "https://www.junonetwork.io/"
   },
   "lvn": {
     "localization": "zh",
     "symbol": "左室肾",
-    "description": "Levana 原生代币"
+    "description": "Levana 原生代币",
+    "coingeckoID": "levana协议",
+    "websiteURL": "https://osmosis.zone/"
   },
   "lunc": {
     "localization": "zh",
@@ -899,9 +1123,11 @@
   "luna": {
     "localization": "zh",
     "name": "露娜",
+    "symbol": "露娜",
     "description": "Terra 的原生质押代币。<inlang-LineFeed><inlang-LineFeed>在充满热情的社区和深厚的开发人员人才库的推动下，Terra 区块链旨在支持下一代 Web3 产品和服务。",
-    "twitterURL": "https://twitter.com/terra_money",
-    "coingeckoID": "terra-luna-2"
+    "coingeckoID": "terra-luna-2",
+    "websiteURL": "https://www.terra.money/",
+    "twitterURL": "https://twitter.com/terra_money"
   },
   "lumen": {
     "localization": "zh",
@@ -911,21 +1137,21 @@
   },
   "lum": {
     "localization": "zh",
-    "name": "鲁姆网络",
+    "symbol": "卢姆",
     "description": "Lum 网络的原生代币",
-    "coingeckoID": "lum网络"
+    "coingeckoID": "lum网络",
+    "websiteURL": "https://lum.network/"
   },
   "lore": {
-    "description": "Gitopia 原生代币<inlang-LineFeed><inlang-LineFeed>Gitopia 是由去中心化网络和交互式代币经济推动的下一代代码协作平台。它旨在通过协作、透明度和激励来优化开源软件开发流程。",
-    "localization": "zh",
-    "coingeckoID": "吉托皮亚",
     "name": "吉托皮亚",
     "symbol": "知识",
+    "description": "Gitopia 原生代币<inlang-LineFeed><inlang-LineFeed>Gitopia 是由去中心化网络和交互式代币经济推动的下一代代码协作平台。它旨在通过协作、透明度和激励来优化开源软件开发流程。",
+    "coingeckoID": "吉托皮亚",
+    "websiteURL": "https://gitopia.com/",
     "twitterURL": "https://twitter.com/gitopiaDAO"
   },
   "link": {
     "localization": "zh",
-    "name": "链环",
     "symbol": "关联",
     "description": "基于区块链的中间件，充当加密货币智能合约、数据源、API 和传统银行账户支付之间的桥梁。"
   },
@@ -934,16 +1160,19 @@
     "name": "点赞币",
     "symbol": "喜欢",
     "description": "LIKE 是 LikeCoin 链的原生质押和治理代币，LikeCoin 链是一种去中心化的发布基础设施，旨在增强内容所有权、真实性和出处。",
-    "coingeckoID": "喜欢币"
+    "coingeckoID": "喜欢币",
+    "websiteURL": "https://like.co/"
   },
   "light": {
     "localization": "zh",
     "name": "光",
     "symbol": "光",
-    "description": "Light：LumenX 社区 DAO 金库代币"
+    "description": "Light：LumenX 社区 DAO 金库代币",
+    "websiteURL": "https://www.junonetwork.io/"
   },
   "lamb": {
     "localization": "zh",
+    "name": "拉姆达",
     "symbol": "羊肉",
     "description": "Lambda 原生代币",
     "coingeckoID": "拉姆达"
@@ -955,23 +1184,24 @@
     "description": "L1 币是 GenesisL1 区块链实用程序、治理和 EVM 代币"
   },
   "kyve": {
-    "description": "KYVE 网络的原生实用代币。<inlang-LineFeed>\nKYVE Network 彻底改变了 Web3 领域的数据可靠性，为数据验证、不变性和检索提供快速、简单的工具，确保无需信任的数据以实现无缝可扩展性，并消除数据风险和障碍。",
     "localization": "zh",
     "symbol": "凯维",
-    "twitterURL": "https://twitter.com/KYVENetwork",
-    "coingeckoID": "kyve 网络"
+    "description": "KYVE 网络的原生实用代币。<inlang-LineFeed>\nKYVE Network 彻底改变了 Web3 领域的数据可靠性，为数据验证、不变性和检索提供快速、简单的工具，确保无需信任的数据以实现无缝可扩展性，并消除数据风险和障碍。",
+    "coingeckoID": "kyve 网络",
+    "websiteURL": "https://www.kyve.network/",
+    "twitterURL": "https://twitter.com/KYVENetwork"
   },
   "kuji": {
     "localization": "zh",
+    "name": "久次良",
     "description": "Kujira 链的原生质押和治理代币。<inlang-LineFeed><inlang-LineFeed>为寻求可持续金融科技的协议、构建者和 web3 用户提供的去中心化生态系统。",
     "coingeckoID": "久地良",
-    "twitterURL": "https://twitter.com/TeamKujira",
-    "symbol": "久慈"
+    "websiteURL": "https://kujira.app/",
+    "twitterURL": "https://twitter.com/TeamKujira"
   },
   "ksm": {
     "localization": "zh",
     "name": "草间",
-    "symbol": "凯斯曼",
     "description": "Polkadot 平台的原生费用、治理、质押和绑定代币。"
   },
   "krtc": {
@@ -986,60 +1216,84 @@
     "name": "克勒奥梅德斯",
     "symbol": "克雷奥",
     "description": "克里奥梅德斯代币<inlang-LineFeed><inlang-LineFeed>Kleomedes 是一家基础设施提供商，可自行托管验证 IBC 网络的节点。我们通过以 RPC 端点和中继器的形式提供基础设施支持，积极支持我们验证的链。<inlang-LineFeed><inlang-LineFeed>作为 DAO，我们拥有一个由委托者组成的社区，他们积极参与我们验证的所有链的治理讨论。我们是 Cosmos 生态系统中唯一将 100% 利润置于 DAO 治理控制之下的验证者之一。<inlang-LineFeed><inlang-LineFeed>我们通过资助和支持我们相信支持我们验证的网络的增长和去中心化的项目来支持 Cosmos 生态系统的创新。",
-    "coingeckoID": "克莱奥梅德斯",
-    "twitterURL": "https://twitter.com/KleomedesDAO"
+    "websiteURL": "https://www.junonetwork.io/"
   },
   "kichain": {
     "lvn": {
       "localization": "zh",
+      "name": "左室肾",
       "symbol": "基链LVN",
       "description": "KiChain 上的 ELEVENPARIS 忠诚度代币",
-      "coingeckoID": "吕恩"
+      "coingeckoID": "吕恩",
+      "websiteURL": "https://foundation.ki/"
     }
   },
   "kava": {
-    "description": "Kava 的原生质押和治理代币<inlang-LineFeed><inlang-LineFeed>Kava 是一个去中心化的区块链，它将 Cosmos 的速度和互操作性与以太坊的开发者力量结合在一起。",
     "localization": "zh",
     "name": "卡瓦酒",
+    "symbol": "卡瓦",
+    "description": "Kava 的原生质押和治理代币<inlang-LineFeed><inlang-LineFeed>Kava 是一个去中心化的区块链，它将 Cosmos 的速度和互操作性与以太坊的开发者力量结合在一起。",
     "coingeckoID": "卡瓦酒",
+    "websiteURL": "https://www.kava.io/",
     "twitterURL": "https://twitter.com/KAVA_CHAIN"
   },
   "juno": {
-    "description": "JUNO Chain的原生代币<inlang-LineFeed><inlang-LineFeed>Juno 是一个完全由社区拥有和运营的智能合约平台。",
+    "localization": "zh",
     "name": "朱诺",
-    "symbol": "朱诺",
+    "description": "JUNO Chain的原生代币<inlang-LineFeed><inlang-LineFeed>Juno 是一个完全由社区拥有和运营的智能合约平台。",
+    "coingeckoID": "朱诺网络",
+    "websiteURL": "https://www.junonetwork.io/",
     "twitterURL": "https://twitter.com/JunoNetwork",
-    "coingeckoID": "朱诺网络"
+    "rac": {
+      "localization": "zh",
+      "name": "浣熊",
+      "symbol": "朱诺RAC",
+      "description": "Racoon 旨在简化 Cosmos 生态系统上人工智能、NFT 和赌博的可访问性",
+      "coingeckoID": "浣熊",
+      "websiteURL": "https://www.junonetwork.io/"
+    }
   },
   "joe": {
     "localization": "zh",
     "name": "乔道",
-    "description": "DAO 致力于在 Juno 网络上构建工具"
+    "symbol": "乔伊",
+    "description": "DAO 致力于在 Juno 网络上构建工具",
+    "websiteURL": "https://www.junonetwork.io/"
   },
   "jkl": {
     "localization": "zh",
     "name": "豺狼",
     "symbol": "JKL",
     "description": "Jackal 的原生质押和治理代币。",
-    "coingeckoID": "豺狼协议"
+    "coingeckoID": "豺狼协议",
+    "websiteURL": "https://jackalprotocol.com"
+  },
+  "jape": {
+    "localization": "zh",
+    "name": "朱诺猿",
+    "description": "Juno Apes NFT 平台的治理和实用代币",
+    "websiteURL": "https://www.junonetwork.io/"
   },
   "ixo": {
-    "name": "伊索",
-    "symbol": "IXO",
+    "name": "影响中心",
     "description": "IXO Chain的原生代币",
-    "coingeckoID": "伊索"
+    "websiteURL": "https://www.ixo.world/"
   },
   "ist": {
     "localization": "zh",
     "name": "稳定代币",
-    "description": "IST 是 Agoric 链用于执行费用和商业的稳定代币。"
+    "symbol": "IST",
+    "description": "IST 是 Agoric 链用于执行费用和商业的稳定代币。",
+    "coingeckoID": "稳定代币间",
+    "websiteURL": "https://agoric.com/"
   },
   "islm": {
     "localization": "zh",
     "name": "哈克网络",
     "symbol": "伊斯兰解放运动",
     "description": "Haqq 网络的原生 EVM、治理和质押代币",
-    "coingeckoID": "伊斯兰硬币"
+    "coingeckoID": "伊斯兰硬币",
+    "websiteURL": "https://haqq.network/"
   },
   "iris": {
     "localization": "zh",
@@ -1049,108 +1303,153 @@
   },
   "iov": {
     "localization": "zh",
-    "description": "IOV 币是 Starname (IOV) 资产名称服务的代币<inlang-LineFeed><inlang-LineFeed>Starname 是获得区块链份额的最佳方式。您可以将其用于去中心化的身份识别、支付、所有权和应用程序。 Starname 可以集成到数字钱包、dapp 和交易所中。",
     "name": "明星姓名",
-    "symbol": "车联网",
+    "description": "IOV 币是 Starname (IOV) 资产名称服务的代币<inlang-LineFeed><inlang-LineFeed>Starname 是获得区块链份额的最佳方式。您可以将其用于去中心化的身份识别、支付、所有权和应用程序。 Starname 可以集成到数字钱包、dapp 和交易所中。",
     "coingeckoID": "明星姓名",
+    "websiteURL": "https://www.starname.me/",
     "twitterURL": "https://twitter.com/starname_me"
   },
   "ion": {
     "localization": "zh",
     "name": "离子DAO",
     "symbol": "离子",
+    "description": "不明确的<inlang-LineFeed><inlang-LineFeed>Osmosis (OSMO) 是 Cosmos 生态系统中首屈一指的 DEX 和跨链 DeFi 中心，该网络由 50 多个主权、可互操作的区块链组成，通过区块链间通信协议 (IBC) 无缝连接。 Osmosis 的方法具有开创性，提供动态交易和流动性提供体验，集成了来自其他生态系统（包括以太坊、Solana、Avalanche 和 Polkadot）的非 IBC 资产。 Osmosis 最初采用 Balancer 式资金池，现在还具有集中流动性模型，该模型的资本效率提高了几个数量级，这意味着以最小的滑点处理相同数量的交易量所需的流动性要少得多。<inlang-LineFeed><inlang-LineFeed>作为真正的应用链，Osmosis 比传统的智能合约 DEX 拥有更大的对整个区块链堆栈的控制权，传统的智能合约 DEX 必须遵循其构建的母链的代码。这种细粒度的控制使得 Superfluid Stake 的开发成为可能，这是权益证明的扩展，允许对应用程序层的资产进行质押以确保链的安全。应用程序链的可定制性还允许实现协议收入模块等功能，该模块使 Osmosis 能够代表 OSMO 质押者进行链上套利，平衡池之间的价格，同时从该数量中产生实际收益收入。此外，作为主权应用链，Osmosis 治理可以对协议升级进行投票。其中一个例子是引入了 Taker Fee，它通过收取交易费用来从 Osmosis 交易量中产生不同的收益，并将其分配给 OSMO 质押者。<inlang-LineFeed>\nOsmosis 通过构建跨链原生 DEX 和交易套件，通过 IBC 连接所有链（包括以太坊和比特币），为去中心化世界带来完整的中心化交易体验。为了实现这一目标，Osmosis 托管了一套不断扩展的 DeFi 应用程序，旨在提供一站式体验，包括借贷、信贷、保证金、DeFi 策略金库、power perps、法定入口、NFT、稳定币等 -在去中心化金融的信任最小化环境中，中心化交易所提供的所有功能等等。",
     "coingeckoID": "离子",
+    "websiteURL": "https://osmosis.zone/",
     "twitterURL": "https://twitter.com/_IONDAO"
   },
   "invdrs": {
     "localization": "zh",
+    "name": "入侵者",
     "symbol": "INVDRS",
-    "description": "Evmos Guardians 的 Invaders DAO 代币。"
+    "description": "Evmos Guardians 的 Invaders DAO 代币。",
+    "websiteURL": "https://www.junonetwork.io/"
+  },
+  "injective": {
+    "glto": {
+      "localization": "zh",
+      "name": "Gelotto（内射）",
+      "symbol": "GLTO单射",
+      "description": "单射上的 GLTO-ERC20",
+      "websiteURL": "https://injective.com/",
+      "twitterURL": "https://twitter.com/Gelotto2"
+    }
   },
   "inj": {
     "localization": "zh",
-    "description": "INJ 代币是 Injective 链的原生治理代币。<inlang-LineFeed>\nInjective 的使命是通过去中心化创建一个真正自由和包容的金融体系。",
     "name": "单射",
     "symbol": "INJ",
+    "description": "INJ 代币是 Injective 链的原生治理代币。<inlang-LineFeed>\nInjective 的使命是通过去中心化创建一个真正自由和包容的金融体系。",
     "coingeckoID": "单射协议",
+    "websiteURL": "https://injective.com/",
     "twitterURL": "https://twitter.com/Injective_"
   },
   "imv": {
     "localization": "zh",
     "name": "沉浸式",
-    "symbol": "IMV",
-    "description": "Imversed 的原生 EVM、治理和质押代币"
+    "description": "Imversed 的原生 EVM、治理和质押代币",
+    "websiteURL": "https://imversed.network/"
   },
   "ibcx": {
     "localization": "zh",
     "name": "IBC指数",
-    "symbol": "IBCX"
+    "symbol": "IBCX",
+    "description": "不明确的<inlang-LineFeed><inlang-LineFeed>Osmosis (OSMO) 是 Cosmos 生态系统中首屈一指的 DEX 和跨链 DeFi 中心，该网络由 50 多个主权、可互操作的区块链组成，通过区块链间通信协议 (IBC) 无缝连接。 Osmosis 的方法具有开创性，提供动态交易和流动性提供体验，集成了来自其他生态系统（包括以太坊、Solana、Avalanche 和 Polkadot）的非 IBC 资产。 Osmosis 最初采用 Balancer 式资金池，现在还具有集中流动性模型，该模型的资本效率提高了几个数量级，这意味着以最小的滑点处理相同数量的交易量所需的流动性要少得多。<inlang-LineFeed><inlang-LineFeed>作为真正的应用链，Osmosis 比传统的智能合约 DEX 拥有更大的对整个区块链堆栈的控制权，传统的智能合约 DEX 必须遵循其构建的母链的代码。这种细粒度的控制使得 Superfluid Stake 的开发成为可能，这是权益证明的扩展，允许对应用程序层的资产进行质押以确保链的安全。应用程序链的可定制性还允许实现协议收入模块等功能，该模块使 Osmosis 能够代表 OSMO 质押者进行链上套利，平衡池之间的价格，同时从该数量中产生实际收益收入。此外，作为主权应用链，Osmosis 治理可以对协议升级进行投票。其中一个例子是引入了 Taker Fee，它通过收取交易费用来从 Osmosis 交易量中产生不同的收益，并将其分配给 OSMO 质押者。<inlang-LineFeed>\nOsmosis 通过构建跨链原生 DEX 和交易套件，通过 IBC 连接所有链（包括以太坊和比特币），为去中心化世界带来完整的中心化交易体验。为了实现这一目标，Osmosis 托管了一套不断扩展的 DeFi 应用程序，旨在提供一站式体验，包括借贷、信贷、保证金、DeFi 策略金库、power perps、法定入口、NFT、稳定币等 -在去中心化金融的信任最小化环境中，中心化交易所提供的所有功能等等。",
+    "coingeckoID": "IBC索引",
+    "websiteURL": "https://osmosis.zone/"
   },
   "hydrogen": {
     "localization": "zh",
     "name": "博斯特罗姆氢",
+    "symbol": "氢",
     "description": "Bostrom 的流动质押代币"
   },
   "huahua": {
-    "localization": "zh",
-    "symbol": "花花",
+    "name": "奇瓦瓦州",
     "description": "Chihuahua Chain 原生代币",
-    "coingeckoID": "奇瓦瓦州代币"
+    "coingeckoID": "奇瓦瓦州代币",
+    "websiteURL": "https://chihuahua.wtf/"
   },
   "hopers": {
     "localization": "zh",
     "name": "霍普斯",
     "symbol": "霍珀斯",
     "description": "Juno Chain 上 Hopers 的原生代币 cw20",
-    "coingeckoID": "希望者-io "
+    "coingeckoID": "希望者-io",
+    "websiteURL": "https://www.junonetwork.io/"
   },
   "hope": {
+    "localization": "zh",
     "name": "希望银河",
     "symbol": "希望",
     "description": "Hope Galaxy 是一个基于其自己的原生代币 $HOPE（Juno 链上的 CW20 代币）的 NFT 集合。",
-    "coingeckoID": "希望银河"
+    "coingeckoID": "希望银河",
+    "websiteURL": "https://www.junonetwork.io/"
+  },
+  "heart": {
+    "localization": "zh",
+    "name": "人类人工智能",
+    "symbol": "心",
+    "description": "Humans.ai 的原生质押和治理代币。",
+    "coingeckoID": "人类-人工智能",
+    "websiteURL": "https://humans.ai/",
+    "twitterURL": "https://twitter.com/ humansdotai"
   },
   "hash": {
-    "localization": "zh",
     "name": "出处",
     "symbol": "哈希",
     "description": "哈希是 Provenance 区块链的质押代币",
-    "coingeckoID": "起源区块链"
+    "coingeckoID": "起源区块链",
+    "websiteURL": "https://provenance.io/"
   },
   "hard": {
     "localization": "zh",
     "name": "卡瓦硬卡瓦",
     "symbol": "难的",
     "description": "Kava Lend 协议的治理代币",
-    "coingeckoID": "卡瓦伦德"
+    "coingeckoID": "卡瓦伦德",
+    "websiteURL": "https://www.kava.io/"
   },
   "harbor": {
     "localization": "zh",
     "name": "港口",
-    "description": "Comdex网络上Harbor协议的治理代币"
+    "symbol": "港口",
+    "description": "Comdex网络上Harbor协议的治理代币",
+    "coingeckoID": "港口2号",
+    "websiteURL": "https://comdex.one/"
+  },
+  "guppy": {
+    "localization": "zh",
+    "symbol": "孔雀鱼",
+    "websiteURL": "https://www.whitewhale.money/"
   },
   "grdn": {
     "localization": "zh",
+    "name": "监护人",
     "symbol": "GRDN",
-    "description": "Evmos 守护者治理代币。"
+    "description": "Evmos 守护者治理代币。",
+    "websiteURL": "https://www.junonetwork.io/"
   },
   "grav": {
     "localization": "zh",
+    "symbol": "格拉夫",
     "description": "重力桥原生代币<inlang-LineFeed><inlang-LineFeed>一个开放、去中心化的桥梁，释放区块链生态系统之间的互操作性和流动性的力量。",
-    "name": "重力桥",
-    "twitterURL": "https://twitter.com/gravity_bridge",
-    "coingeckoID": "引力子"
+    "websiteURL": "https://www.gravitybridge.net/",
+    "twitterURL": "https://twitter.com/gravity_bridge"
   },
   "glx": {
     "localization": "zh",
     "name": "星系",
     "symbol": "GLX",
-    "description": "GLX是银河链的质押代币"
+    "description": "GLX是银河链的质押代币",
+    "websiteURL": "https://galaxychain.zone/"
   },
   "glto": {
+    "localization": "zh",
     "name": "杰洛托",
     "symbol": "GLTO",
-    "description": "基于 Juno 构建的 DeFi 游戏平台"
+    "description": "基于 Juno 构建的 DeFi 游戏平台",
+    "websiteURL": "https://www.junonetwork.io/"
   },
   "glmr": {
     "localization": "zh",
@@ -1163,48 +1462,53 @@
     "localization": "zh",
     "name": "G键",
     "symbol": "基键",
-    "description": "Gelotto 第一年大奖代币"
+    "description": "Gelotto 第一年大奖代币",
+    "websiteURL": "https://www.junonetwork.io/"
   },
   "geo": {
-    "name": "地球轨道",
+    "localization": "zh",
     "symbol": "地球轨道",
-    "description": "ODIN 协议的 GEO 代币"
+    "description": "ODIN 协议的 GEO 代币",
+    "websiteURL": "https://odinprotocol.io/"
   },
   "fx": {
     "localization": "zh",
     "name": "f(x)核心",
     "symbol": "外汇",
     "description": "Function X 的原生质押代币",
-    "coingeckoID": "外汇币"
+    "coingeckoID": "外汇币",
+    "websiteURL": "https://functionx.io"
   },
   "fury": {
     "localization": "zh",
     "name": "凡怒",
     "symbol": "愤怒",
     "description": "Juno Chain 上 Fanfury 的原生代币 cw20",
-    "coingeckoID": "狂热"
+    "coingeckoID": "狂热",
+    "websiteURL": "https://www.junonetwork.io/"
   },
   "fund": {
     "localization": "zh",
     "name": "统一",
     "symbol": "基金",
     "description": "统一区块链的质押和治理硬币",
-    "coingeckoID": "统一"
+    "websiteURL": "https://unification.com/"
   },
   "ftm": {
     "localization": "zh",
     "name": "幻影",
     "symbol": "FTM",
-    "description": "Fantom 的原生实用代币 - FTM - 为整个 Fantom 区块链生态系统提供动力。 FTM 代币用于网络上的质押、治理、支付和费用。"
+    "description": "Fantom 的原生实用代币 - FTM - 为整个 Fantom 区块链生态系统提供动力。 FTM 代币用于网络上的质押、治理、支付和费用。",
+    "coingeckoID": "幻影"
   },
   "frnz": {
     "localization": "zh",
     "name": "弗里恩齐斯",
     "symbol": "FRNZ",
-    "description": "Frienzies 是一种 IBC 代币，专门可兑换为 Noble 实体发行的实物资产。"
+    "description": "Frienzies 是一种 IBC 代币，专门可兑换为 Noble 实体发行的实物资产。",
+    "websiteURL": "https://nobleassets.xyz/"
   },
   "frax": {
-    "localization": "zh",
     "name": "弗拉克斯",
     "symbol": "弗拉克斯",
     "description": "Frax 是一种分数算法稳定币协议。它的目标是提供一种高度可扩展、去中心化的算法货币来代替 BTC 等固定供应资产。此外，FXS 是整个 Frax 生态系统的价值累积和治理代币。",
@@ -1214,49 +1518,49 @@
     "localization": "zh",
     "name": "朱诺·福克斯",
     "symbol": "狐狸",
-    "description": "受到邦克的启发。一个庆祝 JunoNetwork 定居者的社区项目。"
+    "description": "受到邦克的启发。一个庆祝 JunoNetwork 定居者的社区项目。",
+    "websiteURL": "https://www.junonetwork.io/"
   },
   "flix": {
-    "description": "OmniFlix Hub 的原生质押代币。<inlang-LineFeed><inlang-LineFeed>由 NFT 和相关分发协议支持的创作者和主权社区的去中心化媒体和网络层。",
-    "localization": "zh",
     "name": "奥姆尼弗利克斯",
-    "twitterURL": "https://twitter.com/OmniFlixNetwork",
+    "description": "OmniFlix Hub 的原生质押代币。<inlang-LineFeed><inlang-LineFeed>由 NFT 和相关分发协议支持的创作者和主权社区的去中心化媒体和网络层。",
     "coingeckoID": "Omniflix 网络",
-    "symbol": "飞利克斯"
+    "websiteURL": "https://omniflix.network/",
+    "twitterURL": "https://twitter.com/OmniFlixNetwork"
   },
   "fis": {
     "localization": "zh",
     "name": "斯塔菲中心",
     "symbol": "FIS",
     "description": "StaFi Hub 的原生质押和治理代币。",
-    "coingeckoID": "斯塔菲"
+    "coingeckoID": "斯塔菲",
+    "websiteURL": "https://stafihub.io/"
   },
   "fil": {
     "localization": "zh",
     "name": "文件币",
     "symbol": "飞利浦",
-    "description": "Filecoin 是一个去中心化存储网络，旨在将云存储转变为算法市场。该网络促进了存储和检索数据的开放市场，用户付费将文件存储在存储矿工上。 Filecoin 建立在星际文件系统（IPFS）之上，这是一个点对点存储网络。 Filecoin 旨在以去中心化的方式存储数据，这与传统的云存储提供商不同。<inlang-LineFeed>\nFilecoin 网络的参与者被激励诚实行事并存储尽可能多的数据，因为他们通过存储服务赚取 Filecoin 加密货币（FIL）。此设置可确保所存储数据的完整性和可访问性。 Filecoin 的模型允许多种存储选项，包括长期档案存储和更快速的检索服务，使其成为去中心化数据存储的多功能解决方案。该项目由 Protocol Labs 开发，还致力于确保数据可靠且高效地存储。",
-    "coingeckoID": "文件币"
+    "description": "Filecoin 是一个去中心化存储网络，旨在将云存储转变为算法市场。该网络促进了存储和检索数据的开放市场，用户付费将文件存储在存储矿工上。 Filecoin 建立在星际文件系统（IPFS）之上，这是一个点对点存储网络。 Filecoin 旨在以去中心化的方式存储数据，这与传统的云存储提供商不同。<inlang-LineFeed>\nFilecoin 网络的参与者被激励诚实行事并存储尽可能多的数据，因为他们通过存储服务赚取 Filecoin 加密货币（FIL）。此设置可确保所存储数据的完整性和可访问性。 Filecoin 的模型允许多种存储选项，包括长期档案存储和更快速的检索服务，使其成为去中心化数据存储的多功能解决方案。该项目由 Protocol Labs 开发，还致力于确保数据可靠且高效地存储。"
   },
   "fet": {
     "localization": "zh",
-    "name": "获取.ai",
     "symbol": "场效应管",
     "description": "Fetch Hub 的原生质押和治理代币。",
     "coingeckoID": "获取人工智能"
   },
   "evmos": {
-    "description": "Evmos Hub 的原生 EVM、治理和质押代币<inlang-LineFeed><inlang-LineFeed>开发人员使用 Evmos 作为以太坊金丝雀链来部署未来的应用程序。借助 IBC 和链间可组合性的强大功能，获得以太坊的所有功能。",
     "localization": "zh",
     "name": "埃夫莫斯",
     "symbol": "EVMOS",
+    "description": "Evmos Hub 的原生 EVM、治理和质押代币<inlang-LineFeed><inlang-LineFeed>开发人员使用 Evmos 作为以太坊金丝雀链来部署未来的应用程序。借助 IBC 和链间可组合性的强大功能，获得以太坊的所有功能。",
+    "websiteURL": "https://evmos.org/",
     "twitterURL": "https://twitter.com/EvmosOrg"
   },
   "eth": {
     "localization": "zh",
     "name": "醚",
     "symbol": "以太坊",
-    "description": "以太坊（ETH）是一个去中心化的开源区块链系统，具有智能合约功能。它是以太坊平台的原生加密货币，通常被视为仅次于比特币的第二大流行数字货币。以太坊于 2013 年底提出，并于 2014 年进行众筹开发，其网络于 2015 年 7 月 30 日上线。<inlang-LineFeed>\nETH 作为一种数字货币，在以太坊生态系统中具有多种用途，包括执行去中心化智能合约和作为一种支付方式。与比特币不同，以太坊被设计为一个应用程序平台，可以使用区块链技术无需中介机构即可运行。这使得以太坊成为各种应用的领先平台，包括去中心化金融（DeFi）、不可替代代币（NFT）等。以太坊在不断发展，进行了名为以太坊 2.0 的重大升级，旨在提高其可扩展性、安全性和可持续性。"
+    "description": "以太坊（ETH）是一个去中心化的开源区块链系统，具有智能合约功能。它是以太坊平台的原生加密货币，通常被视为仅次于比特币的第二大流行数字货币。以太坊于 2013 年底提出，并于 2014 年进行众筹开发，其网络于 2015 年 7 月 30 日上线。<inlang-LineFeed>\nETH 作为一种数字货币，在以太坊生态系统中具有多种用途，包括执行去中心化智能合约和作为一种支付方式。与比特币不同，以太坊被设计为一个应用程序平台，可以使用区块链技术无需中介机构即可运行。这使得以太坊成为各种应用的领先平台，包括去中心化金融（DeFi）、不可替代代币（NFT）等。以太坊不断发展，进行了名为以太坊 2.0 的重大升级，旨在提高其可扩展性、安全性和可持续性。"
   },
   "eeur": {
     "localization": "zh",
@@ -1269,35 +1573,42 @@
     "localization": "zh",
     "name": "梯队",
     "symbol": "埃希",
-    "description": "Echelon - Cosmos 上的可扩展 EVM，基于权益证明构建，具有快速确定性，优先考虑互操作性和新颖的经济性"
+    "description": "Echelon - Cosmos 上的可扩展 EVM，基于权益证明构建，具有快速确定性，优先考虑互操作性和新颖的经济性",
+    "coingeckoID": "梯队"
   },
   "ebl": {
     "localization": "zh",
     "name": "8球",
     "symbol": "电子束",
-    "description": "8ball 的原生质押代币。"
+    "description": "8ball 的原生质押代币。",
+    "websiteURL": "https://8ball.info/"
   },
   "dys": {
     "localization": "zh",
     "name": "戴森协议",
-    "description": "戴森协议的原生质押和治理代币"
+    "description": "戴森协议的原生质押和治理代币",
+    "websiteURL": "https://dysonprotocol.com/"
   },
   "dym": {
+    "localization": "zh",
     "name": "维度轮毂",
-    "symbol": "迪玛",
-    "description": "Dymension Hub 的原生治理和质押代币<inlang-LineFeed><inlang-LineFeed>Dymension 是一个由易于部署且快速的模块化区块链组成的网络，称为 RollApps。"
+    "description": "Dymension Hub 的原生治理和质押代币<inlang-LineFeed><inlang-LineFeed>Dymension 是一个由易于部署且快速的模块化区块链组成的网络，称为 RollApps。",
+    "websiteURL": "https://portal.dymension.xyz",
+    "twitterURL": "https://twitter.com/dymension"
   },
   "dydx": {
-    "description": "dYdX 协议的原生质押代币。<inlang-LineFeed><inlang-LineFeed>我们的目标是构建开源代码，为一流的产品和交易体验提供动力。",
+    "localization": "zh",
     "name": "dYdX 协议",
+    "description": "dYdX 协议的原生质押代币。<inlang-LineFeed><inlang-LineFeed>我们的目标是构建开源代码，为一流的产品和交易体验提供动力。",
+    "websiteURL": "https://dydx.trade/",
     "twitterURL": "https://twitter.com/dYdX"
   },
   "dvpn": {
     "localization": "zh",
     "name": "哨兵",
-    "symbol": "数字VPN",
-    "description": "DVPN 是 Sentinel Hub 的本机令牌。<inlang-LineFeed>\nSentinel 生态系统是一个由自主 dVPN 应用程序组成的全球网络，可实现私密且抗审查的互联网访问。",
+    "description": "DVPN 是 Sentinel Hub 的原生令牌。<inlang-LineFeed>\nSentinel 生态系统是一个由自主 dVPN 应用程序组成的全球网络，可实现私密且抗审查的互联网访问。",
     "coingeckoID": "哨兵",
+    "websiteURL": "https://sentinel.co/",
     "twitterURL": "https://twitter.com/SentinelVPN"
   },
   "dsm": {
@@ -1305,14 +1616,12 @@
     "name": "锁骨",
     "symbol": "帝斯曼",
     "description": "Desmos 原生代币",
-    "coingeckoID": "锁骨"
+    "websiteURL": "https://desmos.network/"
   },
   "dot": {
-    "localization": "zh",
     "name": "波尔卡圆点",
     "symbol": "点",
     "description": "Polkadot 平台的原生费用、治理、质押和绑定代币。",
-    "coingeckoID": "波尔卡圆点",
     "axl": {
       "localization": "zh",
       "name": "包裹的波卡",
@@ -1321,47 +1630,50 @@
     }
   },
   "dora": {
-    "localization": "zh",
     "name": "多拉·沃塔",
     "description": "Dora Vota 的 Theta 测试网版本的原生质押和治理代币。"
   },
   "doga": {
     "localization": "zh",
     "name": "总督四月",
-    "description": "总督四月"
+    "description": "总督四月",
+    "websiteURL": "https://www.junonetwork.io/"
   },
   "dig": {
     "localization": "zh",
     "name": "挖掘链",
     "symbol": "挖",
     "description": "Dig Chain 原生代币",
-    "coingeckoID": "挖掘链"
+    "coingeckoID": "挖掘链",
+    "websiteURL": "https://digchain.org/"
   },
   "dhk": {
     "localization": "zh",
-    "name": "DHK",
-    "description": "DAO代币凝聚香港民众共识"
+    "symbol": "DHK",
+    "description": "DAO代币凝聚香港民众共识",
+    "websiteURL": "https://www.junonetwork.io/"
   },
   "dgl": {
     "localization": "zh",
-    "symbol": "直肠癌"
+    "name": "甘草",
+    "description": "不明确的<inlang-LineFeed><inlang-LineFeed>Juno 是一个完全由社区拥有和运营的智能合约平台。",
+    "websiteURL": "https://www.junonetwork.io/"
   },
   "dec": {
     "localization": "zh",
+    "name": "偏心",
     "symbol": "十二月",
-    "description": "Decentr 的原生代币",
-    "coingeckoID": "偏心"
+    "description": "Decentr 的原生代币"
   },
   "darc": {
     "localization": "zh",
     "name": "星座",
-    "symbol": "达克",
     "description": "Konstellation Network 的原生代币",
-    "coingeckoID": "达克物质币"
+    "coingeckoID": "达克物质币",
+    "websiteURL": "https://konstellation.tech/"
   },
   "dai": {
     "localization": "zh",
-    "name": "Dai 稳定币",
     "symbol": "戴伊",
     "description": "多抵押 Dai 带来了许多令人兴奋的新功能，例如支持新的 CDP 抵押品类型和 Dai 储蓄率。",
     "coingeckoID": "戴",
@@ -1369,36 +1681,42 @@
       "localization": "zh",
       "name": "DAI 稳定币（重力桥）",
       "symbol": "DAI.grv",
-      "description": "重力桥 DAI"
+      "description": "重力桥 DAI",
+      "websiteURL": "https://www.gravitybridge.net/"
     }
   },
   "cudos": {
     "localization": "zh",
     "name": "库多斯",
+    "symbol": "库多斯",
     "description": "Cudos 区块链的原生代币",
-    "coingeckoID": "库多斯"
+    "websiteURL": "https://www.cudos.org/"
   },
   "cub": {
     "localization": "zh",
     "name": "小狮 DAO",
     "symbol": "幼兽",
-    "description": "Lion Cub DAO 是 Terra 上一个无用的 meme 社区 DAO"
+    "description": "Lion Cub DAO 是 Terra 上一个无用的 meme 社区 DAO",
+    "websiteURL": "https://www.terra.money/"
   },
   "ctk": {
     "localization": "zh",
-    "name": "申屠",
     "symbol": "CTK",
     "description": "申屠原生代币",
-    "coingeckoID": "切尔蒂克"
+    "coingeckoID": "切尔蒂克",
+    "websiteURL": "https://www.shentu.technology/"
   },
   "cro": {
     "localization": "zh",
-    "description": "CRO是Crypto.org Chain的原生代币，简称Native CRO。<inlang-LineFeed>\nCronos PoS Chain 是一个公共、开源和无需许可的区块链 - 一个完全去中心化的网络，速度快、费用低，旨在成为一种公共产品，通过支付、DeFi 和 NFT 等用例帮助推动区块链技术的大规模采用。",
     "name": "克罗诺斯 POS 链",
     "symbol": "合同研究组织",
+    "description": "CRO是Crypto.org Chain的原生代币，简称Native CRO。<inlang-LineFeed>\nCronos PoS Chain 是一个公共、开源和无需许可的区块链 - 一个完全去中心化的网络，速度快、费用低，旨在成为一种公共产品，通过支付、DeFi 和 NFT 等用例帮助推动区块链技术的大规模采用。",
+    "coingeckoID": "加密com链",
+    "websiteURL": "https://cronos-pos.org/",
     "twitterURL": "https://twitter.com/cronos_chain"
   },
   "cre": {
+    "localization": "zh",
     "name": "新月",
     "symbol": "商业地产",
     "description": "Crescent的原生代币",
@@ -1406,52 +1724,66 @@
   },
   "crbrus": {
     "localization": "zh",
+    "name": "塞伯鲁斯",
     "symbol": "CRBRUS",
     "description": "Cerberus Chain的原生代币",
-    "coingeckoID": "塞伯鲁斯-2"
+    "coingeckoID": "塞伯鲁斯-2",
+    "websiteURL": "https://cerberus.zone/"
   },
   "coreum": {
     "localization": "zh",
     "name": "科瑞姆",
     "symbol": "科瑞姆",
     "description": "Coreum 原生代币",
-    "coingeckoID": "科雷姆"
+    "websiteURL": "https://www.coreum.com"
   },
   "cnto": {
     "localization": "zh",
     "name": "Ciento 代币",
     "symbol": "中国科技组织",
-    "description": "Ciento 交易所代币"
+    "description": "Ciento 交易所代币",
+    "websiteURL": "https://arable.finance/"
   },
   "cmst": {
     "localization": "zh",
-    "name": "CMST",
     "symbol": "CMST",
     "description": "Comdex网络上Harbor协议的稳定代币",
-    "coingeckoID": "合成的"
+    "coingeckoID": "合成的",
+    "websiteURL": "https://comdex.one/"
   },
   "cmdx": {
-    "localization": "zh",
-    "symbol": "CMDX",
+    "name": "康德克斯",
     "description": "Comdex协议的原生代币",
-    "coingeckoID": "商品指数"
+    "coingeckoID": "商品指数",
+    "websiteURL": "https://comdex.one/"
   },
   "clst": {
     "localization": "zh",
     "name": "塞莱斯廷斯",
-    "symbol": "CLST",
-    "description": "塞莱斯廷斯"
+    "description": "塞莱斯廷斯",
+    "websiteURL": "https://www.junonetwork.io/"
+  },
+  "circus": {
+    "localization": "zh",
+    "name": "AtomEconomicZone69JaeKwonInu",
+    "symbol": "马戏团",
+    "description": "小丑最大化价值存储",
+    "websiteURL": "https://neutron.org/"
   },
   "cheq": {
     "localization": "zh",
     "symbol": "检验质量",
     "description": "cheqd 网络的本机令牌",
-    "coingeckoID": "检查网络"
+    "coingeckoID": "检查网络",
+    "websiteURL": "https://www.cheqd.io/"
   },
   "cdt": {
     "localization": "zh",
     "name": "CDT稳定币",
-    "description": "Membrane 的 CDP 风格稳定币称为 CDT"
+    "symbol": "CDT",
+    "description": "Membrane 的 CDP 风格稳定币称为 CDT",
+    "coingeckoID": "抵押债务代币",
+    "websiteURL": "https://osmosis.zone/"
   },
   "cbeth": {
     "localization": "zh",
@@ -1460,22 +1792,33 @@
     "coingeckoID": "coinbase 包裹的 stake 以太坊"
   },
   "catmos": {
+    "localization": "zh",
     "name": "卡特莫斯",
     "symbol": "卡特莫斯",
-    "description": "卡特莫斯"
+    "description": "卡特莫斯",
+    "websiteURL": "https://www.junonetwork.io/"
   },
   "casa": {
     "localization": "zh",
     "name": "卡萨",
     "symbol": "卡萨",
-    "description": "致力于为最弱势群体提供住房的创新型 DAO"
+    "description": "致力于为最弱势群体提供住房的创新型 DAO",
+    "websiteURL": "https://www.junonetwork.io/"
   },
   "canto": {
     "localization": "zh",
     "name": "坎托",
     "symbol": "坎托",
     "description": "Canto 是一个旨在兑现 DeFi 承诺的 Layer-1 区块链",
-    "coingeckoID": "唱章"
+    "coingeckoID": "唱章",
+    "websiteURL": "https://canto.io/"
+  },
+  "c4e": {
+    "localization": "zh",
+    "symbol": "C4E",
+    "description": "Chain4Energy的原生代币",
+    "websiteURL": "https://c4e.io/",
+    "twitterURL": "https://twitter.com/Chain4Energy"
   },
   "bze": {
     "localization": "zh",
@@ -1488,115 +1831,162 @@
     "name": "按钮",
     "symbol": "屁股",
     "description": "Secret Network 上 Button 的原生代币 cw20",
-    "coingeckoID": "屁股币-2"
+    "coingeckoID": "屁股币-2",
+    "websiteURL": "https://scrt.network/"
   },
   "busd": {
     "localization": "zh",
-    "name": "币安美元",
     "symbol": "巴士总站",
     "description": "币安美元（BUSD）是由 Paxos Trust Company 发行和托管的美元支持的稳定币，并受纽约州金融服务部监管。 BUSD可在Paxos.com上与美元直接以1:1的比例出售，并将在币安上上市交易。",
     "coingeckoID": "币安-usd"
   },
   "btsg": {
-    "name": "比特宋",
+    "localization": "zh",
     "symbol": "BTSG",
     "description": "BitSong 原生代币<inlang-LineFeed><inlang-LineFeed>艺术家、粉丝、经理和唱片公司位于一个整体生态系统中：$BTSG。赚取实时版税、发现独家内容、铸造和交易 Fantoken、买卖 NFT。",
-    "twitterURL": "https://twitter.com/BitSongOfficial",
-    "coingeckoID": "比特松"
+    "coingeckoID": "比特松",
+    "websiteURL": "https://bitsong.io/",
+    "twitterURL": "https://twitter.com/BitSongOfficial"
+  },
+  "bskt": {
+    "localization": "zh",
+    "name": "篮子",
+    "description": "BSKT 追踪整个加密生态系统的顶级资产",
+    "coingeckoID": "篮子",
+    "twitterURL": "https://twitter.com/bsktfi"
   },
   "brnch": {
     "localization": "zh",
+    "name": "分支",
     "symbol": "BRNCH",
-    "description": "ohhNFT LP 代币。"
+    "description": "ohhNFT LP 代币。",
+    "websiteURL": "https://stargaze.zone/"
   },
   "boot": {
     "localization": "zh",
     "name": "博斯特罗姆",
     "symbol": "启动",
-    "description": "Bostrom 的质押代币",
-    "coingeckoID": "博斯特罗姆"
+    "description": "Bostrom 的质押代币"
   },
   "bonk": {
     "localization": "zh",
     "name": "邦克",
     "symbol": "邦克",
-    "description": "Bonk Inu 官方代币"
+    "description": "Bonk Inu 官方代币",
+    "coingeckoID": "邦克"
   },
   "bnb": {
     "localization": "zh",
     "name": "币安币",
     "symbol": "币安银行",
-    "description": "BNB为BNB Chain生态系统提供动力，是BNB信标链和BNB智能链的原生货币。",
-    "coingeckoID": "币安币"
+    "description": "BNB为BNB Chain生态系统提供动力，是BNB信标链和BNB智能链的原生货币。"
+  },
+  "bmos": {
+    "localization": "zh",
+    "name": "比特莫斯",
+    "symbol": "BMOS",
+    "description": "Bitmos 为 BRC20 代币与 Cosmos 网络中的老牌参与者共同繁荣打开了大门，为所有人带来了去中心化金融 (DeFi) 的彻底变革。",
+    "websiteURL": "https://www.terra.money/"
   },
   "blz": {
-    "localization": "zh",
     "name": "布卢泽尔",
+    "symbol": "BLZ",
     "description": "Bluzelle 的原生代币",
-    "coingeckoID": "布卢泽勒"
+    "websiteURL": "https://bluzelle.com/"
   },
   "blue": {
     "localization": "zh",
     "name": "蓝色幼崽刀",
     "symbol": "蓝色的",
-    "description": "BLUE CUB DAO 是 Terra 上的社区 DAO"
+    "description": "BLUE CUB DAO 是 Terra 上的社区 DAO",
+    "websiteURL": "https://www.terra.money/"
   },
   "block": {
     "localization": "zh",
     "name": "堵塞",
     "symbol": "堵塞",
-    "description": "Juno Chain 上 Marble DEX 的原生代币"
+    "description": "Juno Chain 上 Marble DEX 的原生代币",
+    "websiteURL": "https://www.junonetwork.io/"
   },
   "bld": {
-    "localization": "zh",
-    "description": "BLD 是用于通过质押保护 Agoric 链并支持 Inter Protocol 的代币。<inlang-LineFeed>\nAgoric 平台使您可以使用现有的 JavaScript 知识安全、无缝地构建去中心化应用程序。",
+    "name": "阿戈里克",
     "symbol": "BLD",
-    "twitterURL": "https://twitter.com/agoric",
-    "coingeckoID": "阿古里克"
+    "description": "BLD 是用于通过质押保护 Agoric 链并支持 Inter Protocol 的代币。<inlang-LineFeed>\nAgoric 平台使您可以使用现有的 JavaScript 知识安全、无缝地构建去中心化应用程序。",
+    "coingeckoID": "阿古里克",
+    "websiteURL": "https://agoric.com/",
+    "twitterURL": "https://twitter.com/agoric"
   },
   "bjuno": {
     "localization": "zh",
     "name": "StakeEasy bJUNO",
     "symbol": "比朱诺",
     "description": "为抵押的 JUNO 抵押衍生品 bJUNO",
-    "coingeckoID": "Stakeeasy-布朱诺"
+    "coingeckoID": "Stakeeasy-布朱诺",
+    "websiteURL": "https://www.junonetwork.io/"
+  },
+  "berlin": {
+    "name": "Teledisko DAO",
+    "symbol": "柏林",
+    "description": "Teledisko DAO 的代币。",
+    "websiteURL": "https://evmos.org/"
   },
   "bcna": {
     "localization": "zh",
     "name": "比特卡纳",
     "symbol": "BCNA",
     "description": "BCNA 币是 BitCanna 网络内的交易代币，通过其支付网络、供应链和信任网络为合法大麻行业提供服务。",
-    "coingeckoID": "比特卡纳"
+    "coingeckoID": "比特卡纳",
+    "websiteURL": "https://www.bitcanna.io/"
   },
   "band": {
     "localization": "zh",
-    "description": "BandChain的原生代币<inlang-LineFeed><inlang-LineFeed>Band Protocol 是一个跨链数据预言机平台，它将现实世界的数据和 API 聚合并连接到智能合约。",
     "name": "频段协议",
-    "symbol": "乐队",
-    "twitterURL": "https://twitter.com/BandProtocol",
-    "coingeckoID": "频段协议"
+    "description": "BandChain的原生代币<inlang-LineFeed><inlang-LineFeed>Band Protocol 是一个跨链数据预言机平台，它将现实世界的数据和 API 聚合并连接到智能合约。",
+    "coingeckoID": "频段协议",
+    "websiteURL": "https://bandprotocol.com/",
+    "twitterURL": "https://twitter.com/BandProtocol"
+  },
+  "badkid": {
+    "localization": "zh",
+    "symbol": "坏孩子",
+    "description": "由 11 岁坏孩子组成的部落在 Cosmos 生态中制造混乱。一种糟糕的 memecoin 可以统治他们所有人 $BADKID。空投给 Badkids NFT 持有者和 $STARS 质押者。太糟糕了，你的钱包为此发脾气。",
+    "websiteURL": "https://osmosis.zone/"
+  },
+  "baddog": {
+    "name": "奇瓦瓦维法特",
+    "description": "有帽子",
+    "websiteURL": "https://chihuahua.wtf/"
+  },
+  "bad": {
+    "localization": "zh",
+    "name": "坏币",
+    "symbol": "坏的",
+    "description": "Cosmos 上最糟糕的硬币",
+    "websiteURL": "https://neutron.org/"
   },
   "axs": {
     "localization": "zh",
     "symbol": "AXS",
-    "description": "Axie Infinity 是一个受神奇宝贝启发的数字宠物世界，任何人都可以通过熟练的游戏玩法和对生态系统的贡献来赚取代币。玩家可以为他们的宠物（称为 Axies）战斗、收集、饲养和建造一个陆地王国。"
+    "description": "Axie Infinity 是一个受神奇宝贝启发的数字宠物世界，任何人都可以通过熟练的游戏玩法和对生态系统的贡献来赚取代币。玩家可以为他们的宠物（称为 Axies）战斗、收集、饲养和建造一个陆地王国。",
+    "coingeckoID": "轴无限"
   },
   "axlfil": {
     "localization": "zh",
     "name": "来自 Filecoin 的包装 FIL",
     "symbol": "轴FIL",
-    "description": "Axelar 上包裹的 FIL",
-    "coingeckoID": "文件币"
+    "description": "Axelar 上包裹的 FIL"
   },
   "axl": {
-    "description": "Axelar的原生代币<inlang-LineFeed><inlang-LineFeed>Axelar 为 Web3 提供安全的跨链通信。我们的基础设施使 dApp 用户能够一键与任何链上的任何资产或应用程序进行交互。",
     "localization": "zh",
+    "name": "阿克塞拉尔",
     "symbol": "AXL",
-    "twitterURL": "https://twitter.com/axelarnetwork",
-    "coingeckoID": "轴"
+    "description": "Axelar的原生代币<inlang-LineFeed><inlang-LineFeed>Axelar 为 Web3 提供安全的跨链通信。我们的基础设施使 dApp 用户能够一键与任何链上的任何资产或应用程序进行交互。",
+    "coingeckoID": "轴",
+    "websiteURL": "https://axelar.network/",
+    "twitterURL": "https://twitter.com/axelarnetwork"
   },
   "avax": {
-    "localization": "zh",
+    "name": "雪崩",
     "symbol": "阿瓦克斯",
     "description": "AVAX 是 Avalanche 的原生代币。它是一种硬上限的稀缺资产，用于支付费用、通过质押保护平台，并在 Avalanche 上创建的多个子网之间提供基本账户单位。"
   },
@@ -1606,50 +1996,83 @@
       "name": "美元硬币（雪崩）",
       "symbol": "雪崩.USDC",
       "description": "USDC 是由开源项目 CENTRE 开发的完全抵押的美元稳定币，Circle 是即将推出的几个发行人中的第一个。",
-      "coingeckoID": "美元硬币"
+      "axl": {
+        "localization": "zh",
+        "name": "美元硬币（雪崩）",
+        "symbol": "雪崩.USDC.axl",
+        "description": "USDC 是由开源项目 CENTRE 开发的完全抵押的美元稳定币，Circle 是即将推出的几个发行人中的第一个。",
+        "coingeckoID": "美元硬币"
+      }
     }
   },
+  "autism": {
+    "localization": "zh",
+    "name": "自闭症",
+    "description": "$AUTISM 的存在是为了庆祝自闭症作为一个卓越的生物技术堆栈，适应不断变化的世界",
+    "coingeckoID": "自闭症",
+    "websiteURL": "https://injective.com/"
+  },
   "atom": {
+    "localization": "zh",
     "name": "宇宙中心",
     "symbol": "原子",
-    "description": "Cosmos Hub 的原生质押和治理代币。<inlang-LineFeed><inlang-LineFeed>简而言之，Cosmos Hub 将自己定位为一个解决区块链行业面临的一些最棘手问题的项目。它的目的是通过提供一个互联的区块链生态系统，为缓慢、昂贵、不可扩展且对环境有害的工作量证明协议（如比特币使用的协议）提供解决方案。<inlang-LineFeed><inlang-LineFeed>该项目的其他目标包括通过模块化框架揭开去中心化应用程序的神秘面纱，使区块链技术对开发人员来说不那么复杂和困难。最后但并非最不重要的一点是，区块链间通信协议使区块链网络更容易相互通信，从而防止行业碎片化。<inlang-LineFeed>\nCosmos Hub 的起源可以追溯到 2014 年，当时该网络的核心贡献者 Tendermint 成立。 2016 年，Cosmos 发布了白皮书，并于次年举行了代币销售。 ATOM 代币是通过混合股权证明算法获得的，它们有助于保持该项目的旗舰区块链 Cosmos Hub 的安全。这种加密货币还在网络治理中发挥作用。",
+    "description": "Cosmos Hub 的原生质押和治理代币。<inlang-LineFeed><inlang-LineFeed>简而言之，Cosmos Hub 将自己定位为一个解决区块链行业面临的一些最棘手问题的项目。它的目的是通过提供一个互联的区块链生态系统，为缓慢、昂贵、不可扩展和对环境有害的工作量证明协议（如比特币使用的协议）提供解决方案。<inlang-LineFeed><inlang-LineFeed>该项目的其他目标包括通过模块化框架揭开去中心化应用程序的神秘面纱，使区块链技术对开发人员来说不那么复杂和困难。最后但并非最不重要的一点是，区块链间通信协议使区块链网络更容易相互通信，从而防止行业碎片化。<inlang-LineFeed>\nCosmos Hub 的起源可以追溯到 2014 年，当时该网络的核心贡献者 Tendermint 成立。 2016 年，Cosmos 发布了白皮书，并于次年举行了代币销售。 ATOM 代币是通过混合股权证明算法获得的，它们有助于保持该项目的旗舰区块链 Cosmos Hub 的安全。这种加密货币还在网络治理中发挥作用。",
+    "websiteURL": "https://cosmos.network/",
     "twitterURL": "https://twitter.com/cosmoshub"
   },
   "atolo": {
-    "name": "里松",
+    "localization": "zh",
+    "symbol": "阿托罗",
     "description": "Rizon Chain 的原生代币",
-    "coingeckoID": "里松"
+    "coingeckoID": "里松",
+    "websiteURL": "https://rizon.world/"
   },
   "asvt": {
     "localization": "zh",
     "name": "Another.软件验证器令牌",
     "symbol": "ASVT",
-    "description": "Another.Software 验证器的利润分享代币。持有并获得 Another.Software 验证者佣金的红利！"
+    "description": "Another.Software 验证器的利润分享代币。持有并获得 Another.Software 验证者佣金的红利！",
+    "websiteURL": "https://www.junonetwork.io/"
+  },
+  "astro": {
+    "localization": "zh",
+    "symbol": "阿斯特罗",
+    "description": "Astroport 是一个中立的市场，来自银河系任何地方的任何人都可以在这里停靠并交易他们的商品。",
+    "coingeckoID": "太空港-Fi",
+    "websiteURL": "https://www.terra.money/",
+    "twitterURL": "https://twitter.com/astroport_fi"
+  },
+  "ash": {
+    "name": "灰",
+    "symbol": "灰",
+    "description": "灰",
+    "websiteURL": "https://www.whitewhale.money/"
   },
   "arusd": {
     "localization": "zh",
     "name": "耕地美元",
     "symbol": "ar美元",
     "description": "Arable 衍生品超额抵押稳定币 v1",
-    "coingeckoID": "耕地美元"
+    "coingeckoID": "耕地美元",
+    "websiteURL": "https://arable.finance/"
   },
   "arkh": {
     "localization": "zh",
     "name": "阿卡德语",
     "symbol": "阿尔克赫",
-    "description": "阿卡迪亚语的原生标记"
+    "description": "阿卡迪亚语的原生标记",
+    "websiteURL": "https://arkhadian.com/"
   },
   "arch": {
     "localization": "zh",
-    "description": "Archway网络的原生代币<inlang-LineFeed><inlang-LineFeed>一个激励性的 L1 区块链，允许开发人员捕获他们的 dapp 创造的价值，从而实现可持续的经济模型。",
-    "coingeckoID": "拱道",
-    "twitterURL": "https://twitter.com/archwayHQ",
     "name": "拱道",
-    "symbol": "拱"
+    "symbol": "拱",
+    "description": "Archway网络的原生代币<inlang-LineFeed><inlang-LineFeed>一个激励性的 L1 区块链，允许开发人员捕获他们的 dapp 创造的价值，从而实现可持续的经济模型。",
+    "websiteURL": "https://archway.io/",
+    "twitterURL": "https://twitter.com/archwayHQ"
   },
   "arb": {
     "localization": "zh",
-    "name": "仲裁",
     "symbol": "受体阻滞剂",
     "description": "Arbitrum 原生代币"
   },
@@ -1657,57 +2080,66 @@
     "localization": "zh",
     "name": "阿普托斯币",
     "symbol": "易于",
-    "description": "Aptos 代币（APT）是 Aptos 区块链原生代币，用于支付网络和交易费用。",
-    "coingeckoID": "阿普托斯"
+    "description": "Aptos 代币（APT）是 Aptos 区块链原生代币，用于支付网络和交易费用。"
   },
   "apollo": {
     "localization": "zh",
     "name": "阿波罗道",
-    "symbol": "阿波罗",
-    "description": "Apollo DAO 项目的通货紧缩实用代币"
+    "description": "Apollo DAO 项目的通货紧缩实用代币",
+    "websiteURL": "https://neutron.org/"
   },
   "apemos": {
+    "localization": "zh",
     "name": "阿佩莫斯",
     "symbol": "阿佩莫斯",
-    "description": "阿佩莫斯"
+    "description": "阿佩莫斯",
+    "websiteURL": "https://www.junonetwork.io/"
   },
   "ape": {
     "localization": "zh",
+    "name": "猿币",
     "symbol": "猿",
-    "description": "ApeCoin 通过艺术、游戏、娱乐和活动在 web3 中找到了新的表达方式。 APE 是一种由社区控制和构建的用于支持未来发展的代币。它将作为社区主导的倡议的去中心化协议层，推动文化进入虚拟世界。"
+    "description": "ApeCoin 通过艺术、游戏、娱乐和活动在 web3 中找到了新的表达方式。 APE 是一种由社区控制和构建的、旨在支持未来发展的代币。它将作为社区主导的倡议的去中心化协议层，推动文化进入虚拟世界。"
   },
   "amposmo": {
     "localization": "zh",
     "name": "ERIS 放大 OSMO",
     "symbol": "安波士莫",
-    "description": "ERIS液体固定式OSMO"
+    "description": "ERIS液体固定式OSMO",
+    "websiteURL": "https://osmosis.zone/"
   },
   "amber": {
     "localization": "zh",
+    "name": "琥珀色",
     "symbol": "琥珀色",
-    "description": "Secret Network 上 Amber 的原生代币 cw20"
+    "description": "Secret Network 上 Amber 的原生代币 cw20",
+    "websiteURL": "https://scrt.network/"
   },
   "alter": {
+    "localization": "zh",
     "name": "改变",
-    "symbol": "改变",
     "description": "Secret Network 上 Alter 的原生代币 cw20",
-    "coingeckoID": "改变"
+    "coingeckoID": "改变",
+    "websiteURL": "https://scrt.network/"
   },
   "akt": {
+    "localization": "zh",
     "name": "阿卡什",
     "symbol": "AKT",
     "description": "Akash 代币 (AKT) 是 Akash 网络的原生实用代币，用作治理、保护区块链、激励参与者以及提供默认机制来存储和交换价值的主要手段。<inlang-LineFeed>\nAkash 是开源超级云，可让用户安全高效地购买和销售计算资源。专为公共事业而设计。",
-    "twitterURL": "https://twitter.com/akashnet_",
-    "coingeckoID": "akash 网络"
+    "coingeckoID": "akash 网络",
+    "websiteURL": "https://akash.network/",
+    "twitterURL": "https://twitter.com/akashnet_"
   },
   "acre": {
     "localization": "zh",
     "name": "阿克瑞链",
+    "symbol": "英亩",
     "description": "Acrechain 的原生 EVM、治理和质押代币",
-    "coingeckoID": "耕地协议"
+    "coingeckoID": "耕地协议",
+    "websiteURL": "https://arable.finance/"
   },
   "aave": {
-    "localization": "zh",
     "name": "阿夫",
     "symbol": "亚维夫",
     "description": "Aave 是一种开源非托管协议，用于赚取存款和借入资产的利息。它还具有高度创新的快速贷款功能，让开发商能够即时轻松地借款；无需抵押。拥有 16 种不同的资产，其中 5 种是稳定币。"
@@ -1715,6 +2147,7 @@
   "a": {
     "localization": "zh",
     "name": "博斯特罗姆安培",
+    "symbol": "A",
     "description": "Bostrom 的资源代币"
   }
 }

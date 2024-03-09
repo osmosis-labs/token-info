@@ -2,5 +2,7 @@
   "localization": "tr",
   "name": "Levana",
   "symbol": "LVN",
-  "description": "Levana yerel jetonu"
+  "description": "Levana yerel jetonu",
+  "coingeckoID": "levana-protocol",
+  "websiteURL": "https://osmosis.zone/"
 }

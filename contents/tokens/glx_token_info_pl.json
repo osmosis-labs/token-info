@@ -2,5 +2,6 @@
   "localization": "pl",
   "name": "Galaxy",
   "symbol": "GLX",
-  "description": "GLX jest tokenem stakingowym Łańcucha Galaxy"
+  "description": "GLX jest tokenem stakingowym Łańcucha Galaxy",
+  "websiteURL": "https://galaxychain.zone/"
 }

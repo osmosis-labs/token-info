@@ -3,5 +3,6 @@
   "name": "Teritori",
   "symbol": "TORI",
   "description": "Jetonul nativ din Teritori",
-  "coingeckoID": "teritori"
+  "coingeckoID": "teritori",
+  "websiteURL": "https://teritori.com/"
 }

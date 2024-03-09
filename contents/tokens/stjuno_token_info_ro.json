@@ -1,6 +1,7 @@
 {
-  "localization": "ro",
   "name": "Stride Staked JUNO",
   "symbol": "stJUNO",
-  "description": "Jetonul nativ al JUNO Chain"
+  "description": "nedefinit<inlang-LineFeed>\nStride este un blockchain care oferă lichiditate pentru jetoanele mizate. Folosind Stride, puteți câștiga atât câștiguri, cât și venituri DeFi în ecosistemul Cosmos IBC.",
+  "coingeckoID": "stride-staked-juno",
+  "websiteURL": "https://stride.zone/"
 }

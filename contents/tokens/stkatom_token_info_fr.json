@@ -1,7 +1,7 @@
 {
-  "localization": "fr",
   "name": "PSTAKE staked ATOM",
   "symbol": "stkATOM",
   "description": "ATOM à jalonnement liquide PSTAKE",
-  "coingeckoID": "stkatom"
+  "coingeckoID": "stkatom",
+  "websiteURL": "https://persistence.one/"
 }

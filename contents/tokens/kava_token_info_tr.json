@@ -1,8 +1,9 @@
 {
-  "description": "Kava’nın yerel stake ve yönetişim tokenı<inlang-LineFeed>\nKava, Cosmos'un hızını ve birlikte çalışabilirliğini Ethereum'un geliştirici gücüyle birleştiren merkezi olmayan bir blok zinciridir.",
   "localization": "tr",
   "name": "Kava",
   "symbol": "KAVA",
+  "description": "Kava’nın yerel stake ve yönetişim tokenı<inlang-LineFeed>\nKava, Cosmos'un hızını ve birlikte çalışabilirliğini Ethereum'un geliştirici gücüyle birleştiren merkezi olmayan bir blok zinciridir.",
   "coingeckoID": "kava",
+  "websiteURL": "https://www.kava.io/",
   "twitterURL": "https://twitter.com/KAVA_CHAIN"
 }

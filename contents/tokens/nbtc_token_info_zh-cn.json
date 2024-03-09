@@ -1,6 +1,6 @@
 {
-  "localization": "zh",
   "name": "Nomic Bitcoin",
   "symbol": "nBTC",
-  "description": "比特币。关于宇宙。"
+  "description": "比特币。关于宇宙。",
+  "websiteURL": "https://nomic.io/"
 }

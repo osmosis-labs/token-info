@@ -1,8 +1,9 @@
 {
   "localization": "ro",
-  "symbol": "SCRT",
   "name": "Secret Network",
+  "symbol": "SCRT",
   "description": "Indicatorul nativ al Secret Network<inlang-LineFeed>\nSecret Network este primul blockchain cu confidențialitate personalizabilă. Puteți alege ce împărtășiți, cu cine și cum. Acest lucru protejează utilizatorii și dă putere dezvoltatorilor să construiască un Web3 mai bun.",
-  "twitterURL": "https://twitter.com/SecretNetwork",
-  "coingeckoID": "secret"
+  "coingeckoID": "secret",
+  "websiteURL": "https://scrt.network/",
+  "twitterURL": "https://twitter.com/SecretNetwork"
 }

@@ -3,5 +3,6 @@
   "name": "Coreum",
   "symbol": "COREUM",
   "description": "Coreum 原生代币",
-  "coingeckoID": "coreum"
+  "coingeckoID": "coreum",
+  "websiteURL": "https://www.coreum.com"
 }

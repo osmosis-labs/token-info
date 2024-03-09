@@ -2,5 +2,6 @@
   "localization": "es",
   "name": "Puppy",
   "symbol": "PUPPY",
-  "description": "Cachorro"
+  "description": "Cachorro",
+  "websiteURL": "https://chihuahua.wtf/"
 }

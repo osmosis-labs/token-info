@@ -3,5 +3,6 @@
   "name": "Acrechain",
   "symbol": "ACRE",
   "description": "نماد بومی EVM، حاکمیت و سهامداری Acrechain",
-  "coingeckoID": "arable-protocol"
+  "coingeckoID": "arable-protocol",
+  "websiteURL": "https://arable.finance/"
 }

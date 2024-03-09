@@ -1,5 +1,6 @@
 {
   "name": "USD Coin",
   "symbol": "USDC.axl",
-  "coingeckoID": "axlusdc"
+  "coingeckoID": "axlusdc",
+  "websiteURL": "https://axelar.network/"
 }

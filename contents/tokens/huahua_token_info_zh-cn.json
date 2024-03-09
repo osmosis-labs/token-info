@@ -1,7 +1,7 @@
 {
-  "localization": "zh",
   "name": "Chihuahua",
   "symbol": "HUAHUA",
   "description": "Chihuahua Chain 原生代币",
-  "coingeckoID": "chihuahua-token"
+  "coingeckoID": "chihuahua-token",
+  "websiteURL": "https://chihuahua.wtf/"
 }

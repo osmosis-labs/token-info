@@ -3,5 +3,6 @@
   "name": "Rebus",
   "symbol": "REBUS",
   "description": "REBUS, rodzima moneta sieci Rebus.",
-  "coingeckoID": "rebus"
+  "coingeckoID": "rebus",
+  "websiteURL": "https://www.rebuschain.com/"
 }

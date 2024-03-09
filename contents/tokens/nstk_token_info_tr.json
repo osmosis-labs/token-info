@@ -2,5 +2,7 @@
   "localization": "tr",
   "name": "Unstake Fi",
   "symbol": "NSTK",
-  "description": "Unstake.fi'nin Gelir ve Yönetişim tokenı"
+  "description": "Unstake.fi'nin Gelir ve Yönetişim tokenı",
+  "coingeckoID": "unstake-fi",
+  "websiteURL": "https://kujira.app/"
 }

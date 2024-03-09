@@ -3,5 +3,6 @@
   "name": "Planq",
   "symbol": "PLQ",
   "description": "Planq 網路的原生 EVM、治理與質押代幣",
-  "coingeckoID": "planq"
+  "coingeckoID": "planq",
+  "websiteURL": "https://planq.network/"
 }

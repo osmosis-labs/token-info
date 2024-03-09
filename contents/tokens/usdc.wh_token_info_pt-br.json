@@ -1,4 +1,5 @@
 {
   "name": "USD Coin (Wormhole)",
-  "symbol": "USDC.wh"
+  "symbol": "USDC.wh",
+  "websiteURL": "https://wormhole.com"
 }

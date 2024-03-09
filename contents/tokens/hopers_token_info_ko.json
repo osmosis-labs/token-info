@@ -3,5 +3,6 @@
   "name": "Hopers",
   "symbol": "HOPERS",
   "description": "Juno Chain의 Hopers를 위한 기본 토큰 cw20",
-  "coingeckoID": "hopers-io "
+  "coingeckoID": "hopers-io",
+  "websiteURL": "https://www.junonetwork.io/"
 }

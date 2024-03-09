@@ -3,5 +3,6 @@
   "name": "SIENNA",
   "symbol": "SIENNA",
   "description": "Jetonul nativ cw20 pentru SIENNA pe Secret Network",
-  "coingeckoID": "sienna"
+  "coingeckoID": "sienna",
+  "websiteURL": "https://scrt.network/"
 }

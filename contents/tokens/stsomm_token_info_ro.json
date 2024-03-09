@@ -2,5 +2,7 @@
   "localization": "ro",
   "name": "Stride Staked SOMM",
   "symbol": "stSOMM",
-  "description": "Somm Token (SOMM) este jetonul de miză nativ al Lanțului Sommelier"
+  "description": "nedefinit<inlang-LineFeed>\nStride este un blockchain care oferă lichiditate pentru jetoanele mizate. Folosind Stride, puteți câștiga atât câștiguri, cât și venituri DeFi în ecosistemul Cosmos IBC.",
+  "coingeckoID": "stride-staked-sommelier",
+  "websiteURL": "https://stride.zone/"
 }

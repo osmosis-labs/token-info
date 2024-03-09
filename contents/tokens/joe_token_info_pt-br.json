@@ -2,5 +2,6 @@
   "localization": "pt",
   "name": "JoeDAO",
   "symbol": "JOE",
-  "description": "DAO dedicado à construção de ferramentas na Rede Juno"
+  "description": "DAO dedicado à construção de ferramentas na Rede Juno",
+  "websiteURL": "https://www.junonetwork.io/"
 }

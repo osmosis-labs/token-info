@@ -1,6 +1,7 @@
 {
-  "localization": "tr",
   "name": "Stride Staked UMEE",
   "symbol": "stUMEE",
-  "description": "Umee'nin yerel simgesi"
+  "description": "Tanımsız<inlang-LineFeed>\nStride, stake edilen tokenlar için likidite sağlayan bir blockchaindir. Stride'ı kullanarak Cosmos IBC ekosisteminde hem alım hem de DeFi getirisi elde edebilirsiniz.",
+  "coingeckoID": "stride-staked-umee",
+  "websiteURL": "https://stride.zone/"
 }

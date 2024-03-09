@@ -3,5 +3,6 @@
   "name": "Coreum",
   "symbol": "COREUM",
   "description": "코리움의 기본 토큰",
-  "coingeckoID": "coreum"
+  "coingeckoID": "coreum",
+  "websiteURL": "https://www.coreum.com"
 }

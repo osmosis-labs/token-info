@@ -3,5 +3,6 @@
   "name": "Realio Network",
   "symbol": "RIO",
   "description": "Realio Network의 기본 통화입니다.",
-  "coingeckoID": "realio-network"
+  "coingeckoID": "realio-network",
+  "websiteURL": "https://realio.network/"
 }

@@ -1,6 +1,7 @@
 {
-  "localization": "tr",
   "name": "Stride Staked JUNO",
   "symbol": "stJUNO",
-  "description": "JUNO Chain'in yerel tokenı"
+  "description": "Tanımsız<inlang-LineFeed>\nStride, stake edilen tokenlar için likidite sağlayan bir blockchaindir. Stride'ı kullanarak Cosmos IBC ekosisteminde hem alım hem de DeFi getirisi elde edebilirsiniz.",
+  "coingeckoID": "stride-staked-juno",
+  "websiteURL": "https://stride.zone/"
 }

@@ -2,5 +2,6 @@
   "localization": "es",
   "name": "nRide Token",
   "symbol": "NRIDE",
-  "description": "Ficha nRide"
+  "description": "Ficha nRide",
+  "websiteURL": "https://www.junonetwork.io/"
 }

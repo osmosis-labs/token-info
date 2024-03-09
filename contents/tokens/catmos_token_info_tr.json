@@ -1,5 +1,7 @@
 {
+  "localization": "tr",
   "name": "Catmos",
   "symbol": "CATMOS",
-  "description": "Catmos"
+  "description": "Catmos",
+  "websiteURL": "https://www.junonetwork.io/"
 }

@@ -2,5 +2,6 @@
   "name": "XPLA",
   "symbol": "XPLA",
   "description": "XPLA 的原生质押代币。",
-  "coingeckoID": "xpla"
+  "coingeckoID": "xpla",
+  "websiteURL": "https://xpla.io"
 }

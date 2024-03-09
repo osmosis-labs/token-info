@@ -3,5 +3,6 @@
   "name": "Jackal",
   "symbol": "JKL",
   "description": "La ficha nativa de participación y gobernanza de Jackal.",
-  "coingeckoID": "jackal-protocol"
+  "coingeckoID": "jackal-protocol",
+  "websiteURL": "https://jackalprotocol.com"
 }

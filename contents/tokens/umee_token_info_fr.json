@@ -1,7 +1,8 @@
 {
   "localization": "fr",
-  "name": "Umee",
+  "name": "UX Chain",
   "symbol": "UMEE",
   "description": "Le jeton natif d'Umee",
-  "coingeckoID": "umee"
+  "coingeckoID": "umee",
+  "websiteURL": "https://www.ux.xyz"
 }

@@ -3,5 +3,6 @@
   "name": "CMST",
   "symbol": "CMST",
   "description": "Protocolul Token of Harbour stabil pe rețeaua Comdex",
-  "coingeckoID": "composite"
+  "coingeckoID": "composite",
+  "websiteURL": "https://comdex.one/"
 }

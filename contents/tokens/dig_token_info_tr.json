@@ -3,5 +3,6 @@
   "name": "Dig Chain",
   "symbol": "DIG",
   "description": "Dig Chain'in yerel tokenı",
-  "coingeckoID": "dig-chain"
+  "coingeckoID": "dig-chain",
+  "websiteURL": "https://digchain.org/"
 }

@@ -3,5 +3,6 @@
   "name": "Fanfury",
   "symbol": "FURY",
   "description": "El token nativo cw20 para Fanfury en Juno Chain",
-  "coingeckoID": "fanfury"
+  "coingeckoID": "fanfury",
+  "websiteURL": "https://www.junonetwork.io/"
 }

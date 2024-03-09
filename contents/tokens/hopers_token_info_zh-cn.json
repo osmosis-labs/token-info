@@ -3,5 +3,6 @@
   "name": "Hopers",
   "symbol": "HOPERS",
   "description": "Juno Chain 上 Hopers 的原生代币 cw20",
-  "coingeckoID": "hopers-io "
+  "coingeckoID": "hopers-io",
+  "websiteURL": "https://www.junonetwork.io/"
 }
