@@ -1,7 +1,7 @@
 {
+  "localization": "pl",
   "name": "Stride Staked JUNO",
   "symbol": "stJUNO",
-  "description": "nieokreślony<inlang-LineFeed>\nStride to blockchain zapewniający płynność postawionych tokenów. Korzystając ze Stride, możesz zarabiać zarówno na przyjmowaniu, jak i na plonach DeFi w całym ekosystemie Cosmos IBC.",
   "coingeckoID": "stride-staked-juno",
   "websiteURL": "https://stride.zone/"
 }

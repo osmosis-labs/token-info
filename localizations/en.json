@@ -56,7 +56,6 @@
       "localization": "en",
       "name": "Wrapped Lido Staked Ether",
       "symbol": "wstETH.axl",
-      "description": "undefined\n\nAxelar delivers secure cross-chain communication for Web3. Our infrastructure enables dApp users to interact with any asset or application, on any chain, with one click.",
       "websiteURL": "https://axelar.network/"
     }
   },
@@ -102,7 +101,6 @@
     "localization": "en",
     "name": "Wrapped Bitcoin",
     "symbol": "WBTC",
-    "description": "undefined\n\nOsmosis (OSMO) is the premier DEX and cross-chain DeFi hub within the Cosmos ecosystem, a network of over 50 sovereign, interoperable blockchains seamlessly connected through the Inter-Blockchain Communication Protocol (IBC). Pioneering in its approach, Osmosis offers a dynamic trading and liquidity provision experience, integrating non-IBC assets from other ecosystems, including Ethereum, Solana, Avalanche, and Polkadot. Initially adopting Balancer-style pools, Osmosis now also features a concentrated liquidity model that is orders of magnitude more capital efficient, meaning that significantly less liquidity is required to handle the same amount of trading volume with minimal slippage.\n\nAs a true appchain, Osmosis has greater control over the full blockchain stack than traditional smart contract DEXs, which must follow the code of the parent chain that it is built on. This fine-grained control has enabled, for example, the development of Superfluid Staking, an extension of Proof of Stake that allows assets at the application layer to be staked to secure the chain. The customizability of appchains also allows implementing features like the Protocol Revenue module, which enables Osmosis to conduct on-chain arbitrage on behalf of OSMO stakers, balancing prices across pools while generating real yield revenue from this volume. Additionally, as a sovereign appchain, Osmosis governance can vote on upgrades to the protocol. One example of this was the introduction of a Taker Fee, which switched on the collection of exchange fees to generate diverse yield from Osmosis volume and distribute it to OSMO stakers.\n\nOsmosis is bringing the full centralized exchange experience to the decentralized world by building a cross-chain native DEX and trading suite that connects all chains over IBC, including Ethereum and Bitcoin. To reach this goal, Osmosis hosts an ever-expanding suite of DeFi applications aimed at providing a one-stop experience that includes lending, credit, margin, DeFi strategy vaults, power perps, fiat on-ramps, NFTs, stablecoins, and more — all of the functionalities that centralized exchange offer and more, in the trust-minimized environment of decentralized finance.",
     "websiteURL": "https://osmosis.zone/",
     "grv": {
       "localization": "en",
@@ -314,7 +312,6 @@
     "localization": "en",
     "name": "Stride Staked UMEE",
     "symbol": "stUMEE",
-    "description": "undefined\n\nStride is a blockchain that provides liquidity for staked tokens. Using Stride, you can earn both taking and DeFi yields across the Cosmos IBC ecosystem.",
     "coingeckoID": "stride-staked-umee",
     "websiteURL": "https://stride.zone/"
   },
@@ -329,7 +326,6 @@
     "localization": "en",
     "name": "Stride Staked STARS",
     "symbol": "stSTARS",
-    "description": "undefined\n\nStride is a blockchain that provides liquidity for staked tokens. Using Stride, you can earn both taking and DeFi yields across the Cosmos IBC ecosystem.",
     "coingeckoID": "stride-staked-stars",
     "websiteURL": "https://stride.zone/"
   },
@@ -337,7 +333,6 @@
     "localization": "en",
     "name": "Stride Staked SOMM",
     "symbol": "stSOMM",
-    "description": "undefined\n\nStride is a blockchain that provides liquidity for staked tokens. Using Stride, you can earn both taking and DeFi yields across the Cosmos IBC ecosystem.",
     "coingeckoID": "stride-staked-sommelier",
     "websiteURL": "https://stride.zone/"
   },
@@ -361,7 +356,6 @@
     "localization": "en",
     "name": "Stride Staked OSMO",
     "symbol": "stOSMO",
-    "description": "undefined\n\nStride is a blockchain that provides liquidity for staked tokens. Using Stride, you can earn both taking and DeFi yields across the Cosmos IBC ecosystem.",
     "coingeckoID": "stride-staked-osmo",
     "websiteURL": "https://stride.zone/"
   },
@@ -369,7 +363,6 @@
     "localization": "en",
     "name": "Stride Staked LUNA",
     "symbol": "stLUNA",
-    "description": "undefined\n\nStride is a blockchain that provides liquidity for staked tokens. Using Stride, you can earn both taking and DeFi yields across the Cosmos IBC ecosystem.",
     "coingeckoID": "stride-staked-luna",
     "websiteURL": "https://stride.zone/"
   },
@@ -401,7 +394,6 @@
     "localization": "en",
     "name": "Stride Staked JUNO",
     "symbol": "stJUNO",
-    "description": "undefined\n\nStride is a blockchain that provides liquidity for staked tokens. Using Stride, you can earn both taking and DeFi yields across the Cosmos IBC ecosystem.",
     "coingeckoID": "stride-staked-juno",
     "websiteURL": "https://stride.zone/"
   },
@@ -409,14 +401,12 @@
     "localization": "en",
     "name": "Staked IBCX",
     "symbol": "stIBCX",
-    "description": "undefined\n\nOsmosis (OSMO) is the premier DEX and cross-chain DeFi hub within the Cosmos ecosystem, a network of over 50 sovereign, interoperable blockchains seamlessly connected through the Inter-Blockchain Communication Protocol (IBC). Pioneering in its approach, Osmosis offers a dynamic trading and liquidity provision experience, integrating non-IBC assets from other ecosystems, including Ethereum, Solana, Avalanche, and Polkadot. Initially adopting Balancer-style pools, Osmosis now also features a concentrated liquidity model that is orders of magnitude more capital efficient, meaning that significantly less liquidity is required to handle the same amount of trading volume with minimal slippage.\n\nAs a true appchain, Osmosis has greater control over the full blockchain stack than traditional smart contract DEXs, which must follow the code of the parent chain that it is built on. This fine-grained control has enabled, for example, the development of Superfluid Staking, an extension of Proof of Stake that allows assets at the application layer to be staked to secure the chain. The customizability of appchains also allows implementing features like the Protocol Revenue module, which enables Osmosis to conduct on-chain arbitrage on behalf of OSMO stakers, balancing prices across pools while generating real yield revenue from this volume. Additionally, as a sovereign appchain, Osmosis governance can vote on upgrades to the protocol. One example of this was the introduction of a Taker Fee, which switched on the collection of exchange fees to generate diverse yield from Osmosis volume and distribute it to OSMO stakers.\n\nOsmosis is bringing the full centralized exchange experience to the decentralized world by building a cross-chain native DEX and trading suite that connects all chains over IBC, including Ethereum and Bitcoin. To reach this goal, Osmosis hosts an ever-expanding suite of DeFi applications aimed at providing a one-stop experience that includes lending, credit, margin, DeFi strategy vaults, power perps, fiat on-ramps, NFTs, stablecoins, and more — all of the functionalities that centralized exchange offer and more, in the trust-minimized environment of decentralized finance.",
     "websiteURL": "https://osmosis.zone/"
   },
   "stevmos": {
     "localization": "en",
     "name": "Stride Staked EVMOS",
     "symbol": "stEVMOS",
-    "description": "undefined\n\nStride is a blockchain that provides liquidity for staked tokens. Using Stride, you can earn both taking and DeFi yields across the Cosmos IBC ecosystem.",
     "coingeckoID": "stride-staked-evmos",
     "websiteURL": "https://stride.zone/"
   },
@@ -431,7 +421,6 @@
     "localization": "en",
     "name": "Stride Staked ATOM",
     "symbol": "stATOM",
-    "description": "undefined\n\nStride is a blockchain that provides liquidity for staked tokens. Using Stride, you can earn both taking and DeFi yields across the Cosmos IBC ecosystem.",
     "coingeckoID": "stride-staked-atom",
     "websiteURL": "https://stride.zone/"
   },
@@ -1419,7 +1408,6 @@
     "localization": "en",
     "name": "Ion DAO",
     "symbol": "ION",
-    "description": "undefined\n\nOsmosis (OSMO) is the premier DEX and cross-chain DeFi hub within the Cosmos ecosystem, a network of over 50 sovereign, interoperable blockchains seamlessly connected through the Inter-Blockchain Communication Protocol (IBC). Pioneering in its approach, Osmosis offers a dynamic trading and liquidity provision experience, integrating non-IBC assets from other ecosystems, including Ethereum, Solana, Avalanche, and Polkadot. Initially adopting Balancer-style pools, Osmosis now also features a concentrated liquidity model that is orders of magnitude more capital efficient, meaning that significantly less liquidity is required to handle the same amount of trading volume with minimal slippage.\n\nAs a true appchain, Osmosis has greater control over the full blockchain stack than traditional smart contract DEXs, which must follow the code of the parent chain that it is built on. This fine-grained control has enabled, for example, the development of Superfluid Staking, an extension of Proof of Stake that allows assets at the application layer to be staked to secure the chain. The customizability of appchains also allows implementing features like the Protocol Revenue module, which enables Osmosis to conduct on-chain arbitrage on behalf of OSMO stakers, balancing prices across pools while generating real yield revenue from this volume. Additionally, as a sovereign appchain, Osmosis governance can vote on upgrades to the protocol. One example of this was the introduction of a Taker Fee, which switched on the collection of exchange fees to generate diverse yield from Osmosis volume and distribute it to OSMO stakers.\n\nOsmosis is bringing the full centralized exchange experience to the decentralized world by building a cross-chain native DEX and trading suite that connects all chains over IBC, including Ethereum and Bitcoin. To reach this goal, Osmosis hosts an ever-expanding suite of DeFi applications aimed at providing a one-stop experience that includes lending, credit, margin, DeFi strategy vaults, power perps, fiat on-ramps, NFTs, stablecoins, and more — all of the functionalities that centralized exchange offer and more, in the trust-minimized environment of decentralized finance.",
     "coingeckoID": "ion",
     "websiteURL": "https://osmosis.zone/",
     "twitterURL": "https://twitter.com/_IONDAO"
@@ -1462,7 +1450,6 @@
     "localization": "en",
     "name": "IBC Index",
     "symbol": "IBCX",
-    "description": "undefined\n\nOsmosis (OSMO) is the premier DEX and cross-chain DeFi hub within the Cosmos ecosystem, a network of over 50 sovereign, interoperable blockchains seamlessly connected through the Inter-Blockchain Communication Protocol (IBC). Pioneering in its approach, Osmosis offers a dynamic trading and liquidity provision experience, integrating non-IBC assets from other ecosystems, including Ethereum, Solana, Avalanche, and Polkadot. Initially adopting Balancer-style pools, Osmosis now also features a concentrated liquidity model that is orders of magnitude more capital efficient, meaning that significantly less liquidity is required to handle the same amount of trading volume with minimal slippage.\n\nAs a true appchain, Osmosis has greater control over the full blockchain stack than traditional smart contract DEXs, which must follow the code of the parent chain that it is built on. This fine-grained control has enabled, for example, the development of Superfluid Staking, an extension of Proof of Stake that allows assets at the application layer to be staked to secure the chain. The customizability of appchains also allows implementing features like the Protocol Revenue module, which enables Osmosis to conduct on-chain arbitrage on behalf of OSMO stakers, balancing prices across pools while generating real yield revenue from this volume. Additionally, as a sovereign appchain, Osmosis governance can vote on upgrades to the protocol. One example of this was the introduction of a Taker Fee, which switched on the collection of exchange fees to generate diverse yield from Osmosis volume and distribute it to OSMO stakers.\n\nOsmosis is bringing the full centralized exchange experience to the decentralized world by building a cross-chain native DEX and trading suite that connects all chains over IBC, including Ethereum and Bitcoin. To reach this goal, Osmosis hosts an ever-expanding suite of DeFi applications aimed at providing a one-stop experience that includes lending, credit, margin, DeFi strategy vaults, power perps, fiat on-ramps, NFTs, stablecoins, and more — all of the functionalities that centralized exchange offer and more, in the trust-minimized environment of decentralized finance.",
     "coingeckoID": "ibc-index",
     "websiteURL": "https://osmosis.zone/"
   },
@@ -1794,7 +1781,6 @@
     "localization": "en",
     "name": "Licorice",
     "symbol": "DGL",
-    "description": "undefined\n\nJuno is a completely community owned and operated smart contract platform.",
     "websiteURL": "https://www.junonetwork.io/"
   },
   "dec": {
@@ -2312,6 +2298,14 @@
     "coingeckoID": "akash-network",
     "websiteURL": "https://akash.network/",
     "twitterURL": "https://twitter.com/akashnet_"
+  },
+  "aioz": {
+    "localization": "en",
+    "name": "AIOZ Network",
+    "symbol": "AIOZ",
+    "description": "The native staking and governance token of the AIOZ Network.\n\nAIOZ Network is a DePIN for Web3 AI, Storage and Streaming.\n\nAIOZ empowers a faster, secure and decentralized future.\n\nPowered by a global network of DePINs, AIOZ rewards you for sharing your computational resources for storing, transcoding, and streaming digital media content and powering decentralized AI computation.",
+    "coingeckoID": "aioz-network",
+    "websiteURL": "https://aioz.network/"
   },
   "acre": {
     "localization": "en",

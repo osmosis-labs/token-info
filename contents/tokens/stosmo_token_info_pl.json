@@ -2,7 +2,6 @@
   "localization": "pl",
   "name": "Stride Staked OSMO",
   "symbol": "stOSMO",
-  "description": "nieokreślony<inlang-LineFeed>\nStride to blockchain zapewniający płynność postawionych tokenów. Korzystając ze Stride, możesz zarabiać zarówno na przyjmowaniu, jak i na plonach DeFi w całym ekosystemie Cosmos IBC.",
   "coingeckoID": "stride-staked-osmo",
   "websiteURL": "https://stride.zone/"
 }

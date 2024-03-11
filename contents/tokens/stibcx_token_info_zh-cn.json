@@ -2,6 +2,5 @@
   "localization": "zh",
   "name": "Staked IBCX",
   "symbol": "stIBCX",
-  "description": "不明确的<inlang-LineFeed><inlang-LineFeed>Osmosis (OSMO) 是 Cosmos 生态系统中首屈一指的 DEX 和跨链 DeFi 中心，该网络由 50 多个主权、可互操作的区块链组成，通过区块链间通信协议 (IBC) 无缝连接。 Osmosis 的方法具有开创性，提供动态交易和流动性提供体验，集成了来自其他生态系统（包括以太坊、Solana、Avalanche 和 Polkadot）的非 IBC 资产。 Osmosis 最初采用 Balancer 式资金池，现在还具有集中流动性模型，该模型的资本效率提高了几个数量级，这意味着以最小的滑点处理相同数量的交易量所需的流动性要少得多。<inlang-LineFeed><inlang-LineFeed>作为真正的应用链，Osmosis 比传统的智能合约 DEX 拥有更大的对整个区块链堆栈的控制权，传统的智能合约 DEX 必须遵循其构建的母链的代码。这种细粒度的控制使得 Superfluid Stake 的开发成为可能，这是权益证明的扩展，允许对应用程序层的资产进行质押以确保链的安全。应用程序链的可定制性还允许实现协议收入模块等功能，该模块使 Osmosis 能够代表 OSMO 质押者进行链上套利，平衡池之间的价格，同时从该数量中产生实际收益收入。此外，作为主权应用链，Osmosis 治理可以对协议升级进行投票。其中一个例子是引入了 Taker Fee，它通过收取交易费用来从 Osmosis 交易量中产生不同的收益，并将其分配给 OSMO 质押者。<inlang-LineFeed>\nOsmosis 通过构建跨链原生 DEX 和交易套件，通过 IBC 连接所有链（包括以太坊和比特币），为去中心化世界带来完整的中心化交易体验。为了实现这一目标，Osmosis 托管了一套不断扩展的 DeFi 应用程序，旨在提供一站式体验，包括借贷、信贷、保证金、DeFi 策略金库、power perps、法定入口、NFT、稳定币等 -在去中心化金融的信任最小化环境中，中心化交易所提供的所有功能等等。",
   "websiteURL": "https://osmosis.zone/"
 }
