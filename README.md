@@ -2,6 +2,10 @@
 
 This repo is used to manage the content that is displayed within the token pages on [Osmosis](https://github.com/osmosis-labs/osmosis-frontend)
 
+See the [$OSMO Token Info Page](https://app.osmosis.zone/assets/OSMO) as an example:
+![image](https://github.com/JeremyParish69/token-info/assets/95667791/49418fe6-986f-4c4f-94dc-b6c07757ab87)
+
+
 ## Token Data
 
 The data for Token Info Pages are managed and translated in this repository are:
@@ -16,13 +20,19 @@ The data for Token Info Pages are managed and translated in this repository are:
 It is recommended to have all applicable data registered, but it is OK if some properties are not applicable.
 
 To register or modify token data, it is recommended to create a Pull Request with the updates at the [Cosmos Chain Registry](https://github.com/cosmos/chain-registry):
-- Name          -> update /{chain directory}/assetlist.json: assets[{asset}].name
-- Symbol        -> update /{chain directory}/assetlist.json: assets[{asset}].symbol
-- Description   -> update /{chain directory}/assetlist.json: assets[{asset}].description, and
-                -> update /{chain directory}/assetlist.json: assets[{asset}].extended_description
-- CoinGecko ID  -> update /{chain directory}/assetlist.json: assets[{asset}].coingecko_id
-- Website URL   -> update /{chain directory}/assetlist.json: assets[{asset}].socials.website
-- Twitter URL   -> update /{chain directory}/assetlist.json: assets[{asset}].socials.twitter
+- Name
+  - -> update /{chain directory}/assetlist.json: assets[{asset}].name
+- Symbol
+  - -> update /{chain directory}/assetlist.json: assets[{asset}].symbol
+- Description
+  - -> update /{chain directory}/assetlist.json: assets[{asset}].description, and
+  - -> update /{chain directory}/assetlist.json: assets[{asset}].extended_description
+- CoinGecko ID
+  - -> update /{chain directory}/assetlist.json: assets[{asset}].coingecko_id
+- Website URL
+  - -> update /{chain directory}/assetlist.json: assets[{asset}].socials.website
+- Twitter URL
+  - -> update /{chain directory}/assetlist.json: assets[{asset}].socials.twitter
 
 
 ## Data Automation
@@ -30,7 +40,7 @@ To register or modify token data, it is recommended to create a Pull Request wit
 The automation used in this repository means there is little to no manual data entry required in this repository.
 
 - Generate English Token Files
-  - To prepare for updating token info pages to the latest registered data, be sure to first pull/update the chain-registry submodule (at the root of this repo).
+  - To prepare for updating token info pages to the latest registered data, be sure to first pull/update the chain-registry submodule (at the root of this repository).
   - To pull [English] token data, run `node generate_tokens.mjs` from the `./.github/workflows/utility/` directory.
     - Some paths are relative, so it is important to navigate to the specified directory before running the script.
     - The .mjs script requires that Node JS be installed.
