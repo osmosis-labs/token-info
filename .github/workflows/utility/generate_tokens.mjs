@@ -24,14 +24,35 @@
 
 import * as fs from 'fs';
 import * as path from 'path';
-import * as chain_reg from './chain_registry.mjs';
-
+import * as chain_reg from '../../../chain-registry/.github/workflows/utility/chain_registry.mjs';
 
 const tokenFileDir = "../../../contents/tokens/";
-const assetlistDir = "../../../../assetlists/osmosis-1/";
-const zoneAssetsFile = "osmosis.zone_assets.json";
 
 
+async function queryJsonFile(URL) {
+  try {
+    const response = await fetch(URL);
+    if (response.ok) {
+      const data = await response.json();
+      return data;
+    } else {
+      throw new Error(`Failed to fetch data: ${response.status} ${response.statusText}`);
+    }
+  } catch (error) {
+      throw new Error(`Error fetching data: ${error.message}`);
+  }
+}
+
+async function getZoneAssets() {
+  const assetlistURL = 'https://raw.githubusercontent.com/osmosis-labs/assetlists/main/osmosis-1/osmosis.zone_assets.json';
+  try {
+    const data = await queryJsonFile(assetlistURL);
+    return data;
+  } catch (error) {
+    console.error(error);
+    throw error;
+  }
+}
 
 function readTokenFile(symbol){
   let tokenFileName = symbol.toLowerCase() + "_token_info_en.json";
@@ -239,6 +260,7 @@ function getTokenCoingeckoID(asset) {
 }
 
 function getTokenInfo(zone_assets) {
+  console.log(zone_assets);
 
   zone_assets.assets.forEach((asset) => {
 
@@ -270,10 +292,15 @@ function getTokenInfo(zone_assets) {
 }
 
 
-function main(){
+async function main(){
 
-  const zone_assets = readFile(assetlistDir, zoneAssetsFile);
-  getTokenInfo(zone_assets);
+  try {
+    let zone_assets = await getZoneAssets();
+    //console.log(zone_assets); // Output the data fetched from the URL
+    getTokenInfo(zone_assets);
+  } catch (error) {
+    console.error(error);
+  }
 
 }
 
