@@ -2,7 +2,6 @@
   "localization": "zh",
   "name": "Stride Staked OSMO",
   "symbol": "stOSMO",
-  "description": "不明确的<inlang-LineFeed><inlang-LineFeed>Stride 是一个为质押代币提供流动性的区块链。使用 Stride，您可以在 Cosmos IBC 生态系统中同时赚取收益和 DeFi 收益。",
   "coingeckoID": "stride-staked-osmo",
   "websiteURL": "https://stride.zone/"
 }

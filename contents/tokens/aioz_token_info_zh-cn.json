@@ -1,0 +1,8 @@
+{
+  "localization": "zh",
+  "name": "AIOZ Network",
+  "symbol": "AIOZ",
+  "description": "AIOZ 网络的原生质押和治理代币。<inlang-LineFeed>\nAIOZ Network 是一个用于 Web3 AI、存储和流媒体的 DePIN。<inlang-LineFeed>\nAIOZ 赋予更快、安全和去中心化的未来。<inlang-LineFeed><inlang-LineFeed>在全球 DePIN 网络的支持下，AIOZ 奖励您共享用于存储、转码和流式传输数字媒体内容的计算资源，并为去中心化人工智能计算提供支持。",
+  "coingeckoID": "aioz-network",
+  "websiteURL": "https://aioz.network/"
+}

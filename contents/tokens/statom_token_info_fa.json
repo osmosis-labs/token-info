@@ -1,8 +1,6 @@
 {
-  "localization": "en",
   "name": "Stride Staked ATOM",
   "symbol": "stATOM",
-  "description": "تعریف نشده<inlang-LineFeed>\nStride یک بلاک چین است که نقدینگی را برای توکن های سهام فراهم می کند. با استفاده از Stride، می‌توانید بازده و بازدهی DeFi را در سراسر اکوسیستم Cosmos IBC کسب کنید.",
   "coingeckoID": "stride-staked-atom",
   "websiteURL": "https://stride.zone/"
 }
