@@ -3,5 +3,6 @@
   "name": "Marble",
   "symbol": "MARBLE",
   "description": "El token nativo cw20 para Marble DAO en Juno Chain",
-  "coingeckoID": "marble"
+  "coingeckoID": "marble",
+  "websiteURL": "https://www.junonetwork.io/"
 }

@@ -2,5 +2,6 @@
   "localization": "es",
   "name": "Frienzies",
   "symbol": "FRNZ",
-  "description": "Los Frienzies son un token de IBC canjeable exclusivamente por un activo físico emitido por la entidad Noble."
+  "description": "Los Frienzies son un token de IBC canjeable exclusivamente por un activo físico emitido por la entidad Noble.",
+  "websiteURL": "https://nobleassets.xyz/"
 }

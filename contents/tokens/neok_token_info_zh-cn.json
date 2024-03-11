@@ -2,5 +2,6 @@
   "localization": "zh",
   "name": "Neokingdom DAO",
   "symbol": "NEOK",
-  "description": "Neokingdom DAO 的代币。"
+  "description": "Neokingdom DAO 的代币。",
+  "websiteURL": "https://evmos.org/"
 }

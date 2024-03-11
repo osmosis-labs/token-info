@@ -3,5 +3,6 @@
   "name": "StaFi Hub",
   "symbol": "FIS",
   "description": "The native staking and governance token of the StaFi Hub.",
-  "coingeckoID": "stafi"
+  "coingeckoID": "stafi",
+  "websiteURL": "https://stafihub.io/"
 }

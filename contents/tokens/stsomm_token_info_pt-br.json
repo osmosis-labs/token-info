@@ -2,5 +2,7 @@
   "localization": "pt",
   "name": "Stride Staked SOMM",
   "symbol": "stSOMM",
-  "description": "Somm Token (SOMM) é o token de piquetagem nativo da Sommelier Chain"
+  "description": "indefinido<inlang-LineFeed>\nStride é um blockchain que fornece liquidez para tokens apostados. Usando o Stride, você pode obter rendimentos de take e DeFi em todo o ecossistema Cosmos IBC.",
+  "coingeckoID": "stride-staked-sommelier",
+  "websiteURL": "https://stride.zone/"
 }

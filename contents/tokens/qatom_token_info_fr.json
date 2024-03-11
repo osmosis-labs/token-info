@@ -2,5 +2,6 @@
   "localization": "fr",
   "name": "Quicksilver Liquid Staked ATOM",
   "symbol": "qATOM",
-  "description": "ATOM jalonné liquide Quicksilver"
+  "description": "ATOM jalonné liquide Quicksilver",
+  "websiteURL": "https://quicksilver.zone/"
 }

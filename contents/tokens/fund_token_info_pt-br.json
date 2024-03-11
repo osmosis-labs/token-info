@@ -3,5 +3,6 @@
   "name": "Unification",
   "symbol": "FUND",
   "description": "Moeda de piquetagem e governança para o Blockchain da Unificação",
-  "coingeckoID": "unification"
+  "coingeckoID": "unification",
+  "websiteURL": "https://unification.com/"
 }

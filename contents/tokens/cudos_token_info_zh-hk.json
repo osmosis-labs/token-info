@@ -3,5 +3,6 @@
   "name": "Cudos",
   "symbol": "CUDOS",
   "description": "Cudos 區塊鏈的原生代幣",
-  "coingeckoID": "cudos"
+  "coingeckoID": "cudos",
+  "websiteURL": "https://www.cudos.org/"
 }

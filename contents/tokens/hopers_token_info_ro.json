@@ -3,5 +3,6 @@
   "name": "Hopers",
   "symbol": "HOPERS",
   "description": "Jetonul nativ cw20 pentru Hopers pe Juno Chain",
-  "coingeckoID": "hopers-io "
+  "coingeckoID": "hopers-io",
+  "websiteURL": "https://www.junonetwork.io/"
 }

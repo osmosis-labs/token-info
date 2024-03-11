@@ -1,6 +1,7 @@
 {
-  "localization": "es",
   "name": "Stride Staked UMEE",
   "symbol": "stUMEE",
-  "description": "La ficha nativa de Umee"
+  "description": "indefinido<inlang-LineFeed>\nStride es una cadena de bloques que proporciona liquidez para los tokens apostados. Con Stride, puede obtener rendimientos tanto de DeFi como de tomas en todo el ecosistema Cosmos IBC.",
+  "coingeckoID": "stride-staked-umee",
+  "websiteURL": "https://stride.zone/"
 }

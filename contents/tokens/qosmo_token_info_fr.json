@@ -2,5 +2,6 @@
   "localization": "fr",
   "name": "Quicksilver Liquid Staked OSMO",
   "symbol": "qOSMO",
-  "description": "OSMO jalonné de liquide Quicksilver"
+  "description": "OSMO jalonné de liquide Quicksilver",
+  "websiteURL": "https://quicksilver.zone/"
 }

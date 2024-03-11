@@ -2,5 +2,6 @@
   "localization": "tr",
   "name": "Block",
   "symbol": "BLOCK",
-  "description": "Juno Chain'deki Marble DEX'in yerel tokenı"
+  "description": "Juno Chain'deki Marble DEX'in yerel tokenı",
+  "websiteURL": "https://www.junonetwork.io/"
 }

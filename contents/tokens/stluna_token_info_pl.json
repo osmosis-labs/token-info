@@ -2,5 +2,7 @@
   "localization": "pl",
   "name": "Stride Staked LUNA",
   "symbol": "stLUNA",
-  "description": "Rodzimy token tyczenia Terry."
+  "description": "nieokreślony<inlang-LineFeed>\nStride to blockchain zapewniający płynność postawionych tokenów. Korzystając ze Stride, możesz zarabiać zarówno na przyjmowaniu, jak i na plonach DeFi w całym ekosystemie Cosmos IBC.",
+  "coingeckoID": "stride-staked-luna",
+  "websiteURL": "https://stride.zone/"
 }

@@ -2,5 +2,6 @@
   "localization": "en",
   "name": "Guardian",
   "symbol": "GRDN",
-  "description": "نشانه حکومتداری Evmos Guardians."
+  "description": "نشانه حکومتداری Evmos Guardians.",
+  "websiteURL": "https://www.junonetwork.io/"
 }

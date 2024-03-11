@@ -2,5 +2,6 @@
   "localization": "ro",
   "name": "Shade (old)",
   "symbol": "SHD(old)",
-  "description": "Jetonul nativ cw20 pentru Shade on Secret Network"
+  "description": "Jetonul nativ cw20 pentru Shade on Secret Network",
+  "websiteURL": "https://scrt.network/"
 }

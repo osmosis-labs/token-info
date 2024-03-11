@@ -2,5 +2,7 @@
   "localization": "en",
   "name": "Stride Staked LUNA",
   "symbol": "stLUNA",
-  "description": "The native staking token of Terra."
+  "description": "undefined\n\nStride is a blockchain that provides liquidity for staked tokens. Using Stride, you can earn both taking and DeFi yields across the Cosmos IBC ecosystem.",
+  "coingeckoID": "stride-staked-luna",
+  "websiteURL": "https://stride.zone/"
 }

@@ -2,5 +2,7 @@
   "localization": "en",
   "name": "Levana",
   "symbol": "LVN",
-  "description": "نشانه بومی لوانا"
+  "description": "نشانه بومی لوانا",
+  "coingeckoID": "levana-protocol",
+  "websiteURL": "https://osmosis.zone/"
 }

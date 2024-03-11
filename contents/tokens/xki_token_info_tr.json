@@ -2,5 +2,6 @@
   "name": "Ki",
   "symbol": "XKI",
   "description": "Ki Chain'in yerel tokenı",
-  "coingeckoID": "ki"
+  "coingeckoID": "ki",
+  "websiteURL": "https://foundation.ki/"
 }

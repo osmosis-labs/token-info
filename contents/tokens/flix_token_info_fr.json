@@ -1,8 +1,8 @@
 {
-  "description": "Le jeton de jalonnement natif d'OmniFlix Hub.<inlang-LineFeed>\nCouche multimédia et réseau décentralisée pour les créateurs et les communautés souveraines alimentée par les NFT et les protocoles de distribution associés.",
-  "localization": "fr",
   "name": "OmniFlix",
-  "twitterURL": "https://twitter.com/OmniFlixNetwork",
+  "symbol": "FLIX",
+  "description": "Le jeton de jalonnement natif d'OmniFlix Hub.<inlang-LineFeed>\nCouche multimédia et réseau décentralisée pour les créateurs et les communautés souveraines alimentée par les NFT et les protocoles de distribution associés.",
   "coingeckoID": "omniflix-network",
-  "symbol": "FLIX"
+  "websiteURL": "https://omniflix.network/",
+  "twitterURL": "https://twitter.com/OmniFlixNetwork"
 }

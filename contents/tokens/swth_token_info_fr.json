@@ -3,5 +3,6 @@
   "name": "Carbon",
   "symbol": "SWTH",
   "description": "Le jeton de gouvernance natif de Carbon",
-  "coingeckoID": "switcheo"
+  "coingeckoID": "switcheo",
+  "websiteURL": "https://www.carbon.network/"
 }

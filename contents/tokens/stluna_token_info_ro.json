@@ -2,5 +2,7 @@
   "localization": "ro",
   "name": "Stride Staked LUNA",
   "symbol": "stLUNA",
-  "description": "Jetonul de miza nativ al Terrei."
+  "description": "nedefinit<inlang-LineFeed>\nStride este un blockchain care oferă lichiditate pentru jetoanele mizate. Folosind Stride, puteți câștiga atât câștiguri, cât și venituri DeFi în ecosistemul Cosmos IBC.",
+  "coingeckoID": "stride-staked-luna",
+  "websiteURL": "https://stride.zone/"
 }

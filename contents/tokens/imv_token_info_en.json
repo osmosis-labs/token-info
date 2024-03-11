@@ -3,5 +3,6 @@
   "name": "Imversed",
   "symbol": "IMV",
   "description": "The native EVM, governance and staking token of the Imversed",
-  "coingeckoID": "imv"
+  "coingeckoID": "imv",
+  "websiteURL": "https://imversed.network/"
 }

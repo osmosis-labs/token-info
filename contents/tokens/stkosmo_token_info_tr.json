@@ -2,5 +2,7 @@
   "localization": "tr",
   "name": "PSTAKE staked OSMO",
   "symbol": "stkOSMO",
-  "description": "PSTAKE Sıvı-Stakeli OSMO"
+  "description": "PSTAKE Sıvı-Stakeli OSMO",
+  "coingeckoID": "pstake-staked-osmo",
+  "websiteURL": "https://persistence.one/"
 }

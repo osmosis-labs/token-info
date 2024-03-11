@@ -3,5 +3,6 @@
   "name": "SCRT Staking Derivatives",
   "symbol": "stkd-SCRT",
   "description": "توکن بومی cw20 برای SCRT Staking مشتقات در شبکه مخفی",
-  "coingeckoID": "stkd-scrt"
+  "coingeckoID": "stkd-scrt",
+  "websiteURL": "https://scrt.network/"
 }

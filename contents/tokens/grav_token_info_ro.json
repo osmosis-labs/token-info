@@ -1,8 +1,9 @@
 {
   "localization": "ro",
-  "description": "Indicatorul nativ al Gravity Bridge<inlang-LineFeed>\nO punte deschisă, descentralizată, care deblochează puterea interoperabilității și lichidității între ecosistemele blockchain.",
   "name": "Gravity Bridge",
   "symbol": "GRAV",
-  "twitterURL": "https://twitter.com/gravity_bridge",
-  "coingeckoID": "graviton"
+  "description": "Indicatorul nativ al Gravity Bridge<inlang-LineFeed>\nO punte deschisă, descentralizată, care deblochează puterea interoperabilității și lichidității între ecosistemele blockchain.",
+  "coingeckoID": "graviton",
+  "websiteURL": "https://www.gravitybridge.net/",
+  "twitterURL": "https://twitter.com/gravity_bridge"
 }

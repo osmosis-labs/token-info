@@ -3,5 +3,6 @@
   "name": "LikeCoin",
   "symbol": "LIKE",
   "description": "LIKE is the native staking and governance token of LikeCoin chain, a Decentralized Publishing Infrastructure to empower content ownership, authenticity, and provenance.",
-  "coingeckoID": "likecoin"
+  "coingeckoID": "likecoin",
+  "websiteURL": "https://like.co/"
 }

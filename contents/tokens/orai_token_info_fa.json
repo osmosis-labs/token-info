@@ -3,5 +3,6 @@
   "name": "Oraichain",
   "symbol": "ORAI",
   "description": "نشانه بومی Oraichain",
-  "coingeckoID": "oraichain-token"
+  "coingeckoID": "oraichain-token",
+  "websiteURL": "https://orai.io/"
 }

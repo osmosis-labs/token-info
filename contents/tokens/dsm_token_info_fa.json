@@ -3,5 +3,6 @@
   "name": "Desmos",
   "symbol": "DSM",
   "description": "نشانه بومی دسموس",
-  "coingeckoID": "desmos"
+  "coingeckoID": "desmos",
+  "websiteURL": "https://desmos.network/"
 }

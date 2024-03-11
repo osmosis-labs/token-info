@@ -3,5 +3,6 @@
   "name": "Jackal",
   "symbol": "JKL",
   "description": "Jackal의 기본 스테이킹 및 거버넌스 토큰입니다.",
-  "coingeckoID": "jackal-protocol"
+  "coingeckoID": "jackal-protocol",
+  "websiteURL": "https://jackalprotocol.com"
 }

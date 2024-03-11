@@ -2,5 +2,6 @@
   "localization": "fr",
   "name": "O9W",
   "symbol": "O9W",
-  "description": "Jeton O9W pour le protocole ODIN"
+  "description": "Jeton O9W pour le protocole ODIN",
+  "websiteURL": "https://odinprotocol.io/"
 }

@@ -1,8 +1,9 @@
 {
-  "description": "Quasar的原生代币<inlang-LineFeed><inlang-LineFeed>Quasar 是 IBC 启用的第一个去中心化资产管理（DAM）平台。安全、无需许可、可组合、多元化的跨链 DeFi 体验终于来临。",
   "localization": "zh",
   "name": "Quasar",
   "symbol": "QSR",
-  "twitterURL": "https://twitter.com/QuasarFi",
-  "coingeckoID": "quasar-2"
+  "description": "Quasar的原生代币<inlang-LineFeed><inlang-LineFeed>Quasar 是 IBC 启用的第一个去中心化资产管理（DAM）平台。安全、无需许可、可组合、多元化的跨链 DeFi 体验终于来临。",
+  "coingeckoID": "quasar-2",
+  "websiteURL": "https://www.quasar.fi/",
+  "twitterURL": "https://twitter.com/QuasarFi"
 }

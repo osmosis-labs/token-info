@@ -2,5 +2,6 @@
   "localization": "tr",
   "name": "Shade (old)",
   "symbol": "SHD(old)",
-  "description": "Secret Network'te Shade için yerel token cw20"
+  "description": "Secret Network'te Shade için yerel token cw20",
+  "websiteURL": "https://scrt.network/"
 }

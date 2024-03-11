@@ -3,5 +3,6 @@
   "name": "Dig Chain",
   "symbol": "DIG",
   "description": "Token nativo da Dig Chain",
-  "coingeckoID": "dig-chain"
+  "coingeckoID": "dig-chain",
+  "websiteURL": "https://digchain.org/"
 }

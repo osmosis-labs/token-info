@@ -3,5 +3,6 @@
   "name": "Tgrade",
   "symbol": "TGD",
   "description": "Tgrade的原生代币",
-  "coingeckoID": "tgrade"
+  "coingeckoID": "tgrade",
+  "websiteURL": "https://tgrade.finance/"
 }

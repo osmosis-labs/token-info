@@ -3,5 +3,6 @@
   "name": "Ki",
   "symbol": "XKI",
   "description": "The native token of Ki Chain",
-  "coingeckoID": "ki"
+  "coingeckoID": "ki",
+  "websiteURL": "https://foundation.ki/"
 }

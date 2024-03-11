@@ -3,5 +3,6 @@
   "name": "StakeEasy bJUNO",
   "symbol": "BJUNO",
   "description": "Staking pochodny bJUNO dla postawionego JUNO",
-  "coingeckoID": "stakeeasy-bjuno"
+  "coingeckoID": "stakeeasy-bjuno",
+  "websiteURL": "https://www.junonetwork.io/"
 }

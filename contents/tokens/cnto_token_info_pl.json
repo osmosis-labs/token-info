@@ -2,5 +2,6 @@
   "localization": "pl",
   "name": "Ciento Token",
   "symbol": "CNTO",
-  "description": "Token wymiany Ciento"
+  "description": "Token wymiany Ciento",
+  "websiteURL": "https://arable.finance/"
 }

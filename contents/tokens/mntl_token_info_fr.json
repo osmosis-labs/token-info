@@ -1,8 +1,9 @@
 {
   "localization": "fr",
-  "description": "Le jeton natif d’Asset Mantle<inlang-LineFeed>\nLa suite de produits AssetMantle est axée sur l'écosystème NFT, vous aidant à améliorer votre jeu grâce à la propriété d'actifs numériques.",
   "name": "AssetMantle",
   "symbol": "MNTL",
+  "description": "Le jeton natif d’Asset Mantle<inlang-LineFeed>\nLa suite de produits AssetMantle est axée sur l'écosystème NFT, vous aidant à améliorer votre jeu grâce à la propriété d'actifs numériques.",
   "coingeckoID": "assetmantle",
+  "websiteURL": "https://assetmantle.one/",
   "twitterURL": "https://twitter.com/AssetMantle"
 }

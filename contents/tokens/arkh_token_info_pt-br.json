@@ -2,5 +2,6 @@
   "localization": "pt",
   "name": "Arkhadian",
   "symbol": "ARKH",
-  "description": "O token nativo de Arkhadian"
+  "description": "O token nativo de Arkhadian",
+  "websiteURL": "https://arkhadian.com/"
 }

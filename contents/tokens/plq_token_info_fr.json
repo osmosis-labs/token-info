@@ -3,5 +3,6 @@
   "name": "Planq",
   "symbol": "PLQ",
   "description": "L'EVM natif, la gouvernance et le jeton de staking du réseau Planq",
-  "coingeckoID": "planq"
+  "coingeckoID": "planq",
+  "websiteURL": "https://planq.network/"
 }

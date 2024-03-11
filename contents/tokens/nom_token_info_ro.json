@@ -3,5 +3,6 @@
   "name": "Onomy",
   "symbol": "NOM",
   "description": "Indicatorul nativ al Protocolului Onomy",
-  "coingeckoID": "onomy-protocol"
+  "coingeckoID": "onomy-protocol",
+  "websiteURL": "https://onomy.io/"
 }

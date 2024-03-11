@@ -2,5 +2,6 @@
   "localization": "ro",
   "name": "Stride Staked TIA",
   "symbol": "stTIA",
-  "description": "TIA lichidă a lui Stride"
+  "description": "TIA lichidă a lui Stride",
+  "websiteURL": "https://stride.zone/"
 }

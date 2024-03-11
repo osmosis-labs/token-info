@@ -3,5 +3,6 @@
   "name": "SIENNA",
   "symbol": "SIENNA",
   "description": "Secret Network의 SIENNA용 기본 토큰 cw20",
-  "coingeckoID": "sienna"
+  "coingeckoID": "sienna",
+  "websiteURL": "https://scrt.network/"
 }

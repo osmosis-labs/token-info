@@ -3,5 +3,6 @@
   "name": "Tgrade",
   "symbol": "TGD",
   "description": "Tgrade의 기본 토큰",
-  "coingeckoID": "tgrade"
+  "coingeckoID": "tgrade",
+  "websiteURL": "https://tgrade.finance/"
 }

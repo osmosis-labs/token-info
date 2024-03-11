@@ -2,5 +2,6 @@
   "localization": "ro",
   "name": "O9W",
   "symbol": "O9W",
-  "description": "Token O9W pentru protocolul ODIN"
+  "description": "Token O9W pentru protocolul ODIN",
+  "websiteURL": "https://odinprotocol.io/"
 }

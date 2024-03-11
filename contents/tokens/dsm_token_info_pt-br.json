@@ -3,5 +3,6 @@
   "name": "Desmos",
   "symbol": "DSM",
   "description": "O token nativo do Desmos",
-  "coingeckoID": "desmos"
+  "coingeckoID": "desmos",
+  "websiteURL": "https://desmos.network/"
 }

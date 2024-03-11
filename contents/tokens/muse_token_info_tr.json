@@ -2,5 +2,6 @@
   "localization": "tr",
   "name": "MuseDAO",
   "symbol": "MUSE",
-  "description": "Juno Chain'de MuseDAO için yerel token cw20"
+  "description": "Juno Chain'de MuseDAO için yerel token cw20",
+  "websiteURL": "https://www.junonetwork.io/"
 }

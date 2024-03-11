@@ -2,5 +2,6 @@
   "localization": "es",
   "name": "Stride Staked DYDX",
   "symbol": "stDYDX",
-  "description": "El líquido de Stride apostado DYDX"
+  "description": "El líquido de Stride apostado DYDX",
+  "websiteURL": "https://stride.zone/"
 }

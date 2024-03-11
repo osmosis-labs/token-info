@@ -3,5 +3,6 @@
   "name": "Rebus",
   "symbol": "REBUS",
   "description": "REBUS，Rebus鏈的原生幣。",
-  "coingeckoID": "rebus"
+  "coingeckoID": "rebus",
+  "websiteURL": "https://www.rebuschain.com/"
 }

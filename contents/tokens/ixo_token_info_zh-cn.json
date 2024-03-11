@@ -1,6 +1,7 @@
 {
-  "name": "ixo",
+  "name": "Impacts Hub",
   "symbol": "IXO",
   "description": "IXO Chain的原生代币",
-  "coingeckoID": "ixo"
+  "coingeckoID": "ixo",
+  "websiteURL": "https://www.ixo.world/"
 }

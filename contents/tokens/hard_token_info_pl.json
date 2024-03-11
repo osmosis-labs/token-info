@@ -3,5 +3,6 @@
   "name": "Kava Hard",
   "symbol": "HARD",
   "description": "Token zarządzania Protokołem Kava Lend",
-  "coingeckoID": "kava-lend"
+  "coingeckoID": "kava-lend",
+  "websiteURL": "https://www.kava.io/"
 }

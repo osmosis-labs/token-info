@@ -1,8 +1,9 @@
 {
   "localization": "zh",
-  "description": "Asset Mantle 原生代币<inlang-LineFeed><inlang-LineFeed>AssetMantle 的产品套件专注于 NFT 生态系统，帮助您提升数字资产所有权的游戏水平。",
   "name": "AssetMantle",
   "symbol": "MNTL",
+  "description": "Asset Mantle 原生代币<inlang-LineFeed><inlang-LineFeed>AssetMantle 的产品套件专注于 NFT 生态系统，帮助您提升数字资产所有权的游戏水平。",
   "coingeckoID": "assetmantle",
+  "websiteURL": "https://assetmantle.one/",
   "twitterURL": "https://twitter.com/AssetMantle"
 }

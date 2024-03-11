@@ -2,5 +2,6 @@
   "localization": "es",
   "name": "rATOM",
   "symbol": "rATOM",
-  "description": "Una representación de apuesta líquida de ATOM apostados"
+  "description": "Una representación de apuesta líquida de ATOM apostados",
+  "websiteURL": "https://stafihub.io/"
 }

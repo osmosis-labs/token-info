@@ -1,7 +1,9 @@
 {
-  "description": "JUNO Chain'in yerel tokenı<inlang-LineFeed>\nJuno, tamamen topluluğun sahip olduğu ve işlettiği bir akıllı sözleşme platformudur.",
+  "localization": "tr",
   "name": "Juno",
   "symbol": "JUNO",
-  "twitterURL": "https://twitter.com/JunoNetwork",
-  "coingeckoID": "juno-network"
+  "description": "JUNO Chain'in yerel tokenı<inlang-LineFeed>\nJuno, tamamen topluluğun sahip olduğu ve işlettiği bir akıllı sözleşme platformudur.",
+  "coingeckoID": "juno-network",
+  "websiteURL": "https://www.junonetwork.io/",
+  "twitterURL": "https://twitter.com/JunoNetwork"
 }

@@ -1,5 +1,8 @@
 {
   "localization": "en",
   "name": "Stride Staked EVMOS",
-  "symbol": "stEVMOS"
+  "symbol": "stEVMOS",
+  "description": "undefined\n\nStride is a blockchain that provides liquidity for staked tokens. Using Stride, you can earn both taking and DeFi yields across the Cosmos IBC ecosystem.",
+  "coingeckoID": "stride-staked-evmos",
+  "websiteURL": "https://stride.zone/"
 }

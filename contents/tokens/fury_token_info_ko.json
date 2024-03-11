@@ -3,5 +3,6 @@
   "name": "Fanfury",
   "symbol": "FURY",
   "description": "Juno Chain의 Fanfury를 위한 기본 토큰 cw20",
-  "coingeckoID": "fanfury"
+  "coingeckoID": "fanfury",
+  "websiteURL": "https://www.junonetwork.io/"
 }

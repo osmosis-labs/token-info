@@ -2,5 +2,6 @@
   "localization": "tr",
   "name": "Galaxy",
   "symbol": "GLX",
-  "description": "GLX, Galaxy Chain'in stake tokenıdır"
+  "description": "GLX, Galaxy Chain'in stake tokenıdır",
+  "websiteURL": "https://galaxychain.zone/"
 }

@@ -1,6 +1,8 @@
 {
+  "localization": "fr",
   "name": "Stride Staked ATOM",
   "symbol": "stATOM",
-  "description": "Le jeton natif de jalonnement et de gouvernance du Cosmos Hub.",
-  "coingeckoID": "stride-staked-atom"
+  "description": "indéfini<inlang-LineFeed>\nStride est une blockchain qui fournit de la liquidité pour les jetons mis en jeu. En utilisant Stride, vous pouvez gagner à la fois des rendements de prise et de DeFi dans l'ensemble de l'écosystème Cosmos IBC.",
+  "coingeckoID": "stride-staked-atom",
+  "websiteURL": "https://stride.zone/"
 }

@@ -3,5 +3,6 @@
   "name": "Vidulum",
   "symbol": "VDL",
   "description": "The native token of Vidulum",
-  "coingeckoID": "vidulum"
+  "coingeckoID": "vidulum",
+  "websiteURL": "https://vidulum.app/"
 }

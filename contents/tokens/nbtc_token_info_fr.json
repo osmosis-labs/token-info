@@ -1,6 +1,6 @@
 {
-  "localization": "fr",
   "name": "Nomic Bitcoin",
   "symbol": "nBTC",
-  "description": "Bitcoin. Sur Cosmos."
+  "description": "Bitcoin. Sur Cosmos.",
+  "websiteURL": "https://nomic.io/"
 }

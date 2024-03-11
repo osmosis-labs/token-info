@@ -1,5 +1,7 @@
 {
   "localization": "zh",
   "name": "Licorice",
-  "symbol": "DGL"
+  "symbol": "DGL",
+  "description": "不明確的<inlang-LineFeed><inlang-LineFeed>Juno 是一個完全由社區擁有和營運的智慧合約平台。",
+  "websiteURL": "https://www.junonetwork.io/"
 }

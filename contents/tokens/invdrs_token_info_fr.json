@@ -2,5 +2,6 @@
   "localization": "fr",
   "name": "Invaders",
   "symbol": "INVDRS",
-  "description": "Jeton DAO Invaders des Gardiens d'Evmos."
+  "description": "Jeton DAO Invaders des Gardiens d'Evmos.",
+  "websiteURL": "https://www.junonetwork.io/"
 }

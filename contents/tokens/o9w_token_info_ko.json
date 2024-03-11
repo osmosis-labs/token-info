@@ -2,5 +2,6 @@
   "localization": "ko",
   "name": "O9W",
   "symbol": "O9W",
-  "description": "ODIN 프로토콜용 O9W 토큰"
+  "description": "ODIN 프로토콜용 O9W 토큰",
+  "websiteURL": "https://odinprotocol.io/"
 }

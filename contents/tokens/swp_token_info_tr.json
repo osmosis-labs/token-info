@@ -3,5 +3,6 @@
   "name": "Kava Swap",
   "symbol": "SWP",
   "description": "Kava Swap Protokolünün yönetim tokenı",
-  "coingeckoID": "kava-swap"
+  "coingeckoID": "kava-swap",
+  "websiteURL": "https://www.kava.io/"
 }

@@ -3,5 +3,6 @@
   "name": "Shade",
   "symbol": "SHD",
   "description": "Shade on Secret Network 的原生代幣 cw20",
-  "coingeckoID": "shade-protocol"
+  "coingeckoID": "shade-protocol",
+  "websiteURL": "https://scrt.network/"
 }

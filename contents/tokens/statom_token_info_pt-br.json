@@ -1,6 +1,8 @@
 {
+  "localization": "pt",
   "name": "Stride Staked ATOM",
   "symbol": "stATOM",
-  "description": "O token nativo de piquetagem e governança do Cosmos Hub.",
-  "coingeckoID": "stride-staked-atom"
+  "description": "indefinido<inlang-LineFeed>\nStride é um blockchain que fornece liquidez para tokens apostados. Usando o Stride, você pode obter rendimentos de take e DeFi em todo o ecossistema Cosmos IBC.",
+  "coingeckoID": "stride-staked-atom",
+  "websiteURL": "https://stride.zone/"
 }

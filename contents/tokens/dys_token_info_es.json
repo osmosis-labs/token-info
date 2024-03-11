@@ -2,5 +2,6 @@
   "localization": "es",
   "name": "Dyson Protocol",
   "symbol": "DYS",
-  "description": "El token nativo de participación y gobernanza del Protocolo Dyson"
+  "description": "El token nativo de participación y gobernanza del Protocolo Dyson",
+  "websiteURL": "https://dysonprotocol.com/"
 }

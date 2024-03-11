@@ -2,6 +2,7 @@
   "localization": "en",
   "name": "Migaloo",
   "symbol": "WHALE",
-  "description": "نماد بومی زنجیره میگالو",
-  "coingeckoID": "white-whale"
+  "description": "نشانه بومی زنجیره میگالو",
+  "coingeckoID": "white-whale",
+  "websiteURL": "https://www.whitewhale.money/"
 }

@@ -2,5 +2,6 @@
   "localization": "ro",
   "name": "Neokingdom DAO",
   "symbol": "NEOK",
-  "description": "Indicatorul Neokingdom DAO."
+  "description": "Indicatorul Neokingdom DAO.",
+  "websiteURL": "https://evmos.org/"
 }

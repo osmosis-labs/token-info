@@ -2,5 +2,6 @@
   "localization": "ko",
   "name": "Apollo DAO",
   "symbol": "APOLLO",
-  "description": "Apollo DAO 프로젝트의 디플레이션 유틸리티 토큰"
+  "description": "Apollo DAO 프로젝트의 디플레이션 유틸리티 토큰",
+  "websiteURL": "https://neutron.org/"
 }

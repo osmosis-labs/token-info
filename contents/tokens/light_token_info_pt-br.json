@@ -2,5 +2,6 @@
   "localization": "pt",
   "name": "LIGHT",
   "symbol": "LIGHT",
-  "description": "Light: token do tesouro DAO da comunidade LumenX"
+  "description": "Light: token do tesouro DAO da comunidade LumenX",
+  "websiteURL": "https://www.junonetwork.io/"
 }

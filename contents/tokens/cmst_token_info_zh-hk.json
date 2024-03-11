@@ -3,5 +3,6 @@
   "name": "CMST",
   "symbol": "CMST",
   "description": "Comdex網路上Harbor協議的穩定代幣",
-  "coingeckoID": "composite"
+  "coingeckoID": "composite",
+  "websiteURL": "https://comdex.one/"
 }

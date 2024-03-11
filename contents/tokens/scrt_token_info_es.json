@@ -1,8 +1,9 @@
 {
   "localization": "es",
-  "symbol": "SCRT",
   "name": "Secret Network",
+  "symbol": "SCRT",
   "description": "El token nativo de Secret Network<inlang-LineFeed>\nSecret Network es la primera cadena de bloques con privacidad personalizable. Puedes elegir qué compartes, con quién y cómo. Esto protege a los usuarios y permite a los desarrolladores crear una mejor Web3.",
-  "twitterURL": "https://twitter.com/SecretNetwork",
-  "coingeckoID": "secret"
+  "coingeckoID": "secret",
+  "websiteURL": "https://scrt.network/",
+  "twitterURL": "https://twitter.com/SecretNetwork"
 }

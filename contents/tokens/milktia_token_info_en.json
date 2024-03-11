@@ -3,5 +3,6 @@
   "name": "milkTIA",
   "symbol": "milkTIA",
   "description": "MilkyWay's liquid staked TIA",
-  "coingeckoID": "milkyway-staked-tia"
+  "coingeckoID": "milkyway-staked-tia",
+  "websiteURL": "https://osmosis.zone/"
 }

@@ -1,8 +1,8 @@
 {
-  "localization": "en",
-  "description": "BLD توکنی است که برای ایمن کردن زنجیره آگوریک از طریق staking و برای توقف پروتکل اینتر استفاده می شود.<inlang-LineFeed>\nپلتفرم Agoric ساخت برنامه های غیرمتمرکز با استفاده از دانش جاوا اسکریپت موجود را ایمن و بدون درز می کند.",
   "name": "Agoric",
   "symbol": "BLD",
-  "twitterURL": "https://twitter.com/agoric",
-  "coingeckoID": "agoric"
+  "description": "BLD توکنی است که برای ایمن کردن زنجیره آگوریک از طریق staking و برای توقف پروتکل اینتر استفاده می شود.<inlang-LineFeed>\nپلتفرم Agoric ساخت برنامه های غیرمتمرکز با استفاده از دانش جاوا اسکریپت موجود را ایمن و بدون درز می کند.",
+  "coingeckoID": "agoric",
+  "websiteURL": "https://agoric.com/",
+  "twitterURL": "https://twitter.com/agoric"
 }

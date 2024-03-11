@@ -1,8 +1,9 @@
 {
-  "description": "Le jeton de jalonnement natif de Sei.<inlang-LineFeed>\nSei est la blockchain de couche 1 la plus rapide, conçue pour évoluer avec l'industrie.",
   "localization": "fr",
   "name": "Sei",
   "symbol": "SEI",
-  "twitterURL": "https://twitter.com/SeiNetwork",
-  "coingeckoID": "sei-network"
+  "description": "Le jeton de jalonnement natif de Sei.<inlang-LineFeed>\nSei est la blockchain de couche 1 la plus rapide, conçue pour évoluer avec l'industrie.",
+  "coingeckoID": "sei-network",
+  "websiteURL": "https://www.sei.io/",
+  "twitterURL": "https://twitter.com/SeiNetwork"
 }

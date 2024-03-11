@@ -3,5 +3,6 @@
   "name": "MantaDAO",
   "symbol": "MNTA",
   "description": "Token de governança MantaDAO",
-  "coingeckoID": "mantadao"
+  "coingeckoID": "mantadao",
+  "websiteURL": "https://kujira.app/"
 }

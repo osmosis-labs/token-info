@@ -2,5 +2,7 @@
   "localization": "pt",
   "name": "Levana",
   "symbol": "LVN",
-  "description": "Token nativo Levana"
+  "description": "Token nativo Levana",
+  "coingeckoID": "levana-protocol",
+  "websiteURL": "https://osmosis.zone/"
 }

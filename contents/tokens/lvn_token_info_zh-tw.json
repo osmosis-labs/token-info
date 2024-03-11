@@ -2,5 +2,7 @@
   "localization": "zh",
   "name": "Levana",
   "symbol": "LVN",
-  "description": "Levana 原生代幣"
+  "description": "Levana 原生代幣",
+  "coingeckoID": "levana-protocol",
+  "websiteURL": "https://osmosis.zone/"
 }

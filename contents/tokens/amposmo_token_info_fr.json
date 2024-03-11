@@ -2,5 +2,6 @@
   "localization": "fr",
   "name": "ERIS Amplified OSMO",
   "symbol": "ampOSMO",
-  "description": "ERIS jalonné liquide OSMO"
+  "description": "ERIS jalonné liquide OSMO",
+  "websiteURL": "https://osmosis.zone/"
 }

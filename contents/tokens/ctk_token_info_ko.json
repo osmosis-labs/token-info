@@ -3,5 +3,6 @@
   "name": "Shentu",
   "symbol": "CTK",
   "description": "Shentu의 기본 토큰",
-  "coingeckoID": "certik"
+  "coingeckoID": "certik",
+  "websiteURL": "https://www.shentu.technology/"
 }

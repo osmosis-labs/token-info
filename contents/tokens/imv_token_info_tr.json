@@ -3,5 +3,6 @@
   "name": "Imversed",
   "symbol": "IMV",
   "description": "Imversed'in yerel EVM'si, yönetişimi ve staking token'ı",
-  "coingeckoID": "imv"
+  "coingeckoID": "imv",
+  "websiteURL": "https://imversed.network/"
 }

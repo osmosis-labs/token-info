@@ -3,5 +3,6 @@
   "name": "Carbon",
   "symbol": "SWTH",
   "description": "The native governance token of Carbon",
-  "coingeckoID": "switcheo"
+  "coingeckoID": "switcheo",
+  "websiteURL": "https://www.carbon.network/"
 }

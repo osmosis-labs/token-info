@@ -1,5 +1,8 @@
 {
+  "localization": "en",
   "name": "Wynd DAO Governance Token",
   "symbol": "WYND",
-  "description": "توکن مدیریت WYND DAO"
+  "description": "توکن مدیریت WYND DAO",
+  "coingeckoID": "wynd",
+  "websiteURL": "https://www.junonetwork.io/"
 }

@@ -2,5 +2,6 @@
   "localization": "es",
   "name": "Invaders",
   "symbol": "INVDRS",
-  "description": "Ficha DAO de Invaders de Evmos Guardians."
+  "description": "Ficha DAO de Invaders de Evmos Guardians.",
+  "websiteURL": "https://www.junonetwork.io/"
 }

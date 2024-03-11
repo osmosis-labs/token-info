@@ -1,8 +1,9 @@
 {
-  "description": "Rodzimy znak Kwazara<inlang-LineFeed>\nQuasar to pierwsza platforma zdecentralizowanego zarządzania aktywami (DAM) obsługiwana przez IBC. Bezpieczne, niewymagające uprawnień, dające się komponować i zróżnicowane doświadczenie DeFi między łańcuchami jest już dostępne.",
   "localization": "pl",
   "name": "Quasar",
   "symbol": "QSR",
-  "twitterURL": "https://twitter.com/QuasarFi",
-  "coingeckoID": "quasar-2"
+  "description": "Rodzimy znak Kwazara<inlang-LineFeed>\nQuasar to pierwsza platforma zdecentralizowanego zarządzania aktywami (DAM) obsługiwana przez IBC. Bezpieczne, niewymagające uprawnień, dające się komponować i zróżnicowane doświadczenie DeFi między łańcuchami jest już dostępne.",
+  "coingeckoID": "quasar-2",
+  "websiteURL": "https://www.quasar.fi/",
+  "twitterURL": "https://twitter.com/QuasarFi"
 }

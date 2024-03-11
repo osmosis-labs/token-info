@@ -1,5 +1,7 @@
 {
   "localization": "fr",
   "name": "Licorice",
-  "symbol": "DGL"
+  "symbol": "DGL",
+  "description": "indéfini<inlang-LineFeed>\nJuno est une plateforme de contrats intelligents entièrement détenue et exploitée par la communauté.",
+  "websiteURL": "https://www.junonetwork.io/"
 }

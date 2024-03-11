@@ -1,7 +1,9 @@
 {
-  "description": "O token nativo da JUNO Chain<inlang-LineFeed>\nJuno é uma plataforma de contrato inteligente totalmente pertencente e operada pela comunidade.",
+  "localization": "pt",
   "name": "Juno",
   "symbol": "JUNO",
-  "twitterURL": "https://twitter.com/JunoNetwork",
-  "coingeckoID": "juno-network"
+  "description": "O token nativo da JUNO Chain<inlang-LineFeed>\nJuno é uma plataforma de contrato inteligente totalmente pertencente e operada pela comunidade.",
+  "coingeckoID": "juno-network",
+  "websiteURL": "https://www.junonetwork.io/",
+  "twitterURL": "https://twitter.com/JunoNetwork"
 }

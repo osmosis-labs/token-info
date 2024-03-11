@@ -3,5 +3,6 @@
   "name": "Cudos",
   "symbol": "CUDOS",
   "description": "The native token of the Cudos blockchain",
-  "coingeckoID": "cudos"
+  "coingeckoID": "cudos",
+  "websiteURL": "https://www.cudos.org/"
 }

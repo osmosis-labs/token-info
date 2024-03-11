@@ -3,5 +3,6 @@
   "name": "Planq",
   "symbol": "PLQ",
   "description": "Natywny token EVM, zarządzanie i stakowanie sieci Planq",
-  "coingeckoID": "planq"
+  "coingeckoID": "planq",
+  "websiteURL": "https://planq.network/"
 }

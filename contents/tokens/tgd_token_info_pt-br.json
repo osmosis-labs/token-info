@@ -3,5 +3,6 @@
   "name": "Tgrade",
   "symbol": "TGD",
   "description": "O token nativo do Tgrade",
-  "coingeckoID": "tgrade"
+  "coingeckoID": "tgrade",
+  "websiteURL": "https://tgrade.finance/"
 }

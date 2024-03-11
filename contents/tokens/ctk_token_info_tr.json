@@ -3,5 +3,6 @@
   "name": "Shentu",
   "symbol": "CTK",
   "description": "Shentu'nun yerel simgesi",
-  "coingeckoID": "certik"
+  "coingeckoID": "certik",
+  "websiteURL": "https://www.shentu.technology/"
 }

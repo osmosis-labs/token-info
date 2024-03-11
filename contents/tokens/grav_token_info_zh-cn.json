@@ -1,8 +1,9 @@
 {
   "localization": "zh",
-  "description": "重力桥原生代币<inlang-LineFeed><inlang-LineFeed>一个开放、去中心化的桥梁，释放区块链生态系统之间的互操作性和流动性的力量。",
   "name": "Gravity Bridge",
   "symbol": "GRAV",
-  "twitterURL": "https://twitter.com/gravity_bridge",
-  "coingeckoID": "graviton"
+  "description": "重力桥原生代币<inlang-LineFeed><inlang-LineFeed>一个开放、去中心化的桥梁，释放区块链生态系统之间的互操作性和流动性的力量。",
+  "coingeckoID": "graviton",
+  "websiteURL": "https://www.gravitybridge.net/",
+  "twitterURL": "https://twitter.com/gravity_bridge"
 }

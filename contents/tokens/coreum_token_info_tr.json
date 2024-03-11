@@ -3,5 +3,6 @@
   "name": "Coreum",
   "symbol": "COREUM",
   "description": "Coreum'un yerel jetonu",
-  "coingeckoID": "coreum"
+  "coingeckoID": "coreum",
+  "websiteURL": "https://www.coreum.com"
 }

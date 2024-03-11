@@ -3,5 +3,6 @@
   "name": "Desmos",
   "symbol": "DSM",
   "description": "Le jeton natif de Desmos",
-  "coingeckoID": "desmos"
+  "coingeckoID": "desmos",
+  "websiteURL": "https://desmos.network/"
 }

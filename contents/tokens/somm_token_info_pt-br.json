@@ -1,8 +1,9 @@
 {
-  "description": "Somm Token (SOMM) é o token de piquetagem nativo da Sommelier Chain<inlang-LineFeed>\nOs cofres automatizados encontram os melhores rendimentos da categoria e, ao mesmo tempo, mitigam os riscos.",
+  "localization": "pt",
   "name": "Sommelier",
   "symbol": "SOMM",
+  "description": "Somm Token (SOMM) é o token de piquetagem nativo da Sommelier Chain<inlang-LineFeed>\nOs cofres automatizados encontram os melhores rendimentos da categoria e, ao mesmo tempo, mitigam os riscos.",
   "coingeckoID": "sommelier",
-  "twitterURL": "https://twitter.com/sommfinance",
-  "stakingURL": "https://wallet.keplr.app/chains/sommelier"
+  "websiteURL": "https://sommelier.finance/",
+  "twitterURL": "https://twitter.com/sommfinance"
 }

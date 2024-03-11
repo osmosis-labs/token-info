@@ -3,5 +3,6 @@
   "name": "Canto",
   "symbol": "CANTO",
   "description": "Canto to blockchain warstwy 1 zbudowany tak, aby spełniać obietnice DeFi",
-  "coingeckoID": "canto"
+  "coingeckoID": "canto",
+  "websiteURL": "https://canto.io/"
 }

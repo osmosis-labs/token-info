@@ -2,5 +2,6 @@
   "localization": "ko",
   "name": "Spacer",
   "symbol": "SPACER",
-  "description": "스페이서"
+  "description": "스페이서",
+  "websiteURL": "https://www.junonetwork.io/"
 }

@@ -3,5 +3,6 @@
   "name": "Realio Network",
   "symbol": "RIO",
   "description": "Moneda nativă a rețelei Realio.",
-  "coingeckoID": "realio-network"
+  "coingeckoID": "realio-network",
+  "websiteURL": "https://realio.network/"
 }
