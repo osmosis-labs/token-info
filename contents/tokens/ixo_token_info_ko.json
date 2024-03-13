@@ -1,7 +1,7 @@
 {
   "localization": "ko",
-  "name": "영향 허브",
-  "symbol": "익소",
+  "name": "Impacts Hub",
+  "symbol": "IXO",
   "description": "IXO Chain의 기본 토큰",
   "coingeckoID": "ixo",
   "websiteURL": "https://www.ixo.world/"

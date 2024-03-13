@@ -1,8 +1,8 @@
 {
-  "localization": "en",
+  "localization": "es",
   "name": "Teritori",
   "symbol": "TORI",
   "description": "La ficha nativa de Teritori",
-  "coingeckoID": "territorio",
+  "coingeckoID": "teritori",
   "websiteURL": "https://teritori.com/"
 }

@@ -1,8 +1,7 @@
 {
-  "localization": "en",
-  "name": "vidulo",
+  "name": "Vidulum",
   "symbol": "VDL",
   "description": "La ficha nativa de Vidulum.",
-  "coingeckoID": "vídulo",
+  "coingeckoID": "vidulum",
   "websiteURL": "https://vidulum.app/"
 }

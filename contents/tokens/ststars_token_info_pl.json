@@ -1,7 +1,7 @@
 {
-  "localization": "en",
-  "name": "Stride Staked GWIAZDY",
+  "localization": "pl",
+  "name": "Stride Staked STARS",
   "symbol": "stSTARS",
-  "coingeckoID": "gwiazdy-kroku",
+  "coingeckoID": "stride-staked-stars",
   "websiteURL": "https://stride.zone/"
 }

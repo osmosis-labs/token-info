@@ -1,8 +1,8 @@
 {
   "localization": "ko",
-  "name": "오노미",
+  "name": "Onomy",
   "symbol": "NOM",
   "description": "Onomy 프로토콜의 기본 토큰",
-  "coingeckoID": "onomy 프로토콜",
+  "coingeckoID": "onomy-protocol",
   "websiteURL": "https://onomy.io/"
 }

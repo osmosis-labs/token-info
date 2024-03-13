@@ -1,8 +1,8 @@
 {
-  "localization": "en",
-  "name": "Kullanıcı Deneyimi Zinciri",
+  "localization": "tr",
+  "name": "UX Chain",
   "symbol": "UMEE",
   "description": "Umee'nin yerel simgesi",
-  "coingeckoID": "umeee",
+  "coingeckoID": "umee",
   "websiteURL": "https://www.ux.xyz"
 }

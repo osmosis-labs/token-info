@@ -1,7 +1,7 @@
 {
   "localization": "tr",
   "name": "Stride Staked ATOM",
-  "symbol": "STATOM",
-  "coingeckoID": "adım adım kazıklı atom",
+  "symbol": "stATOM",
+  "coingeckoID": "stride-staked-atom",
   "websiteURL": "https://stride.zone/"
 }

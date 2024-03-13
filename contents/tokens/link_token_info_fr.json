@@ -1,7 +1,7 @@
 {
   "localization": "fr",
-  "name": "Maillon de chaîne",
-  "symbol": "LIEN",
+  "name": "Chainlink",
+  "symbol": "LINK",
   "description": "Un middleware basé sur la blockchain, agissant comme un pont entre les contrats intelligents de crypto-monnaie, les flux de données, les API et les paiements sur compte bancaire traditionnel.",
-  "coingeckoID": "maillon de chaîne"
+  "coingeckoID": "chainlink"
 }

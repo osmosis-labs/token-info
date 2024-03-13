@@ -1,7 +1,7 @@
 {
   "localization": "zh",
-  "name": "偏心",
-  "symbol": "十二月",
+  "name": "Decentr",
+  "symbol": "DEC",
   "description": "Decentr 的原生代幣",
-  "coingeckoID": "偏心"
+  "coingeckoID": "decentr"
 }

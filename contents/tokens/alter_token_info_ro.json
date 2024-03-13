@@ -1,8 +1,7 @@
 {
-  "localization": "ro",
-  "name": "Modifica",
-  "symbol": "MODIFICA",
+  "name": "Alter",
+  "symbol": "ALTER",
   "description": "Tokenul nativ cw20 pentru Alter on Secret Network",
-  "coingeckoID": "modifica",
+  "coingeckoID": "alter",
   "websiteURL": "https://scrt.network/"
 }

@@ -1,8 +1,8 @@
 {
   "localization": "tr",
-  "name": "Zar",
+  "name": "Membrane",
   "symbol": "MBRN",
   "description": "Membranın protokol jetonu",
-  "coingeckoID": "zar",
+  "coingeckoID": "membrane",
   "websiteURL": "https://osmosis.zone/"
 }

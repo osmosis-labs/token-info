@@ -1,8 +1,7 @@
 {
-  "localization": "en",
-  "name": "f(x)코어",
+  "name": "f(x)Core",
   "symbol": "FX",
   "description": "Function X의 기본 스테이킹 토큰",
-  "coingeckoID": "FX 코인",
+  "coingeckoID": "fx-coin",
   "websiteURL": "https://functionx.io"
 }

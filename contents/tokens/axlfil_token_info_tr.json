@@ -1,7 +1,7 @@
 {
   "localization": "tr",
-  "name": "Filecoin'den sarılmış FIL",
+  "name": "Wrapped FIL from Filecoin",
   "symbol": "axlFIL",
   "description": "Axelar'da sarılmış FIL",
-  "coingeckoID": "dosya parası"
+  "coingeckoID": "filecoin"
 }

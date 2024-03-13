@@ -1,8 +1,7 @@
 {
-  "localization": "en",
   "name": "CMST",
   "symbol": "CMST",
   "description": "Protocolo Token of Harbour estable en la red Comdex",
-  "coingeckoID": "compuesto",
+  "coingeckoID": "composite",
   "websiteURL": "https://comdex.one/"
 }

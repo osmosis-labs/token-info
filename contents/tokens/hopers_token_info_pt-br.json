@@ -1,8 +1,7 @@
 {
-  "localization": "pt",
-  "name": "Esperanças",
-  "symbol": "ESPERANÇAS",
+  "name": "Hopers",
+  "symbol": "HOPERS",
   "description": "O token nativo cw20 para Hopers na Juno Chain",
-  "coingeckoID": "esperançosos-io",
+  "coingeckoID": "hopers-io",
   "websiteURL": "https://www.junonetwork.io/"
 }

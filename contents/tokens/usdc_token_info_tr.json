@@ -1,7 +1,7 @@
 {
   "localization": "tr",
-  "name": "ABD Doları Parası",
-  "symbol": "ABD Doları",
+  "name": "USD Coin",
+  "symbol": "USDC",
   "description": "USDC, Circle'ın gelecek birkaç ihraççıdan ilki olduğu açık kaynaklı proje olan CENTRE tarafından geliştirilen, tamamen teminatlandırılmış bir ABD Doları sabit parasıdır.",
-  "coingeckoID": "usd-parası"
+  "coingeckoID": "usd-coin"
 }

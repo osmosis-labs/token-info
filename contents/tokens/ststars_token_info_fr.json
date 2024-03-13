@@ -1,7 +1,7 @@
 {
-  "localization": "en",
-  "name": "Stride jalonné ÉTOILES",
-  "symbol": "stÉTOILES",
-  "coingeckoID": "étoiles jalonnées",
+  "localization": "fr",
+  "name": "Stride Staked STARS",
+  "symbol": "stSTARS",
+  "coingeckoID": "stride-staked-stars",
   "websiteURL": "https://stride.zone/"
 }

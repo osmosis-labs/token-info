@@ -1,8 +1,7 @@
 {
-  "localization": "pl",
-  "name": "Uprawy USD",
+  "name": "Arable USD",
   "symbol": "arUSD",
   "description": "Nadzabezpieczona stabilna moneta dla instrumentów pochodnych Arable v1",
-  "coingeckoID": "uprawne-usd",
+  "coingeckoID": "arable-usd",
   "websiteURL": "https://arable.finance/"
 }

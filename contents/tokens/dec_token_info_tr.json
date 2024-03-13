@@ -1,7 +1,7 @@
 {
   "localization": "tr",
-  "name": "Merkezsiz",
-  "symbol": "Aralık",
+  "name": "Decentr",
+  "symbol": "DEC",
   "description": "Decentr’ın yerel tokenı",
-  "coingeckoID": "merkezden uzaklaşan"
+  "coingeckoID": "decentr"
 }

@@ -1,8 +1,8 @@
 {
   "localization": "tr",
-  "name": "Odin Protokolü",
+  "name": "Odin Protocol",
   "symbol": "ODIN",
   "description": "ODIN Protokolü için stake etme ve yönetişim tokenı",
-  "coingeckoID": "odin protokolü",
+  "coingeckoID": "odin-protocol",
   "websiteURL": "https://odinprotocol.io/"
 }

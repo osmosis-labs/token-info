@@ -1,8 +1,8 @@
 {
-  "localization": "en",
-  "name": "T sınıfı",
+  "localization": "tr",
+  "name": "Tgrade",
   "symbol": "TGD",
   "description": "Tgrade'in yerel tokenı",
-  "coingeckoID": "derece",
+  "coingeckoID": "tgrade",
   "websiteURL": "https://tgrade.finance/"
 }

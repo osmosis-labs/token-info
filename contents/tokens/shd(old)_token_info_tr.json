@@ -1,7 +1,7 @@
 {
   "localization": "tr",
-  "name": "Gölge (eski)",
-  "symbol": "SHD(eski)",
+  "name": "Shade (old)",
+  "symbol": "SHD(old)",
   "description": "Secret Network'te Shade için yerel token cw20",
   "websiteURL": "https://scrt.network/"
 }

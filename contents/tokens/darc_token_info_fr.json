@@ -1,8 +1,8 @@
 {
   "localization": "fr",
-  "name": "Constellation",
+  "name": "Konstellation",
   "symbol": "DARC",
   "description": "Le jeton natif de Konstellation Network",
-  "coingeckoID": "pièce de monnaie darcmatter",
+  "coingeckoID": "darcmatter-coin",
   "websiteURL": "https://konstellation.tech/"
 }

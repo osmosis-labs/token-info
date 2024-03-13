@@ -1,8 +1,8 @@
 {
   "localization": "fr",
-  "name": "Chaîne de fouille",
-  "symbol": "CREUSER",
+  "name": "Dig Chain",
+  "symbol": "DIG",
   "description": "Jeton natif de Dig Chain",
-  "coingeckoID": "chaîne de fouille",
+  "coingeckoID": "dig-chain",
   "websiteURL": "https://digchain.org/"
 }

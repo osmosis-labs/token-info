@@ -1,8 +1,7 @@
 {
-  "localization": "en",
-  "name": "비둘럼",
+  "name": "Vidulum",
   "symbol": "VDL",
   "description": "Vidulum의 기본 토큰",
-  "coingeckoID": "비둘럼",
+  "coingeckoID": "vidulum",
   "websiteURL": "https://vidulum.app/"
 }

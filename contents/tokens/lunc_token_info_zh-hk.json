@@ -1,7 +1,7 @@
 {
   "localization": "zh",
-  "name": "露娜經典賽",
+  "name": "Luna Classic",
   "symbol": "LUNC",
   "description": "Terra Classic 的原生質押代幣。",
-  "coingeckoID": "地月"
+  "coingeckoID": "terra-luna"
 }

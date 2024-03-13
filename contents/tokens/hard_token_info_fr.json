@@ -1,8 +1,7 @@
 {
-  "localization": "en",
-  "name": "Kava Dur",
-  "symbol": "DUR",
+  "name": "Kava Hard",
+  "symbol": "HARD",
   "description": "Jeton de gouvernance du protocole Kava Lend",
-  "coingeckoID": "prêter du kava",
+  "coingeckoID": "kava-lend",
   "websiteURL": "https://www.kava.io/"
 }

@@ -1,7 +1,7 @@
 {
   "localization": "zh",
   "name": "IRISnet",
-  "symbol": "虹膜",
+  "symbol": "IRIS",
   "description": "IRIS 代币是 IrisNet 链的原生治理代币。",
-  "coingeckoID": "虹膜网络"
+  "coingeckoID": "iris-network"
 }

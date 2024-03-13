@@ -1,8 +1,8 @@
 {
   "localization": "es",
-  "name": "Esperanza galaxia",
+  "name": "Hope Galaxy",
   "symbol": "HOPE",
   "description": "Hope Galaxy es una colección de NFT basada en su propio token nativo $HOPE, un token cw20 en la cadena Juno.",
-  "coingeckoID": "galaxia-esperanza",
+  "coingeckoID": "hope-galaxy",
   "websiteURL": "https://www.junonetwork.io/"
 }

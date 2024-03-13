@@ -1,9 +1,9 @@
 {
   "localization": "en",
-  "name": "نام ستاره",
+  "name": "Starname",
   "symbol": "IOV",
   "description": "سکه IOV نشانه سرویس نام دارایی Starname (IOV) است<inlang-LineFeed>\nStarname بهترین راه برای ادعای بخشی از بلاک چین است. می‌توانید از آن برای شناسایی غیرمتمرکز، پرداخت‌ها، مالکیت و برنامه‌های کاربردی استفاده کنید. Starname را می توان در کیف پول های دیجیتال، dapp ها و صرافی ها ادغام کرد.",
-  "coingeckoID": "نام ستاره",
+  "coingeckoID": "starname",
   "websiteURL": "https://www.starname.me/",
   "twitterURL": "https://twitter.com/starname_me"
 }

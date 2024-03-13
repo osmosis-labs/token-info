@@ -1,8 +1,7 @@
 {
-  "localization": "tr",
-  "name": "Çekirdek",
+  "name": "Coreum",
   "symbol": "COREUM",
   "description": "Coreum'un yerel jetonu",
-  "coingeckoID": "çekirdek",
+  "coingeckoID": "coreum",
   "websiteURL": "https://www.coreum.com"
 }

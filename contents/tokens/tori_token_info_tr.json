@@ -1,8 +1,8 @@
 {
-  "localization": "en",
+  "localization": "tr",
   "name": "Teritori",
-  "symbol": "TORİ",
+  "symbol": "TORI",
   "description": "Teritori'nin yerel simgesi",
-  "coingeckoID": "bölgesel",
+  "coingeckoID": "teritori",
   "websiteURL": "https://teritori.com/"
 }

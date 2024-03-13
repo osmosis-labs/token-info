@@ -1,8 +1,8 @@
 {
   "localization": "en",
-  "name": "منشأ",
+  "name": "Provenance",
   "symbol": "HASH",
   "description": "هش نشانه سهام بلاک چین Provenance است",
-  "coingeckoID": "منشأ-بلاک چین",
+  "coingeckoID": "provenance-blockchain",
   "websiteURL": "https://provenance.io/"
 }

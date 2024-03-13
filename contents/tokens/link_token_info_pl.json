@@ -1,7 +1,7 @@
 {
   "localization": "pl",
-  "name": "Ogniwo łańcucha",
-  "symbol": "POŁĄCZYĆ",
+  "name": "Chainlink",
+  "symbol": "LINK",
   "description": "Oprogramowanie pośredniczące oparte na blockchain, działające jako pomost pomiędzy inteligentnymi kontraktami kryptowalutowymi, źródłami danych, interfejsami API i tradycyjnymi płatnościami z konta bankowego.",
-  "coingeckoID": "ogniwo łańcucha"
+  "coingeckoID": "chainlink"
 }

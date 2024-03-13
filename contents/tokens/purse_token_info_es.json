@@ -1,7 +1,7 @@
 {
   "localization": "es",
-  "name": "Ficha de monedero",
-  "symbol": "CARTERA",
+  "name": "PURSE Token",
+  "symbol": "PURSE",
   "description": "Ficha de monedero",
   "websiteURL": "https://pundix.com"
 }

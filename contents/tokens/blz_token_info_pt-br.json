@@ -1,8 +1,7 @@
 {
-  "localization": "pt",
   "name": "Bluzelle",
   "symbol": "BLZ",
   "description": "O token nativo de Bluzelle",
-  "coingeckoID": "blusa",
-  "websiteURL": "https://bzelle.com/"
+  "coingeckoID": "bluzelle",
+  "websiteURL": "https://bluzelle.com/"
 }

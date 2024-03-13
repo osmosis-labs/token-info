@@ -1,8 +1,8 @@
 {
   "localization": "pl",
-  "name": "Membrana",
+  "name": "Membrane",
   "symbol": "MBRN",
   "description": "Token protokołu membrany",
-  "coingeckoID": "membrana",
+  "coingeckoID": "membrane",
   "websiteURL": "https://osmosis.zone/"
 }

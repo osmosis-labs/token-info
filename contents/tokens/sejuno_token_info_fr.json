@@ -1,8 +1,8 @@
 {
   "localization": "fr",
   "name": "StakeEasy seJUNO",
-  "symbol": "SÉJUNO",
+  "symbol": "SEJUNO",
   "description": "Dérivé de jalonnement seJUNO pour JUNO jalonné",
-  "coingeckoID": "enjeu-juno-dérivé",
+  "coingeckoID": "stakeeasy-juno-derivative",
   "websiteURL": "https://www.junonetwork.io/"
 }

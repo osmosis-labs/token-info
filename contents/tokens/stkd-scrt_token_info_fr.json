@@ -1,6 +1,6 @@
 {
   "localization": "fr",
-  "name": "Dérivés de jalonnement SCRT",
+  "name": "SCRT Staking Derivatives",
   "symbol": "stkd-SCRT",
   "description": "Le jeton natif cw20 pour les dérivés de jalonnement SCRT sur le réseau secret",
   "coingeckoID": "stkd-scrt",

@@ -1,8 +1,8 @@
 {
   "localization": "tr",
-  "name": "Onomi",
+  "name": "Onomy",
   "symbol": "NOM",
   "description": "Onomy Protokolünün yerel tokenı",
-  "coingeckoID": "onomi protokolü",
+  "coingeckoID": "onomy-protocol",
   "websiteURL": "https://onomy.io/"
 }

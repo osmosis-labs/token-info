@@ -1,7 +1,6 @@
 {
-  "localization": "en",
-  "name": "ATOM 제곱",
-  "symbol": "스퀘어아톰",
+  "name": "ATOM Squared",
+  "symbol": "sqATOM",
   "description": "마진 파워 토큰 sqATOM",
   "websiteURL": "https://osmosis.zone/"
 }

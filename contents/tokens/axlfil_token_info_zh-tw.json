@@ -1,7 +1,7 @@
 {
   "localization": "zh",
-  "name": "來自 Filecoin 的包裝 FIL",
-  "symbol": "軸FIL",
+  "name": "Wrapped FIL from Filecoin",
+  "symbol": "axlFIL",
   "description": "Axelar 上包裹的 FIL",
-  "coingeckoID": "文件幣"
+  "coingeckoID": "filecoin"
 }

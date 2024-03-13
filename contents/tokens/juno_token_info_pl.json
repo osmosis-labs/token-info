@@ -1,9 +1,9 @@
 {
   "localization": "pl",
-  "name": "Junona",
-  "symbol": "JUNA",
+  "name": "Juno",
+  "symbol": "JUNO",
   "description": "Natywny token łańcucha JUNO<inlang-LineFeed>\nJuno to platforma inteligentnych kontraktów będąca w całości własnością społeczności i przez nią zarządzana.",
-  "coingeckoID": "sieć juno",
+  "coingeckoID": "juno-network",
   "websiteURL": "https://www.junonetwork.io/",
   "twitterURL": "https://twitter.com/JunoNetwork"
 }

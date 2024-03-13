@@ -1,7 +1,7 @@
 {
-  "localization": "en",
-  "name": "Zincir",
+  "localization": "tr",
+  "name": "Chain",
   "symbol": "XCN",
   "description": "Chain, kuruluşların Sequence ve Chain Core tarafından desteklenen sıfırdan daha iyi finansal hizmetler oluşturmasına olanak tanıyan bir bulut blockchain protokolüdür.",
-  "coingeckoID": "zincir-2"
+  "coingeckoID": "chain-2"
 }

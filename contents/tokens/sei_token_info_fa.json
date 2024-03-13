@@ -1,9 +1,9 @@
 {
   "localization": "en",
-  "name": "سی",
+  "name": "Sei",
   "symbol": "SEI",
-  "description": "نشانه بومی سای.<inlang-LineFeed>\nSei سریعترین بلاک چین لایه 1 است که برای مقیاس بندی با صنعت طراحی شده است.",
-  "coingeckoID": "شبکه sei",
+  "description": "نشانه بومی سای.<inlang-LineFeed>\nSei سریعترین بلاک چین لایه 1 است که برای مقیاس پذیری با صنعت طراحی شده است.",
+  "coingeckoID": "sei-network",
   "websiteURL": "https://www.sei.io/",
   "twitterURL": "https://twitter.com/SeiNetwork"
 }

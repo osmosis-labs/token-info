@@ -1,7 +1,6 @@
 {
-  "localization": "en",
-  "name": "e-Pieniądze EUR",
-  "symbol": "EUR",
+  "name": "e-Money EUR",
+  "symbol": "EEUR",
   "description": "Stabilna moneta e-Money EUR. Audytowane i wspierane depozytami fiducjarnymi w EUR i obligacjami rządowymi.",
-  "coingeckoID": "e-pieniądze-eur"
+  "coingeckoID": "e-money-eur"
 }

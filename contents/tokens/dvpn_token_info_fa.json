@@ -1,9 +1,9 @@
 {
   "localization": "en",
-  "name": "نگهبان",
+  "name": "Sentinel",
   "symbol": "DVPN",
   "description": "DVPN توکن بومی Sentinel Hub است.<inlang-LineFeed>\nاکوسیستم سنتینل یک شبکه جهانی از برنامه های dVPN مستقل است که دسترسی به اینترنت خصوصی و مقاوم در برابر سانسور را امکان پذیر می کند.",
-  "coingeckoID": "نگهبان",
+  "coingeckoID": "sentinel",
   "websiteURL": "https://sentinel.co/",
   "twitterURL": "https://twitter.com/SentinelVPN"
 }

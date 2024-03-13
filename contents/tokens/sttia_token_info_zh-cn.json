@@ -1,7 +1,7 @@
 {
   "localization": "zh",
-  "name": "跨步固定 TIA",
-  "symbol": "短暂性TIA",
+  "name": "Stride Staked TIA",
+  "symbol": "stTIA",
   "description": "Stride 的液体固定 TIA",
   "websiteURL": "https://stride.zone/"
 }

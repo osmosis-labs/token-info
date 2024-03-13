@@ -1,8 +1,8 @@
 {
-  "localization": "en",
-  "name": "UX체인",
-  "symbol": "우미",
+  "localization": "ko",
+  "name": "UX Chain",
+  "symbol": "UMEE",
   "description": "Umee의 기본 토큰",
-  "coingeckoID": "어미",
+  "coingeckoID": "umee",
   "websiteURL": "https://www.ux.xyz"
 }

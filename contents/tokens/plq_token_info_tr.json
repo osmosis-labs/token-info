@@ -1,8 +1,8 @@
 {
   "localization": "tr",
-  "name": "Plank",
+  "name": "Planq",
   "symbol": "PLQ",
   "description": "Planq Ağının yerel EVM'si, yönetişimi ve stake tokenı",
-  "coingeckoID": "plank",
+  "coingeckoID": "planq",
   "websiteURL": "https://planq.network/"
 }

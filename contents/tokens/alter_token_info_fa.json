@@ -1,8 +1,7 @@
 {
-  "localization": "en",
-  "name": "تغییر دهید",
-  "symbol": "تغییر دهید",
+  "name": "Alter",
+  "symbol": "ALTER",
   "description": "توکن بومی cw20 برای Alter on Secret Network",
-  "coingeckoID": "تغییر دهید",
+  "coingeckoID": "alter",
   "websiteURL": "https://scrt.network/"
 }

@@ -1,9 +1,8 @@
 {
-  "localization": "zh",
   "name": "Kujira",
-  "symbol": "久慈",
+  "symbol": "KUJI",
   "description": "Kujira 鏈的原生質押和治理代幣。<inlang-LineFeed><inlang-LineFeed>為尋求永續金融科技的協議、建構者和 web3 用戶提供的去中心化生態系統。",
-  "coingeckoID": "久地良",
+  "coingeckoID": "kujira",
   "websiteURL": "https://kujira.app/",
   "twitterURL": "https://twitter.com/TeamKujira"
 }

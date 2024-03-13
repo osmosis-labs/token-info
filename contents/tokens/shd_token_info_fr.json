@@ -1,8 +1,8 @@
 {
   "localization": "fr",
-  "name": "Ombre",
+  "name": "Shade",
   "symbol": "SHD",
   "description": "Le jeton natif cw20 pour Shade sur Secret Network",
-  "coingeckoID": "protocole d'ombrage",
+  "coingeckoID": "shade-protocol",
   "websiteURL": "https://scrt.network/"
 }

@@ -1,8 +1,8 @@
 {
   "localization": "zh",
-  "name": "大理石",
-  "symbol": "大理石",
+  "name": "Marble",
+  "symbol": "MARBLE",
   "description": "Juno Chain 上 Marble DAO 的原生代幣 cw20",
-  "coingeckoID": "大理石",
+  "coingeckoID": "marble",
   "websiteURL": "https://www.junonetwork.io/"
 }

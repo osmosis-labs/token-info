@@ -1,8 +1,8 @@
 {
   "localization": "fr",
-  "name": "Chèque",
+  "name": "Cheqd",
   "symbol": "CHEQ",
   "description": "Jeton natif pour le réseau cheqd",
-  "coingeckoID": "réseau-checkd",
+  "coingeckoID": "cheqd-network",
   "websiteURL": "https://www.cheqd.io/"
 }

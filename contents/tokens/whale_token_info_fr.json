@@ -1,8 +1,8 @@
 {
-  "localization": "en",
+  "localization": "fr",
   "name": "Migaloo",
   "symbol": "WHALE",
   "description": "Le jeton natif de Migaloo Chain",
-  "coingeckoID": "baleine blanche",
+  "coingeckoID": "white-whale",
   "websiteURL": "https://www.whitewhale.money/"
 }

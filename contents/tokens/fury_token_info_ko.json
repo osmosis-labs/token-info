@@ -1,8 +1,8 @@
 {
   "localization": "ko",
-  "name": "팬퓨리",
+  "name": "Fanfury",
   "symbol": "FURY",
   "description": "Juno Chain의 Fanfury를 위한 기본 토큰 cw20",
-  "coingeckoID": "분노",
+  "coingeckoID": "fanfury",
   "websiteURL": "https://www.junonetwork.io/"
 }

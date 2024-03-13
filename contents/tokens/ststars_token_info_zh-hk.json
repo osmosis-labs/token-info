@@ -1,7 +1,7 @@
 {
-  "localization": "en",
-  "name": "邁步踏上星星",
-  "symbol": "聖星",
-  "coingeckoID": "大步踏星",
+  "localization": "zh",
+  "name": "Stride Staked STARS",
+  "symbol": "stSTARS",
+  "coingeckoID": "stride-staked-stars",
   "websiteURL": "https://stride.zone/"
 }

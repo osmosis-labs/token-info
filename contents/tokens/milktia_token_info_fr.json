@@ -1,8 +1,8 @@
 {
-  "localization": "en",
-  "name": "laitTIA",
-  "symbol": "laitTIA",
+  "localization": "fr",
+  "name": "milkTIA",
+  "symbol": "milkTIA",
   "description": "Le TIA jalonné liquide de MilkyWay",
-  "coingeckoID": "voie lactée-jalonnée-tia",
+  "coingeckoID": "milkyway-staked-tia",
   "websiteURL": "https://osmosis.zone/"
 }

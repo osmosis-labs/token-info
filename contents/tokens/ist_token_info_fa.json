@@ -1,8 +1,8 @@
 {
   "localization": "en",
-  "name": "توکن اینتر استیبل",
+  "name": "Inter Stable Token",
   "symbol": "IST",
   "description": "IST نشانه پایداری است که توسط زنجیره آگوریک برای هزینه های اجرا و تجارت استفاده می شود.",
-  "coingeckoID": "توکن بین پایدار",
+  "coingeckoID": "inter-stable-token",
   "websiteURL": "https://agoric.com/"
 }

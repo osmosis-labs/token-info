@@ -1,9 +1,9 @@
 {
   "localization": "zh",
-  "name": "朱諾",
-  "symbol": "朱諾",
+  "name": "Juno",
+  "symbol": "JUNO",
   "description": "JUNO Chain的原生代幣<inlang-LineFeed><inlang-LineFeed>Juno 是一個完全由社區擁有和營運的智慧合約平台。",
-  "coingeckoID": "朱諾網路",
+  "coingeckoID": "juno-network",
   "websiteURL": "https://www.junonetwork.io/",
   "twitterURL": "https://twitter.com/JunoNetwork"
 }

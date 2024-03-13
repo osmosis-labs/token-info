@@ -1,8 +1,8 @@
 {
   "localization": "en",
-  "name": "زنجیره حفاری",
-  "symbol": "حفر کردن",
+  "name": "Dig Chain",
+  "symbol": "DIG",
   "description": "نشانه بومی Dig Chain",
-  "coingeckoID": "زنجیر حفاری",
+  "coingeckoID": "dig-chain",
   "websiteURL": "https://digchain.org/"
 }

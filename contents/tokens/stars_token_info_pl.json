@@ -1,9 +1,8 @@
 {
-  "localization": "pl",
-  "name": "Patrzenie w gwiazdy",
-  "symbol": "GWIAZDY",
+  "name": "Stargaze",
+  "symbol": "STARS",
   "description": "Natywny symbol Stargaze<inlang-LineFeed>\nNajważniejszy blockchain skupiony na społeczności dla NFT. Stargaze umożliwia twórcom, programistom, kolekcjonerom i handlowcom uczestnictwo w platformie. Sieć Stargaze składa się z różnych aplikacji związanych z NFT, takich jak Launchpad, oraz Marketplace z ofertami i aukcjami.",
-  "coingeckoID": "patrzeć w gwiazdy",
+  "coingeckoID": "stargaze",
   "websiteURL": "https://stargaze.zone/",
   "twitterURL": "https://twitter.com/StargazeZone"
 }

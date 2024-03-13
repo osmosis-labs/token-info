@@ -1,8 +1,8 @@
 {
-  "localization": "en",
-  "name": "sütTIA",
-  "symbol": "sütTIA",
+  "localization": "tr",
+  "name": "milkTIA",
+  "symbol": "milkTIA",
   "description": "MilkyWay'in sıvı destekli TIA'sı",
-  "coingeckoID": "milkyway kazıklı tia",
+  "coingeckoID": "milkyway-staked-tia",
   "websiteURL": "https://osmosis.zone/"
 }

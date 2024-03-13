@@ -1,8 +1,7 @@
 {
-  "localization": "zh",
   "name": "Bluzelle",
   "symbol": "BLZ",
   "description": "Bluzelle 的原生代幣",
-  "coingeckoID": "布魯澤勒",
+  "coingeckoID": "bluzelle",
   "websiteURL": "https://bluzelle.com/"
 }

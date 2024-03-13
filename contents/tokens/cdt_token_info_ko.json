@@ -1,8 +1,8 @@
 {
   "localization": "ko",
-  "name": "CDT 스테이블코인",
+  "name": "CDT Stablecoin",
   "symbol": "CDT",
   "description": "CDT라고 불리는 Membrane의 CDP 스타일 스테이블코인",
-  "coingeckoID": "담보 부채 토큰",
+  "coingeckoID": "collateralized-debt-token",
   "websiteURL": "https://osmosis.zone/"
 }

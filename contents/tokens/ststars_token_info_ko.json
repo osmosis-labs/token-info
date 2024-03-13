@@ -1,7 +1,7 @@
 {
-  "localization": "en",
-  "name": "스트라이드 스테이킹된 별",
+  "localization": "ko",
+  "name": "Stride Staked STARS",
   "symbol": "stSTARS",
-  "coingeckoID": "큰 걸음을 내딛은 별들",
+  "coingeckoID": "stride-staked-stars",
   "websiteURL": "https://stride.zone/"
 }

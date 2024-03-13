@@ -1,9 +1,9 @@
 {
   "localization": "pt",
-  "name": "Nêutron",
+  "name": "Neutron",
   "symbol": "NTRN",
   "description": "O token nativo da cadeia Neutron.<inlang-LineFeed>\nA plataforma CosmWasm mais segura do Cosmos, Neutron permite que contratos inteligentes aproveitem a tecnologia Interchain de ponta com sobrecarga mínima.",
-  "coingeckoID": "nêutron-3",
+  "coingeckoID": "neutron-3",
   "websiteURL": "https://neutron.org/",
   "twitterURL": "https://twitter.com/Neutron_org"
 }

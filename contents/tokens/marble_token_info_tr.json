@@ -1,8 +1,8 @@
 {
   "localization": "tr",
-  "name": "Mermer",
-  "symbol": "MERMER",
+  "name": "Marble",
+  "symbol": "MARBLE",
   "description": "Juno Chain'de Marble DAO için yerel token cw20",
-  "coingeckoID": "mermer",
+  "coingeckoID": "marble",
   "websiteURL": "https://www.junonetwork.io/"
 }

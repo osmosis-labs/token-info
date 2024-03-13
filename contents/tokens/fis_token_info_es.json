@@ -1,8 +1,8 @@
 {
   "localization": "es",
-  "name": "Centro StaFi",
+  "name": "StaFi Hub",
   "symbol": "FIS",
   "description": "El token nativo de participación y gobernanza de StaFi Hub.",
-  "coingeckoID": "estafi",
+  "coingeckoID": "stafi",
   "websiteURL": "https://stafihub.io/"
 }

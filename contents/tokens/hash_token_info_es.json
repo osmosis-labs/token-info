@@ -1,8 +1,8 @@
 {
   "localization": "es",
-  "name": "Procedencia",
-  "symbol": "PICADILLO",
+  "name": "Provenance",
+  "symbol": "HASH",
   "description": "Hash es el token de apuesta de Provenance Blockchain",
-  "coingeckoID": "procedencia-blockchain",
-  "websiteURL": "https://procedencia.io/"
+  "coingeckoID": "provenance-blockchain",
+  "websiteURL": "https://provenance.io/"
 }

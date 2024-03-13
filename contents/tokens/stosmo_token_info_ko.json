@@ -1,7 +1,7 @@
 {
   "localization": "ko",
-  "name": "Stride 스테이킹된 OSMO",
+  "name": "Stride Staked OSMO",
   "symbol": "stOSMO",
-  "coingeckoID": "확고한 오스모",
+  "coingeckoID": "stride-staked-osmo",
   "websiteURL": "https://stride.zone/"
 }

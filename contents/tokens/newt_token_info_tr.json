@@ -1,8 +1,8 @@
 {
-  "localization": "en",
-  "name": "Semender",
-  "symbol": "YENİ",
+  "localization": "tr",
+  "name": "Newt",
+  "symbol": "NEWT",
   "description": "Nötron zincirindeki en tatlı NEWT tokeni.",
-  "coingeckoID": "semender",
+  "coingeckoID": "newt",
   "websiteURL": "https://neutron.org/"
 }

@@ -1,7 +1,6 @@
 {
-  "localization": "ko",
-  "name": "나뭇가지",
-  "symbol": "브런치",
+  "name": "Branch",
+  "symbol": "BRNCH",
   "description": "ohhNFT LP 토큰.",
   "websiteURL": "https://stargaze.zone/"
 }

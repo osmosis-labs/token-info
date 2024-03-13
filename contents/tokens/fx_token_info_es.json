@@ -1,8 +1,7 @@
 {
-  "localization": "en",
-  "name": "f(x)Núcleo",
-  "symbol": "divisas",
+  "name": "f(x)Core",
+  "symbol": "FX",
   "description": "El token de apuesta nativo de la Función X",
-  "coingeckoID": "moneda fx",
+  "coingeckoID": "fx-coin",
   "websiteURL": "https://functionx.io"
 }

@@ -1,7 +1,7 @@
 {
   "localization": "ro",
-  "name": "Jeton sursă",
+  "name": "Source Token",
   "symbol": "SRCX",
   "description": "Indicatorul SRCX al Protocolului sursă.",
-  "coingeckoID": "sursă-protocol"
+  "coingeckoID": "source-protocol"
 }

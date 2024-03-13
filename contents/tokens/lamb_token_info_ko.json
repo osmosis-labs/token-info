@@ -1,7 +1,7 @@
 {
   "localization": "ko",
   "name": "Lambda",
-  "symbol": "양고기",
+  "symbol": "LAMB",
   "description": "Lambda의 기본 토큰",
-  "coingeckoID": "람다"
+  "coingeckoID": "lambda"
 }

@@ -1,7 +1,7 @@
 {
   "localization": "tr",
-  "name": "Tahkim",
+  "name": "Arbitrum",
   "symbol": "ARB",
   "description": "Arbitrum'un yerel tokenı",
-  "coingeckoID": "hakem kararı"
+  "coingeckoID": "arbitrum"
 }

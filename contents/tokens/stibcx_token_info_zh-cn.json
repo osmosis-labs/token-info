@@ -1,6 +1,6 @@
 {
   "localization": "zh",
-  "name": "质押 IBCX",
-  "symbol": "稳定IBCX",
+  "name": "Staked IBCX",
+  "symbol": "stIBCX",
   "websiteURL": "https://osmosis.zone/"
 }

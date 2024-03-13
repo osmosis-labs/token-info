@@ -1,8 +1,8 @@
 {
   "localization": "ko",
-  "name": "네타",
-  "symbol": "네타",
+  "name": "Neta",
+  "symbol": "NETA",
   "description": "Juno Chain의 Neta용 기본 토큰 cw20",
-  "coingeckoID": "네타",
+  "coingeckoID": "neta",
   "websiteURL": "https://www.junonetwork.io/"
 }

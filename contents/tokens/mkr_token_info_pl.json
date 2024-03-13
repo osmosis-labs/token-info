@@ -3,5 +3,5 @@
   "name": "Maker",
   "symbol": "MKR",
   "description": "Maker to zdecentralizowana organizacja autonomiczna, która tworzy i ubezpiecza stablecoina dai na blockchainie Ethereum",
-  "coingeckoID": "producent"
+  "coingeckoID": "maker"
 }

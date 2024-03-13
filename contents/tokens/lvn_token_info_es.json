@@ -3,6 +3,6 @@
   "name": "Levana",
   "symbol": "LVN",
   "description": "Token nativo de Levana",
-  "coingeckoID": "protocolo-levana",
-  "websiteURL": "https://osmosis.zona/"
+  "coingeckoID": "levana-protocol",
+  "websiteURL": "https://osmosis.zone/"
 }

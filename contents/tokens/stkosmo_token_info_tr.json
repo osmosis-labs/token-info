@@ -1,8 +1,8 @@
 {
   "localization": "tr",
-  "name": "PSTAKE OSMO'yu stake etti",
+  "name": "PSTAKE staked OSMO",
   "symbol": "stkOSMO",
-  "description": "PSTAKE Sıvı Bağlantılı OSMO",
-  "coingeckoID": "pstake-bahisli-osmo",
+  "description": "PSTAKE Sıvı-Stakeli OSMO",
+  "coingeckoID": "pstake-staked-osmo",
   "websiteURL": "https://persistence.one/"
 }

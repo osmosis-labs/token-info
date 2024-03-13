@@ -1,7 +1,7 @@
 {
   "localization": "fr",
   "name": "JunoSwap",
-  "symbol": "BRUT",
+  "symbol": "RAW",
   "description": "Gouvernance des jetons pour Junoswap",
   "coingeckoID": "junoswap-raw-dao",
   "websiteURL": "https://www.junonetwork.io/"

@@ -1,6 +1,6 @@
 {
-  "localization": "en",
-  "name": "PSTAKE miza ATOM",
+  "localization": "ro",
+  "name": "PSTAKE staked ATOM",
   "symbol": "stkATOM",
   "description": "PSTAKE Liquid-Staked ATOM",
   "coingeckoID": "stkatom",

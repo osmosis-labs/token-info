@@ -1,7 +1,7 @@
 {
   "localization": "es",
   "name": "Stride Staked ATOM",
-  "symbol": "estatómata",
-  "coingeckoID": "átomo-estacado-zancada",
+  "symbol": "stATOM",
+  "coingeckoID": "stride-staked-atom",
   "websiteURL": "https://stride.zone/"
 }

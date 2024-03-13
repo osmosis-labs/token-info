@@ -1,8 +1,8 @@
 {
   "localization": "ko",
-  "name": "쿠도스",
+  "name": "Cudos",
   "symbol": "CUDOS",
   "description": "Cudos 블록체인의 기본 토큰",
-  "coingeckoID": "칭찬",
+  "coingeckoID": "cudos",
   "websiteURL": "https://www.cudos.org/"
 }

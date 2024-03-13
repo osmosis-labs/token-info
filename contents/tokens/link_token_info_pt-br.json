@@ -1,7 +1,7 @@
 {
   "localization": "pt",
-  "name": "Elo de corrente",
+  "name": "Chainlink",
   "symbol": "LINK",
   "description": "Um middleware baseado em blockchain, que atua como uma ponte entre contratos inteligentes de criptomoeda, feeds de dados, APIs e pagamentos de contas bancárias tradicionais.",
-  "coingeckoID": "elo de corrente"
+  "coingeckoID": "chainlink"
 }

@@ -1,7 +1,7 @@
 {
   "localization": "tr",
   "name": "SIENNA",
-  "symbol": "SİENNA",
+  "symbol": "SIENNA",
   "description": "Secret Network'te SIENNA için yerel token cw20",
   "coingeckoID": "sienna",
   "websiteURL": "https://scrt.network/"

@@ -1,8 +1,8 @@
 {
   "localization": "ro",
-  "name": "Marmură",
-  "symbol": "MARMURĂ",
+  "name": "Marble",
+  "symbol": "MARBLE",
   "description": "Jetonul nativ cw20 pentru Marble DAO pe Juno Chain",
-  "coingeckoID": "marmură",
+  "coingeckoID": "marble",
   "websiteURL": "https://www.junonetwork.io/"
 }

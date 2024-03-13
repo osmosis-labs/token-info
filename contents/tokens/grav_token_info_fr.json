@@ -1,7 +1,7 @@
 {
   "localization": "fr",
-  "name": "Pont Gravité",
-  "symbol": "GRAVE",
+  "name": "Gravity Bridge",
+  "symbol": "GRAV",
   "description": "Le jeton natif de Gravity Bridge<inlang-LineFeed>\nUn pont ouvert et décentralisé qui libère le pouvoir de l'interopérabilité et de la liquidité entre les écosystèmes blockchain.",
   "coingeckoID": "graviton",
   "websiteURL": "https://www.gravitybridge.net/",

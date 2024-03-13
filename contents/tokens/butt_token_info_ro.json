@@ -1,7 +1,7 @@
 {
   "localization": "ro",
-  "name": "Buton",
-  "symbol": "CAPUL",
+  "name": "Button",
+  "symbol": "BUTT",
   "description": "Tokenul nativ cw20 pentru Button on Secret Network",
   "coingeckoID": "buttcoin-2",
   "websiteURL": "https://scrt.network/"

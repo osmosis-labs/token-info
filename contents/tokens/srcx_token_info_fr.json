@@ -1,7 +1,7 @@
 {
   "localization": "fr",
-  "name": "Jeton source",
+  "name": "Source Token",
   "symbol": "SRCX",
   "description": "Le jeton SRCX du protocole source.",
-  "coingeckoID": "protocole source"
+  "coingeckoID": "source-protocol"
 }

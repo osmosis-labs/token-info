@@ -3,6 +3,6 @@
   "name": "StakeEasy seJUNO",
   "symbol": "SEJUNO",
   "description": "Miza derivată seJUNO pentru staked JUNO",
-  "coingeckoID": "stakeeasy-juno-derivat",
+  "coingeckoID": "stakeeasy-juno-derivative",
   "websiteURL": "https://www.junonetwork.io/"
 }

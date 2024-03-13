@@ -1,8 +1,7 @@
 {
-  "localization": "en",
-  "name": "f(x)Miez",
+  "name": "f(x)Core",
   "symbol": "FX",
   "description": "Jetonul de miză nativ al funcției X",
-  "coingeckoID": "fx-monedă",
+  "coingeckoID": "fx-coin",
   "websiteURL": "https://functionx.io"
 }

@@ -1,9 +1,9 @@
 {
   "localization": "zh",
-  "name": "哨兵",
-  "symbol": "數位VPN",
+  "name": "Sentinel",
+  "symbol": "DVPN",
   "description": "DVPN 是 Sentinel Hub 的本機令牌。<inlang-LineFeed>\nSentinel 生態系統是一個由自主 dVPN 應用程式組成的全球網絡，可實現私密且抗審查的互聯網存取。",
-  "coingeckoID": "哨兵",
+  "coingeckoID": "sentinel",
   "websiteURL": "https://sentinel.co/",
   "twitterURL": "https://twitter.com/SentinelVPN"
 }

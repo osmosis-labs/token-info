@@ -1,8 +1,8 @@
 {
-  "localization": "en",
+  "localization": "fr",
   "name": "Tgrade",
   "symbol": "TGD",
   "description": "Le jeton natif de Tgrade",
-  "coingeckoID": "grade",
+  "coingeckoID": "tgrade",
   "websiteURL": "https://tgrade.finance/"
 }

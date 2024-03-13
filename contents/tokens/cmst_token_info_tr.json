@@ -1,8 +1,7 @@
 {
-  "localization": "en",
   "name": "CMST",
   "symbol": "CMST",
   "description": "Comdex ağında Stabil Token of Harbor protokolü",
-  "coingeckoID": "kompozit",
+  "coingeckoID": "composite",
   "websiteURL": "https://comdex.one/"
 }

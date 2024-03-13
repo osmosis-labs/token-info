@@ -1,9 +1,9 @@
 {
   "localization": "pt",
-  "name": "Cubo de dimensão",
+  "name": "Dymension Hub",
   "symbol": "DYM",
   "description": "O token nativo de governança e piquetagem do Dymension Hub<inlang-LineFeed>\nDymension é uma rede de blockchains modulares facilmente implantáveis e extremamente rápidos, chamados RollApps.",
-  "coingeckoID": "dimensão",
+  "coingeckoID": "dymension",
   "websiteURL": "https://portal.dymension.xyz",
   "twitterURL": "https://twitter.com/dymension"
 }

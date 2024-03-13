@@ -1,9 +1,9 @@
 {
   "localization": "pl",
-  "name": "Brama",
-  "symbol": "ŁUK",
+  "name": "Archway",
+  "symbol": "ARCH",
   "description": "Natywny token sieci Archway<inlang-LineFeed>\nMotywujący łańcuch bloków L1, który pozwala programistom uchwycić wartość generowaną przez ich dappów, umożliwiając zrównoważone modele gospodarcze.",
-  "coingeckoID": "brama",
+  "coingeckoID": "archway",
   "websiteURL": "https://archway.io/",
   "twitterURL": "https://twitter.com/archwayHQ"
 }

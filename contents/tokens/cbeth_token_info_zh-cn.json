@@ -1,7 +1,7 @@
 {
   "localization": "zh",
   "name": "Coinbase Wrapped Staked ETH",
-  "symbol": "以太坊",
+  "symbol": "cbETH",
   "description": "Coinbase Wrapped Staked ETH（“cbETH”）是一种实用代币，是通过 Coinbase 质押的 ETH 的流动性代表。 cbETH 为客户提供了在 dapp 中出售、转让或以其他方式使用质押 ETH 的选项，同时仍被以太坊协议锁定。",
-  "coingeckoID": "coinbase 包裹的 stake 以太坊"
+  "coingeckoID": "coinbase-wrapped-staked-eth"
 }

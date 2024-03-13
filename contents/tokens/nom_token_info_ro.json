@@ -1,8 +1,8 @@
 {
   "localization": "ro",
-  "name": "Onomie",
+  "name": "Onomy",
   "symbol": "NOM",
   "description": "Indicatorul nativ al Protocolului Onomy",
-  "coingeckoID": "onomie-protocol",
+  "coingeckoID": "onomy-protocol",
   "websiteURL": "https://onomy.io/"
 }

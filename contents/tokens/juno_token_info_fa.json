@@ -1,9 +1,9 @@
 {
   "localization": "en",
-  "name": "جونو",
-  "symbol": "جونو",
+  "name": "Juno",
+  "symbol": "JUNO",
   "description": "نشانه بومی زنجیره JUNO<inlang-LineFeed>\nJuno یک پلت فرم قرارداد هوشمند کاملاً متعلق به جامعه است.",
-  "coingeckoID": "شبکه جونو",
+  "coingeckoID": "juno-network",
   "websiteURL": "https://www.junonetwork.io/",
   "twitterURL": "https://twitter.com/JunoNetwork"
 }

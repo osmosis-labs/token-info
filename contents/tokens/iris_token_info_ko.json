@@ -1,7 +1,7 @@
 {
   "localization": "ko",
   "name": "IRISnet",
-  "symbol": "아이리스",
+  "symbol": "IRIS",
   "description": "IRIS 토큰은 IrisNet 체인의 기본 거버넌스 토큰입니다.",
-  "coingeckoID": "홍채 네트워크"
+  "coingeckoID": "iris-network"
 }

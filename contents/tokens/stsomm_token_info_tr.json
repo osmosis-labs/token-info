@@ -1,7 +1,7 @@
 {
   "localization": "tr",
-  "name": "Stride Bahisli SOMM",
+  "name": "Stride Staked SOMM",
   "symbol": "stSOMM",
-  "coingeckoID": "adım adım sommelier",
+  "coingeckoID": "stride-staked-sommelier",
   "websiteURL": "https://stride.zone/"
 }

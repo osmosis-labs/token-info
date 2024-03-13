@@ -1,6 +1,6 @@
 {
   "localization": "ro",
-  "name": "Neutroni",
+  "name": "Neutron",
   "symbol": "NTRN",
   "description": "Indicatorul nativ al lanțului de neutroni.<inlang-LineFeed>\nCea mai sigură platformă CosmWasm din Cosmos, Neutron permite contractelor inteligente să folosească tehnologia Interchain de ultimă oră cu un cost minim.",
   "coingeckoID": "neutron-3",

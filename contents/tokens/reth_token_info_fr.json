@@ -1,7 +1,7 @@
 {
   "localization": "fr",
-  "name": "Éther de pool de fusées",
+  "name": "Rocket Pool Ether",
   "symbol": "rETH",
   "description": "Rocket Pool est un pool Ethereum Proof of Stake décentralisé.",
-  "coingeckoID": "fusée-pool-eth"
+  "coingeckoID": "rocket-pool-eth"
 }

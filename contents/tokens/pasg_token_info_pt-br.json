@@ -1,8 +1,7 @@
 {
-  "localization": "pt",
-  "name": "Passagem",
+  "name": "Passage",
   "symbol": "PASG",
   "description": "O token nativo de piquetagem e governança da cadeia Passage.",
-  "coingeckoID": "passagem",
+  "coingeckoID": "passage",
   "websiteURL": "https://passage3d.com/"
 }

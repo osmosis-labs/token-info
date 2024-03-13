@@ -1,8 +1,8 @@
 {
   "localization": "zh",
-  "name": "凡怒",
+  "name": "Fanfury",
   "symbol": "FURY",
   "description": "Juno Chain 上 Fanfury 的原生代幣 cw20",
-  "coingeckoID": "狂熱",
+  "coingeckoID": "fanfury",
   "websiteURL": "https://www.junonetwork.io/"
 }

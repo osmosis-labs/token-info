@@ -3,6 +3,6 @@
   "name": "Comdex",
   "symbol": "CMDX",
   "description": "Token nativ al protocolului Comdex",
-  "coingeckoID": "comex",
+  "coingeckoID": "comdex",
   "websiteURL": "https://comdex.one/"
 }

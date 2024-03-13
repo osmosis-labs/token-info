@@ -1,7 +1,7 @@
 {
   "localization": "tr",
-  "name": "Stride Bahisli EVMOS",
-  "symbol": "STEVMOS",
-  "coingeckoID": "adım adım ilerleyen evmos",
+  "name": "Stride Staked EVMOS",
+  "symbol": "stEVMOS",
+  "coingeckoID": "stride-staked-evmos",
   "websiteURL": "https://stride.zone/"
 }

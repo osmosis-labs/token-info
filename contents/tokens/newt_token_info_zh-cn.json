@@ -1,8 +1,8 @@
 {
-  "localization": "en",
-  "name": "蝾螈",
-  "symbol": "纽特",
+  "localization": "zh",
+  "name": "Newt",
+  "symbol": "NEWT",
   "description": "Neutron 链上最可爱的 NEWT 代币。",
-  "coingeckoID": "蝾螈",
+  "coingeckoID": "newt",
   "websiteURL": "https://neutron.org/"
 }

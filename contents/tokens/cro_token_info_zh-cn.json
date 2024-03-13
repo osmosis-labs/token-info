@@ -1,9 +1,9 @@
 {
   "localization": "zh",
-  "name": "克罗诺斯 POS 链",
-  "symbol": "合同研究组织",
+  "name": "Cronos POS Chain",
+  "symbol": "CRO",
   "description": "CRO是Crypto.org Chain的原生代币，简称Native CRO。<inlang-LineFeed>\nCronos PoS Chain 是一个公共、开源和无需许可的区块链 - 一个完全去中心化的网络，速度快、费用低，旨在成为一种公共产品，通过支付、DeFi 和 NFT 等用例帮助推动区块链技术的大规模采用。",
-  "coingeckoID": "加密com链",
+  "coingeckoID": "crypto-com-chain",
   "websiteURL": "https://cronos-pos.org/",
   "twitterURL": "https://twitter.com/cronos_chain"
 }

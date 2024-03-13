@@ -1,8 +1,8 @@
 {
   "localization": "tr",
-  "name": "Kodeksi",
+  "name": "Comdex",
   "symbol": "CMDX",
   "description": "Comdex Protokolünün Yerel Tokenı",
-  "coingeckoID": "kodeks",
+  "coingeckoID": "comdex",
   "websiteURL": "https://comdex.one/"
 }

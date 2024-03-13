@@ -1,8 +1,7 @@
 {
-  "localization": "zh",
-  "name": "科瑞姆",
-  "symbol": "科瑞姆",
+  "name": "Coreum",
+  "symbol": "COREUM",
   "description": "Coreum 原生代币",
-  "coingeckoID": "科雷姆",
+  "coingeckoID": "coreum",
   "websiteURL": "https://www.coreum.com"
 }

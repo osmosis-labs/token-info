@@ -1,8 +1,8 @@
 {
   "localization": "ro",
-  "name": "Umbră",
+  "name": "Shade",
   "symbol": "SHD",
   "description": "Jetonul nativ cw20 pentru Shade on Secret Network",
-  "coingeckoID": "umbra-protocol",
+  "coingeckoID": "shade-protocol",
   "websiteURL": "https://scrt.network/"
 }

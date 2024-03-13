@@ -1,8 +1,8 @@
 {
   "localization": "es",
-  "name": "Red Lum",
+  "name": "Lum Network",
   "symbol": "LUM",
   "description": "Token nativo de la Red Lum",
-  "coingeckoID": "red-lum",
+  "coingeckoID": "lum-network",
   "websiteURL": "https://lum.network/"
 }

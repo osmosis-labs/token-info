@@ -1,8 +1,8 @@
 {
   "localization": "ro",
-  "name": "Token Inter Stable",
+  "name": "Inter Stable Token",
   "symbol": "IST",
   "description": "IST este simbolul stabil folosit de lanțul Agoric pentru comisioane de execuție și comerț.",
-  "coingeckoID": "inter-stabil-token",
+  "coingeckoID": "inter-stable-token",
   "websiteURL": "https://agoric.com/"
 }

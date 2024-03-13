@@ -1,8 +1,8 @@
 {
   "localization": "ro",
-  "name": "Rețeaua Lum",
+  "name": "Lum Network",
   "symbol": "LUM",
   "description": "Token nativ al rețelei Lum",
-  "coingeckoID": "lum-rețea",
+  "coingeckoID": "lum-network",
   "websiteURL": "https://lum.network/"
 }

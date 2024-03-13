@@ -1,7 +1,6 @@
 {
-  "localization": "en",
-  "name": "ATOM مربع",
-  "symbol": "SqATOM",
-  "description": "sqATOM توکن قدرت حاشیه دار",
+  "name": "ATOM Squared",
+  "symbol": "sqATOM",
+  "description": "sqATOM نماد قدرت حاشیه‌دار",
   "websiteURL": "https://osmosis.zone/"
 }

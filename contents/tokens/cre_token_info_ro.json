@@ -1,7 +1,7 @@
 {
   "localization": "ro",
-  "name": "Semilună",
+  "name": "Crescent",
   "symbol": "CRE",
   "description": "Jetonul nativ al Semilunii",
-  "coingeckoID": "rețea-semilună"
+  "coingeckoID": "crescent-network"
 }

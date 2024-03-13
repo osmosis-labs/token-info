@@ -1,8 +1,8 @@
 {
-  "localization": "en",
-  "name": "泰里托里",
-  "symbol": "托里",
+  "localization": "zh",
+  "name": "Teritori",
+  "symbol": "TORI",
   "description": "Teritori 的原生代币",
-  "coingeckoID": "泰里托里",
+  "coingeckoID": "teritori",
   "websiteURL": "https://teritori.com/"
 }

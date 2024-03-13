@@ -1,8 +1,7 @@
 {
-  "localization": "fr",
   "name": "Coreum",
-  "symbol": "CORÉUM",
+  "symbol": "COREUM",
   "description": "Le jeton natif de Coreum",
-  "coingeckoID": "noyau",
+  "coingeckoID": "coreum",
   "websiteURL": "https://www.coreum.com"
 }

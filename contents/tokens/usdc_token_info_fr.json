@@ -1,7 +1,7 @@
 {
   "localization": "fr",
-  "name": "Pièce en USD",
+  "name": "USD Coin",
   "symbol": "USDC",
   "description": "L'USDC est un stablecoin entièrement garanti en dollars américains développé par CENTRE, le projet open source, Circle étant le premier de plusieurs émetteurs à venir.",
-  "coingeckoID": "pièce de monnaie USD"
+  "coingeckoID": "usd-coin"
 }

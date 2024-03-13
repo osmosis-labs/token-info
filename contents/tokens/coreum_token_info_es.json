@@ -1,8 +1,7 @@
 {
-  "localization": "es",
-  "name": "núcleo",
-  "symbol": "COREO",
+  "name": "Coreum",
+  "symbol": "COREUM",
   "description": "El token nativo de Coreum",
-  "coingeckoID": "núcleo",
+  "coingeckoID": "coreum",
   "websiteURL": "https://www.coreum.com"
 }

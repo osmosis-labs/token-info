@@ -1,7 +1,7 @@
 {
   "localization": "es",
   "name": "SIENNA",
-  "symbol": "TIERRA DE SIENA",
+  "symbol": "SIENNA",
   "description": "El token nativo cw20 para SIENNA en Secret Network",
   "coingeckoID": "sienna",
   "websiteURL": "https://scrt.network/"

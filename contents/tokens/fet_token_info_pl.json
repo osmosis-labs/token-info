@@ -1,7 +1,6 @@
 {
-  "localization": "pl",
   "name": "Fetch.ai",
   "symbol": "FET",
   "description": "Natywny token stakowania i zarządzania w Fetch Hub.",
-  "coingeckoID": "przynieś-ai"
+  "coingeckoID": "fetch-ai"
 }

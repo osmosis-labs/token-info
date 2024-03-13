@@ -1,9 +1,9 @@
 {
   "localization": "tr",
   "name": "Humans.ai",
-  "symbol": "KALP",
+  "symbol": "HEART",
   "description": "Humans.ai'nin yerel stake ve yönetişim tokenı.",
-  "coingeckoID": "insanlar-ai",
+  "coingeckoID": "humans-ai",
   "websiteURL": "https://humans.ai/",
   "twitterURL": "https://twitter.com/humansdotai"
 }

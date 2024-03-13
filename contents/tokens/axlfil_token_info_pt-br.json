@@ -1,7 +1,7 @@
 {
   "localization": "pt",
-  "name": "FIL embrulhado do Filecoin",
+  "name": "Wrapped FIL from Filecoin",
   "symbol": "axlFIL",
   "description": "FIL embrulhado em Axelar",
-  "coingeckoID": "arquivocoin"
+  "coingeckoID": "filecoin"
 }

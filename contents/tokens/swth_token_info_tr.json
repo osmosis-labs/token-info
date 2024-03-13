@@ -1,8 +1,8 @@
 {
   "localization": "tr",
-  "name": "Karbon",
+  "name": "Carbon",
   "symbol": "SWTH",
   "description": "Carbon'un yerel yönetim tokenı",
-  "coingeckoID": "geçiş",
-  "websiteURL": "https://www.karbon.network/"
+  "coingeckoID": "switcheo",
+  "websiteURL": "https://www.carbon.network/"
 }

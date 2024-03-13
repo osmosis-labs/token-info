@@ -1,8 +1,8 @@
 {
   "localization": "tr",
-  "name": "Inter Stabil Token",
+  "name": "Inter Stable Token",
   "symbol": "IST",
   "description": "IST, Agoric zinciri tarafından yürütme ücretleri ve ticaret için kullanılan stabil tokendir.",
-  "coingeckoID": "kararlılıklar arası belirteç",
+  "coingeckoID": "inter-stable-token",
   "websiteURL": "https://agoric.com/"
 }

@@ -1,8 +1,8 @@
 {
   "localization": "zh",
-  "name": "挖掘鏈",
-  "symbol": "挖",
+  "name": "Dig Chain",
+  "symbol": "DIG",
   "description": "Dig Chain 原生代幣",
-  "coingeckoID": "挖掘鏈",
+  "coingeckoID": "dig-chain",
   "websiteURL": "https://digchain.org/"
 }

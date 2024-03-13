@@ -1,8 +1,8 @@
 {
   "localization": "pt",
-  "name": "Token Interestável",
+  "name": "Inter Stable Token",
   "symbol": "IST",
   "description": "IST é o token estável usado pela rede Agórica para taxas de execução e comércio.",
-  "coingeckoID": "token interestável",
+  "coingeckoID": "inter-stable-token",
   "websiteURL": "https://agoric.com/"
 }

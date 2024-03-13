@@ -1,7 +1,6 @@
 {
-  "localization": "en",
-  "name": "電子貨幣歐元",
-  "symbol": "歐洲歐元",
+  "name": "e-Money EUR",
+  "symbol": "EEUR",
   "description": "電子貨幣歐元穩定幣。由法定歐元存款和政府債券進行審計和支持。",
-  "coingeckoID": "歐元電子貨幣"
+  "coingeckoID": "e-money-eur"
 }

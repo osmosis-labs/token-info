@@ -1,7 +1,7 @@
 {
   "localization": "tr",
   "name": "IRISnet",
-  "symbol": "İRİS",
+  "symbol": "IRIS",
   "description": "IRIS belirteci, IrisNet zincirinin yerel yönetim belirtecidir.",
-  "coingeckoID": "iris ağı"
+  "coingeckoID": "iris-network"
 }

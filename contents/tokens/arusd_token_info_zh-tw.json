@@ -1,8 +1,7 @@
 {
-  "localization": "zh",
-  "name": "耕地美元",
-  "symbol": "ar美元",
+  "name": "Arable USD",
+  "symbol": "arUSD",
   "description": "Arable 衍生性商品超額抵押穩定幣 v1",
-  "coingeckoID": "耕地美元",
+  "coingeckoID": "arable-usd",
   "websiteURL": "https://arable.finance/"
 }

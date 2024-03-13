@@ -1,7 +1,7 @@
 {
   "localization": "pl",
-  "name": "Przyzwoity",
-  "symbol": "GRUDZIEŃ",
+  "name": "Decentr",
+  "symbol": "DEC",
   "description": "Natywny symbol Decentr",
-  "coingeckoID": "zdecentralizowany"
+  "coingeckoID": "decentr"
 }

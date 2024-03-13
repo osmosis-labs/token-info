@@ -1,7 +1,6 @@
 {
-  "localization": "en",
-  "name": "ÁTOMO al cuadrado",
-  "symbol": "ÁTOMO cuadrado",
+  "name": "ATOM Squared",
+  "symbol": "sqATOM",
   "description": "Token de poder marginal sqATOM",
-  "websiteURL": "https://osmosis.zona/"
+  "websiteURL": "https://osmosis.zone/"
 }

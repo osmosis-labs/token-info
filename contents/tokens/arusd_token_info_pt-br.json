@@ -1,8 +1,7 @@
 {
-  "localization": "pt",
-  "name": "USD arável",
+  "name": "Arable USD",
   "symbol": "arUSD",
   "description": "Moeda estável sobrecolateralizada para derivativos aráveis v1",
-  "coingeckoID": "arável-usd",
+  "coingeckoID": "arable-usd",
   "websiteURL": "https://arable.finance/"
 }

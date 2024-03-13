@@ -1,7 +1,7 @@
 {
-  "localization": "en",
-  "name": "마이크로틱",
+  "localization": "ko",
+  "name": "Microtick",
   "symbol": "TICK",
   "description": "TICK 코인은 Microtick Price Discovery 및 Oracle 앱의 토큰입니다.",
-  "coingeckoID": "마이크로틱"
+  "coingeckoID": "microtick"
 }

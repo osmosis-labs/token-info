@@ -1,7 +1,7 @@
 {
   "localization": "ko",
-  "name": "봉크",
-  "symbol": "봉크",
+  "name": "Bonk",
+  "symbol": "BONK",
   "description": "공식 Bonk Inu 토큰",
-  "coingeckoID": "봉크"
+  "coingeckoID": "bonk"
 }

@@ -1,6 +1,5 @@
 {
-  "localization": "es",
-  "name": "Bitcoin envuelto",
+  "name": "Wrapped Bitcoin",
   "symbol": "WBTC",
-  "websiteURL": "https://osmosis.zona/"
+  "websiteURL": "https://osmosis.zone/"
 }

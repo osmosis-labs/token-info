@@ -1,7 +1,7 @@
 {
   "localization": "en",
-  "name": "سکه USD",
+  "name": "USD Coin",
   "symbol": "USDC",
   "description": "USDC یک استیبل کوین کاملاً وثیقه شده به دلار آمریکا است که توسط CENTRE توسعه یافته است، پروژه منبع باز با Circle اولین صادرکننده از چندین صادرکننده آینده است.",
-  "coingeckoID": "USD-coin"
+  "coingeckoID": "usd-coin"
 }

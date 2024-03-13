@@ -1,8 +1,8 @@
 {
   "localization": "es",
-  "name": "Dejar de apostar Fi",
+  "name": "Unstake Fi",
   "symbol": "NSTK",
   "description": "El token de ingresos y gobernanza de Unstake.fi",
-  "coingeckoID": "no apostar-fi",
+  "coingeckoID": "unstake-fi",
   "websiteURL": "https://kujira.app/"
 }

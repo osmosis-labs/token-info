@@ -1,7 +1,7 @@
 {
   "localization": "pl",
-  "name": "Juno Zamiana",
-  "symbol": "SUROWY",
+  "name": "JunoSwap",
+  "symbol": "RAW",
   "description": "Zarządzanie tokenami dla Junoswap",
   "coingeckoID": "junoswap-raw-dao",
   "websiteURL": "https://www.junonetwork.io/"

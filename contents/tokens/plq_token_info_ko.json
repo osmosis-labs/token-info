@@ -1,8 +1,8 @@
 {
   "localization": "ko",
-  "name": "플랜큐",
+  "name": "Planq",
   "symbol": "PLQ",
   "description": "Planq 네트워크의 기본 EVM, 거버넌스 및 스테이킹 토큰",
-  "coingeckoID": "계획",
+  "coingeckoID": "planq",
   "websiteURL": "https://planq.network/"
 }

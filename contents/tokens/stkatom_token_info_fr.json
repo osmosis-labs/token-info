@@ -1,6 +1,6 @@
 {
-  "localization": "en",
-  "name": "PSTAKE jalonné ATOM",
+  "localization": "fr",
+  "name": "PSTAKE staked ATOM",
   "symbol": "stkATOM",
   "description": "ATOM à jalonnement liquide PSTAKE",
   "coingeckoID": "stkatom",

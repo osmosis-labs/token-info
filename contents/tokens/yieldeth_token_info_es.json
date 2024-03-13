@@ -1,7 +1,7 @@
 {
   "localization": "es",
-  "name": "ETH de rendimiento real",
-  "symbol": "RendimientoETH",
+  "name": "Real Yield ETH",
+  "symbol": "YieldETH",
   "description": "Maximice el rendimiento de ETH mediante apuestas apalancadas en Aave, Compound y Morpho y provisión de liquidez de tokens de apuestas líquidas de ETH en Uniswap V3.",
-  "coingeckoID": "rinde-sommelier"
+  "coingeckoID": "yieldeth-sommelier"
 }

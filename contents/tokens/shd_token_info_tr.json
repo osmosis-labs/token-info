@@ -1,8 +1,8 @@
 {
   "localization": "tr",
-  "name": "Gölge",
+  "name": "Shade",
   "symbol": "SHD",
   "description": "Secret Network'te Shade için yerel token cw20",
-  "coingeckoID": "gölge protokolü",
+  "coingeckoID": "shade-protocol",
   "websiteURL": "https://scrt.network/"
 }

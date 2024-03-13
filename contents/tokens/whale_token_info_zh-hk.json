@@ -1,8 +1,8 @@
 {
-  "localization": "en",
-  "name": "米加洛",
+  "localization": "zh",
+  "name": "Migaloo",
   "symbol": "WHALE",
   "description": "Migaloo Chain 原生代幣",
-  "coingeckoID": "白鯨",
+  "coingeckoID": "white-whale",
   "websiteURL": "https://www.whitewhale.money/"
 }

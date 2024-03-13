@@ -1,7 +1,7 @@
 {
   "localization": "fr",
-  "name": "Arbitrage",
-  "symbol": "ARA",
+  "name": "Arbitrum",
+  "symbol": "ARB",
   "description": "Jeton natif d'Arbitrum",
-  "coingeckoID": "arbitrage"
+  "coingeckoID": "arbitrum"
 }

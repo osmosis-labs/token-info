@@ -1,7 +1,7 @@
 {
   "localization": "es",
-  "name": "luna clasica",
-  "symbol": "ALMUERZO",
+  "name": "Luna Classic",
+  "symbol": "LUNC",
   "description": "La ficha de apuesta nativa de Terra Classic.",
   "coingeckoID": "terra-luna"
 }

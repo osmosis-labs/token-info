@@ -1,7 +1,7 @@
 {
   "localization": "pt",
   "name": "Bonk",
-  "symbol": "BONADO",
+  "symbol": "BONK",
   "description": "O token oficial do Bonk Inu",
-  "coingeckoID": "foda"
+  "coingeckoID": "bonk"
 }

@@ -1,8 +1,8 @@
 {
   "localization": "es",
-  "name": "Puerto",
+  "name": "Harbor",
   "symbol": "HARBOR",
   "description": "Token de gobernanza del protocolo Harbour en la red Comdex",
-  "coingeckoID": "puerto-2",
+  "coingeckoID": "harbor-2",
   "websiteURL": "https://comdex.one/"
 }

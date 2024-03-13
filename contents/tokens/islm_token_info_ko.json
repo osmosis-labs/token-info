@@ -1,8 +1,7 @@
 {
-  "localization": "ko",
-  "name": "하크 네트워크",
-  "symbol": "이슬람교",
+  "name": "Haqq Network",
+  "symbol": "ISLM",
   "description": "Haqq 네트워크의 기본 EVM, 거버넌스 및 스테이킹 토큰",
-  "coingeckoID": "이슬람 동전",
+  "coingeckoID": "islamic-coin",
   "websiteURL": "https://haqq.network/"
 }

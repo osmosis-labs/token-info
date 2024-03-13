@@ -1,8 +1,8 @@
 {
   "localization": "pt",
-  "name": "Centro StaFi",
+  "name": "StaFi Hub",
   "symbol": "FIS",
   "description": "O token nativo de piquetagem e governança do StaFi Hub.",
-  "coingeckoID": "pessoal",
+  "coingeckoID": "stafi",
   "websiteURL": "https://stafihub.io/"
 }

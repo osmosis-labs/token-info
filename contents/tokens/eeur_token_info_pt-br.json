@@ -1,7 +1,6 @@
 {
-  "localization": "en",
-  "name": "Dinheiro eletrônico EUR",
-  "symbol": "EUR",
+  "name": "e-Money EUR",
+  "symbol": "EEUR",
   "description": "Moeda estável EUR de dinheiro eletrônico. Auditado e apoiado por depósitos fiduciários em euros e títulos governamentais.",
-  "coingeckoID": "dinheiro eletrônico-eur"
+  "coingeckoID": "e-money-eur"
 }

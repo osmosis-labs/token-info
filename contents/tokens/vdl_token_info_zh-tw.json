@@ -1,8 +1,7 @@
 {
-  "localization": "en",
-  "name": "維杜魯姆",
+  "name": "Vidulum",
   "symbol": "VDL",
   "description": "Vidulum 的原生代幣",
-  "coingeckoID": "維杜盧姆",
+  "coingeckoID": "vidulum",
   "websiteURL": "https://vidulum.app/"
 }

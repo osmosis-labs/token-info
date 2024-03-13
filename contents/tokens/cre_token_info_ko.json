@@ -1,7 +1,7 @@
 {
   "localization": "ko",
-  "name": "초승달",
+  "name": "Crescent",
   "symbol": "CRE",
   "description": "초승달의 기본 토큰",
-  "coingeckoID": "초승달 네트워크"
+  "coingeckoID": "crescent-network"
 }

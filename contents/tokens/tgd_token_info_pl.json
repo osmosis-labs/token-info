@@ -1,8 +1,8 @@
 {
-  "localization": "en",
-  "name": "T-klasa",
+  "localization": "pl",
+  "name": "Tgrade",
   "symbol": "TGD",
   "description": "Natywny token Tgrade",
-  "coingeckoID": "stopień",
+  "coingeckoID": "tgrade",
   "websiteURL": "https://tgrade.finance/"
 }

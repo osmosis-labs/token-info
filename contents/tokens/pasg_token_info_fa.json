@@ -1,8 +1,7 @@
 {
-  "localization": "en",
-  "name": "پاساژ",
-  "symbol": "پاسگ",
+  "name": "Passage",
+  "symbol": "PASG",
   "description": "نشانه اصلی سهامداری و حاکمیت زنجیره پاساژ.",
-  "coingeckoID": "گذر",
+  "coingeckoID": "passage",
   "websiteURL": "https://passage3d.com/"
 }

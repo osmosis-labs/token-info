@@ -1,6 +1,6 @@
 {
   "localization": "es",
-  "name": "Derivados de participación SCRT",
+  "name": "SCRT Staking Derivatives",
   "symbol": "stkd-SCRT",
   "description": "El token nativo cw20 para derivados de participación SCRT en Secret Network",
   "coingeckoID": "stkd-scrt",

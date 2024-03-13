@@ -1,7 +1,7 @@
 {
-  "localization": "en",
-  "name": "Corrente",
+  "localization": "pt",
+  "name": "Chain",
   "symbol": "XCN",
-  "description": "Chain é um protocolo de blockchain em nuvem que permite que as organizações criem melhores serviços financeiros desde o início, alimentados por Sequence e Chain Core.",
-  "coingeckoID": "cadeia-2"
+  "description": "Chain é um protocolo de blockchain em nuvem que permite às organizações construir melhores serviços financeiros desde o início, alimentados por Sequence e Chain Core.",
+  "coingeckoID": "chain-2"
 }

@@ -3,5 +3,5 @@
   "name": "Tether USD",
   "symbol": "USDT",
   "description": "Tether vous offre les avantages conjoints de la technologie blockchain ouverte et de la monnaie traditionnelle en convertissant votre argent en un équivalent en monnaie numérique stable.",
-  "coingeckoID": "attache"
+  "coingeckoID": "tether"
 }

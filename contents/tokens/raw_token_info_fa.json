@@ -1,8 +1,8 @@
 {
   "localization": "en",
   "name": "JunoSwap",
-  "symbol": "خام",
-  "description": "حاکمیت توکن برای Junoswap",
+  "symbol": "RAW",
+  "description": "حکومت توکن برای Junoswap",
   "coingeckoID": "junoswap-raw-dao",
   "websiteURL": "https://www.junonetwork.io/"
 }

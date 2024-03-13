@@ -1,8 +1,7 @@
 {
-  "localization": "en",
-  "name": "شبکه حق",
+  "name": "Haqq Network",
   "symbol": "ISLM",
-  "description": "EVM بومی، نشانه حکومت و سهامداری شبکه حق",
-  "coingeckoID": "سکه اسلامی",
+  "description": "EVM بومی، نشانه حاکمیت و سهامداری شبکه حق",
+  "coingeckoID": "islamic-coin",
   "websiteURL": "https://haqq.network/"
 }

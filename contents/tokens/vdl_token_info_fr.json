@@ -1,8 +1,7 @@
 {
-  "localization": "en",
-  "name": "Vidule",
+  "name": "Vidulum",
   "symbol": "VDL",
   "description": "Le jeton natif de Vidulum",
-  "coingeckoID": "vidule",
+  "coingeckoID": "vidulum",
   "websiteURL": "https://vidulum.app/"
 }

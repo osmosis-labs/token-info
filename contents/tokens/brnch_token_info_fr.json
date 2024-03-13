@@ -1,7 +1,6 @@
 {
-  "localization": "fr",
-  "name": "Bifurquer",
-  "symbol": "BRNCHE",
+  "name": "Branch",
+  "symbol": "BRNCH",
   "description": "Jeton ohhNFT LP.",
   "websiteURL": "https://stargaze.zone/"
 }

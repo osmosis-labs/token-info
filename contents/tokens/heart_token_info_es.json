@@ -1,9 +1,9 @@
 {
   "localization": "es",
   "name": "Humans.ai",
-  "symbol": "CORAZÓN",
+  "symbol": "HEART",
   "description": "El token nativo de participación y gobernanza de Humans.ai.",
-  "coingeckoID": "humanos-ai",
+  "coingeckoID": "humans-ai",
   "websiteURL": "https://humans.ai/",
   "twitterURL": "https://twitter.com/humansdotai"
 }

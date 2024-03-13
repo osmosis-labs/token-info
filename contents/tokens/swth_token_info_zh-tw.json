@@ -1,8 +1,8 @@
 {
   "localization": "zh",
-  "name": "碳",
-  "symbol": "西南交通大學",
+  "name": "Carbon",
+  "symbol": "SWTH",
   "description": "Carbon 的原生治理代幣",
-  "coingeckoID": "交換機",
+  "coingeckoID": "switcheo",
   "websiteURL": "https://www.carbon.network/"
 }

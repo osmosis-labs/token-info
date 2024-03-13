@@ -1,8 +1,7 @@
 {
-  "localization": "en",
-  "name": "دلار قابل کشت",
+  "name": "Arable USD",
   "symbol": "arUSD",
   "description": "سکه پایدار بیش از حد وثیقه برای مشتقات قابل کشت v1",
-  "coingeckoID": "دلار قابل کشت",
+  "coingeckoID": "arable-usd",
   "websiteURL": "https://arable.finance/"
 }

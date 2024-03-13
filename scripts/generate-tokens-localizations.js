@@ -21,31 +21,17 @@ for (const tokenInfo of tokensInfo) {
     const translations = JSON.parse(fs.readFileSync(`localizations/${lang}.json`).toString());
     const translation = translations[`${denom}`];
 
-    const tokenData = updateObject(defaultValues, translation);
+    const tokenData = {
+      ...defaultValues, // Copy default values
+      localization: translation?.localization // Always include localization code
+    };
 
+    // Update description field if translation is available
+    if (translation?.description) {
+      tokenData.description = translation.description;
+    }
+
+    // Write updated tokenData to file
     fs.writeFileSync(`contents/tokens/${denom}_token_info_${lang}.json`, Buffer.from(JSON.stringify(tokenData, undefined, 2)));
   }
-}
-
-function updateObject(defaultValues, translation) {
-  // Helper function to recursively update object properties
-  function update(obj, translation) {
-    for (const key in obj) {
-      if (typeof obj[key] === 'object' && obj[key] !== null) {
-        // If the property is an object, recursively update it
-        if (translation && key in translation) {
-          obj[key] = update(obj[key], translation[key]);
-        }
-      } else {
-        // If the property is not an object, update it with translation if available
-        if (translation && key in translation) {
-          obj[key] = translation[key];
-        }
-      }
-    }
-    return obj;
-  }
-
-  // Call the helper function to update the defaultValues object
-  return update(defaultValues, translation);
 }

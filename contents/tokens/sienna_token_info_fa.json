@@ -1,8 +1,8 @@
 {
   "localization": "en",
   "name": "SIENNA",
-  "symbol": "سینا",
-  "description": "توکن بومی cw20 برای SIENNA در Secret Network",
+  "symbol": "SIENNA",
+  "description": "توکن بومی cw20 برای SIENNA در شبکه مخفی",
   "coingeckoID": "sienna",
   "websiteURL": "https://scrt.network/"
 }

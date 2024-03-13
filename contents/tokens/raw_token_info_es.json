@@ -1,7 +1,7 @@
 {
   "localization": "es",
   "name": "JunoSwap",
-  "symbol": "CRUDO",
+  "symbol": "RAW",
   "description": "Gobernanza de tokens para Junoswap",
   "coingeckoID": "junoswap-raw-dao",
   "websiteURL": "https://www.junonetwork.io/"

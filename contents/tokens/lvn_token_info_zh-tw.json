@@ -1,8 +1,8 @@
 {
   "localization": "zh",
   "name": "Levana",
-  "symbol": "左心室腎",
+  "symbol": "LVN",
   "description": "Levana 原生代幣",
-  "coingeckoID": "levana協議",
+  "coingeckoID": "levana-protocol",
   "websiteURL": "https://osmosis.zone/"
 }

@@ -1,7 +1,7 @@
 {
-  "localization": "en",
-  "name": "조다오",
-  "symbol": "조",
+  "localization": "ko",
+  "name": "JoeDAO",
+  "symbol": "JOE",
   "description": "Juno Network의 도구 구축 전용 DAO",
   "websiteURL": "https://www.junonetwork.io/"
 }

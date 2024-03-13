@@ -1,8 +1,7 @@
 {
-  "localization": "en",
-  "name": "ویدولوم",
+  "name": "Vidulum",
   "symbol": "VDL",
   "description": "نشانه بومی Vidulum",
-  "coingeckoID": "ویدولوم",
+  "coingeckoID": "vidulum",
   "websiteURL": "https://vidulum.app/"
 }

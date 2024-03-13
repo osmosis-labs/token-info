@@ -1,7 +1,7 @@
 {
   "localization": "fr",
-  "name": "Croissant",
+  "name": "Crescent",
   "symbol": "CRE",
   "description": "Le jeton natif de Crescent",
-  "coingeckoID": "réseau-croissant"
+  "coingeckoID": "crescent-network"
 }

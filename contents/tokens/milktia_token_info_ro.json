@@ -1,8 +1,8 @@
 {
-  "localization": "en",
+  "localization": "ro",
   "name": "milkTIA",
   "symbol": "milkTIA",
   "description": "TIA lichidă a lui MilkyWay",
-  "coingeckoID": "milkyway-stated-tia",
+  "coingeckoID": "milkyway-staked-tia",
   "websiteURL": "https://osmosis.zone/"
 }

@@ -1,7 +1,7 @@
 {
-  "localization": "en",
-  "name": "Stride Estacado ESTRELAS",
-  "symbol": "estrelas",
-  "coingeckoID": "estrelas apostadas",
+  "localization": "pt",
+  "name": "Stride Staked STARS",
+  "symbol": "stSTARS",
+  "coingeckoID": "stride-staked-stars",
   "websiteURL": "https://stride.zone/"
 }

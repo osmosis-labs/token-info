@@ -1,8 +1,8 @@
 {
   "localization": "pt",
-  "name": "chihuahua",
+  "name": "Chihuahua",
   "symbol": "HUAHUA",
   "description": "O token nativo da cadeia Chihuahua",
-  "coingeckoID": "token de chihuahua",
+  "coingeckoID": "chihuahua-token",
   "websiteURL": "https://chihuahua.wtf/"
 }

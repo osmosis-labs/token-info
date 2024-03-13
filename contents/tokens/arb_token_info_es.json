@@ -1,7 +1,7 @@
 {
   "localization": "es",
-  "name": "arbitraje",
-  "symbol": "BRA",
+  "name": "Arbitrum",
+  "symbol": "ARB",
   "description": "Token nativo de Arbitrum",
-  "coingeckoID": "arbitraje"
+  "coingeckoID": "arbitrum"
 }

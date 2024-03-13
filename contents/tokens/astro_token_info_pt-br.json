@@ -1,9 +1,8 @@
 {
-  "localization": "en",
-  "name": "Astroporto",
+  "name": "Astroport",
   "symbol": "ASTRO",
   "description": "Astroport é um mercado neutro onde qualquer pessoa, de qualquer lugar da galáxia, pode atracar para negociar seus produtos.",
-  "coingeckoID": "astroporto-fi",
+  "coingeckoID": "astroport-fi",
   "websiteURL": "https://www.terra.money/",
   "twitterURL": "https://twitter.com/astroport_fi"
 }

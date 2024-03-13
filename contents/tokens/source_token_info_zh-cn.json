@@ -1,7 +1,7 @@
 {
-  "localization": "en",
-  "name": "来源",
-  "symbol": "来源",
+  "localization": "zh",
+  "name": "Source",
+  "symbol": "SOURCE",
   "description": "SOURCE Chain的原生代币",
   "coingeckoID": "source",
   "websiteURL": "https://www.sourceprotocol.io/"

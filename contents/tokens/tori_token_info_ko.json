@@ -1,8 +1,8 @@
 {
-  "localization": "en",
-  "name": "테리토리",
-  "symbol": "토리",
+  "localization": "ko",
+  "name": "Teritori",
+  "symbol": "TORI",
   "description": "Teritori의 기본 토큰",
-  "coingeckoID": "테리토리",
+  "coingeckoID": "teritori",
   "websiteURL": "https://teritori.com/"
 }

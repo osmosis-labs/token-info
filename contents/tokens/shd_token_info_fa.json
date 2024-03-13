@@ -1,8 +1,8 @@
 {
   "localization": "en",
-  "name": "سایه",
+  "name": "Shade",
   "symbol": "SHD",
   "description": "توکن بومی cw20 برای Shade on Secret Network",
-  "coingeckoID": "سایه-پروتکل",
+  "coingeckoID": "shade-protocol",
   "websiteURL": "https://scrt.network/"
 }

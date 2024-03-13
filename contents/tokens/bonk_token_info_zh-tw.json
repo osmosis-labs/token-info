@@ -1,7 +1,7 @@
 {
   "localization": "zh",
-  "name": "邦克",
-  "symbol": "邦克",
+  "name": "Bonk",
+  "symbol": "BONK",
   "description": "Bonk Inu 官方代幣",
-  "coingeckoID": "邦克"
+  "coingeckoID": "bonk"
 }

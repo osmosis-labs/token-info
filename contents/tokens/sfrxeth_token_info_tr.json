@@ -1,7 +1,7 @@
 {
-  "localization": "en",
-  "name": "Bahisli Frax Ether",
+  "localization": "tr",
+  "name": "Staked Frax Ether",
   "symbol": "sfrxETH",
   "description": "sfrxETH, staking getirisi sağlayan frxETH sürümüdür. Frax Ether doğrulayıcılarından elde edilen tüm kar, sfrxETH sahiplerine dağıtılır. FrxETH'yi sfrxETH ile değiştirerek, sfrxETH'nin tekrar frxETH'ye dönüştürülmesiyle kullanılacak olan staking getirisine hak kazanılır.",
-  "coingeckoID": "kazıklı-frax-eter"
+  "coingeckoID": "staked-frax-ether"
 }

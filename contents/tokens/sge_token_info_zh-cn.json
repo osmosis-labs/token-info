@@ -1,7 +1,7 @@
 {
   "localization": "zh",
   "name": "SGE",
-  "symbol": "上交所",
+  "symbol": "SGE",
   "description": "SGE网络的原生代币",
-  "coingeckoID": "六个西格玛"
+  "coingeckoID": "six-sigma"
 }

@@ -1,7 +1,7 @@
 {
   "localization": "tr",
-  "name": "Aptos Parası",
-  "symbol": "UYGUN",
+  "name": "Aptos Coin",
+  "symbol": "APT",
   "description": "Aptos belirteci (APT), ağ ve işlem ücretlerini ödemek için kullanılan Aptos blockchain yerel belirtecidir.",
   "coingeckoID": "aptos"
 }

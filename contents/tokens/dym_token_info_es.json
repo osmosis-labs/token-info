@@ -1,9 +1,9 @@
 {
   "localization": "es",
-  "name": "Centro Dymension",
+  "name": "Dymension Hub",
   "symbol": "DYM",
   "description": "El token nativo de gobernanza y participación de Dymension Hub<inlang-LineFeed>\nDymension es una red de cadenas de bloques modulares ultrarrápidas y fácilmente implementables llamadas RollApps.",
-  "coingeckoID": "dimensión",
+  "coingeckoID": "dymension",
   "websiteURL": "https://portal.dymension.xyz",
   "twitterURL": "https://twitter.com/dymension"
 }

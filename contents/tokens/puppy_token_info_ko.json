@@ -1,7 +1,6 @@
 {
-  "localization": "ko",
-  "name": "강아지",
-  "symbol": "강아지",
-  "description": "강아지",
+  "name": "Puppy",
+  "symbol": "PUPPY",
+  "description": "Puppy",
   "websiteURL": "https://chihuahua.wtf/"
 }

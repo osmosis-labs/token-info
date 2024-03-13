@@ -1,9 +1,9 @@
 {
   "localization": "zh",
-  "name": "重力桥",
-  "symbol": "格拉夫",
+  "name": "Gravity Bridge",
+  "symbol": "GRAV",
   "description": "重力桥原生代币<inlang-LineFeed><inlang-LineFeed>一个开放、去中心化的桥梁，释放区块链生态系统之间的互操作性和流动性的力量。",
-  "coingeckoID": "引力子",
+  "coingeckoID": "graviton",
   "websiteURL": "https://www.gravitybridge.net/",
   "twitterURL": "https://twitter.com/gravity_bridge"
 }

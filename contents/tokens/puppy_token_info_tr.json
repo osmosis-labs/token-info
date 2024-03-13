@@ -1,7 +1,6 @@
 {
-  "localization": "tr",
-  "name": "Köpek yavrusu",
-  "symbol": "KÖPEK YAVRUSU",
-  "description": "Köpek yavrusu",
+  "name": "Puppy",
+  "symbol": "PUPPY",
+  "description": "Puppy",
   "websiteURL": "https://chihuahua.wtf/"
 }

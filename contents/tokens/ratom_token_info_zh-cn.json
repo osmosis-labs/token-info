@@ -1,7 +1,7 @@
 {
   "localization": "zh",
-  "name": "原子",
-  "symbol": "原子",
+  "name": "rATOM",
+  "symbol": "rATOM",
   "description": "质押 ATOM 的流动性质押表示",
   "websiteURL": "https://stafihub.io/"
 }

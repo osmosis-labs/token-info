@@ -1,7 +1,7 @@
 {
-  "localization": "en",
-  "name": "Sursă",
-  "symbol": "SURSĂ",
+  "localization": "ro",
+  "name": "Source",
+  "symbol": "SOURCE",
   "description": "Jetonul nativ al SOURCE Chain",
   "coingeckoID": "source",
   "websiteURL": "https://www.sourceprotocol.io/"

@@ -1,8 +1,8 @@
 {
   "localization": "pt",
-  "name": "Carbono",
+  "name": "Carbon",
   "symbol": "SWTH",
   "description": "O token de governança nativo do Carbono",
-  "coingeckoID": "mudar",
+  "coingeckoID": "switcheo",
   "websiteURL": "https://www.carbon.network/"
 }

@@ -1,8 +1,7 @@
 {
-  "localization": "es",
-  "name": "USD cultivables",
+  "name": "Arable USD",
   "symbol": "arUSD",
   "description": "Moneda estable con sobregarantía para derivados de Arable v1",
-  "coingeckoID": "usd-arables",
+  "coingeckoID": "arable-usd",
   "websiteURL": "https://arable.finance/"
 }

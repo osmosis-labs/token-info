@@ -1,7 +1,7 @@
 {
-  "localization": "en",
-  "name": "원천",
-  "symbol": "원천",
+  "localization": "ko",
+  "name": "Source",
+  "symbol": "SOURCE",
   "description": "SOURCE Chain의 기본 토큰",
   "coingeckoID": "source",
   "websiteURL": "https://www.sourceprotocol.io/"

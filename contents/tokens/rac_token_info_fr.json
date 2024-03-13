@@ -1,7 +1,6 @@
 {
-  "localization": "fr",
-  "name": "CAR",
-  "symbol": "CAR",
-  "description": "RAC",
+  "name": "RAC",
+  "symbol": "RAC",
+  "description": "CAR",
   "websiteURL": "https://www.whitewhale.money/"
 }

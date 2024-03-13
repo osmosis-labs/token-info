@@ -1,7 +1,7 @@
 {
-  "localization": "en",
-  "name": "链",
+  "localization": "zh",
+  "name": "Chain",
   "symbol": "XCN",
   "description": "Chain 是一种云区块链协议，使组织能够在 Sequence 和 Chain Core 的支持下从头开始构建更好的金融服务。",
-  "coingeckoID": "链2"
+  "coingeckoID": "chain-2"
 }

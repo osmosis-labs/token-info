@@ -1,8 +1,8 @@
 {
   "localization": "pl",
-  "name": "Onomia",
+  "name": "Onomy",
   "symbol": "NOM",
   "description": "Natywny token protokołu Onomy",
-  "coingeckoID": "protokół onomii",
+  "coingeckoID": "onomy-protocol",
   "websiteURL": "https://onomy.io/"
 }

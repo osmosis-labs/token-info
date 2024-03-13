@@ -1,9 +1,9 @@
 {
   "localization": "en",
   "name": "Humans.ai",
-  "symbol": "قلب",
+  "symbol": "HEART",
   "description": "نشانه بومی سهامداری و حکمرانی Humans.ai.",
-  "coingeckoID": "انسان-آی",
+  "coingeckoID": "humans-ai",
   "websiteURL": "https://humans.ai/",
   "twitterURL": "https://twitter.com/humansdotai"
 }

@@ -1,7 +1,7 @@
 {
   "localization": "tr",
-  "name": "Kaynak Jetonu",
-  "symbol": "SRCCX",
+  "name": "Source Token",
+  "symbol": "SRCX",
   "description": "Kaynak Protokolünün SRCX jetonu.",
-  "coingeckoID": "kaynak protokolü"
+  "coingeckoID": "source-protocol"
 }

@@ -1,9 +1,9 @@
 {
   "localization": "fr",
   "name": "Humans.ai",
-  "symbol": "CŒUR",
+  "symbol": "HEART",
   "description": "Le jeton natif de jalonnement et de gouvernance de Humans.ai.",
-  "coingeckoID": "humains-ai",
-  "websiteURL": "https://humains.ai/",
+  "coingeckoID": "humans-ai",
+  "websiteURL": "https://humans.ai/",
   "twitterURL": "https://twitter.com/humansdotai"
 }

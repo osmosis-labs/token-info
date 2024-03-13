@@ -1,7 +1,7 @@
 {
   "localization": "ro",
   "name": "Stride Staked UMEE",
-  "symbol": "STUMEE",
-  "coingeckoID": "stride-stacked-umee",
+  "symbol": "stUMEE",
+  "coingeckoID": "stride-staked-umee",
   "websiteURL": "https://stride.zone/"
 }

@@ -1,8 +1,8 @@
 {
-  "localization": "en",
-  "name": "丝芙链",
-  "symbol": "罗文",
+  "localization": "zh",
+  "name": "Sifchain",
+  "symbol": "ROWAN",
   "description": "Rowan 代币（ROWAN）是 Sifchain 网络的原生实用代币，用作治理、提供流动性、保护区块链、激励参与者以及提供默认机制来存储和交换价值的主要手段。",
-  "coingeckoID": "丝芙链",
+  "coingeckoID": "sifchain",
   "websiteURL": "https://sifchain.finance/"
 }

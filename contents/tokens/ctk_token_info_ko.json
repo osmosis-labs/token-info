@@ -1,8 +1,8 @@
 {
   "localization": "ko",
-  "name": "센투",
+  "name": "Shentu",
   "symbol": "CTK",
   "description": "Shentu의 기본 토큰",
-  "coingeckoID": "인증서",
+  "coingeckoID": "certik",
   "websiteURL": "https://www.shentu.technology/"
 }

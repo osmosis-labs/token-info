@@ -1,8 +1,8 @@
 {
   "localization": "tr",
-  "name": "Kazma Zinciri",
-  "symbol": "KAZMA",
+  "name": "Dig Chain",
+  "symbol": "DIG",
   "description": "Dig Chain'in yerel tokenı",
-  "coingeckoID": "kazma zinciri",
+  "coingeckoID": "dig-chain",
   "websiteURL": "https://digchain.org/"
 }

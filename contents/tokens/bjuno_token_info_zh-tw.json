@@ -1,8 +1,8 @@
 {
-  "localization": "en",
+  "localization": "zh",
   "name": "StakeEasy bJUNO",
-  "symbol": "比朱諾",
+  "symbol": "BJUNO",
   "description": "為抵押的 JUNO 抵押衍生品 bJUNO",
-  "coingeckoID": "Stakeeasy-布朱諾",
+  "coingeckoID": "stakeeasy-bjuno",
   "websiteURL": "https://www.junonetwork.io/"
 }

@@ -1,8 +1,7 @@
 {
-  "localization": "zh",
-  "name": "阿克瑞鏈",
-  "symbol": "英畝",
+  "name": "Acrechain",
+  "symbol": "ACRE",
   "description": "Acrechain 的原生 EVM、治理與質押代幣",
-  "coingeckoID": "耕地協議",
+  "coingeckoID": "arable-protocol",
   "websiteURL": "https://arable.finance/"
 }

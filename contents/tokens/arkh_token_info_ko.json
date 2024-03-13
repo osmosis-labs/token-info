@@ -1,7 +1,6 @@
 {
-  "localization": "ko",
-  "name": "아르카디아어",
-  "symbol": "아크",
+  "name": "Arkhadian",
+  "symbol": "ARKH",
   "description": "아르카디아의 기본 토큰",
   "websiteURL": "https://arkhadian.com/"
 }

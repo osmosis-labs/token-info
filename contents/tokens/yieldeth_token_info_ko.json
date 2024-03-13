@@ -1,7 +1,7 @@
 {
   "localization": "ko",
-  "name": "실질수익률 ETH",
-  "symbol": "수익률ETH",
+  "name": "Real Yield ETH",
+  "symbol": "YieldETH",
   "description": "Aave, Complex 및 Morpho 전반에 걸친 레버리지 스테이킹과 Uniswap V3의 ETH 유동 스테이킹 토큰 유동성 제공을 통해 ETH 수익률을 극대화합니다.",
-  "coingeckoID": "수확량 소믈리에"
+  "coingeckoID": "yieldeth-sommelier"
 }

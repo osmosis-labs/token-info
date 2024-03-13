@@ -1,8 +1,8 @@
 {
   "localization": "zh",
-  "name": "按钮",
-  "symbol": "屁股",
+  "name": "Button",
+  "symbol": "BUTT",
   "description": "Secret Network 上 Button 的原生代币 cw20",
-  "coingeckoID": "屁股币-2",
+  "coingeckoID": "buttcoin-2",
   "websiteURL": "https://scrt.network/"
 }

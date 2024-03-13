@@ -1,8 +1,8 @@
 {
-  "localization": "en",
-  "name": "Salamandra",
-  "symbol": "NOVO",
+  "localization": "pt",
+  "name": "Newt",
+  "symbol": "NEWT",
   "description": "O token NEWT mais fofo da cadeia Neutron.",
-  "coingeckoID": "salamandra",
+  "coingeckoID": "newt",
   "websiteURL": "https://neutron.org/"
 }

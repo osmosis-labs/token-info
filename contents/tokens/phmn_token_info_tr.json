@@ -1,8 +1,8 @@
 {
   "localization": "tr",
-  "name": "İNSAN SONRASI",
+  "name": "POSTHUMAN",
   "symbol": "PHMN",
   "description": "Juno Chain'de PHMN için yerel token cw20",
-  "coingeckoID": "insan sonrası",
+  "coingeckoID": "posthuman",
   "websiteURL": "https://www.junonetwork.io/"
 }

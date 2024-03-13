@@ -1,7 +1,7 @@
 {
   "localization": "zh",
-  "name": "仲裁",
-  "symbol": "受体阻滞剂",
+  "name": "Arbitrum",
+  "symbol": "ARB",
   "description": "Arbitrum 原生代币",
-  "coingeckoID": "任意"
+  "coingeckoID": "arbitrum"
 }

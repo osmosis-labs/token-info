@@ -1,8 +1,7 @@
 {
-  "localization": "en",
-  "name": "Red Realio",
-  "symbol": "RÍO",
+  "name": "Realio Network",
+  "symbol": "RIO",
   "description": "La moneda nativa de Realio Network.",
-  "coingeckoID": "red-realio",
+  "coingeckoID": "realio-network",
   "websiteURL": "https://realio.network/"
 }

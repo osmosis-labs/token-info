@@ -1,8 +1,8 @@
 {
-  "localization": "en",
-  "name": "PSTAKE ATOM'u stake etti",
+  "localization": "tr",
+  "name": "PSTAKE staked ATOM",
   "symbol": "stkATOM",
-  "description": "PSTAKE Sıvı Bağlantılı ATOM",
+  "description": "PSTAKE Sıvı-Stakeli ATOM",
   "coingeckoID": "stkatom",
   "websiteURL": "https://persistence.one/"
 }

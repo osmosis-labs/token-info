@@ -1,7 +1,7 @@
 {
   "localization": "zh",
-  "name": "链环",
-  "symbol": "关联",
+  "name": "Chainlink",
+  "symbol": "LINK",
   "description": "基于区块链的中间件，充当加密货币智能合约、数据源、API 和传统银行账户支付之间的桥梁。",
-  "coingeckoID": "链环"
+  "coingeckoID": "chainlink"
 }

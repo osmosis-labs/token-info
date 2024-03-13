@@ -1,7 +1,7 @@
 {
   "localization": "pl",
-  "name": "Walić",
-  "symbol": "WALIĆ",
+  "name": "Bonk",
+  "symbol": "BONK",
   "description": "Oficjalny token Bonk Inu",
-  "coingeckoID": "walić"
+  "coingeckoID": "bonk"
 }

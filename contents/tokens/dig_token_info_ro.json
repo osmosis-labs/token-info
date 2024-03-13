@@ -1,8 +1,8 @@
 {
   "localization": "ro",
-  "name": "Dig Lanț",
-  "symbol": "SĂPA",
+  "name": "Dig Chain",
+  "symbol": "DIG",
   "description": "Jeton nativ al Dig Chain",
-  "coingeckoID": "lanţ de săpat",
+  "coingeckoID": "dig-chain",
   "websiteURL": "https://digchain.org/"
 }

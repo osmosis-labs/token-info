@@ -3,6 +3,6 @@
   "name": "CDT Stablecoin",
   "symbol": "CDT",
   "description": "Le stablecoin de style CDP de Membrane appelé CDT",
-  "coingeckoID": "jeton de dette garantie",
+  "coingeckoID": "collateralized-debt-token",
   "websiteURL": "https://osmosis.zone/"
 }

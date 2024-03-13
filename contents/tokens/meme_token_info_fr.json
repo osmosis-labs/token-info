@@ -1,7 +1,7 @@
 {
   "localization": "fr",
-  "name": "MÉME",
-  "symbol": "MÉME",
+  "name": "MEME",
+  "symbol": "MEME",
   "description": "MEME Token (MEME) est le jeton de jalonnement natif de la chaîne MEME",
-  "coingeckoID": "réseau meme"
+  "coingeckoID": "meme-network"
 }

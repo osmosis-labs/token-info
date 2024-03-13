@@ -1,8 +1,7 @@
 {
-  "localization": "fr",
-  "name": "Réseau Haqq",
+  "name": "Haqq Network",
   "symbol": "ISLM",
   "description": "L'EVM natif, le jeton de gouvernance et de jalonnement du réseau Haqq",
-  "coingeckoID": "pièce-islamique",
+  "coingeckoID": "islamic-coin",
   "websiteURL": "https://haqq.network/"
 }

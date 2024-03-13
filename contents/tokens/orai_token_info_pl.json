@@ -1,8 +1,8 @@
 {
-  "localization": "en",
+  "localization": "pl",
   "name": "Oraichain",
   "symbol": "ORAI",
   "description": "Natywny token Oraichain",
-  "coingeckoID": "token oraichain",
+  "coingeckoID": "oraichain-token",
   "websiteURL": "https://orai.io/"
 }

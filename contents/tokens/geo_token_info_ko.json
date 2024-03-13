@@ -1,7 +1,7 @@
 {
   "localization": "ko",
   "name": "GEO",
-  "symbol": "지역",
+  "symbol": "GEO",
   "description": "ODIN 프로토콜용 GEO 토큰",
   "websiteURL": "https://odinprotocol.io/"
 }

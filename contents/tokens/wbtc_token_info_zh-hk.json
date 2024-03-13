@@ -1,6 +1,5 @@
 {
-  "localization": "zh",
-  "name": "包裝比特幣",
-  "symbol": "世界比特幣交易所",
+  "name": "Wrapped Bitcoin",
+  "symbol": "WBTC",
   "websiteURL": "https://osmosis.zone/"
 }

@@ -1,7 +1,7 @@
 {
   "localization": "zh",
   "name": "Binance Coin",
-  "symbol": "币安银行",
+  "symbol": "BNB",
   "description": "BNB为BNB Chain生态系统提供动力，是BNB信标链和BNB智能链的原生货币。",
-  "coingeckoID": "币安币"
+  "coingeckoID": "binancecoin"
 }

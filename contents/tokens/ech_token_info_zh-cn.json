@@ -1,7 +1,6 @@
 {
-  "localization": "zh",
   "name": "Echelon",
-  "symbol": "埃希",
+  "symbol": "ECH",
   "description": "Echelon - Cosmos 上的可扩展 EVM，基于权益证明构建，具有快速确定性，优先考虑互操作性和新颖的经济性",
-  "coingeckoID": "梯队"
+  "coingeckoID": "echelon"
 }

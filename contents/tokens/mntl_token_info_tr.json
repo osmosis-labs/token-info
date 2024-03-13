@@ -1,9 +1,9 @@
 {
-  "localization": "en",
+  "localization": "tr",
   "name": "AssetMantle",
   "symbol": "MNTL",
   "description": "Asset Mantle'ın yerel tokenı<inlang-LineFeed>\nAssetMantle'ın ürün paketi, NFT ekosistemine odaklanarak dijital varlık sahipliği konusunda oyununuzu geliştirmenize yardımcı olur.",
-  "coingeckoID": "varlık örtüsü",
+  "coingeckoID": "assetmantle",
   "websiteURL": "https://assetmantle.one/",
   "twitterURL": "https://twitter.com/AssetMantle"
 }

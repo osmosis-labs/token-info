@@ -1,7 +1,7 @@
 {
   "localization": "fr",
   "name": "Stride Staked ATOM",
-  "symbol": "STATOME",
-  "coingeckoID": "foulée-jalonnée-atome",
+  "symbol": "stATOM",
+  "coingeckoID": "stride-staked-atom",
   "websiteURL": "https://stride.zone/"
 }

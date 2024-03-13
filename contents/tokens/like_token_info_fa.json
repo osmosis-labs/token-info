@@ -1,8 +1,8 @@
 {
   "localization": "en",
   "name": "LikeCoin",
-  "symbol": "پسندیدن",
+  "symbol": "LIKE",
   "description": "LIKE نماد اصلی سهامداری و حاکمیت زنجیره لایک کوین است، یک زیرساخت انتشار غیرمتمرکز برای تقویت مالکیت محتوا، اصالت و منشأ.",
-  "coingeckoID": "لایک کوین",
+  "coingeckoID": "likecoin",
   "websiteURL": "https://like.co/"
 }

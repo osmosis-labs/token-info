@@ -1,7 +1,7 @@
 {
   "localization": "es",
-  "name": "Rayo de luna",
+  "name": "Moonbeam",
   "symbol": "GLMR",
   "description": "Glimmer (GLMR) es el token de utilidad de Moonbeam Network, la implementación principal de Moonbeam en la red Polkadot que sirve como una paracadena amigable para los desarrolladores.",
-  "coingeckoID": "rayo de luna"
+  "coingeckoID": "moonbeam"
 }

@@ -1,7 +1,7 @@
 {
   "localization": "zh",
-  "name": "墊片",
-  "symbol": "間隔器",
+  "name": "Spacer",
+  "symbol": "SPACER",
   "description": "墊片",
   "websiteURL": "https://www.junonetwork.io/"
 }

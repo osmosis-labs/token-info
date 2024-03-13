@@ -1,8 +1,7 @@
 {
-  "localization": "ko",
-  "name": "에이커체인",
-  "symbol": "에이커",
+  "name": "Acrechain",
+  "symbol": "ACRE",
   "description": "Acrechain의 기본 EVM, 거버넌스 및 스테이킹 토큰",
-  "coingeckoID": "경작 가능한 프로토콜",
+  "coingeckoID": "arable-protocol",
   "websiteURL": "https://arable.finance/"
 }

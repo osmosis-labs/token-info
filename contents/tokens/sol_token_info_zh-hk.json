@@ -1,7 +1,6 @@
 {
-  "localization": "en",
-  "name": "索拉納",
+  "name": "Solana",
   "symbol": "SOL",
   "description": "Solana (SOL) 是 Solana 區塊鏈的原生資產。",
-  "coingeckoID": "索拉納"
+  "coingeckoID": "solana"
 }

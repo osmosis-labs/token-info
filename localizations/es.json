@@ -8,13 +8,16 @@
   },
   "xprt": {
     "localization": "es",
+    "name": "Persistencia",
     "symbol": "XPRT",
     "description": "El token XPRT es principalmente un token de gobernanza para la cadena de persistencia.<inlang-LineFeed>\nPersistence es una cadena de aplicaciones para Liquid Stake que impulsa un ecosistema de aplicaciones DeFi centradas en desbloquear la liquidez de los activos apostados.",
     "websiteURL": "https://persistencia.one/",
     "twitterURL": "https://twitter.com/PersistenceOne"
   },
   "xpla": {
+    "localization": "es",
     "name": "XPLA",
+    "symbol": "XPLA",
     "description": "El token de apuesta nativo de XPLA.",
     "coingeckoID": "xpla",
     "websiteURL": "https://xpla.io"
@@ -24,15 +27,18 @@
     "name": "ki",
     "symbol": "XKI",
     "description": "El token nativo de Ki Chain",
+    "coingeckoID": "ki",
     "websiteURL": "https://fundación.ki/"
   },
   "xcn": {
+    "localization": "es",
     "name": "Cadena",
     "symbol": "XCN",
     "description": "Chain es un protocolo blockchain en la nube que permite a las organizaciones crear mejores servicios financieros desde cero, impulsado por Sequence y Chain Core.",
     "coingeckoID": "cadena-2"
   },
   "wynd": {
+    "localization": "es",
     "name": "Token de gobernanza Wynd DAO",
     "symbol": "wynd",
     "description": "Token de gobernanza WYND DAO",
@@ -40,38 +46,41 @@
     "websiteURL": "https://www.junonetwork.io/"
   },
   "wsteth": {
-    "localization": "es",
     "name": "Lido envuelto con éter apostado",
     "symbol": "wstETH",
     "description": "wstETH es una versión empaquetada de stETH. Como algunos protocolos DeFi requieren un mecanismo de equilibrio constante para los tokens, wstETH mantiene fijo su saldo de stETH y utiliza un sistema de acciones subyacente para reflejar las recompensas de apuesta obtenidas.",
     "coingeckoID": "esteth envuelto",
     "axl": {
-      "localization": "es",
       "name": "Lido envuelto con éter apostado",
       "symbol": "wstETH.axl",
       "websiteURL": "https://axelar.network/"
     }
   },
   "wosmo": {
+    "localization": "es",
     "name": "WOSMO",
     "symbol": "WOSMO",
     "description": "La primera memecoin nativa en Osmosis. Elaborado por las manos más hábiles en el laboratorio de la locura. Es científicamente anárquico, profesionalmente tonto y tu billete al manicomio.",
     "websiteURL": "https://osmosis.zona/"
   },
   "woof": {
+    "localization": "es",
     "name": "GUAU",
     "symbol": "GUAU",
     "description": "Guau",
     "websiteURL": "https://chihuahua.wtf/"
   },
   "whale": {
+    "localization": "es",
     "name": "Migaloo",
+    "symbol": "BALLENA",
     "description": "El token nativo de Migaloo Chain",
     "coingeckoID": "ballena blanca",
     "websiteURL": "https://www.whitewhale.money/"
   },
   "weth": {
     "wh": {
+      "localization": "es",
       "name": "Éter envuelto (agujero de gusano)",
       "symbol": "wETH.wh",
       "description": "Éter envuelto (agujero de gusano), WETH, fábrica/agujero de gusano14ejqjyq8um4p3xfqj74yld5waqljf88fz25yxnma0cngspxe3les00fpjx/5BWqpR48Lubd55szM5i62zK7TFkddckhbT48yy6mNbDp",
@@ -86,11 +95,11 @@
     }
   },
   "wbtc": {
-    "localization": "es",
     "name": "Bitcoin envuelto",
     "symbol": "WBTC",
     "websiteURL": "https://osmosis.zona/",
     "grv": {
+      "localization": "es",
       "name": "Bitcoin envuelto (puente de gravedad)",
       "symbol": "WBTC.grv",
       "description": "Puente de gravedad WBTC",
@@ -111,19 +120,21 @@
     "websiteURL": "https://www.junonetwork.io/"
   },
   "void": {
-    "localization": "es",
     "name": "Vacío",
     "description": "Vacío",
     "websiteURL": "https://www.junonetwork.io/"
   },
   "vdl": {
     "name": "vidulo",
+    "symbol": "VDL",
     "description": "La ficha nativa de Vidulum.",
     "coingeckoID": "vídulo",
     "websiteURL": "https://vidulum.app/"
   },
   "v": {
+    "localization": "es",
     "name": "Voltio de Bostrom",
+    "symbol": "V",
     "description": "La ficha de recursos de Bostrom"
   },
   "ustc": {
@@ -136,12 +147,14 @@
   "usk": {
     "localization": "es",
     "name": "USK",
+    "symbol": "USK",
     "description": "La moneda estable nativa con exceso de garantía de la cadena Kujira.",
+    "coingeckoID": "usk",
     "websiteURL": "https://kujira.app/"
   },
   "usdx": {
     "localization": "es",
-    "name": "KavaUSDX",
+    "name": "Kava USDX",
     "symbol": "USDX",
     "description": "La moneda estable nativa de Kava",
     "coingeckoID": "usdx",
@@ -149,9 +162,9 @@
   },
   "usdt": {
     "localization": "es",
+    "name": "Atar USD",
     "symbol": "USDT",
     "description": "Tether le brinda los beneficios conjuntos de la tecnología blockchain abierta y la moneda tradicional al convertir su efectivo en un equivalente de moneda digital estable.",
-    "coingeckoID": "atar",
     "wh": {
       "localization": "es",
       "name": "Tether USD (agujero de gusano)",
@@ -160,13 +173,14 @@
       "websiteURL": "https://wormhole.com"
     },
     "grv": {
+      "localization": "es",
       "name": "Tether USD (puente de gravedad)",
       "symbol": "USDT.grv",
       "description": "Puente de gravedad USDT",
       "websiteURL": "https://www.gravitybridge.net/"
     },
     "axl": {
-      "name": "Atar USD",
+      "localization": "es",
       "symbol": "USDT.axl",
       "description": "La moneda estable en USD de Tether en Axelar",
       "websiteURL": "https://axelar.network/"
@@ -179,6 +193,7 @@
     "description": "USDC es una moneda estable en dólares estadounidenses totalmente garantizada desarrollada por CENTRE, el proyecto de código abierto del que Circle es el primero de varios futuros emisores.",
     "coingeckoID": "moneda-usd",
     "wh": {
+      "localization": "es",
       "name": "Moneda USD (agujero de gusano)",
       "symbol": "USDC.wh",
       "description": "Moneda USD (agujero de gusano), USDC, fábrica/agujero de gusano14ejqjyq8um4p3xfqj74yld5waqljf88fz25yxnma0cngspxe3les00fpjx/GGh9Ufn1SeDGrhzEkMyRKt5568VbbxZK2yvWNsd6PbXt",
@@ -202,12 +217,11 @@
   },
   "uni": {
     "localization": "es",
-    "name": "Uniswap",
     "symbol": "UNI",
-    "description": "El token UNI sirvió como token de gobernanza para el protocolo Uniswap y se acuñaron mil millones de UNI en su génesis. El 60% del suministro de UNI genesis se asigna a los miembros de la comunidad Uniswap y el resto al equipo, inversores y asesores.",
-    "coingeckoID": "uniswap"
+    "description": "El token UNI sirvió como token de gobernanza para el protocolo Uniswap y se acuñaron mil millones de UNI en su génesis. El 60% del suministro de UNI genesis se asigna a los miembros de la comunidad Uniswap y el resto al equipo, inversores y asesores."
   },
   "umee": {
+    "localization": "es",
     "name": "Cadena de experiencia de usuario",
     "symbol": "UMEE",
     "description": "La ficha nativa de Umee",
@@ -215,20 +229,21 @@
     "websiteURL": "https://www.ux.xyz"
   },
   "tori": {
+    "localization": "es",
     "name": "Teritori",
-    "symbol": "TORI",
     "description": "La ficha nativa de Teritori",
     "coingeckoID": "territorio",
     "websiteURL": "https://teritori.com/"
   },
   "tocyb": {
-    "localization": "es",
     "name": "Bostrom Tocyb",
     "symbol": "TOCYB",
     "description": "La ficha de apuesta de Cyber"
   },
   "tick": {
+    "localization": "es",
     "name": "microtick",
+    "symbol": "GARRAPATA",
     "description": "La moneda TICK es el token de la aplicación Microtick Price Discovery &amp; Oracle",
     "coingeckoID": "microtick"
   },
@@ -242,8 +257,8 @@
     "twitterURL": "https://twitter.com/CelestiaOrg"
   },
   "tgd": {
+    "localization": "es",
     "name": "Tgrado",
-    "symbol": "TGD",
     "description": "El token nativo de Tgrade",
     "coingeckoID": "tgrado",
     "websiteURL": "https://tgrade.finance/"
@@ -251,7 +266,6 @@
   "swth": {
     "localization": "es",
     "name": "Carbón",
-    "symbol": "SUDO",
     "description": "El token de gobernanza nativo de Carbon",
     "coingeckoID": "cambio",
     "websiteURL": "https://www.carbon.network/"
@@ -265,7 +279,9 @@
     "websiteURL": "https://www.kava.io/"
   },
   "summit": {
+    "localization": "es",
     "name": "Cumbre",
+    "symbol": "CUMBRE",
     "description": "Social Impact DAO proporciona duchas, comidas y vehículos a personas sin hogar",
     "websiteURL": "https://www.junonetwork.io/"
   },
@@ -289,6 +305,7 @@
     "websiteURL": "https://stride.zone/"
   },
   "ststars": {
+    "localization": "es",
     "name": "ESTRELLAS replanteadas",
     "symbol": "ESTRELLAS",
     "coingeckoID": "estrellas estacadas",
@@ -297,6 +314,7 @@
   "stsomm": {
     "localization": "es",
     "name": "Zancada replanteada SOMM",
+    "symbol": "stSOMM",
     "coingeckoID": "sommelier-apostado-zancada",
     "websiteURL": "https://stride.zone/"
   },
@@ -346,6 +364,7 @@
     "websiteURL": "https://scrt.network/"
   },
   "stkatom": {
+    "localization": "es",
     "name": "PSTAKE ATOM apostado",
     "symbol": "stkATOM",
     "description": "PSTAKE ATOM con apuesta líquida",
@@ -369,7 +388,7 @@
     "localization": "es",
     "name": "EVMOS con replanteo de zancada",
     "symbol": "stEVMOS",
-    "coingeckoID": "evmos-estacado-zancada",
+    "coingeckoID": "evmos con zancada apostada",
     "websiteURL": "https://stride.zone/"
   },
   "stdydx": {
@@ -381,12 +400,12 @@
   },
   "statom": {
     "localization": "es",
+    "name": "Átomo apostado con zancada",
     "symbol": "estatómata",
     "coingeckoID": "átomo-estacado-zancada",
     "websiteURL": "https://stride.zone/"
   },
   "stars": {
-    "localization": "es",
     "name": "mirar las estrellas",
     "symbol": "ESTRELLAS",
     "description": "El token nativo de Stargaze<inlang-LineFeed>\nLa principal cadena de bloques centrada en la comunidad para NFT. Stargaze permite a creadores, desarrolladores, coleccionistas y comerciantes participar en la plataforma. La cadena Stargaze consta de varias aplicaciones relacionadas con NFT, como Launchpad y Marketplace con ofertas y subastas.",
@@ -436,20 +455,23 @@
     "websiteURL": "https://www.junonetwork.io/"
   },
   "source": {
+    "localization": "es",
     "name": "Fuente",
     "symbol": "FUENTE",
     "description": "El token nativo de SOURCE Chain",
+    "coingeckoID": "fuente",
     "websiteURL": "https://www.sourceprotocol.io/"
   },
   "somm": {
     "localization": "es",
+    "name": "sumiller",
     "symbol": "SOMM",
     "description": "Somm Token (SOMM) es el token de participación nativo de Sommelier Chain<inlang-LineFeed>\nLas bóvedas automatizadas obtienen los mejores rendimientos de su clase y al mismo tiempo mitigan el riesgo.",
-    "coingeckoID": "sumiller",
     "websiteURL": "https://sommelier.finance/",
     "twitterURL": "https://twitter.com/sommfinance"
   },
   "solar": {
+    "localization": "es",
     "name": "Banco Solar DAO",
     "symbol": "SOLAR",
     "description": "Token de gobernanza DAO de Solarbank para acelerar el cambio hacia energías renovables y verdes",
@@ -468,18 +490,21 @@
   },
   "sol": {
     "name": "solana",
-    "description": "Solana (SOL) es el activo nativo de la cadena de bloques Solana.",
-    "coingeckoID": "solana"
+    "symbol": "SOL",
+    "description": "Solana (SOL) es el activo nativo de la cadena de bloques Solana."
   },
   "sneaky": {
     "localization": "es",
     "name": "Producciones furtivas",
+    "symbol": "FURTIVO",
     "description": "La moneda nativa de Sneaky Productions.",
     "websiteURL": "https://stargaze.zone/"
   },
   "slca": {
     "localization": "es",
+    "name": "Sílice",
     "symbol": "SLCA",
+    "description": "Sílice",
     "websiteURL": "https://www.junonetwork.io/"
   },
   "skoj": {
@@ -490,6 +515,7 @@
     "websiteURL": "https://www.junonetwork.io/"
   },
   "silk": {
+    "localization": "es",
     "name": "Seda",
     "symbol": "SEDA",
     "description": "El token nativo cw20 para Silk en Secret Network",
@@ -500,6 +526,7 @@
     "localization": "es",
     "symbol": "TIERRA DE SIENA",
     "description": "El token nativo cw20 para SIENNA en Secret Network",
+    "coingeckoID": "tierra de siena",
     "websiteURL": "https://scrt.network/"
   },
   "shibac": {
@@ -545,7 +572,7 @@
     "coingeckoID": "seis sigma"
   },
   "sfrxeth": {
-    "name": "Éter Frax estacado",
+    "localization": "es",
     "symbol": "sfrxETH",
     "description": "sfrxETH es la versión de frxETH que acumula rendimiento por apuesta. Todas las ganancias generadas por los validadores de Frax Ether se distribuyen a los titulares de sfrxETH. Al intercambiar frxETH por sfrxETH, uno se vuelve elegible para obtener rendimiento de apuesta, que se canjea al convertir sfrxETH nuevamente a frxETH.",
     "coingeckoID": "éter-frax-estacado"
@@ -575,7 +602,7 @@
     "websiteURL": "https://www.junonetwork.io/"
   },
   "scrt": {
-    "name": "Red secreta",
+    "localization": "es",
     "symbol": "SCRT",
     "description": "El token nativo de Secret Network<inlang-LineFeed>\nSecret Network es la primera cadena de bloques con privacidad personalizable. Puedes elegir qué compartes, con quién y cómo. Esto protege a los usuarios y permite a los desarrolladores crear una mejor Web3.",
     "coingeckoID": "secreto",
@@ -585,9 +612,11 @@
   "scr": {
     "localization": "es",
     "name": "escorum",
+    "symbol": "RCS",
     "description": "El token nativo de Scorum"
   },
   "rowan": {
+    "localization": "es",
     "name": "cadena sif",
     "symbol": "SERBAL",
     "description": "Rowan Token (ROWAN) es el token de utilidad nativo de Sifchain Network, que se utiliza como medio principal para gobernar, proporcionar liquidez, asegurar la cadena de bloques, incentivar a los participantes y proporcionar un mecanismo predeterminado para almacenar e intercambiar valor.",
@@ -595,7 +624,8 @@
     "websiteURL": "https://sifchain.finance/"
   },
   "rock": {
-    "name": "Pilones",
+    "localization": "es",
+    "symbol": "ROCA",
     "description": "El token de ingresos de Pylons",
     "websiteURL": "https://pylons.tech",
     "twitterURL": "https://twitter.com/pylonstech"
@@ -624,7 +654,6 @@
   "regen": {
     "localization": "es",
     "name": "regeneración",
-    "symbol": "REGENERAR",
     "description": "La moneda REGEN es el token de la plataforma de red Regen<inlang-LineFeed>\nRegen Network, una plataforma para originar e invertir en créditos de biodiversidad y carbono de alta integridad provenientes de proyectos de regeneración ecológica.",
     "coingeckoID": "regenerar",
     "websiteURL": "https://www.regen.network/",
@@ -632,9 +661,9 @@
   },
   "rebus": {
     "localization": "es",
-    "name": "Jeroglífico",
     "symbol": "JEROGLÍFICO",
     "description": "REBUS, la moneda nativa de la cadena Rebus.",
+    "coingeckoID": "jeroglífico",
     "websiteURL": "https://www.rebuschain.com/"
   },
   "raw": {
@@ -653,6 +682,7 @@
     "websiteURL": "https://stafihub.io/"
   },
   "raptr": {
+    "localization": "es",
     "name": "RAPTR",
     "symbol": "RAPTR",
     "description": "El seguro Rapture es la primera plataforma de seguros P2P en $OSMO. Obtenga recompensas por cuidar de los seres queridos de las personas después del Rapto.",
@@ -661,23 +691,21 @@
   "rai": {
     "localization": "es",
     "name": "Índice de reflejo Rai",
-    "description": "RAI es un activo estable no vinculado y respaldado por ETH. Es útil como garantía más \"estable\" para otros protocolos DeFi (en comparación con ETH o BTC) o como un activo estable con una tasa de interés incorporada."
+    "description": "RAI es un activo estable no vinculado y respaldado por ETH. Es útil como garantía más \"estable\" para otros protocolos DeFi (en comparación con ETH o BTC) o como un activo estable con una tasa de interés incorporada.",
+    "coingeckoID": "rai"
   },
   "rac": {
-    "localization": "es",
     "name": "RAC",
-    "symbol": "RAC",
+    "description": "RAC",
     "websiteURL": "https://www.whitewhale.money/"
   },
   "qwoyn": {
-    "localization": "es",
     "name": "Qwoyn",
     "symbol": "QWOYN",
     "description": "QWOYN es el token de gobernanza nativo de Qwoyn Network<inlang-LineFeed>\nQwoyn Network se erige como un centro de juegos de vanguardia que incorpora tecnologías Web3 en el núcleo del entretenimiento interactivo. Revoluciona la industria del juego al garantizar la verdadera propiedad de los activos del juego para los jugadores, facilitada a través de blockchain. Este enfoque no sólo mejora la jugabilidad sino que también fomenta un ecosistema único de interoperabilidad e innovación. Como faro en el mundo de los juegos, Qwoyn Network se dedica a fusionar la emoción de los juegos tradicionales con el potencial transformador de Web3, creando una experiencia de juego enriquecida y fluida.",
     "websiteURL": "https://qwoyn.studio/"
   },
   "qstars": {
-    "localization": "es",
     "name": "Quicksilver Liquid Estacas ESTRELLAS",
     "symbol": "qESTRELLAS",
     "description": "Quicksilver Liquid Estacas ESTRELLAS",
@@ -685,7 +713,7 @@
   },
   "qsr": {
     "localization": "es",
-    "symbol": "QSR",
+    "name": "Quásar",
     "description": "El token nativo de Quasar<inlang-LineFeed>\nQuasar es la primera plataforma de gestión descentralizada de activos (DAM) habilitada por IBC. Por fin está aquí una experiencia DeFi entre cadenas segura, sin permisos, componible y diversificada.",
     "coingeckoID": "cuásar-2",
     "websiteURL": "https://www.quasar.fi/",
@@ -728,6 +756,7 @@
   },
   "pyth": {
     "name": "Red Python",
+    "symbol": "PYTH",
     "description": "Pyth es un protocolo que permite a los participantes del mercado publicar información de precios en la cadena para que otros la utilicen. El protocolo es una interacción entre tres partes:\n-Los editores envían información de precios al programa Oracle de Pyth. Pyth tiene múltiples publicadores de datos para cada producto para mejorar la precisión y solidez del sistema.\n-El programa Oracle de Pyth combina los datos de los editores para producir un precio agregado único y un intervalo de confianza.\nLos consumidores leen la información de precios producida por el programa Oracle.<inlang-LineFeed>\nEl programa Oracle de Pyth se ejecuta simultáneamente en Solana mainnet y Pythnet. Cada instancia del programa es responsable de su propio conjunto de precios. Los feeds de precios de Solana están disponibles para su uso mediante los protocolos de Solana. En este caso, dado que el programa Oracle se ejecuta en Solana, los precios resultantes están disponibles inmediatamente para los consumidores sin requerir ningún trabajo adicional. Los feeds de precios de Pythnet están disponibles en más de 12 cadenas de bloques. Los precios construidos en Pythnet se transfieren entre cadenas para llegar a los consumidores en estas cadenas de bloques.<inlang-LineFeed>\nEn ambos casos, el componente crítico del sistema es el programa Oracle que combina los datos de cada editor individual. Este programa mantiene varias cuentas de Solana diferentes que enumeran los productos en Pyth y sus datos de precios actuales. Los editores publican su precio y confianza interactuando con el programa Oracle en cada espacio. El programa almacena esta información en sus cuentas. La primera actualización de precio en un intervalo activa además la agregación de precios, que combina los datos de precios del intervalo anterior en un único precio agregado e intervalo de confianza. Este precio agregado se escribe en la cuenta de Solana, donde otros programas en cadena pueden leerlo y está disponible para su transmisión a otras cadenas de bloques.",
     "coingeckoID": "red-pyth"
   },
@@ -739,10 +768,8 @@
     "websiteURL": "https://pundix.com"
   },
   "puppy": {
-    "localization": "es",
     "name": "Cachorro",
     "symbol": "CACHORRO",
-    "description": "Cachorro",
     "websiteURL": "https://chihuahua.wtf/"
   },
   "pstake": {
@@ -757,7 +784,6 @@
       "name": "Moneda USD (polígono)",
       "symbol": "polígono.USDC",
       "description": "USDC es una moneda estable en dólares estadounidenses totalmente garantizada desarrollada por CENTRE, el proyecto de código abierto del que Circle es el primero de varios futuros emisores.",
-      "coingeckoID": "moneda-usd",
       "axl": {
         "localization": "es",
         "name": "Moneda USD (polígono)",
@@ -769,6 +795,7 @@
   "plq": {
     "localization": "es",
     "name": "Planq",
+    "symbol": "PLQ",
     "description": "El token nativo de EVM, gobernanza y participación de Planq Network",
     "coingeckoID": "planq",
     "websiteURL": "https://planq.network/"
@@ -778,6 +805,7 @@
     "name": "componible",
     "symbol": "PICA",
     "description": "El token nativo de participación y gobernanza de Composable.<inlang-LineFeed>\nComposable es la capa base que conecta L1 y L2. Estamos ampliando IBC a otros ecosistemas, ampliando los límites de la interoperabilidad minimizada por la confianza. Abstraemos la experiencia entre cadenas para los usuarios, brindando una ejecución perfecta e independiente de la cadena de las intenciones de los usuarios.",
+    "coingeckoID": "picasso",
     "websiteURL": "https://www.composable.finance/",
     "twitterURL": "https://twitter.com/ComposableFin"
   },
@@ -790,6 +818,7 @@
     "websiteURL": "https://www.junonetwork.io/"
   },
   "pepec": {
+    "localization": "es",
     "name": "pépec",
     "symbol": "PEPEC",
     "description": "pépec",
@@ -798,14 +827,12 @@
   "pepe": {
     "localization": "es",
     "name": "Pepe",
-    "symbol": "PEPE"
+    "coingeckoID": "pepe"
   },
   "pasg": {
-    "localization": "es",
     "name": "Paso",
     "symbol": "PASG",
     "description": "El token nativo de participación y gobernanza de la cadena Passage.",
-    "coingeckoID": "paso",
     "websiteURL": "https://passage3d.com/"
   },
   "page": {
@@ -824,14 +851,15 @@
     "twitterURL": "https://twitter.com/osmosiszone"
   },
   "osdoge": {
+    "localization": "es",
     "name": "Dux de ósmosis",
     "symbol": "OSDOGE",
     "description": "El primer dux de la ósmosis",
     "websiteURL": "https://www.junonetwork.io/"
   },
   "orai": {
+    "localization": "es",
     "name": "Oraichain",
-    "symbol": "ORAI",
     "description": "El token nativo de Oraichain",
     "coingeckoID": "token-oraichain",
     "websiteURL": "https://orai.io/"
@@ -839,7 +867,6 @@
   "oin": {
     "localization": "es",
     "name": "EN TIENDA DE VALOR",
-    "symbol": "OIN",
     "description": "OIN Token ($OIN) es un activo digital innovador desarrollado en $SEI Blockchain. Trasciende ser simplemente una criptomoneda; $OIN se erige como una sólida reserva de valor, que simboliza el futuro de las finanzas descentralizadas y su potencial para remodelar el panorama criptográfico.",
     "websiteURL": "https://www.sei.io/"
   },
@@ -860,12 +887,13 @@
   },
   "nyx": {
     "localization": "es",
-    "name": "nym",
+    "symbol": "NYX",
     "description": "NYX Token (NYX) es el token de gobernanza y participación nativo de Nym Network.",
     "websiteURL": "https://nymtech.net/"
   },
   "nym": {
     "localization": "es",
+    "name": "NYM",
     "symbol": "NYM",
     "description": "NYM Token (NYM) es el token de utilidad nativo de Nym Network, utilizado como medio principal para incentivar a los operadores de nodos mixnet.",
     "websiteURL": "https://nymtech.net/"
@@ -873,7 +901,6 @@
   "ntrn": {
     "localization": "es",
     "name": "Neutrón",
-    "symbol": "NTRN",
     "description": "El token nativo de la cadena de neutrones.<inlang-LineFeed>\nNeutron, la plataforma CosmWasm más segura de Cosmos, permite que los contratos inteligentes aprovechen la tecnología Interchain de vanguardia con una sobrecarga mínima.",
     "coingeckoID": "neutrón-3",
     "websiteURL": "https://neutron.org/",
@@ -896,13 +923,14 @@
   },
   "nom": {
     "localization": "es",
-    "name": "onomia",
+    "symbol": "NOMBRE",
     "description": "El token nativo del protocolo Onomy",
     "coingeckoID": "protocolo-onomy",
     "websiteURL": "https://onomy.io/"
   },
   "nois": {
     "localization": "es",
+    "name": "ruido",
     "symbol": "RUIDO",
     "description": "El token nativo de Nois",
     "websiteURL": "https://nois.network"
@@ -932,6 +960,7 @@
     "coingeckoID": "dinero electrónico"
   },
   "newt": {
+    "localization": "es",
     "name": "Tritón",
     "symbol": "TRITÓN",
     "description": "La ficha NEWT más linda de la cadena de neutrones.",
@@ -940,10 +969,8 @@
   },
   "neta": {
     "localization": "es",
-    "name": "neta",
     "symbol": "neta",
     "description": "El token nativo cw20 para Neta en Juno Chain",
-    "coingeckoID": "neta",
     "websiteURL": "https://www.junonetwork.io/"
   },
   "neok": {
@@ -954,24 +981,27 @@
     "websiteURL": "https://evmos.org/"
   },
   "nct": {
+    "localization": "es",
     "name": "Tonelada de carbono natural",
     "description": "Nature Carbon Ton (NCT) es un estándar de tokens de carbono respaldado 1:1 por créditos de carbono emitidos por Verra, líder mundial en el mercado voluntario de carbono. Los créditos de NCT en Regen Network han sido tokenizados por Toucan.earth.",
     "coingeckoID": "protocolo-tucán-naturaleza-tonelada-de-carbono",
     "websiteURL": "https://www.regen.network/"
   },
   "nbtc": {
-    "localization": "es",
     "name": "Bitcoin nómico",
     "symbol": "BTC",
     "description": "Bitcoin. Sobre el cosmos.",
     "websiteURL": "https://nomic.io/"
   },
   "muse": {
+    "localization": "es",
     "name": "musadao",
+    "symbol": "MUSA",
     "description": "El token nativo cw20 para MuseDAO en Juno Chain",
     "websiteURL": "https://www.junonetwork.io/"
   },
   "mpwr": {
+    "localization": "es",
     "name": "Empoderar Cadena",
     "symbol": "MPWR",
     "description": "El token nativo de participación y gobernanza de Empower."
@@ -988,6 +1018,7 @@
     }
   },
   "mntl": {
+    "localization": "es",
     "name": "Manto de activos",
     "symbol": "MNTL",
     "description": "El token nativo de Asset Mantle<inlang-LineFeed>\nEl conjunto de productos de AssetMantle se centra en el ecosistema NFT y le ayuda a mejorar su juego con la propiedad de activos digitales.",
@@ -998,7 +1029,6 @@
   "mnta": {
     "localization": "es",
     "name": "mantadao",
-    "symbol": "MNTA",
     "description": "Token de gobernanza MantaDAO",
     "coingeckoID": "mantadao",
     "websiteURL": "https://kujira.app/"
@@ -1012,11 +1042,12 @@
   },
   "mkr": {
     "localization": "es",
+    "name": "Fabricante",
     "symbol": "MKR",
-    "description": "Maker es una organización autónoma descentralizada que crea y asegura la moneda estable dai en la cadena de bloques Ethereum.",
-    "coingeckoID": "fabricante"
+    "description": "Maker es una organización autónoma descentralizada que crea y asegura la moneda estable dai en la cadena de bloques Ethereum."
   },
   "milktia": {
+    "localization": "es",
     "name": "lecheTIA",
     "symbol": "lecheTIA",
     "description": "El TIA líquido de MilkyWay",
@@ -1024,7 +1055,9 @@
     "websiteURL": "https://osmosis.zona/"
   },
   "mile": {
+    "localization": "es",
     "name": "Milla",
+    "symbol": "MILLA",
     "description": "Mille: la ficha número 1.000 sobre ósmosis",
     "websiteURL": "https://www.junonetwork.io/"
   },
@@ -1038,7 +1071,6 @@
   "medas": {
     "localization": "es",
     "name": "Red Digital Medas",
-    "symbol": "MEDAS",
     "description": "El token nativo de Medas Digital Network",
     "websiteURL": "https://medas-digital.io/"
   },
@@ -1060,8 +1092,10 @@
   },
   "matic": {
     "localization": "es",
+    "name": "Polígono",
     "symbol": "MATIC",
-    "description": "Polygon (anteriormente Matic) Network aporta una escala masiva a Ethereum utilizando una versión adaptada de Plasma con cadenas laterales basadas en PoS. Polygon es una plataforma bien estructurada y fácil de usar para el escalado y el desarrollo de infraestructura de Ethereum."
+    "description": "Polygon (anteriormente Matic) Network aporta una escala masiva a Ethereum utilizando una versión adaptada de Plasma con cadenas laterales basadas en PoS. Polygon es una plataforma bien estructurada y fácil de usar para el escalado y el desarrollo de infraestructura de Ethereum.",
+    "coingeckoID": "red-matic"
   },
   "mars": {
     "localization": "es",
@@ -1083,6 +1117,7 @@
   "manna": {
     "localization": "es",
     "name": "Maná",
+    "symbol": "MANÁ",
     "description": "Social Impact DAO dedicada a combatir la inseguridad alimentaria y la desnutrición",
     "websiteURL": "https://www.junonetwork.io/"
   },
@@ -1112,6 +1147,7 @@
   "lumen": {
     "localization": "es",
     "name": "LumenX",
+    "symbol": "LUMEN",
     "description": "El token nativo de LumenX Network"
   },
   "lum": {
@@ -1122,6 +1158,7 @@
     "websiteURL": "https://lum.network/"
   },
   "lore": {
+    "localization": "es",
     "name": "gitopía",
     "symbol": "CIENCIA",
     "description": "El token nativo de Gitopia<inlang-LineFeed>\nGitopia es la plataforma de colaboración de código de próxima generación impulsada por una red descentralizada y una economía de tokens interactiva. Está diseñado para optimizar el proceso de desarrollo de software de código abierto a través de la colaboración, la transparencia y la incentivación.",
@@ -1138,12 +1175,14 @@
   },
   "like": {
     "localization": "es",
+    "name": "Como moneda",
     "symbol": "COMO",
     "description": "LIKE es el token nativo de participación y gobernanza de la cadena LikeCoin, una infraestructura de publicación descentralizada para potenciar la propiedad, la autenticidad y la procedencia del contenido.",
     "coingeckoID": "me gusta",
     "websiteURL": "https://like.co/"
   },
   "light": {
+    "localization": "es",
     "name": "LUZ",
     "symbol": "LUZ",
     "description": "Luz: token de tesorería DAO de la comunidad LumenX",
@@ -1151,6 +1190,7 @@
   },
   "lamb": {
     "localization": "es",
+    "name": "lambda",
     "symbol": "CORDERO",
     "description": "El token nativo de Lambda",
     "coingeckoID": "lambda"
@@ -1170,7 +1210,7 @@
     "twitterURL": "https://twitter.com/KYVENetwork"
   },
   "kuji": {
-    "localization": "es",
+    "name": "Kujira",
     "symbol": "KUJI",
     "description": "El token nativo de participación y gobernanza de la cadena Kujira.<inlang-LineFeed>\nUn ecosistema descentralizado para protocolos, constructores y usuarios de web3 que buscan FinTech sostenible.",
     "coingeckoID": "kujira",
@@ -1180,7 +1220,8 @@
   "ksm": {
     "localization": "es",
     "symbol": "KSM",
-    "description": "El token local de pago, gobernanza, participación y vinculación de la plataforma Polkadot."
+    "description": "El token local de pago, gobernanza, participación y vinculación de la plataforma Polkadot.",
+    "coingeckoID": "kusama"
   },
   "krtc": {
     "localization": "es",
@@ -1190,6 +1231,7 @@
     "coingeckoID": "terrakrw"
   },
   "kleo": {
+    "localization": "es",
     "name": "Cleomedes",
     "symbol": "kleo",
     "description": "Ficha de Cleomedes<inlang-LineFeed>\nKleomedes es un proveedor de infraestructura que aloja nodos que validan redes IBC. Participamos activamente en el respaldo de las cadenas que validamos brindando soporte de infraestructura en forma de puntos finales y retransmisores RPC.<inlang-LineFeed>\nComo DAO, contamos con una comunidad de delegados que participan activamente en la discusión sobre la gobernanza en todas las cadenas que validamos. Somos uno de los únicos validadores en el ecosistema Cosmos que coloca el 100% de las ganancias bajo el control de la gobernanza DAO.<inlang-LineFeed>\nApoyamos la innovación en el ecosistema Cosmos financiando y apoyando proyectos que creemos que apoyan el crecimiento y la descentralización de las redes que validamos.",
@@ -1198,23 +1240,24 @@
   "kichain": {
     "lvn": {
       "localization": "es",
-      "name": "LVN",
       "symbol": "kichain.LVN",
       "description": "Token de fidelidad ELEVENPARIS en KiChain",
+      "coingeckoID": "lvn",
       "websiteURL": "https://fundación.ki/"
     }
   },
   "kava": {
     "localization": "es",
     "name": "Kavá",
+    "symbol": "KAVA",
     "description": "El token nativo de participación y gobernanza de Kava<inlang-LineFeed>\nKava es una cadena de bloques descentralizada que combina la velocidad y la interoperabilidad de Cosmos con el poder de desarrollo de Ethereum.",
+    "coingeckoID": "kavá",
     "websiteURL": "https://www.kava.io/",
     "twitterURL": "https://twitter.com/KAVA_CHAIN"
   },
   "juno": {
     "localization": "es",
     "name": "Juno",
-    "symbol": "juno",
     "description": "El token nativo de JUNO Chain<inlang-LineFeed>\nJuno es una plataforma de contratos inteligentes operada y de propiedad completamente comunitaria.",
     "coingeckoID": "red-juno",
     "websiteURL": "https://www.junonetwork.io/",
@@ -1229,6 +1272,7 @@
     }
   },
   "joe": {
+    "localization": "es",
     "name": "JoeDAO",
     "symbol": "JOSÉ",
     "description": "DAO dedicado a la creación de herramientas en Juno Network",
@@ -1236,6 +1280,7 @@
   },
   "jkl": {
     "localization": "es",
+    "name": "Chacal",
     "symbol": "JKL",
     "description": "La ficha nativa de participación y gobernanza de Jackal.",
     "coingeckoID": "protocolo-chacal",
@@ -1253,6 +1298,7 @@
     "name": "Centro de impactos",
     "symbol": "IXO",
     "description": "El token nativo de IXO Chain",
+    "coingeckoID": "ixo",
     "websiteURL": "https://www.ixo.world/"
   },
   "ist": {
@@ -1264,7 +1310,6 @@
     "websiteURL": "https://agoric.com/"
   },
   "islm": {
-    "localization": "es",
     "name": "Red Haqq",
     "symbol": "ISLM",
     "description": "El EVM nativo, el token de gobernanza y participación de la red Haqq",
@@ -1273,6 +1318,7 @@
   },
   "iris": {
     "localization": "es",
+    "name": "IRISnet",
     "symbol": "IRIS",
     "description": "El token IRIS es el token de gobernanza nativo de la cadena IrisNet.",
     "coingeckoID": "red-iris"
@@ -1280,7 +1326,6 @@
   "iov": {
     "localization": "es",
     "name": "Nombre de estrella",
-    "symbol": "IOV",
     "description": "La moneda IOV es el token del servicio de nombres de activos Starname (IOV)<inlang-LineFeed>\nStarname es la mejor manera de reclamar tu parte de la cadena de bloques. Puede usarlo para identificación, pagos, propiedad y aplicaciones descentralizadas. Starname se puede integrar en billeteras digitales, dapps e intercambios.",
     "coingeckoID": "nombre de estrella",
     "websiteURL": "https://www.nombreestrella.me/",
@@ -1311,8 +1356,10 @@
     }
   },
   "inj": {
-    "name": "inyectivo",
+    "localization": "es",
+    "symbol": "INY",
     "description": "El token INJ es el token de gobernanza nativo de la cadena Injective.<inlang-LineFeed>\nLa misión de Injective es crear un sistema financiero verdaderamente libre e inclusivo a través de la descentralización.",
+    "coingeckoID": "protocolo-inyectivo",
     "websiteURL": "https://inyectiva.com/",
     "twitterURL": "https://twitter.com/Injective_"
   },
@@ -1321,7 +1368,6 @@
     "name": "invertido",
     "symbol": "IMV",
     "description": "El EVM nativo, el token de gobernanza y participación de Imversed",
-    "coingeckoID": "imv",
     "websiteURL": "https://imversed.network/"
   },
   "ibcx": {
@@ -1334,6 +1380,7 @@
   "hydrogen": {
     "localization": "es",
     "name": "Hidrógeno de Bostrom",
+    "symbol": "HIDRÓGENO",
     "description": "El token de apuesta líquida de Bostrom"
   },
   "huahua": {
@@ -1344,8 +1391,7 @@
     "websiteURL": "https://chihuahua.wtf/"
   },
   "hopers": {
-    "localization": "es",
-    "name": "esperanzas",
+    "name": "esperanzadores",
     "symbol": "ESPERANZAS",
     "description": "El token nativo cw20 para Hopers en Juno Chain",
     "coingeckoID": "esperanzadores-io",
@@ -1354,13 +1400,14 @@
   "hope": {
     "localization": "es",
     "name": "Esperanza galaxia",
+    "symbol": "ESPERANZA",
     "description": "Hope Galaxy es una colección de NFT basada en su propio token nativo $HOPE, un token cw20 en la cadena Juno.",
     "coingeckoID": "galaxia-esperanza",
     "websiteURL": "https://www.junonetwork.io/"
   },
   "heart": {
     "localization": "es",
-    "symbol": "CORAZÓN",
+    "name": "Humanos.ai",
     "description": "El token nativo de participación y gobernanza de Humans.ai.",
     "coingeckoID": "humanos-ai",
     "websiteURL": "https://humans.ai/",
@@ -1369,7 +1416,6 @@
   "hash": {
     "localization": "es",
     "name": "Procedencia",
-    "symbol": "PICADILLO",
     "description": "Hash es el token de apuesta de Provenance Blockchain",
     "coingeckoID": "procedencia-blockchain",
     "websiteURL": "https://procedencia.io/"
@@ -1384,11 +1430,13 @@
   "harbor": {
     "localization": "es",
     "name": "Puerto",
+    "symbol": "PUERTO",
     "description": "Token de gobernanza del protocolo Harbour en la red Comdex",
     "coingeckoID": "puerto-2",
     "websiteURL": "https://comdex.one/"
   },
   "guppy": {
+    "localization": "es",
     "name": "GUPY",
     "symbol": "GUPY",
     "description": "GUPY",
@@ -1404,14 +1452,15 @@
   "grav": {
     "localization": "es",
     "name": "Puente de gravedad",
-    "symbol": "GRAV",
     "description": "El token nativo de Gravity Bridge<inlang-LineFeed>\nUn puente abierto y descentralizado que libera el poder de la interoperabilidad y la liquidez entre los ecosistemas blockchain.",
     "coingeckoID": "gravitón",
     "websiteURL": "https://www.gravitybridge.net/",
     "twitterURL": "https://twitter.com/gravity_bridge"
   },
   "glx": {
+    "localization": "es",
     "name": "Galaxia",
+    "symbol": "GLX",
     "description": "GLX es el token de apuesta de Galaxy Chain",
     "websiteURL": "https://galaxychain.zone/"
   },
@@ -1425,6 +1474,7 @@
   "glmr": {
     "localization": "es",
     "name": "Rayo de luna",
+    "symbol": "GLMR",
     "description": "Glimmer (GLMR) es el token de utilidad de Moonbeam Network, la implementación principal de Moonbeam en la red Polkadot que sirve como una paracadena amigable para los desarrolladores.",
     "coingeckoID": "rayo de luna"
   },
@@ -1437,6 +1487,7 @@
   },
   "geo": {
     "localization": "es",
+    "name": "GEO",
     "symbol": "GEO",
     "description": "Token GEO para el protocolo ODIN",
     "websiteURL": "https://odinprotocol.io/"
@@ -1451,6 +1502,7 @@
   "fury": {
     "localization": "es",
     "name": "fanfuria",
+    "symbol": "FURIA",
     "description": "El token nativo cw20 para Fanfury en Juno Chain",
     "coingeckoID": "fanfuria",
     "websiteURL": "https://www.junonetwork.io/"
@@ -1460,6 +1512,7 @@
     "name": "Unificación",
     "symbol": "FONDO",
     "description": "Moneda de participación y gobernanza para Unification Blockchain",
+    "coingeckoID": "unificación",
     "websiteURL": "https://unificación.com/"
   },
   "ftm": {
@@ -1478,7 +1531,8 @@
   "frax": {
     "localization": "es",
     "symbol": "Frax",
-    "description": "Frax es un protocolo de moneda estable algorítmico fraccionario. Su objetivo es proporcionar un dinero algorítmico, descentralizado y altamente escalable en lugar de activos de oferta fija como BTC. Además, FXS es el token de gobernanza y acumulación de valor de todo el ecosistema Frax."
+    "description": "Frax es un protocolo de moneda estable algorítmico fraccionario. Su objetivo es proporcionar un dinero algorítmico, descentralizado y altamente escalable en lugar de activos de oferta fija como BTC. Además, FXS es el token de gobernanza y acumulación de valor de todo el ecosistema Frax.",
+    "coingeckoID": "Frax"
   },
   "fox": {
     "localization": "es",
@@ -1488,6 +1542,7 @@
     "websiteURL": "https://www.junonetwork.io/"
   },
   "flix": {
+    "localization": "es",
     "name": "OmniFlix",
     "description": "El token de apuesta nativo de OmniFlix Hub.<inlang-LineFeed>\nCapa de red y medios descentralizados para creadores y comunidades soberanas impulsada por NFT y protocolos de distribución relacionados.",
     "coingeckoID": "red-omniflix",
@@ -1502,18 +1557,20 @@
     "websiteURL": "https://stafihub.io/"
   },
   "fil": {
+    "localization": "es",
     "name": "Archivocoin",
-    "description": "Filecoin es una red de almacenamiento descentralizada diseñada para convertir el almacenamiento en la nube en un mercado algorítmico. La red facilita mercados abiertos para almacenar y recuperar datos, donde los usuarios pagan para almacenar sus archivos en mineros de almacenamiento. Filecoin está construido sobre el InterPlanetary File System (IPFS), una red de almacenamiento de igual a igual. Filecoin tiene como objetivo almacenar datos de forma descentralizada, a diferencia de los proveedores tradicionales de almacenamiento en la nube.<inlang-LineFeed>\nLos participantes de la red Filecoin están incentivados a actuar honestamente y almacenar la mayor cantidad de datos posible porque obtienen la criptomoneda Filecoin (FIL) a cambio de sus servicios de almacenamiento. Esta configuración garantiza la integridad y accesibilidad de los datos almacenados. El modelo de Filecoin permite una variedad de opciones de almacenamiento, incluido el almacenamiento de archivos a largo plazo y servicios de recuperación más rápidos, lo que lo convierte en una solución versátil para el almacenamiento de datos descentralizado. El proyecto, desarrollado por Protocol Labs, también se centra en garantizar que los datos se almacenen de forma fiable y eficiente."
+    "symbol": "FIL",
+    "description": "Filecoin es una red de almacenamiento descentralizada diseñada para convertir el almacenamiento en la nube en un mercado algorítmico. La red facilita mercados abiertos para almacenar y recuperar datos, donde los usuarios pagan para almacenar sus archivos en mineros de almacenamiento. Filecoin está construido sobre el InterPlanetary File System (IPFS), una red de almacenamiento de igual a igual. Filecoin tiene como objetivo almacenar datos de forma descentralizada, a diferencia de los proveedores tradicionales de almacenamiento en la nube.<inlang-LineFeed>\nSe incentiva a los participantes de la red Filecoin a actuar honestamente y almacenar la mayor cantidad de datos posible porque obtienen la criptomoneda Filecoin (FIL) a cambio de sus servicios de almacenamiento. Esta configuración garantiza la integridad y accesibilidad de los datos almacenados. El modelo de Filecoin permite una variedad de opciones de almacenamiento, incluido el almacenamiento de archivos a largo plazo y servicios de recuperación más rápidos, lo que lo convierte en una solución versátil para el almacenamiento de datos descentralizado. El proyecto, desarrollado por Protocol Labs, también se centra en garantizar que los datos se almacenen de forma fiable y eficiente.",
+    "coingeckoID": "archivocoin"
   },
   "fet": {
-    "localization": "es",
+    "name": "Fetch.ai",
     "symbol": "FET",
     "description": "El token nativo de participación y gobernanza de Fetch Hub.",
     "coingeckoID": "buscar-ai"
   },
   "evmos": {
     "localization": "es",
-    "name": "Evmos",
     "symbol": "EVMOS",
     "description": "El EVM nativo, el token de gobernanza y participación de Evmos Hub<inlang-LineFeed>\nLos desarrolladores utilizan Evmos como Ethereum Canary Chain para implementar aplicaciones del futuro. Obtenga todas las funcionalidades de Ethereum con el poder de IBC y la componibilidad de Interchain.",
     "coingeckoID": "evmos",
@@ -1523,6 +1580,7 @@
   "eth": {
     "localization": "es",
     "name": "Éter",
+    "symbol": "ETH",
     "description": "Ethereum (ETH) es un sistema blockchain descentralizado de código abierto que presenta funcionalidad de contrato inteligente. Es la criptomoneda nativa de la plataforma Ethereum, a menudo considerada como la segunda moneda digital más popular después de Bitcoin. Ethereum se propuso a finales de 2013 y el desarrollo se financió colectivamente en 2014, lo que llevó a que su red entrara en funcionamiento el 30 de julio de 2015.<inlang-LineFeed>\nETH, como moneda digital, se utiliza para diversos fines dentro del ecosistema Ethereum, incluida la ejecución de contratos inteligentes descentralizados y como forma de pago. A diferencia de Bitcoin, Ethereum fue diseñado para ser una plataforma de aplicaciones que puedan operar sin necesidad de intermediarios, utilizando tecnología blockchain. Esto ha convertido a Ethereum en una plataforma líder para diversas aplicaciones, incluidas las finanzas descentralizadas (DeFi), los tokens no fungibles (NFT) y más. Ethereum está en constante evolución, con una importante actualización denominada Ethereum 2.0, cuyo objetivo es mejorar su escalabilidad, seguridad y sostenibilidad.",
     "coingeckoID": "etéreo"
   },
@@ -1533,13 +1591,13 @@
     "coingeckoID": "dinero-e-eur"
   },
   "ech": {
-    "localization": "es",
+    "name": "Escalón",
     "symbol": "ECH",
     "description": "Echelon: un EVM escalable en Cosmos, basado en Prueba de participación con finalidad rápida que prioriza la interoperabilidad y la economía novedosa",
     "coingeckoID": "escalón"
   },
   "ebl": {
-    "name": "bola 8",
+    "localization": "es",
     "symbol": "EBL",
     "description": "La ficha de apuesta nativa de 8ball.",
     "websiteURL": "https://8ball.info/"
@@ -1555,7 +1613,6 @@
     "localization": "es",
     "name": "Centro Dymension",
     "description": "El token nativo de gobernanza y participación de Dymension Hub<inlang-LineFeed>\nDymension es una red de cadenas de bloques modulares ultrarrápidas y fácilmente implementables llamadas RollApps.",
-    "coingeckoID": "dimensión",
     "websiteURL": "https://portal.dymension.xyz",
     "twitterURL": "https://twitter.com/dymension"
   },
@@ -1564,6 +1621,7 @@
     "name": "Protocolo dYdX",
     "symbol": "DYDX",
     "description": "El token de apuesta nativo del protocolo dYdX.<inlang-LineFeed>\nNuestro objetivo es crear código fuente abierto que pueda impulsar un producto y una experiencia comercial de primera clase.",
+    "coingeckoID": "dydx",
     "websiteURL": "https://dydx.trade/",
     "twitterURL": "https://twitter.com/dYdX"
   },
@@ -1578,17 +1636,16 @@
   },
   "dsm": {
     "localization": "es",
-    "name": "desmos",
     "symbol": "DSM",
     "description": "La ficha nativa de Desmos",
     "websiteURL": "https://desmos.network/"
   },
   "dot": {
     "localization": "es",
-    "name": "Lunares",
+    "symbol": "PUNTO",
     "description": "El token local de pago, gobernanza, participación y vinculación de la plataforma Polkadot.",
-    "coingeckoID": "lunares",
     "axl": {
+      "localization": "es",
       "name": "Lunares envueltos",
       "symbol": "DOT.axl",
       "description": "Polkadot envuelto en Axelar"
@@ -1597,11 +1654,12 @@
   "dora": {
     "localization": "es",
     "name": "Dora Vota",
+    "symbol": "dora",
     "description": "El token nativo de participación y gobernanza de la versión Theta testnet de Dora Vota."
   },
   "doga": {
+    "localization": "es",
     "name": "dux abr",
-    "symbol": "perro",
     "description": "dux abr",
     "websiteURL": "https://www.junonetwork.io/"
   },
@@ -1615,14 +1673,12 @@
   },
   "dhk": {
     "localization": "es",
-    "name": "DHK",
     "symbol": "DHK",
     "description": "El token DAO para generar consenso entre el pueblo de Hong Kong",
     "websiteURL": "https://www.junonetwork.io/"
   },
   "dgl": {
     "localization": "es",
-    "name": "Regaliz",
     "symbol": "DGL",
     "websiteURL": "https://www.junonetwork.io/"
   },
@@ -1636,15 +1692,15 @@
   "darc": {
     "localization": "es",
     "name": "Constelación",
+    "symbol": "DARC",
     "description": "El token nativo de Konstellation Network",
     "coingeckoID": "moneda-darcmatter",
     "websiteURL": "https://konstellation.tech/"
   },
   "dai": {
     "localization": "es",
-    "name": "Dai moneda estable",
+    "symbol": "DAI",
     "description": "Multi-Collateral Dai ofrece muchas características nuevas e interesantes, como soporte para nuevos tipos de garantía CDP y Dai Savings Rate.",
-    "coingeckoID": "dai",
     "grv": {
       "localization": "es",
       "name": "DAI Stablecoin (Puente de Gravedad)",
@@ -1656,11 +1712,13 @@
   "cudos": {
     "localization": "es",
     "name": "felicitaciones",
+    "symbol": "CUDOS",
     "description": "El token nativo de la blockchain Cudos",
     "coingeckoID": "felicitaciones",
     "websiteURL": "https://www.cudos.org/"
   },
   "cub": {
+    "localization": "es",
     "name": "Cachorro de león DAO",
     "symbol": "CACHORRO",
     "description": "Lion Cub DAO es una comunidad de memes inútil DAO en Terra",
@@ -1671,7 +1729,6 @@
     "name": "Shentu",
     "symbol": "CTK",
     "description": "La ficha nativa de Shentu",
-    "coingeckoID": "certificado",
     "websiteURL": "https://www.shentu.technology/"
   },
   "cro": {
@@ -1686,19 +1743,18 @@
   "cre": {
     "localization": "es",
     "name": "Creciente",
+    "symbol": "CRE",
     "description": "La ficha nativa de Crescent",
     "coingeckoID": "red-media luna"
   },
   "crbrus": {
     "localization": "es",
-    "name": "Cerbero",
     "symbol": "CRBRUS",
     "description": "El token nativo de Cerberus Chain",
     "coingeckoID": "cerbero-2",
     "websiteURL": "https://cerberus.zone/"
   },
   "coreum": {
-    "localization": "es",
     "name": "núcleo",
     "symbol": "COREO",
     "description": "El token nativo de Coreum",
@@ -1714,13 +1770,13 @@
   },
   "cmst": {
     "name": "CMST",
+    "symbol": "CMST",
     "description": "Protocolo Token of Harbour estable en la red Comdex",
     "coingeckoID": "compuesto",
     "websiteURL": "https://comdex.one/"
   },
   "cmdx": {
     "localization": "es",
-    "name": "Comdex",
     "symbol": "CMDX",
     "description": "Token nativo del protocolo Comdex",
     "coingeckoID": "comdex",
@@ -1750,12 +1806,14 @@
   "cdt": {
     "localization": "es",
     "name": "Moneda estable CDT",
+    "symbol": "CDT",
     "description": "La moneda estable estilo CDP de Membrane llamada CDT",
     "coingeckoID": "token de deuda garantizada",
     "websiteURL": "https://osmosis.zona/"
   },
   "cbeth": {
     "localization": "es",
+    "name": "ETH envuelto en Coinbase",
     "symbol": "cbETH",
     "description": "Coinbase Wrapped Staked ETH (“cbETH”) es un token de utilidad y una representación líquida de ETH apostado a través de Coinbase. cbETH ofrece a los clientes la opción de vender, transferir o utilizar de otro modo su ETH apostado en dapps mientras permanece bloqueado por el protocolo Ethereum.",
     "coingeckoID": "eth envuelto en coinbase"
@@ -1769,7 +1827,7 @@
   },
   "casa": {
     "localization": "es",
-    "symbol": "CASA",
+    "name": "casa",
     "description": "Una DAO innovadora dedicada a albergar a los más vulnerables",
     "websiteURL": "https://www.junonetwork.io/"
   },
@@ -1777,7 +1835,6 @@
     "localization": "es",
     "name": "Canto",
     "description": "Canto es una cadena de bloques de capa 1 creada para cumplir la promesa de DeFi",
-    "coingeckoID": "canto",
     "websiteURL": "https://canto.io/"
   },
   "c4e": {
@@ -1791,7 +1848,6 @@
   "bze": {
     "localization": "es",
     "name": "BeeZee",
-    "symbol": "BZE",
     "description": "Cadena de bloques nativa de BeeZee",
     "coingeckoID": "bzedge"
   },
@@ -1805,6 +1861,7 @@
   },
   "busd": {
     "localization": "es",
+    "name": "BinanceUSD",
     "symbol": "BUSD",
     "description": "Binance USD (BUSD) es una moneda estable respaldada por dólares emitida y custodiada por Paxos Trust Company y regulada por el Departamento de Servicios Financieros del Estado de Nueva York. BUSD está disponible para la venta directamente 1:1 con USD en Paxos.com y aparecerá para su negociación en Binance.",
     "coingeckoID": "binance-usd"
@@ -1820,13 +1877,13 @@
   },
   "bskt": {
     "localization": "es",
+    "name": "Cesta",
     "symbol": "BSKT",
     "description": "BSKT rastrea los principales activos en todo el ecosistema criptográfico",
     "coingeckoID": "cesta",
     "twitterURL": "https://twitter.com/bsktfi"
   },
   "brnch": {
-    "localization": "es",
     "name": "Rama",
     "symbol": "BRNCH",
     "description": "ohhToken LP NFT.",
@@ -1835,32 +1892,31 @@
   "boot": {
     "localization": "es",
     "name": "bostrom",
+    "symbol": "BOTA",
     "description": "La ficha de apuesta de Bostrom",
     "coingeckoID": "bostrom"
   },
   "bonk": {
     "localization": "es",
-    "name": "bonk",
     "symbol": "BONK",
     "description": "La ficha oficial de Bonk Inu",
     "coingeckoID": "bonk"
   },
   "bnb": {
     "localization": "es",
+    "name": "moneda binance",
     "symbol": "BNB",
     "description": "BNB impulsa el ecosistema de BNB Chain y es la moneda nativa de BNB Beacon Chain y BNB Smart Chain.",
     "coingeckoID": "binancecoin"
   },
   "bmos": {
-    "localization": "es",
     "name": "Bitmos",
     "symbol": "BMOS",
     "description": "Bitmos abre las puertas para que los tokens BRC20 prosperen junto con jugadores establecidos en Cosmos Network, revolucionando las finanzas descentralizadas (DeFi) para todos.",
     "websiteURL": "https://www.terra.money/"
   },
   "blz": {
-    "localization": "es",
-    "symbol": "BLZ",
+    "name": "Bluzelle",
     "description": "La ficha nativa de Bluzelle",
     "coingeckoID": "bluzelle",
     "websiteURL": "https://bluzelle.com/"
@@ -1879,7 +1935,6 @@
     "websiteURL": "https://www.junonetwork.io/"
   },
   "bld": {
-    "localization": "es",
     "name": "Agórico",
     "symbol": "BLD",
     "description": "BLD es el token utilizado para asegurar la cadena Agórica mediante apuestas y para respaldar Inter Protocol.<inlang-LineFeed>\nLa plataforma Agoric hace que sea seguro y fluido crear aplicaciones descentralizadas utilizando su conocimiento existente de JavaScript.",
@@ -1888,6 +1943,7 @@
     "twitterURL": "https://twitter.com/agoric"
   },
   "bjuno": {
+    "localization": "es",
     "name": "StakeEasy bJUNO",
     "symbol": "BJUNO",
     "description": "Derivado de apuesta bJUNO para JUNO apostado",
@@ -1895,13 +1951,13 @@
     "websiteURL": "https://www.junonetwork.io/"
   },
   "berlin": {
+    "localization": "es",
     "name": "Teledisko DAO",
     "symbol": "BERLINA",
     "description": "El token de Teledisko DAO.",
     "websiteURL": "https://evmos.org/"
   },
   "bcna": {
-    "localization": "es",
     "name": "BitCanna",
     "symbol": "BCNA",
     "description": "La moneda BCNA es el token transaccional dentro de la red BitCanna, que sirve a la industria legal del cannabis a través de su red de pago, cadena de suministro y red fiduciaria.",
@@ -1909,7 +1965,7 @@
     "websiteURL": "https://www.bitcanna.io/"
   },
   "band": {
-    "name": "Protocolo de banda",
+    "localization": "es",
     "symbol": "BANDA",
     "description": "El token nativo de BandChain<inlang-LineFeed>\nBand Protocol es una plataforma de Oracle de datos entre cadenas que agrega y conecta datos del mundo real y API con contratos inteligentes.",
     "coingeckoID": "protocolo de banda",
@@ -1926,12 +1982,14 @@
   "baddog": {
     "localization": "es",
     "name": "chihuahuawifahat",
+    "symbol": "PERRO MALO",
     "description": "tiene un sombrero",
     "websiteURL": "https://chihuahua.wtf/"
   },
   "bad": {
     "localization": "es",
     "name": "Badcoin",
+    "symbol": "MALO",
     "description": "La moneda más mala del Cosmos",
     "websiteURL": "https://neutron.org/"
   },
@@ -1945,13 +2003,13 @@
     "localization": "es",
     "name": "FIL envuelto de Filecoin",
     "symbol": "axlFIL",
-    "description": "FIL envuelto en Axelar",
-    "coingeckoID": "archivocoin"
+    "description": "FIL envuelto en Axelar"
   },
   "axl": {
     "localization": "es",
     "symbol": "XL",
     "description": "La ficha nativa de Axelar<inlang-LineFeed>\nAxelar ofrece comunicación segura entre cadenas para Web3. Nuestra infraestructura permite a los usuarios de dApps interactuar con cualquier activo o aplicación, en cualquier cadena, con un solo clic.",
+    "coingeckoID": "axelar",
     "websiteURL": "https://axelar.network/",
     "twitterURL": "https://twitter.com/axelarnetwork"
   },
@@ -1959,7 +2017,8 @@
     "localization": "es",
     "name": "avalancha",
     "symbol": "AVAX",
-    "description": "AVAX es el token nativo de Avalanche. Es un activo escaso y con límites estrictos que se utiliza para pagar tarifas, proteger la plataforma mediante apuestas y proporcionar una unidad de cuenta básica entre las múltiples subredes creadas en Avalanche."
+    "description": "AVAX es el token nativo de Avalanche. Es un activo escaso y con límites estrictos que se utiliza para pagar tarifas, proteger la plataforma mediante apuestas y proporcionar una unidad de cuenta básica entre las múltiples subredes creadas en Avalanche.",
+    "coingeckoID": "avalancha-2"
   },
   "avalanche": {
     "usdc": {
@@ -1967,11 +2026,13 @@
       "name": "Moneda USD (Avalancha)",
       "symbol": "avalancha.USDC",
       "description": "USDC es una moneda estable en dólares estadounidenses totalmente garantizada desarrollada por CENTRE, el proyecto de código abierto del que Circle es el primero de varios futuros emisores.",
+      "coingeckoID": "moneda-usd",
       "axl": {
         "localization": "es",
         "name": "Moneda USD (Avalancha)",
         "symbol": "avalancha.USDC.axl",
-        "description": "USDC es una moneda estable en dólares estadounidenses totalmente garantizada desarrollada por CENTRE, el proyecto de código abierto del que Circle es el primero de varios futuros emisores."
+        "description": "USDC es una moneda estable en dólares estadounidenses totalmente garantizada desarrollada por CENTRE, el proyecto de código abierto del que Circle es el primero de varios futuros emisores.",
+        "coingeckoID": "moneda-usd"
       }
     }
   },
@@ -1980,6 +2041,7 @@
     "name": "Autismo",
     "symbol": "AUTISMO",
     "description": "$AUTISM existe para celebrar el autismo como una tecnología biológica superior para un mundo cambiante",
+    "coingeckoID": "autismo",
     "websiteURL": "https://inyectiva.com/"
   },
   "atom": {
@@ -2016,12 +2078,10 @@
   },
   "ash": {
     "name": "CENIZA",
-    "symbol": "CENIZA",
     "description": "CENIZA",
     "websiteURL": "https://www.whitewhale.money/"
   },
   "arusd": {
-    "localization": "es",
     "name": "USD cultivables",
     "symbol": "arUSD",
     "description": "Moneda estable con sobregarantía para derivados de Arable v1",
@@ -2029,7 +2089,6 @@
     "websiteURL": "https://arable.finance/"
   },
   "arkh": {
-    "localization": "es",
     "name": "Arkhadiano",
     "symbol": "arkh",
     "description": "La ficha nativa de Arkhadian",
@@ -2047,7 +2106,6 @@
   "arb": {
     "localization": "es",
     "name": "arbitraje",
-    "symbol": "BRA",
     "description": "Token nativo de Arbitrum",
     "coingeckoID": "arbitraje"
   },
@@ -2055,7 +2113,8 @@
     "localization": "es",
     "name": "Aptos Coin",
     "symbol": "APTO",
-    "description": "El token Aptos (APT) es el token nativo de la cadena de bloques Aptos que se utiliza para pagar tarifas de transacción y de red."
+    "description": "El token Aptos (APT) es el token nativo de la cadena de bloques Aptos que se utiliza para pagar tarifas de transacción y de red.",
+    "coingeckoID": "aptos"
   },
   "apollo": {
     "localization": "es",
@@ -2073,9 +2132,9 @@
   },
   "ape": {
     "localization": "es",
-    "name": "moneda mono",
     "symbol": "MONO",
-    "description": "ApeCoin encontró una nueva expresión en web3 a través del arte, los juegos, el entretenimiento y los eventos. APE es un token creado para respaldar el futuro, controlado y desarrollado por la comunidad. Servirá como una capa de protocolo descentralizada para iniciativas lideradas por la comunidad que impulsan la cultura hacia el metaverso."
+    "description": "ApeCoin encontró una nueva expresión en web3 a través del arte, los juegos, el entretenimiento y los eventos. APE es un token creado para respaldar el futuro, controlado y desarrollado por la comunidad. Servirá como una capa de protocolo descentralizada para iniciativas lideradas por la comunidad que impulsan la cultura hacia el metaverso.",
+    "coingeckoID": "apecoin"
   },
   "amposmo": {
     "localization": "es",
@@ -2086,38 +2145,32 @@
   },
   "amber": {
     "localization": "es",
-    "name": "Ámbar",
     "symbol": "ÁMBAR",
     "description": "El token nativo cw20 para Amber en Secret Network",
     "websiteURL": "https://scrt.network/"
   },
   "alter": {
-    "localization": "es",
     "name": "Alterar",
     "symbol": "ALTERAR",
     "description": "El token nativo cw20 para Alter en Secret Network",
-    "coingeckoID": "alterar",
     "websiteURL": "https://scrt.network/"
   },
   "akt": {
     "name": "Akash",
-    "symbol": "AKT",
     "description": "Akash Token (AKT) es el token de utilidad nativo de Akash Network, que se utiliza como medio principal para gobernar, proteger la cadena de bloques, incentivar a los participantes y proporcionar un mecanismo predeterminado para almacenar e intercambiar valor.<inlang-LineFeed>\nAkash es una Supernube de código abierto que permite a los usuarios comprar y vender recursos informáticos de forma segura y eficiente. Diseñado específicamente para utilidad pública.",
     "coingeckoID": "red-akash",
     "websiteURL": "https://akash.network/",
     "twitterURL": "https://twitter.com/akashnet_"
   },
   "aioz": {
-    "localization": "es",
     "name": "Red AIOZ",
+    "symbol": "AIOZ",
     "description": "El token nativo de participación y gobernanza de la red AIOZ.<inlang-LineFeed>\nAIOZ Network es un DePIN para Web3 AI, almacenamiento y transmisión.<inlang-LineFeed>\nAIOZ potencia un futuro más rápido, seguro y descentralizado.<inlang-LineFeed>\nImpulsado por una red global de DePIN, AIOZ lo recompensa por compartir sus recursos computacionales para almacenar, transcodificar y transmitir contenido de medios digitales y potenciar el cálculo de IA descentralizado.",
     "coingeckoID": "red-aioz",
     "websiteURL": "https://aioz.network/"
   },
   "acre": {
-    "localization": "es",
     "name": "Acrechain",
-    "symbol": "ACRE",
     "description": "El EVM nativo, el token de gobernanza y participación de Acrechain",
     "coingeckoID": "protocolo-arable",
     "websiteURL": "https://arable.finance/"

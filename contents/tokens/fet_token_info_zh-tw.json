@@ -1,7 +1,6 @@
 {
-  "localization": "zh",
   "name": "Fetch.ai",
-  "symbol": "場效管",
+  "symbol": "FET",
   "description": "Fetch Hub 的原生質押和治理代幣。",
-  "coingeckoID": "取得人工智慧"
+  "coingeckoID": "fetch-ai"
 }

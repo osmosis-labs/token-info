@@ -1,7 +1,7 @@
 {
   "localization": "zh",
-  "name": "畫畫",
-  "symbol": "雷布斯",
+  "name": "Rebus",
+  "symbol": "REBUS",
   "description": "REBUS，Rebus鏈的原生幣。",
   "coingeckoID": "rebus",
   "websiteURL": "https://www.rebuschain.com/"

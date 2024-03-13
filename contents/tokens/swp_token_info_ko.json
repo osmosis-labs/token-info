@@ -1,8 +1,8 @@
 {
   "localization": "ko",
-  "name": "카바 스왑",
+  "name": "Kava Swap",
   "symbol": "SWP",
   "description": "Kava 스왑 프로토콜의 거버넌스 토큰",
-  "coingeckoID": "카바 스왑",
+  "coingeckoID": "kava-swap",
   "websiteURL": "https://www.kava.io/"
 }

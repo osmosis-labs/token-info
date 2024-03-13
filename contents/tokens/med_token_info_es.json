@@ -1,8 +1,8 @@
 {
   "localization": "es",
   "name": "Medibloc",
-  "symbol": "MEDICINA",
+  "symbol": "MED",
   "description": "Panacea es una cadena de bloques pública lanzada por MediBloc, que es la infraestructura clave para reinventar el ecosistema de datos de atención médica centrado en el paciente.",
-  "coingeckoID": "bloque médico",
-  "websiteURL": "https://medibloc.com/es/"
+  "coingeckoID": "medibloc",
+  "websiteURL": "https://medibloc.com/en/"
 }

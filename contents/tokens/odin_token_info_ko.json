@@ -1,8 +1,8 @@
 {
   "localization": "ko",
-  "name": "오딘 프로토콜",
-  "symbol": "오딘",
+  "name": "Odin Protocol",
+  "symbol": "ODIN",
   "description": "ODIN 프로토콜의 스테이킹 및 거버넌스 토큰",
-  "coingeckoID": "오딘 프로토콜",
+  "coingeckoID": "odin-protocol",
   "websiteURL": "https://odinprotocol.io/"
 }

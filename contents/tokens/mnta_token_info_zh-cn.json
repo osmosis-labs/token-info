@@ -1,8 +1,8 @@
 {
   "localization": "zh",
-  "name": "曼塔道",
-  "symbol": "国家旅游局",
+  "name": "MantaDAO",
+  "symbol": "MNTA",
   "description": "MantaDAO 治理代币",
-  "coingeckoID": "曼塔岛",
+  "coingeckoID": "mantadao",
   "websiteURL": "https://kujira.app/"
 }

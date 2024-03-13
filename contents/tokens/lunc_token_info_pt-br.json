@@ -1,7 +1,7 @@
 {
   "localization": "pt",
-  "name": "Lua Clássica",
-  "symbol": "ALMOÇO",
+  "name": "Luna Classic",
+  "symbol": "LUNC",
   "description": "O token de piquetagem nativo do Terra Classic.",
   "coingeckoID": "terra-luna"
 }

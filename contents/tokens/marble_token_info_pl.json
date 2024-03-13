@@ -1,8 +1,8 @@
 {
   "localization": "pl",
-  "name": "Marmur",
-  "symbol": "MARMUR",
+  "name": "Marble",
+  "symbol": "MARBLE",
   "description": "Natywny token cw20 dla Marble DAO na Juno Chain",
-  "coingeckoID": "marmur",
+  "coingeckoID": "marble",
   "websiteURL": "https://www.junonetwork.io/"
 }

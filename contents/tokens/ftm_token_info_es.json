@@ -1,7 +1,6 @@
 {
-  "localization": "en",
-  "name": "fantasma",
-  "symbol": "ftm",
+  "name": "Fantom",
+  "symbol": "FTM",
   "description": "El token de utilidad nativo de Fantom, FTM, impulsa todo el ecosistema blockchain de Fantom. Los tokens FTM se utilizan para apuestas, gobernanza, pagos y tarifas en la red.",
-  "coingeckoID": "fantasma"
+  "coingeckoID": "fantom"
 }

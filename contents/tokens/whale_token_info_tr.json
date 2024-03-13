@@ -1,8 +1,8 @@
 {
-  "localization": "en",
+  "localization": "tr",
   "name": "Migaloo",
   "symbol": "WHALE",
   "description": "Migaloo Chain'in yerel tokenı",
-  "coingeckoID": "Beyaz Balina",
+  "coingeckoID": "white-whale",
   "websiteURL": "https://www.whitewhale.money/"
 }
