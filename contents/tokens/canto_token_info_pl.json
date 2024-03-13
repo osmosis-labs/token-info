@@ -1,8 +1,8 @@
 {
   "localization": "pl",
-  "name": "Canto",
+  "name": "Pieśń",
   "symbol": "CANTO",
   "description": "Canto to blockchain warstwy 1 zbudowany tak, aby spełniać obietnice DeFi",
-  "coingeckoID": "canto",
+  "coingeckoID": "pieśń",
   "websiteURL": "https://canto.io/"
 }

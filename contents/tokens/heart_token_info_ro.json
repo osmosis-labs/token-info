@@ -1,9 +1,9 @@
 {
   "localization": "ro",
   "name": "Humans.ai",
-  "symbol": "HEART",
+  "symbol": "INIMA",
   "description": "Indicatorul nativ de miză și guvernare a Humans.ai.",
-  "coingeckoID": "humans-ai",
+  "coingeckoID": "oameni-ai",
   "websiteURL": "https://humans.ai/",
   "twitterURL": "https://twitter.com/humansdotai"
 }

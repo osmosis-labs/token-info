@@ -1,7 +1,7 @@
 {
   "localization": "ko",
-  "name": "Block",
-  "symbol": "BLOCK",
+  "name": "차단하다",
+  "symbol": "차단하다",
   "description": "Juno Chain의 Marble DEX 기본 토큰",
   "websiteURL": "https://www.junonetwork.io/"
 }

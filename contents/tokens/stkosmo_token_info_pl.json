@@ -1,7 +1,8 @@
 {
-  "name": "PSTAKE staked OSMO",
+  "localization": "pl",
+  "name": "PSTAKE postawił na OSMO",
   "symbol": "stkOSMO",
   "description": "PSTAKE OSMO z płynną stawką",
-  "coingeckoID": "pstake-staked-osmo",
+  "coingeckoID": "pstake-stake-osmo",
   "websiteURL": "https://persistence.one/"
 }

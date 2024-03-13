@@ -1,8 +1,8 @@
 {
   "localization": "pl",
-  "name": "Haqq Network",
+  "name": "Sieć Haqq",
   "symbol": "ISLM",
   "description": "Natywny token EVM, zarządzanie i stakowanie sieci Haqq",
-  "coingeckoID": "islamic-coin",
+  "coingeckoID": "moneta islamska",
   "websiteURL": "https://haqq.network/"
 }

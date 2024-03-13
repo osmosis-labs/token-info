@@ -1,6 +1,7 @@
 {
-  "name": "Amber",
-  "symbol": "AMBER",
+  "localization": "ko",
+  "name": "호박색",
+  "symbol": "호박색",
   "description": "Secret Network의 Amber에 대한 기본 토큰 cw20",
   "websiteURL": "https://scrt.network/"
 }

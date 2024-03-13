@@ -1,5 +1,7 @@
 {
-  "name": "Puppy",
-  "symbol": "PUPPY",
+  "localization": "pt",
+  "name": "Filhote de cachorro",
+  "symbol": "FILHOTE DE CACHORRO",
+  "description": "Filhote de cachorro",
   "websiteURL": "https://chihuahua.wtf/"
 }

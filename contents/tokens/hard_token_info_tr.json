@@ -1,8 +1,8 @@
 {
-  "localization": "tr",
-  "name": "Kava Hard",
-  "symbol": "HARD",
+  "localization": "en",
+  "name": "Kava Sert",
+  "symbol": "ZOR",
   "description": "Kava Lend Protokolünün yönetim tokenı",
-  "coingeckoID": "kava-lend",
+  "coingeckoID": "kava-ödünç",
   "websiteURL": "https://www.kava.io/"
 }

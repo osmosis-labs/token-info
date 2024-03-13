@@ -1,6 +1,7 @@
 {
+  "localization": "fr",
   "name": "Neokingdom DAO",
-  "symbol": "NEOK",
+  "symbol": "NÉOK",
   "description": "Le jeton de Neokingdom DAO.",
   "websiteURL": "https://evmos.org/"
 }

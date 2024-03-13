@@ -1,9 +1,9 @@
 {
   "localization": "ro",
-  "name": "Archway",
-  "symbol": "ARCH",
+  "name": "Arcadă",
+  "symbol": "ARC",
   "description": "Indicatorul nativ al rețelei Archway<inlang-LineFeed>\nUn blockchain L1 stimulat care permite dezvoltatorilor să capteze valoarea pe care o creează dapp-urile lor, permițând modele economice durabile.",
-  "coingeckoID": "archway",
+  "coingeckoID": "arcadă",
   "websiteURL": "https://archway.io/",
   "twitterURL": "https://twitter.com/archwayHQ"
 }

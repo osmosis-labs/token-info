@@ -1,8 +1,8 @@
 {
   "localization": "pl",
-  "name": "Provenance",
-  "symbol": "HASH",
+  "name": "Pochodzenie",
+  "symbol": "HASZYSZ",
   "description": "Hash jest tokenem stakingowym Provenance Blockchain",
-  "coingeckoID": "provenance-blockchain",
+  "coingeckoID": "pochodzenie-blockchain",
   "websiteURL": "https://provenance.io/"
 }

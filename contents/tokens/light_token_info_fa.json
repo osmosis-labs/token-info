@@ -1,6 +1,7 @@
 {
-  "name": "LIGHT",
-  "symbol": "LIGHT",
-  "description": "نور: توکن خزانه DAO جامعه LumenX",
+  "localization": "en",
+  "name": "سبک",
+  "symbol": "سبک",
+  "description": "نور: توکن خزانه داری DAO جامعه LumenX",
   "websiteURL": "https://www.junonetwork.io/"
 }

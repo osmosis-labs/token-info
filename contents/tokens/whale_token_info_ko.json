@@ -1,8 +1,8 @@
 {
-  "localization": "ko",
-  "name": "Migaloo",
+  "localization": "en",
+  "name": "미갈루",
   "symbol": "WHALE",
   "description": "Migaloo Chain의 기본 토큰",
-  "coingeckoID": "white-whale",
+  "coingeckoID": "흰고래",
   "websiteURL": "https://www.whitewhale.money/"
 }

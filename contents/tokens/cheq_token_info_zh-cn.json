@@ -1,8 +1,8 @@
 {
   "localization": "zh",
-  "name": "Cheqd",
-  "symbol": "CHEQ",
+  "name": "查克德",
+  "symbol": "检验质量",
   "description": "cheqd 网络的本机令牌",
-  "coingeckoID": "cheqd-network",
+  "coingeckoID": "检查网络",
   "websiteURL": "https://www.cheqd.io/"
 }

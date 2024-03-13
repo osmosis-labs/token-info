@@ -1,8 +1,8 @@
 {
-  "localization": "zh",
-  "name": "f(x)Core",
-  "symbol": "FX",
+  "localization": "en",
+  "name": "f(x)核心",
+  "symbol": "外汇",
   "description": "Function X 的原生质押代币",
-  "coingeckoID": "fx-coin",
+  "coingeckoID": "外汇币",
   "websiteURL": "https://functionx.io"
 }

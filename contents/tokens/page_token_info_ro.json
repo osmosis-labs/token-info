@@ -1,6 +1,7 @@
 {
+  "localization": "ro",
   "name": "Page",
-  "symbol": "PAGE",
+  "symbol": "PAGINĂ",
   "description": "Tokenul PAGE este folosit pentru acțiuni în ecosistemul literar PageDAO NFT și pentru guvernarea DAO.",
-  "coingeckoID": "page"
+  "coingeckoID": "pagină"
 }

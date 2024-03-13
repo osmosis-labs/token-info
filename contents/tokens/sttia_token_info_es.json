@@ -1,5 +1,6 @@
 {
-  "name": "Stride Staked TIA",
+  "localization": "es",
+  "name": "Stride estacado TIA",
   "symbol": "stTIA",
   "description": "El TIA líquido de Stride",
   "websiteURL": "https://stride.zone/"

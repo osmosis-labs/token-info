@@ -1,5 +1,6 @@
 {
-  "name": "Cerberus",
+  "localization": "pt",
+  "name": "Cérbero",
   "symbol": "CRBRUS",
   "description": "O token nativo da Cerberus Chain",
   "coingeckoID": "cerberus-2",

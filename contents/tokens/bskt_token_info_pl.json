@@ -2,7 +2,7 @@
   "localization": "pl",
   "name": "Basket",
   "symbol": "BSKT",
-  "description": "BSKT śledzi najważniejsze aktywa w ekosystemie kryptowalut",
-  "coingeckoID": "basket",
+  "description": "BSKT śledzi najważniejsze aktywa w całym ekosystemie kryptowalut",
+  "coingeckoID": "kosz",
   "twitterURL": "https://twitter.com/bsktfi"
 }

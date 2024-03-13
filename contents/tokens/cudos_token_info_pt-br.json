@@ -1,8 +1,8 @@
 {
   "localization": "pt",
-  "name": "Cudos",
+  "name": "Parabéns",
   "symbol": "CUDOS",
   "description": "O token nativo do blockchain Cudos",
-  "coingeckoID": "cudos",
+  "coingeckoID": "parabéns",
   "websiteURL": "https://www.cudos.org/"
 }

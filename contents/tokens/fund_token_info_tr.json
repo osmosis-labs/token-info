@@ -1,6 +1,7 @@
 {
-  "name": "Unification",
-  "symbol": "FUND",
+  "localization": "tr",
+  "name": "Birleşme",
+  "symbol": "FON, SERMAYE",
   "description": "Birleşme Blockchain'i için stake etme ve yönetişim parası",
   "coingeckoID": "unification",
   "websiteURL": "https://unification.com/"

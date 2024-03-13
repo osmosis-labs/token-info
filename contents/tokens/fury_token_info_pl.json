@@ -1,8 +1,8 @@
 {
   "localization": "pl",
-  "name": "Fanfury",
+  "name": "Fanfuria",
   "symbol": "FURY",
   "description": "Natywny token cw20 dla Fanfury na Juno Chain",
-  "coingeckoID": "fanfury",
+  "coingeckoID": "fanfuria",
   "websiteURL": "https://www.junonetwork.io/"
 }

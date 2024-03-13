@@ -1,7 +1,7 @@
 {
-  "localization": "ro",
-  "name": "Microtick",
+  "localization": "en",
+  "name": "Microtic",
   "symbol": "TICK",
   "description": "Moneda TICK este simbolul pentru aplicația Microtick Price Discovery &amp; Oracle",
-  "coingeckoID": "microtick"
+  "coingeckoID": "microtic"
 }

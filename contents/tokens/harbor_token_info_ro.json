@@ -1,7 +1,8 @@
 {
-  "name": "Harbor",
+  "localization": "ro",
+  "name": "Port",
   "symbol": "HARBOR",
   "description": "Protocolul Token of Harbour de guvernare pe rețeaua Comdex",
-  "coingeckoID": "harbor-2",
+  "coingeckoID": "port-2",
   "websiteURL": "https://comdex.one/"
 }

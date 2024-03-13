@@ -1,7 +1,8 @@
 {
+  "localization": "pl",
   "name": "Acrechain",
-  "symbol": "ACRE",
+  "symbol": "AKR",
   "description": "Natywny token EVM, zarządzanie i stakowanie Acrechain",
-  "coingeckoID": "arable-protocol",
+  "coingeckoID": "protokół uprawny",
   "websiteURL": "https://arable.finance/"
 }

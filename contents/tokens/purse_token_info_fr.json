@@ -1,6 +1,7 @@
 {
-  "name": "PURSE Token",
-  "symbol": "PURSE",
+  "localization": "fr",
+  "name": "Jeton de bourse",
+  "symbol": "BOURSE",
   "description": "Jeton de bourse",
   "websiteURL": "https://pundix.com"
 }

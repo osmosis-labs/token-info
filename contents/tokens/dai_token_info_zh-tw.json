@@ -1,7 +1,7 @@
 {
   "localization": "zh",
-  "name": "Dai Stablecoin",
+  "name": "Dai 穩定幣",
   "symbol": "DAI",
   "description": "多抵押 Dai 帶來了許多令人興奮的新功能，例如支援新的 CDP 抵押品類型和 Dai 儲蓄率。",
-  "coingeckoID": "dai"
+  "coingeckoID": "戴"
 }

@@ -1,5 +1,6 @@
 {
-  "name": "Osmosis Doge",
+  "localization": "en",
+  "name": "Doża Osmozy",
   "symbol": "OSDOGE",
   "description": "Pierwszy doża na osmozie",
   "websiteURL": "https://www.junonetwork.io/"

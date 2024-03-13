@@ -1,8 +1,8 @@
 {
   "localization": "tr",
   "name": "LikeCoin",
-  "symbol": "LIKE",
-  "description": "LIKE, içerik sahipliğini, orijinalliğini ve kaynağını güçlendiren Merkezi Olmayan Yayıncılık Altyapısı olan LikeCoin zincirinin yerel stake ve yönetim tokenidir.",
-  "coingeckoID": "likecoin",
+  "symbol": "BEĞENMEK",
+  "description": "LIKE, içerik sahipliğini, orijinalliğini ve kaynağını güçlendiren Merkezi Olmayan Yayıncılık Altyapısı olan LikeCoin zincirinin yerel stake ve yönetişim tokenidir.",
+  "coingeckoID": "benzeri para",
   "websiteURL": "https://like.co/"
 }

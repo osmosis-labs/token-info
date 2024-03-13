@@ -1,8 +1,8 @@
 {
   "localization": "ko",
-  "name": "Shade",
+  "name": "그늘",
   "symbol": "SHD",
   "description": "Shade on Secret Network의 기본 토큰 cw20",
-  "coingeckoID": "shade-protocol",
+  "coingeckoID": "그늘 프로토콜",
   "websiteURL": "https://scrt.network/"
 }

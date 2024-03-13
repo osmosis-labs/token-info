@@ -1,6 +1,7 @@
 {
-  "name": "Polkadot",
+  "localization": "zh",
+  "name": "波爾卡圓點",
   "symbol": "DOT",
   "description": "Polkadot 平台的原生費用、治理、質押和綁定代幣。",
-  "coingeckoID": "polkadot"
+  "coingeckoID": "波爾卡圓點"
 }

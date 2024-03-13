@@ -1,8 +1,8 @@
 {
-  "localization": "pl",
-  "name": "Vidulum",
+  "localization": "en",
+  "name": "Widulum",
   "symbol": "VDL",
   "description": "Natywny token Vidulum",
-  "coingeckoID": "vidulum",
+  "coingeckoID": "widok",
   "websiteURL": "https://vidulum.app/"
 }

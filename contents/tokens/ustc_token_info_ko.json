@@ -1,6 +1,7 @@
 {
-  "name": "TerraClassicUSD",
+  "localization": "ko",
+  "name": "테라클래식USD",
   "symbol": "USTC",
   "description": "Terra Classic의 USD 스테이블코인입니다.",
-  "coingeckoID": "terrausd"
+  "coingeckoID": "테라스"
 }

@@ -1,7 +1,7 @@
 {
   "localization": "pt",
   "name": "SIENNA",
-  "symbol": "SIENNA",
+  "symbol": "SIENA",
   "description": "O token nativo cw20 para SIENNA na Rede Secreta",
   "coingeckoID": "sienna",
   "websiteURL": "https://scrt.network/"

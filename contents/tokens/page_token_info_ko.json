@@ -1,6 +1,7 @@
 {
+  "localization": "ko",
   "name": "Page",
-  "symbol": "PAGE",
+  "symbol": "페이지",
   "description": "PAGE 토큰은 PageDAO NFT 문학 생태계의 활동과 DAO 거버넌스에 사용됩니다.",
-  "coingeckoID": "page"
+  "coingeckoID": "페이지"
 }

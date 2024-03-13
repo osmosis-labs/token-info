@@ -1,7 +1,8 @@
 {
+  "localization": "zh",
   "name": "Jackal",
   "symbol": "JKL",
   "description": "Jackal 的原生质押和治理代币。",
-  "coingeckoID": "jackal-protocol",
+  "coingeckoID": "豺狼协议",
   "websiteURL": "https://jackalprotocol.com"
 }

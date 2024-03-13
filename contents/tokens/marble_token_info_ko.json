@@ -1,8 +1,8 @@
 {
   "localization": "ko",
-  "name": "Marble",
-  "symbol": "MARBLE",
+  "name": "대리석",
+  "symbol": "대리석",
   "description": "Juno Chain의 Marble DAO용 기본 토큰 cw20",
-  "coingeckoID": "marble",
+  "coingeckoID": "대리석",
   "websiteURL": "https://www.junonetwork.io/"
 }

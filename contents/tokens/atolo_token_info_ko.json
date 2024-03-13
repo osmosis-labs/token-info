@@ -1,7 +1,8 @@
 {
-  "name": "Rizon",
-  "symbol": "ATOLO",
+  "localization": "ko",
+  "name": "리존",
+  "symbol": "아톨로",
   "description": "Rizon Chain의 기본 토큰",
-  "coingeckoID": "rizon",
+  "coingeckoID": "리존",
   "websiteURL": "https://rizon.world/"
 }

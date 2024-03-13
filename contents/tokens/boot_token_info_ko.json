@@ -1,7 +1,7 @@
 {
   "localization": "ko",
-  "name": "bostrom",
+  "name": "보스트롬",
   "symbol": "BOOT",
   "description": "Bostrom의 스테이킹 토큰",
-  "coingeckoID": "bostrom"
+  "coingeckoID": "보스트롬"
 }

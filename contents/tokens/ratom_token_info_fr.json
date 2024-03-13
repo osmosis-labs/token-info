@@ -1,6 +1,7 @@
 {
-  "name": "rATOM",
-  "symbol": "rATOM",
+  "localization": "fr",
+  "name": "rATOME",
+  "symbol": "rATOME",
   "description": "Une représentation de jalonnement liquide des ATOM jalonnés",
   "websiteURL": "https://stafihub.io/"
 }

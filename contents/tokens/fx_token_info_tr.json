@@ -1,8 +1,8 @@
 {
-  "localization": "tr",
-  "name": "f(x)Core",
+  "localization": "en",
+  "name": "f(x)Çekirdek",
   "symbol": "FX",
   "description": "Function X'in yerel stake tokenı",
-  "coingeckoID": "fx-coin",
+  "coingeckoID": "FX-coin",
   "websiteURL": "https://functionx.io"
 }

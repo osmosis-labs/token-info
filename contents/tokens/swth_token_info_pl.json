@@ -1,8 +1,8 @@
 {
   "localization": "pl",
-  "name": "Carbon",
+  "name": "Węgiel",
   "symbol": "SWTH",
   "description": "Natywny token zarządzania Carbonem",
-  "coingeckoID": "switcheo",
+  "coingeckoID": "przełącznik",
   "websiteURL": "https://www.carbon.network/"
 }

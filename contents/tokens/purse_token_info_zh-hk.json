@@ -1,6 +1,7 @@
 {
-  "name": "PURSE Token",
-  "symbol": "PURSE",
+  "localization": "zh",
+  "name": "錢包代幣",
+  "symbol": "錢包",
   "description": "錢包代幣",
   "websiteURL": "https://pundix.com"
 }

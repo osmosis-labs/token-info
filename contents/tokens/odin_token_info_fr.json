@@ -1,8 +1,8 @@
 {
   "localization": "fr",
-  "name": "Odin Protocol",
+  "name": "Protocole Odin",
   "symbol": "ODIN",
   "description": "Jeton de jalonnement et de gouvernance pour le protocole ODIN",
-  "coingeckoID": "odin-protocol",
+  "coingeckoID": "protocole odin",
   "websiteURL": "https://odinprotocol.io/"
 }

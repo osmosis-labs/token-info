@@ -1,6 +1,7 @@
 {
-  "name": "Arkhadian",
-  "symbol": "ARKH",
+  "localization": "es",
+  "name": "Arkhadiano",
+  "symbol": "arkh",
   "description": "La ficha nativa de Arkhadian",
   "websiteURL": "https://arkhadian.com/"
 }

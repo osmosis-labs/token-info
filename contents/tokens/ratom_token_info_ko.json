@@ -1,6 +1,7 @@
 {
-  "name": "rATOM",
-  "symbol": "rATOM",
+  "localization": "ko",
+  "name": "원자",
+  "symbol": "원자",
   "description": "스테이킹된 ATOM의 유동 스테이킹 표현",
   "websiteURL": "https://stafihub.io/"
 }

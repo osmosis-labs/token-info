@@ -1,7 +1,8 @@
 {
-  "name": "POSTHUMAN",
+  "localization": "pt",
+  "name": "PÓS-HUMANO",
   "symbol": "PHMN",
   "description": "O token nativo cw20 para PHMN na Juno Chain",
-  "coingeckoID": "posthuman",
+  "coingeckoID": "pós-humano",
   "websiteURL": "https://www.junonetwork.io/"
 }

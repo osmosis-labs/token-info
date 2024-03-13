@@ -1,7 +1,7 @@
 {
   "localization": "zh",
-  "name": "USD Coin",
-  "symbol": "USDC",
+  "name": "美元硬币",
+  "symbol": "美国农业部",
   "description": "USDC 是由开源项目 CENTRE 开发的完全抵押的美元稳定币，Circle 是即将推出的几个发行人中的第一个。",
-  "coingeckoID": "usd-coin"
+  "coingeckoID": "美元硬币"
 }

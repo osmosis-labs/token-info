@@ -1,7 +1,7 @@
 {
-  "localization": "pt",
-  "name": "milkTIA",
-  "symbol": "milkTIA",
+  "localization": "en",
+  "name": "leiteTIA",
+  "symbol": "leiteTIA",
   "description": "TIA com aposta líquida da MilkyWay",
   "coingeckoID": "milkyway-staked-tia",
   "websiteURL": "https://osmosis.zone/"

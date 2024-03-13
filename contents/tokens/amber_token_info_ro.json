@@ -1,6 +1,7 @@
 {
-  "name": "Amber",
-  "symbol": "AMBER",
+  "localization": "ro",
+  "name": "Chihlimbar",
+  "symbol": "CHIHLIMBAR",
   "description": "Jetonul nativ cw20 pentru Amber pe Secret Network",
   "websiteURL": "https://scrt.network/"
 }

@@ -1,5 +1,6 @@
 {
-  "name": "Bostrom Ampere",
+  "localization": "pt",
+  "name": "Bostrom Ampère",
   "symbol": "A",
   "description": "O token de recurso de Bostrom"
 }

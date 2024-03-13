@@ -1,7 +1,8 @@
 {
-  "name": "Neta",
-  "symbol": "NETA",
+  "localization": "zh",
+  "name": "内塔",
+  "symbol": "内塔",
   "description": "Juno 链上 Neta 的原生代币 CW20",
-  "coingeckoID": "neta",
+  "coingeckoID": "内塔",
   "websiteURL": "https://www.junonetwork.io/"
 }

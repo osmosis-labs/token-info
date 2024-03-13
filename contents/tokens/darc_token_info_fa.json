@@ -1,8 +1,8 @@
 {
   "localization": "en",
-  "name": "Konstellation",
+  "name": "صورت فلکی",
   "symbol": "DARC",
   "description": "نشانه اصلی شبکه Konstellation",
-  "coingeckoID": "darcmatter-coin",
+  "coingeckoID": "دارکماتر-سکه",
   "websiteURL": "https://konstellation.tech/"
 }

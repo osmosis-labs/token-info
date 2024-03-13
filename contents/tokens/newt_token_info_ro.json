@@ -1,7 +1,8 @@
 {
+  "localization": "en",
   "name": "Newt",
   "symbol": "NEWT",
   "description": "Cel mai drăguț jeton NEWT de pe lanțul de neutroni.",
-  "coingeckoID": "newt",
+  "coingeckoID": "triton",
   "websiteURL": "https://neutron.org/"
 }

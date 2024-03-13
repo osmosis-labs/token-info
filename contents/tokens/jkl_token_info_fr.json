@@ -1,7 +1,8 @@
 {
+  "localization": "fr",
   "name": "Jackal",
   "symbol": "JKL",
   "description": "Le jeton de jalonnement et de gouvernance natif de Jackal.",
-  "coingeckoID": "jackal-protocol",
+  "coingeckoID": "protocole-chacal",
   "websiteURL": "https://jackalprotocol.com"
 }

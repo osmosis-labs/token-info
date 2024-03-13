@@ -1,7 +1,7 @@
 {
-  "localization": "tr",
-  "name": "Microtick",
+  "localization": "en",
+  "name": "Mikrotik",
   "symbol": "TICK",
-  "description": "TICK coin, Microtick Price Discovery ve Oracle Uygulamasının belirtecidir",
-  "coingeckoID": "microtick"
+  "description": "TICK coin, Microtick Price Discovery ve Oracle Uygulamasının simgesidir",
+  "coingeckoID": "mikro işaret"
 }

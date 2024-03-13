@@ -1,8 +1,8 @@
 {
-  "localization": "es",
+  "localization": "en",
   "name": "StakeEasy bJUNO",
   "symbol": "BJUNO",
   "description": "Derivado de apuesta bJUNO para JUNO apostado",
-  "coingeckoID": "stakeeasy-bjuno",
+  "coingeckoID": "estacafácil-bjuno",
   "websiteURL": "https://www.junonetwork.io/"
 }

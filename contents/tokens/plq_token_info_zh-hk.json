@@ -1,8 +1,8 @@
 {
   "localization": "zh",
-  "name": "Planq",
+  "name": "普蘭克",
   "symbol": "PLQ",
   "description": "Planq 網路的原生 EVM、治理與質押代幣",
-  "coingeckoID": "planq",
+  "coingeckoID": "普蘭克",
   "websiteURL": "https://planq.network/"
 }

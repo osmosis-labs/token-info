@@ -1,7 +1,8 @@
 {
-  "name": "Hopers",
-  "symbol": "HOPERS",
+  "localization": "ro",
+  "name": "Sperante",
+  "symbol": "SPERANTE",
   "description": "Jetonul nativ cw20 pentru Hopers pe Juno Chain",
-  "coingeckoID": "hopers-io",
+  "coingeckoID": "spera-io",
   "websiteURL": "https://www.junonetwork.io/"
 }

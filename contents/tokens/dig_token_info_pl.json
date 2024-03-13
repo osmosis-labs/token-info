@@ -1,8 +1,8 @@
 {
   "localization": "pl",
-  "name": "Dig Chain",
-  "symbol": "DIG",
+  "name": "Kopać łańcuch",
+  "symbol": "KOPAĆ",
   "description": "Rodzimy znak Dig Chain",
-  "coingeckoID": "dig-chain",
+  "coingeckoID": "łańcuch kopania",
   "websiteURL": "https://digchain.org/"
 }

@@ -1,7 +1,8 @@
 {
-  "name": "Hopers",
-  "symbol": "HOPERS",
+  "localization": "en",
+  "name": "هوپرها",
+  "symbol": "هوپرز",
   "description": "توکن بومی cw20 برای Hopers در Juno Chain",
-  "coingeckoID": "hopers-io",
+  "coingeckoID": "امیدها-یو",
   "websiteURL": "https://www.junonetwork.io/"
 }

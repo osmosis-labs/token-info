@@ -1,6 +1,7 @@
 {
-  "name": "MEME",
-  "symbol": "MEME",
+  "localization": "zh",
+  "name": "模模",
+  "symbol": "模模",
   "description": "MEME 代币（MEME）是 MEME 链的原生质押代币",
-  "coingeckoID": "meme-network"
+  "coingeckoID": "模因网络"
 }

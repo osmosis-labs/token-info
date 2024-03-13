@@ -1,8 +1,8 @@
 {
   "localization": "zh",
-  "name": "Alter",
-  "symbol": "ALTER",
+  "name": "改变",
+  "symbol": "改变",
   "description": "Secret Network 上 Alter 的原生代币 cw20",
-  "coingeckoID": "alter",
+  "coingeckoID": "改变",
   "websiteURL": "https://scrt.network/"
 }

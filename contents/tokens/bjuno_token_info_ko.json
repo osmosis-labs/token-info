@@ -1,8 +1,8 @@
 {
-  "localization": "ko",
-  "name": "StakeEasy bJUNO",
-  "symbol": "BJUNO",
+  "localization": "en",
+  "name": "스테이크이지 bJUNO",
+  "symbol": "비주노",
   "description": "스테이킹된 JUNO에 대한 스테이킹 파생상품 bJUNO",
-  "coingeckoID": "stakeeasy-bjuno",
+  "coingeckoID": "스테이크이지 비주노",
   "websiteURL": "https://www.junonetwork.io/"
 }

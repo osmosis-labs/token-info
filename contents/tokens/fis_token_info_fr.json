@@ -1,8 +1,8 @@
 {
   "localization": "fr",
-  "name": "StaFi Hub",
+  "name": "Hub StaFi",
   "symbol": "FIS",
   "description": "Le jeton natif de jalonnement et de gouvernance du StaFi Hub.",
-  "coingeckoID": "stafi",
+  "coingeckoID": "personnel",
   "websiteURL": "https://stafihub.io/"
 }

@@ -1,6 +1,7 @@
 {
-  "name": "Unification",
-  "symbol": "FUND",
+  "localization": "en",
+  "name": "اتحاد",
+  "symbol": "سرمایه",
   "description": "سکه سهامداری و حاکمیت برای بلاک چین وحدت",
   "coingeckoID": "unification",
   "websiteURL": "https://unification.com/"

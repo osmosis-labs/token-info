@@ -1,9 +1,9 @@
 {
   "localization": "en",
-  "name": "Band Protocol",
-  "symbol": "BAND",
+  "name": "پروتکل باند",
+  "symbol": "باند",
   "description": "توکن بومی BandChain<inlang-LineFeed>\nپروتکل باند یک پلتفرم اوراکل داده متقابل زنجیره ای است که داده ها و APIهای دنیای واقعی را جمع آوری و به قراردادهای هوشمند متصل می کند.",
-  "coingeckoID": "band-protocol",
+  "coingeckoID": "باند پروتکل",
   "websiteURL": "https://bandprotocol.com/",
   "twitterURL": "https://twitter.com/BandProtocol"
 }

@@ -1,8 +1,8 @@
 {
   "localization": "fr",
-  "name": "Unstake Fi",
+  "name": "Dégager Fi",
   "symbol": "NSTK",
   "description": "Le jeton de revenus et de gouvernance d'Unstake.fi",
-  "coingeckoID": "unstake-fi",
+  "coingeckoID": "sans enjeu",
   "websiteURL": "https://kujira.app/"
 }

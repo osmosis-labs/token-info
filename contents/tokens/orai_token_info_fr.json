@@ -1,7 +1,8 @@
 {
+  "localization": "en",
   "name": "Oraichain",
   "symbol": "ORAI",
   "description": "Le jeton natif d'Oraichain",
-  "coingeckoID": "oraichain-token",
+  "coingeckoID": "jeton oraichain",
   "websiteURL": "https://orai.io/"
 }

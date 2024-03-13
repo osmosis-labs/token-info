@@ -1,8 +1,8 @@
 {
   "localization": "zh",
-  "name": "Imversed",
+  "name": "沉浸式",
   "symbol": "IMV",
   "description": "Imversed 的原生 EVM、治理與質押代幣",
-  "coingeckoID": "imv",
+  "coingeckoID": "IMV",
   "websiteURL": "https://imversed.network/"
 }

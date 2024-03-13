@@ -1,8 +1,9 @@
 {
-  "name": "Sei",
+  "localization": "es",
+  "name": "sei",
   "symbol": "SEI",
   "description": "La ficha de apuesta nativa de Sei.<inlang-LineFeed>\nSei es la cadena de bloques de Capa 1 más rápida, diseñada para escalar con la industria.",
-  "coingeckoID": "sei-network",
+  "coingeckoID": "red sei",
   "websiteURL": "https://www.sei.io/",
   "twitterURL": "https://twitter.com/SeiNetwork"
 }

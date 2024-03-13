@@ -1,7 +1,8 @@
 {
-  "name": "PSTAKE staked OSMO",
+  "localization": "ko",
+  "name": "PSTAKE 스테이킹된 OSMO",
   "symbol": "stkOSMO",
   "description": "PSTAKE 액체 스테이크 OSMO",
-  "coingeckoID": "pstake-staked-osmo",
+  "coingeckoID": "pstake-스테이크-osmo",
   "websiteURL": "https://persistence.one/"
 }

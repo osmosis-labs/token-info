@@ -1,5 +1,6 @@
 {
-  "name": "Bostrom Ampere",
+  "localization": "pl",
+  "name": "Bostrom Amper",
   "symbol": "A",
   "description": "Żeton zasobów Bostroma"
 }

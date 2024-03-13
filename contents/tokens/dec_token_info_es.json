@@ -1,7 +1,7 @@
 {
   "localization": "es",
-  "name": "Decentr",
-  "symbol": "DEC",
+  "name": "decentr",
+  "symbol": "DIC",
   "description": "El token nativo de Decentr",
-  "coingeckoID": "decentr"
+  "coingeckoID": "descentrar"
 }

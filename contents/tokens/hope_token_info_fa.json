@@ -1,7 +1,8 @@
 {
-  "name": "Hope Galaxy",
+  "localization": "en",
+  "name": "کهکشان امید",
   "symbol": "HOPE",
   "description": "Hope Galaxy یک مجموعه NFT است که بر اساس Token بومی خودش $HOPE، یک توکن cw20 در زنجیره Juno است.",
-  "coingeckoID": "hope-galaxy",
+  "coingeckoID": "کهکشان امید",
   "websiteURL": "https://www.junonetwork.io/"
 }

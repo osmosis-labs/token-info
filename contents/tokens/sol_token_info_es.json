@@ -1,5 +1,6 @@
 {
-  "name": "Solana",
+  "localization": "en",
+  "name": "solana",
   "symbol": "SOL",
   "description": "Solana (SOL) es el activo nativo de la cadena de bloques Solana.",
   "coingeckoID": "solana"

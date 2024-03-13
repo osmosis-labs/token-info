@@ -1,4 +1,6 @@
 {
+  "localization": "en",
   "name": "Wrapped Polkadot",
-  "symbol": "DOT.axl"
+  "symbol": "DOT.axl",
+  "description": "Wrapped Polkadot on Axelar"
 }

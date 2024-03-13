@@ -1,7 +1,7 @@
 {
-  "localization": "zh",
-  "name": "8ball",
-  "symbol": "EBL",
+  "localization": "en",
+  "name": "8球",
+  "symbol": "電子束",
   "description": "8ball 的原生質押代幣。",
   "websiteURL": "https://8ball.info/"
 }

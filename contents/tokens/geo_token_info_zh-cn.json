@@ -1,7 +1,7 @@
 {
   "localization": "zh",
   "name": "GEO",
-  "symbol": "GEO",
+  "symbol": "地球轨道",
   "description": "ODIN 协议的 GEO 代币",
   "websiteURL": "https://odinprotocol.io/"
 }

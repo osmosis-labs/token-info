@@ -1,8 +1,8 @@
 {
   "localization": "pt",
-  "name": "Unstake Fi",
-  "symbol": "NSTK",
+  "name": "Desempacotar Fi",
+  "symbol": "NSTC",
   "description": "O token de receita e governança de Unstake.fi",
-  "coingeckoID": "unstake-fi",
+  "coingeckoID": "desestacar-fi",
   "websiteURL": "https://kujira.app/"
 }

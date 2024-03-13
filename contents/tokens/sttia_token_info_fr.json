@@ -1,6 +1,7 @@
 {
-  "name": "Stride Staked TIA",
-  "symbol": "stTIA",
+  "localization": "fr",
+  "name": "TIA jalonné de foulée",
+  "symbol": "IST",
   "description": "TIA jalonné liquide de Stride",
   "websiteURL": "https://stride.zone/"
 }

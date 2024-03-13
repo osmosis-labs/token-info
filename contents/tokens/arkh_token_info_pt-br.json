@@ -1,5 +1,6 @@
 {
-  "name": "Arkhadian",
+  "localization": "pt",
+  "name": "Arkhadiano",
   "symbol": "ARKH",
   "description": "O token nativo de Arkhadian",
   "websiteURL": "https://arkhadian.com/"

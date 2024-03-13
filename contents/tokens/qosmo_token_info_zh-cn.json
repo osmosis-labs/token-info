@@ -1,6 +1,7 @@
 {
-  "name": "Quicksilver Liquid Staked OSMO",
-  "symbol": "qOSMO",
+  "localization": "zh",
+  "name": "水银液体固定式 OSMO",
+  "symbol": "准OSMO",
   "description": "水银液体固定式 OSMO",
   "websiteURL": "https://quicksilver.zone/"
 }

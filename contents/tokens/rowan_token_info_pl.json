@@ -1,7 +1,8 @@
 {
+  "localization": "en",
   "name": "Sifchain",
-  "symbol": "ROWAN",
+  "symbol": "JARZĘBINA",
   "description": "Token Rowan (ROWAN) to natywny token użytkowy sieci Sifchain, używany jako podstawowy sposób zarządzania, zapewniania płynności, zabezpieczania łańcucha bloków, motywowania uczestników i zapewniania domyślnego mechanizmu przechowywania i wymiany wartości.",
-  "coingeckoID": "sifchain",
+  "coingeckoID": "łańcuch sif",
   "websiteURL": "https://sifchain.finance/"
 }

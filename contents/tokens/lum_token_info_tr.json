@@ -1,8 +1,8 @@
 {
   "localization": "tr",
-  "name": "Lum Network",
+  "name": "Lum Ağı",
   "symbol": "LUM",
   "description": "Lum Ağının yerel tokenı",
-  "coingeckoID": "lum-network",
+  "coingeckoID": "lum ağı",
   "websiteURL": "https://lum.network/"
 }

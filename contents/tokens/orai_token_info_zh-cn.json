@@ -1,7 +1,8 @@
 {
-  "name": "Oraichain",
-  "symbol": "ORAI",
+  "localization": "en",
+  "name": "奥莱链",
+  "symbol": "欧莱",
   "description": "Oraichain 原生代币",
-  "coingeckoID": "oraichain-token",
+  "coingeckoID": "oraichain 代币",
   "websiteURL": "https://orai.io/"
 }

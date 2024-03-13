@@ -1,8 +1,8 @@
 {
-  "localization": "pl",
-  "name": "milkTIA",
-  "symbol": "milkTIA",
+  "localization": "en",
+  "name": "mlekoTIA",
+  "symbol": "mlekoTIA",
   "description": "Płyn MilkyWay postawił TIA",
-  "coingeckoID": "milkyway-staked-tia",
+  "coingeckoID": "Milkyway-Staked-tia",
   "websiteURL": "https://osmosis.zone/"
 }

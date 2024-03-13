@@ -1,7 +1,8 @@
 {
-  "name": "Hopers",
+  "localization": "fr",
+  "name": "Espoirs",
   "symbol": "HOPERS",
   "description": "Le jeton natif cw20 pour Hopers sur Juno Chain",
-  "coingeckoID": "hopers-io",
+  "coingeckoID": "espoirs-io",
   "websiteURL": "https://www.junonetwork.io/"
 }

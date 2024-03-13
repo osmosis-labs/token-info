@@ -1,7 +1,7 @@
 {
   "localization": "es",
-  "name": "Stride Staked EVMOS",
+  "name": "EVMOS con replanteo de zancada",
   "symbol": "stEVMOS",
-  "coingeckoID": "stride-staked-evmos",
+  "coingeckoID": "evmos-estacado-zancada",
   "websiteURL": "https://stride.zone/"
 }

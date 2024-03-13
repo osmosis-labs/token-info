@@ -1,7 +1,7 @@
 {
   "localization": "zh",
-  "name": "Stride Staked EVMOS",
-  "symbol": "stEVMOS",
-  "coingeckoID": "stride-staked-evmos",
+  "name": "Stride 質押式 EVMOS",
+  "symbol": "星EVMOS",
+  "coingeckoID": "跨步式 evmos",
   "websiteURL": "https://stride.zone/"
 }

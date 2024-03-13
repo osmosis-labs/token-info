@@ -1,7 +1,8 @@
 {
+  "localization": "en",
   "name": "XPLA",
   "symbol": "XPLA",
   "description": "XPLA 的原生质押代币。",
-  "coingeckoID": "xpla",
+  "coingeckoID": "XPLA",
   "websiteURL": "https://xpla.io"
 }

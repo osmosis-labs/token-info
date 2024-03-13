@@ -1,7 +1,8 @@
 {
+  "localization": "tr",
   "name": "Jackal",
   "symbol": "JKL",
   "description": "Jackal'ın yerel stake ve yönetim tokenı.",
-  "coingeckoID": "jackal-protocol",
+  "coingeckoID": "çakal protokolü",
   "websiteURL": "https://jackalprotocol.com"
 }

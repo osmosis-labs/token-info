@@ -1,5 +1,6 @@
 {
-  "name": "Rebus",
+  "localization": "tr",
+  "name": "Bulmaca",
   "symbol": "REBUS",
   "description": "REBUS, Rebus zincirinin yerli parası.",
   "coingeckoID": "rebus",

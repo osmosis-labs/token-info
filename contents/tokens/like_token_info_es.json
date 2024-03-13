@@ -1,8 +1,8 @@
 {
   "localization": "es",
   "name": "LikeCoin",
-  "symbol": "LIKE",
+  "symbol": "COMO",
   "description": "LIKE es el token nativo de participación y gobernanza de la cadena LikeCoin, una infraestructura de publicación descentralizada para potenciar la propiedad, la autenticidad y la procedencia del contenido.",
-  "coingeckoID": "likecoin",
+  "coingeckoID": "me gusta",
   "websiteURL": "https://like.co/"
 }

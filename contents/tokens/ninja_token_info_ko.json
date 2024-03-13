@@ -1,8 +1,8 @@
 {
   "localization": "ko",
-  "name": "Dog wif nunchucks",
-  "symbol": "NINJA",
+  "name": "쌍절곤을 가진 개",
+  "symbol": "닌자",
   "description": "Injective의 첫 번째 밈 코인입니다. 개인데 쌍절곤이 있네",
-  "coingeckoID": "dog-wif-nuchucks",
+  "coingeckoID": "개와 함께하는 누척",
   "websiteURL": "https://injective.com/"
 }

@@ -1,6 +1,7 @@
 {
+  "localization": "tr",
   "name": "Page",
-  "symbol": "PAGE",
+  "symbol": "SAYFA",
   "description": "PAGE tokenı, PageDAO NFT edebi ekosistemindeki eylemler ve DAO yönetimi için kullanılır.",
-  "coingeckoID": "page"
+  "coingeckoID": "sayfa"
 }

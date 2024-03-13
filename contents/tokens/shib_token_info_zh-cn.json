@@ -1,7 +1,7 @@
 {
   "localization": "zh",
-  "name": "Shiba Inu",
+  "name": "柴犬",
   "symbol": "SHIB",
   "description": "SHIBA INU 是一个 100% 去中心化的社区实验，它声称 1/2 的代币已发送给 Vitalik，另一半被锁定到 Uniswap 池中并烧毁密钥。",
-  "coingeckoID": "shiba-inu"
+  "coingeckoID": "柴犬"
 }

@@ -1,7 +1,8 @@
 {
+  "localization": "pl",
   "name": "Rizon",
-  "symbol": "ATOLO",
+  "symbol": "ATOL",
   "description": "Rodzimy znak łańcucha Rizon",
-  "coingeckoID": "rizon",
+  "coingeckoID": "Rizon",
   "websiteURL": "https://rizon.world/"
 }

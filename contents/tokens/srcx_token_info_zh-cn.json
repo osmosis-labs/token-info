@@ -1,7 +1,7 @@
 {
   "localization": "zh",
-  "name": "Source Token",
+  "name": "源代币",
   "symbol": "SRCX",
   "description": "源协议的SRCX代币。",
-  "coingeckoID": "source-protocol"
+  "coingeckoID": "源协议"
 }

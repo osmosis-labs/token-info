@@ -2,7 +2,7 @@
   "localization": "en",
   "name": "StakeEasy seJUNO",
   "symbol": "SEJUNO",
-  "description": "مشتقات seJUNO برای شرط بندی JUNO",
-  "coingeckoID": "stakeeasy-juno-derivative",
+  "description": "مشتق seJUNO برای شرط بندی JUNO",
+  "coingeckoID": "stakeeasy-juno- مشتق",
   "websiteURL": "https://www.junonetwork.io/"
 }

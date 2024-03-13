@@ -1,8 +1,8 @@
 {
   "localization": "pl",
-  "name": "Passage",
+  "name": "Przejście",
   "symbol": "PASG",
   "description": "Natywny żeton tyczenia i zarządzania w łańcuchu Przejścia.",
-  "coingeckoID": "passage",
+  "coingeckoID": "przejście",
   "websiteURL": "https://passage3d.com/"
 }

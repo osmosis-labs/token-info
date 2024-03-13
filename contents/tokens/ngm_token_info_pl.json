@@ -1,7 +1,7 @@
 {
   "localization": "pl",
-  "name": "e-Money",
+  "name": "e-Pieniądze",
   "symbol": "NGM",
-  "description": "Token stakingowy e-Money NGM. Oprócz zdobywania nagród za stakowanie, token jest odkupywany i spalany w oparciu o inflację stabilnych monet e-Money.",
-  "coingeckoID": "e-money"
+  "description": "Token stakingowy e-Money NGM. Oprócz zdobywania nagród za stakowanie, token jest odkupywany i spalany w oparciu o inflację monety stablecoin e-Money.",
+  "coingeckoID": "e-pieniądze"
 }

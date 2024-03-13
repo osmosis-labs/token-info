@@ -1,8 +1,8 @@
 {
-  "localization": "zh",
+  "localization": "en",
   "name": "CMST",
   "symbol": "CMST",
   "description": "Comdex网络上Harbor协议的稳定代币",
-  "coingeckoID": "composite",
+  "coingeckoID": "合成的",
   "websiteURL": "https://comdex.one/"
 }

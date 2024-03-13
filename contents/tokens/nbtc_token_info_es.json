@@ -1,6 +1,7 @@
 {
-  "name": "Nomic Bitcoin",
-  "symbol": "nBTC",
+  "localization": "es",
+  "name": "Bitcoin nómico",
+  "symbol": "BTC",
   "description": "Bitcoin. Sobre el cosmos.",
   "websiteURL": "https://nomic.io/"
 }

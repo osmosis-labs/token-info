@@ -1,8 +1,8 @@
 {
   "localization": "ko",
-  "name": "Dig Chain",
-  "symbol": "DIG",
+  "name": "디그 체인",
+  "symbol": "파기",
   "description": "Dig Chain의 기본 토큰",
-  "coingeckoID": "dig-chain",
+  "coingeckoID": "굴착 체인",
   "websiteURL": "https://digchain.org/"
 }

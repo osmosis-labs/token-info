@@ -1,7 +1,8 @@
 {
-  "name": "Newt",
-  "symbol": "NEWT",
+  "localization": "en",
+  "name": "Triton",
+  "symbol": "TRITON",
   "description": "Le jeton NEWT le plus mignon de la chaîne Neutron.",
-  "coingeckoID": "newt",
+  "coingeckoID": "triton",
   "websiteURL": "https://neutron.org/"
 }

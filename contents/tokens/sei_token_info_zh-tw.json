@@ -1,8 +1,9 @@
 {
-  "name": "Sei",
+  "localization": "zh",
+  "name": "清",
   "symbol": "SEI",
   "description": "Sei 的原生質押代幣。<inlang-LineFeed>\nSei 是最快的第 1 層區塊鏈，旨在與產業一起擴展。",
-  "coingeckoID": "sei-network",
+  "coingeckoID": "塞伊網絡",
   "websiteURL": "https://www.sei.io/",
   "twitterURL": "https://twitter.com/SeiNetwork"
 }

@@ -1,5 +1,6 @@
 {
-  "name": "Sikoba Token",
+  "localization": "fr",
+  "name": "Jeton Sikoba",
   "symbol": "SKOJ",
   "description": "Jeton de gouvernance Sikoba",
   "websiteURL": "https://www.junonetwork.io/"

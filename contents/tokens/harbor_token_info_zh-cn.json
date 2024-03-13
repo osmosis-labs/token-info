@@ -1,7 +1,8 @@
 {
-  "name": "Harbor",
+  "localization": "zh",
+  "name": "港口",
   "symbol": "HARBOR",
   "description": "Comdex网络上Harbor协议的治理代币",
-  "coingeckoID": "harbor-2",
+  "coingeckoID": "港口2号",
   "websiteURL": "https://comdex.one/"
 }

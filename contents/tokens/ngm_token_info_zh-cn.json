@@ -1,7 +1,7 @@
 {
   "localization": "zh",
-  "name": "e-Money",
+  "name": "电子货币",
   "symbol": "NGM",
   "description": "电子货币 NGM 质押代币。除了赚取质押奖励之外，还根据电子货币稳定币通胀回购并销毁代币。",
-  "coingeckoID": "e-money"
+  "coingeckoID": "电子货币"
 }

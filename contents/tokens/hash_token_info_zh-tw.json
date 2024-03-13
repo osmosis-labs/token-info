@@ -1,8 +1,8 @@
 {
   "localization": "zh",
-  "name": "Provenance",
-  "symbol": "HASH",
+  "name": "出處",
+  "symbol": "哈希",
   "description": "哈希是 Provenance 區塊鏈的質押代幣",
-  "coingeckoID": "provenance-blockchain",
+  "coingeckoID": "起源區塊鏈",
   "websiteURL": "https://provenance.io/"
 }

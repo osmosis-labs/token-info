@@ -1,6 +1,7 @@
 {
-  "name": "LIGHT",
-  "symbol": "LIGHT",
+  "localization": "en",
+  "name": "IŞIK",
+  "symbol": "IŞIK",
   "description": "Light: LumenX topluluğu DAO hazine tokenı",
   "websiteURL": "https://www.junonetwork.io/"
 }

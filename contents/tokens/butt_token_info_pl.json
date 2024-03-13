@@ -1,7 +1,7 @@
 {
   "localization": "pl",
-  "name": "Button",
-  "symbol": "BUTT",
+  "name": "Przycisk",
+  "symbol": "KRUPON",
   "description": "Natywny token cw20 dla Button w tajnej sieci",
   "coingeckoID": "buttcoin-2",
   "websiteURL": "https://scrt.network/"

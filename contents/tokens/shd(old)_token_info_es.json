@@ -1,7 +1,7 @@
 {
   "localization": "es",
-  "name": "Shade (old)",
-  "symbol": "SHD(old)",
+  "name": "Sombra (vieja)",
+  "symbol": "SHD (antiguo)",
   "description": "El token nativo cw20 para Shade en Secret Network",
   "websiteURL": "https://scrt.network/"
 }

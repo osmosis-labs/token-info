@@ -1,5 +1,6 @@
 {
-  "name": "Osmosis Doge",
+  "localization": "en",
+  "name": "Doge d'osmose",
   "symbol": "OSDOGE",
   "description": "Le premier doge sur osmose",
   "websiteURL": "https://www.junonetwork.io/"

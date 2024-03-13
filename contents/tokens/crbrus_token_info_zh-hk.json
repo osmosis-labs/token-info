@@ -1,7 +1,8 @@
 {
-  "name": "Cerberus",
+  "localization": "zh",
+  "name": "塞伯魯斯",
   "symbol": "CRBRUS",
   "description": "Cerberus Chain的原生代幣",
-  "coingeckoID": "cerberus-2",
+  "coingeckoID": "塞伯魯斯-2",
   "websiteURL": "https://cerberus.zone/"
 }

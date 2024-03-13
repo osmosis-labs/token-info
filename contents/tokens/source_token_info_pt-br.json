@@ -1,7 +1,7 @@
 {
-  "localization": "pt",
-  "name": "Source",
-  "symbol": "SOURCE",
+  "localization": "en",
+  "name": "Fonte",
+  "symbol": "FONTE",
   "description": "O token nativo da cadeia SOURCE",
   "coingeckoID": "source",
   "websiteURL": "https://www.sourceprotocol.io/"

@@ -1,9 +1,9 @@
 {
-  "localization": "pt",
-  "name": "Band Protocol",
-  "symbol": "BAND",
+  "localization": "en",
+  "name": "Protocolo de Banda",
+  "symbol": "BANDA",
   "description": "O token nativo do BandChain<inlang-LineFeed>\nBand Protocol é uma plataforma oracle de dados cross-chain que agrega e conecta dados e APIs do mundo real a contratos inteligentes.",
-  "coingeckoID": "band-protocol",
+  "coingeckoID": "protocolo de banda",
   "websiteURL": "https://bandprotocol.com/",
   "twitterURL": "https://twitter.com/BandProtocol"
 }

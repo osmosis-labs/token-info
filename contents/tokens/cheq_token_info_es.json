@@ -1,8 +1,8 @@
 {
   "localization": "es",
   "name": "Cheqd",
-  "symbol": "CHEQ",
+  "symbol": "COMPROBAR",
   "description": "Token nativo para la red cheqd",
-  "coingeckoID": "cheqd-network",
+  "coingeckoID": "red-cheqd",
   "websiteURL": "https://www.cheqd.io/"
 }

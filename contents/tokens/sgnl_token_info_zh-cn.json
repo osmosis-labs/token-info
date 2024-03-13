@@ -1,6 +1,7 @@
 {
-  "name": "Signal",
-  "symbol": "SGNL",
+  "localization": "zh",
+  "name": "信号",
+  "symbol": "新加坡国家实验室",
   "description": "朱诺号上的信号艺术和游戏",
   "websiteURL": "https://www.junonetwork.io/"
 }

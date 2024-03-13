@@ -1,8 +1,8 @@
 {
   "localization": "tr",
-  "name": "Haqq Network",
-  "symbol": "ISLM",
+  "name": "Hak Ağı",
+  "symbol": "İSLAM",
   "description": "Haqq Ağının yerel EVM'si, yönetişimi ve stake tokenı",
-  "coingeckoID": "islamic-coin",
+  "coingeckoID": "İslami madeni para",
   "websiteURL": "https://haqq.network/"
 }

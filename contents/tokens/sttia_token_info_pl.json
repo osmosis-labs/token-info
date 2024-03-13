@@ -1,6 +1,7 @@
 {
+  "localization": "pl",
   "name": "Stride Staked TIA",
-  "symbol": "stTIA",
+  "symbol": "STIA",
   "description": "Płyn Stride'a postawił TIA",
   "websiteURL": "https://stride.zone/"
 }

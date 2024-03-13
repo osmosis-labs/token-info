@@ -1,8 +1,8 @@
 {
   "localization": "es",
-  "name": "Shade",
-  "symbol": "SHD",
+  "name": "Sombra",
+  "symbol": "DHS",
   "description": "El token nativo cw20 para Shade en Secret Network",
-  "coingeckoID": "shade-protocol",
+  "coingeckoID": "protocolo de sombra",
   "websiteURL": "https://scrt.network/"
 }

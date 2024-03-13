@@ -1,7 +1,7 @@
 {
   "localization": "tr",
-  "name": "Chainlink",
-  "symbol": "LINK",
+  "name": "Zincir bağlantı",
+  "symbol": "BAĞLANTI",
   "description": "Kripto para birimi akıllı sözleşmeleri, veri akışları, API'ler ve geleneksel banka hesabı ödemeleri arasında köprü görevi gören, blockchain tabanlı bir ara katman yazılımı.",
-  "coingeckoID": "chainlink"
+  "coingeckoID": "zincir bağlantı"
 }

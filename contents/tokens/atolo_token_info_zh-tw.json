@@ -1,7 +1,8 @@
 {
-  "name": "Rizon",
-  "symbol": "ATOLO",
+  "localization": "zh",
+  "name": "里松",
+  "symbol": "阿托羅",
   "description": "Rizon Chain 的原生代幣",
-  "coingeckoID": "rizon",
+  "coingeckoID": "里松",
   "websiteURL": "https://rizon.world/"
 }

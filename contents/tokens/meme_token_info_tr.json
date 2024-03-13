@@ -1,6 +1,7 @@
 {
+  "localization": "tr",
   "name": "MEME",
   "symbol": "MEME",
   "description": "MEME Token (MEME), MEME Zincirinin yerel staking tokenidir",
-  "coingeckoID": "meme-network"
+  "coingeckoID": "meme ağı"
 }

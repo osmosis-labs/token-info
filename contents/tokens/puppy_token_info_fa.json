@@ -1,5 +1,7 @@
 {
-  "name": "Puppy",
-  "symbol": "PUPPY",
+  "localization": "en",
+  "name": "توله سگ",
+  "symbol": "توله سگ",
+  "description": "توله سگ",
   "websiteURL": "https://chihuahua.wtf/"
 }

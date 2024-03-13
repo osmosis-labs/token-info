@@ -1,7 +1,7 @@
 {
-  "localization": "tr",
-  "name": "Source",
-  "symbol": "SOURCE",
+  "localization": "en",
+  "name": "Kaynak",
+  "symbol": "KAYNAK",
   "description": "SOURCE Chain'in yerel tokenı",
   "coingeckoID": "source",
   "websiteURL": "https://www.sourceprotocol.io/"

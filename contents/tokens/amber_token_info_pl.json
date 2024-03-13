@@ -1,6 +1,7 @@
 {
-  "name": "Amber",
-  "symbol": "AMBER",
+  "localization": "pl",
+  "name": "Bursztyn",
+  "symbol": "BURSZTYN",
   "description": "Natywny token cw20 dla Amber w Secret Network",
   "websiteURL": "https://scrt.network/"
 }

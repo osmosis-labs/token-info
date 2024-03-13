@@ -1,9 +1,9 @@
 {
-  "localization": "es",
-  "name": "AssetMantle",
+  "localization": "en",
+  "name": "Manto de activos",
   "symbol": "MNTL",
   "description": "El token nativo de Asset Mantle<inlang-LineFeed>\nEl conjunto de productos de AssetMantle se centra en el ecosistema NFT y le ayuda a mejorar su juego con la propiedad de activos digitales.",
-  "coingeckoID": "assetmantle",
+  "coingeckoID": "manto de activos",
   "websiteURL": "https://assetmantle.one/",
   "twitterURL": "https://twitter.com/AssetMantle"
 }

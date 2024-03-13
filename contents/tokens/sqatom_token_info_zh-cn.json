@@ -1,7 +1,7 @@
 {
-  "localization": "zh",
-  "name": "ATOM Squared",
-  "symbol": "sqATOM",
+  "localization": "en",
+  "name": "原子平方",
+  "symbol": "方原子",
   "description": "保证金电力代币 sqATOM",
   "websiteURL": "https://osmosis.zone/"
 }

@@ -1,5 +1,6 @@
 {
-  "name": "LumenX",
+  "localization": "pt",
+  "name": "LúmenX",
   "symbol": "LUMEN",
   "description": "O token nativo da Rede LumenX"
 }

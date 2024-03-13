@@ -1,6 +1,7 @@
 {
+  "localization": "en",
   "name": "IRISnet",
-  "symbol": "IRIS",
+  "symbol": "عنبیه",
   "description": "توکن IRIS نشانه حاکمیت بومی برای زنجیره IrisNet است.",
-  "coingeckoID": "iris-network"
+  "coingeckoID": "شبکه عنبیه"
 }

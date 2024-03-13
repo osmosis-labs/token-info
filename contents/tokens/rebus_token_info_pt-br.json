@@ -1,5 +1,6 @@
 {
-  "name": "Rebus",
+  "localization": "pt",
+  "name": "Rébus",
   "symbol": "REBUS",
   "description": "REBUS, a moeda nativa da rede Rebus.",
   "coingeckoID": "rebus",

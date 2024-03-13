@@ -1,5 +1,6 @@
 {
-  "name": "Bostrom Ampere",
+  "localization": "es",
+  "name": "Amperio de Bostrom",
   "symbol": "A",
   "description": "La ficha de recursos de Bostrom"
 }

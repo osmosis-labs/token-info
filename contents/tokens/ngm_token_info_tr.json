@@ -1,7 +1,7 @@
 {
   "localization": "tr",
-  "name": "e-Money",
+  "name": "e-Para",
   "symbol": "NGM",
   "description": "e-Money NGM stake jetonu. Staking ödülleri kazanmanın yanı sıra, e-Para stabilcoin enflasyonuna göre token geri satın alınır ve yakılır.",
-  "coingeckoID": "e-money"
+  "coingeckoID": "e-para"
 }

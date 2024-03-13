@@ -1,7 +1,8 @@
 {
-  "name": "Comdex",
+  "localization": "ko",
+  "name": "컴덱스",
   "symbol": "CMDX",
   "description": "Comdex 프로토콜의 기본 토큰",
-  "coingeckoID": "comdex",
+  "coingeckoID": "컴덱스",
   "websiteURL": "https://comdex.one/"
 }

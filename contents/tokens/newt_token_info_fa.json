@@ -1,7 +1,8 @@
 {
-  "name": "Newt",
+  "localization": "en",
+  "name": "نیوت",
   "symbol": "NEWT",
-  "description": "زیباترین توکن NEWT در زنجیره نوترون.",
-  "coingeckoID": "newt",
+  "description": "زیباترین توکن NEWT در زنجیره نوترونی.",
+  "coingeckoID": "نیوتن",
   "websiteURL": "https://neutron.org/"
 }

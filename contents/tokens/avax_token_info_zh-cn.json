@@ -1,6 +1,7 @@
 {
-  "name": "Avalanche",
-  "symbol": "AVAX",
+  "localization": "zh",
+  "name": "雪崩",
+  "symbol": "阿瓦克斯",
   "description": "AVAX 是 Avalanche 的原生代币。它是一种硬上限的稀缺资产，用于支付费用、通过质押保护平台并在 Avalanche 上创建的多个子网之间提供基本账户单位。",
   "coingeckoID": "avalanche-2"
 }

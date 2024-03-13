@@ -1,5 +1,6 @@
 {
-  "name": "LumenX",
+  "localization": "ko",
+  "name": "루멘X",
   "symbol": "LUMEN",
   "description": "LumenX 네트워크의 기본 토큰"
 }

@@ -1,7 +1,8 @@
 {
-  "name": "PSTAKE staked OSMO",
-  "symbol": "stkOSMO",
+  "localization": "zh",
+  "name": "PSTAKE質押OSMO",
+  "symbol": "斯托克OSMO",
   "description": "PSTAKE 液體固定式 OSMO",
-  "coingeckoID": "pstake-staked-osmo",
+  "coingeckoID": "質押-質押-滲透",
   "websiteURL": "https://persistence.one/"
 }

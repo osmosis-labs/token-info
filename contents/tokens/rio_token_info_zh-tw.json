@@ -1,7 +1,8 @@
 {
-  "name": "Realio Network",
-  "symbol": "RIO",
+  "localization": "en",
+  "name": "真實網路",
+  "symbol": "裡歐",
   "description": "Realio 網路的原生貨幣。",
-  "coingeckoID": "realio-network",
+  "coingeckoID": "現實網路",
   "websiteURL": "https://realio.network/"
 }

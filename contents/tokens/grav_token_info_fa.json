@@ -1,9 +1,9 @@
 {
   "localization": "en",
-  "name": "Gravity Bridge",
+  "name": "پل جاذبه",
   "symbol": "GRAV",
   "description": "نماد بومی پل جاذبه<inlang-LineFeed>\nیک پل باز و غیرمتمرکز که قدرت تعامل و نقدینگی را بین اکوسیستم‌های بلاک چین باز می‌کند.",
-  "coingeckoID": "graviton",
+  "coingeckoID": "گراویتون",
   "websiteURL": "https://www.gravitybridge.net/",
   "twitterURL": "https://twitter.com/gravity_bridge"
 }

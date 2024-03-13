@@ -1,6 +1,7 @@
 {
-  "name": "rATOM",
-  "symbol": "rATOM",
+  "localization": "pl",
+  "name": "ratom",
+  "symbol": "ratom",
   "description": "Płynna reprezentacja stakowania postawionych ATOMów",
   "websiteURL": "https://stafihub.io/"
 }

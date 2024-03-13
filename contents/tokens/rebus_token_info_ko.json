@@ -1,6 +1,7 @@
 {
-  "name": "Rebus",
-  "symbol": "REBUS",
+  "localization": "ko",
+  "name": "수수께끼",
+  "symbol": "수수께끼",
   "description": "REBUS는 Rebus 체인의 기본 코인입니다.",
   "coingeckoID": "rebus",
   "websiteURL": "https://www.rebuschain.com/"

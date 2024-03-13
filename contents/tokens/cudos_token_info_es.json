@@ -1,8 +1,8 @@
 {
   "localization": "es",
-  "name": "Cudos",
+  "name": "felicitaciones",
   "symbol": "CUDOS",
   "description": "El token nativo de la blockchain Cudos",
-  "coingeckoID": "cudos",
+  "coingeckoID": "felicitaciones",
   "websiteURL": "https://www.cudos.org/"
 }

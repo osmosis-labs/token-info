@@ -1,5 +1,6 @@
 {
-  "name": "Wrapped Bitcoin",
+  "localization": "en",
+  "name": "بیت کوین پیچیده شده",
   "symbol": "WBTC",
   "websiteURL": "https://osmosis.zone/"
 }

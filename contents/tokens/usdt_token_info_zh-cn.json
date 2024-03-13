@@ -1,7 +1,7 @@
 {
   "localization": "zh",
   "name": "Tether USD",
-  "symbol": "USDT",
+  "symbol": "泰达币",
   "description": "Tether 通过将您的现金转换为稳定的数字货币等价物，为您提供开放区块链技术和传统货币的共同优势。",
-  "coingeckoID": "tether"
+  "coingeckoID": "系绳"
 }

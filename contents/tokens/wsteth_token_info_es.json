@@ -1,7 +1,7 @@
 {
   "localization": "es",
-  "name": "Wrapped Lido Staked Ether",
+  "name": "Lido envuelto con éter apostado",
   "symbol": "wstETH",
   "description": "wstETH es una versión empaquetada de stETH. Como algunos protocolos DeFi requieren un mecanismo de equilibrio constante para los tokens, wstETH mantiene fijo su saldo de stETH y utiliza un sistema de acciones subyacente para reflejar las recompensas de apuesta obtenidas.",
-  "coingeckoID": "wrapped-steth"
+  "coingeckoID": "esteth envuelto"
 }

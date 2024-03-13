@@ -1,8 +1,8 @@
 {
   "localization": "en",
-  "name": "Marble",
-  "symbol": "MARBLE",
+  "name": "سنگ مرمر",
+  "symbol": "سنگ مرمر",
   "description": "توکن بومی cw20 برای Marble DAO در Juno Chain",
-  "coingeckoID": "marble",
+  "coingeckoID": "سنگ مرمر",
   "websiteURL": "https://www.junonetwork.io/"
 }

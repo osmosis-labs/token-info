@@ -1,7 +1,8 @@
 {
-  "name": "Acrechain",
+  "localization": "pt",
+  "name": "Cadeia Acre",
   "symbol": "ACRE",
   "description": "O EVM nativo, token de governança e staking da Acrechain",
-  "coingeckoID": "arable-protocol",
+  "coingeckoID": "protocolo arável",
   "websiteURL": "https://arable.finance/"
 }

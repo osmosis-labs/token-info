@@ -1,8 +1,8 @@
 {
   "localization": "ko",
-  "name": "Coreum",
-  "symbol": "COREUM",
+  "name": "코리움",
+  "symbol": "코리움",
   "description": "코리움의 기본 토큰",
-  "coingeckoID": "coreum",
+  "coingeckoID": "코어엄",
   "websiteURL": "https://www.coreum.com"
 }

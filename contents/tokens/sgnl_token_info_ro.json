@@ -1,5 +1,6 @@
 {
-  "name": "Signal",
+  "localization": "ro",
+  "name": "Semnal",
   "symbol": "SGNL",
   "description": "Signal Art și jocuri pe Juno",
   "websiteURL": "https://www.junonetwork.io/"

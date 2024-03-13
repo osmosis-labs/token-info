@@ -1,7 +1,7 @@
 {
   "localization": "tr",
   "name": "GEO",
-  "symbol": "GEO",
+  "symbol": "coğrafi konum",
   "description": "ODIN Protokolü için GEO jetonu",
   "websiteURL": "https://odinprotocol.io/"
 }

@@ -1,7 +1,7 @@
 {
   "localization": "zh",
-  "name": "Quicksilver",
-  "symbol": "QCK",
+  "name": "水银",
+  "symbol": "质量控制中心",
   "description": "QCK - Quicksilver 的原生代币<inlang-LineFeed><inlang-LineFeed>使用您首选的验证器对您的 Cosmos 资产进行质押，并接收可用于交换、池化、借贷等的流动性质押资产 (qASSET)，同时您的原始质押通过保护网络来赚取质押 APY。",
   "coingeckoID": "quicksilver",
   "websiteURL": "https://quicksilver.zone/",

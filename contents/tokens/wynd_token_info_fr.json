@@ -1,8 +1,8 @@
 {
-  "localization": "fr",
-  "name": "Wynd DAO Governance Token",
-  "symbol": "WYND",
+  "localization": "en",
+  "name": "Jeton de gouvernance Wynd DAO",
+  "symbol": "POURQUOI",
   "description": "Jeton de gouvernance WYND DAO",
-  "coingeckoID": "wynd",
+  "coingeckoID": "Wynd",
   "websiteURL": "https://www.junonetwork.io/"
 }

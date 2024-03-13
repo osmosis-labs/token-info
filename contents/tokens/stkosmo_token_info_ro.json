@@ -1,7 +1,8 @@
 {
-  "name": "PSTAKE staked OSMO",
+  "localization": "ro",
+  "name": "PSTAKE miza OSMO",
   "symbol": "stkOSMO",
   "description": "PSTAKE Liquid-Staked OSMO",
-  "coingeckoID": "pstake-staked-osmo",
+  "coingeckoID": "pstake-stake-osmo",
   "websiteURL": "https://persistence.one/"
 }

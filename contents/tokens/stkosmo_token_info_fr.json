@@ -1,5 +1,6 @@
 {
-  "name": "PSTAKE staked OSMO",
+  "localization": "fr",
+  "name": "PSTAKE jalonné OSMO",
   "symbol": "stkOSMO",
   "description": "OSMO à jalonnement liquide PSTAKE",
   "coingeckoID": "pstake-staked-osmo",

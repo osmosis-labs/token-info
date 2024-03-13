@@ -1,8 +1,8 @@
 {
   "localization": "fr",
-  "name": "Marble",
-  "symbol": "MARBLE",
+  "name": "Marbre",
+  "symbol": "MARBRE",
   "description": "Le jeton natif cw20 pour Marble DAO sur Juno Chain",
-  "coingeckoID": "marble",
+  "coingeckoID": "marbre",
   "websiteURL": "https://www.junonetwork.io/"
 }

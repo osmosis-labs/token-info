@@ -1,6 +1,7 @@
 {
-  "name": "TIA Squared",
-  "symbol": "sqTIA",
+  "localization": "zh",
+  "name": "TIA 平方",
+  "symbol": "方形TIA",
   "description": "保證金電力代幣 sqTIA",
   "websiteURL": "https://osmosis.zone/"
 }

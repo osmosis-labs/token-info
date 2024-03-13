@@ -1,6 +1,7 @@
 {
-  "name": "Osmosis Doge",
+  "localization": "en",
+  "name": "Osmoz Doge",
   "symbol": "OSDOGE",
-  "description": "Osmozdaki İlk Doge",
+  "description": "Ozmos Konusunda İlk Doge",
   "websiteURL": "https://www.junonetwork.io/"
 }

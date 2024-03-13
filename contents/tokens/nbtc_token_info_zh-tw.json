@@ -1,6 +1,7 @@
 {
-  "name": "Nomic Bitcoin",
-  "symbol": "nBTC",
+  "localization": "zh",
+  "name": "諾米克比特幣",
+  "symbol": "比特幣",
   "description": "比特幣。關於宇宙。",
   "websiteURL": "https://nomic.io/"
 }

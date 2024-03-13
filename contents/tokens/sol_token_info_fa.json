@@ -1,6 +1,7 @@
 {
-  "name": "Solana",
+  "localization": "en",
+  "name": "سولانا",
   "symbol": "SOL",
   "description": "سولانا (SOL) دارایی اصلی بلاک چین سولانا است.",
-  "coingeckoID": "solana"
+  "coingeckoID": "سولانا"
 }

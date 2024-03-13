@@ -1,7 +1,7 @@
 {
   "localization": "zh",
-  "name": "Wrapped Lido Staked Ether",
-  "symbol": "wstETH",
+  "name": "包裹的 Lido 質押以太幣",
+  "symbol": "西斯特以太坊",
   "description": "wstETH 是 stETH 的包裝版本。由於一些 DeFi 協議需要代幣的恆定平衡機制，wstETH 可讓您的 stETH 餘額保持固定，並使用底層份額系統來反映您賺取的質押獎勵。",
-  "coingeckoID": "wrapped-steth"
+  "coingeckoID": "包裹式"
 }

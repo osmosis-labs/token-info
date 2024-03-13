@@ -1,7 +1,7 @@
 {
   "localization": "en",
-  "name": "Rocket Pool Ether",
+  "name": "راکت استخر اتر",
   "symbol": "rETH",
   "description": "Rocket Pool یک استخر غیرمتمرکز اثبات سهام اتریوم است.",
-  "coingeckoID": "rocket-pool-eth"
+  "coingeckoID": "موشک-استخر-eth"
 }

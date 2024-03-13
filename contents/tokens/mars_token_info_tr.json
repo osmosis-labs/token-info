@@ -1,8 +1,9 @@
 {
-  "name": "Mars Hub",
+  "localization": "tr",
+  "name": "Mars Merkezi",
   "symbol": "MARS",
   "description": "Mars protokol jetonu<inlang-LineFeed>\nCosmos evreninde özerk bir kredi protokolüyle borç verin, ödünç alın ve kazanın. Herkese açık, hiç kimseye kapalı.",
-  "coingeckoID": "mars-protocol-a7fcbcfb-fd61-4017-92f0-7ee9f9cc6da3",
+  "coingeckoID": "mars-protokol-a7fcbcfb-fd61-4017-92f0-7ee9f9cc6da3",
   "websiteURL": "https://www.marsprotocol.io/",
   "twitterURL": "https://twitter.com/mars_protocol"
 }

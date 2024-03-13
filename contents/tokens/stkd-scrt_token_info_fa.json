@@ -1,6 +1,6 @@
 {
   "localization": "en",
-  "name": "SCRT Staking Derivatives",
+  "name": "SCRT Staking مشتقات",
   "symbol": "stkd-SCRT",
   "description": "توکن بومی cw20 برای SCRT Staking مشتقات در شبکه مخفی",
   "coingeckoID": "stkd-scrt",

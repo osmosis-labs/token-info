@@ -1,6 +1,6 @@
 {
   "localization": "pt",
-  "name": "Kava USDX",
+  "name": "KavaUSDX",
   "symbol": "USDX",
   "description": "A stablecoin nativa de Kava",
   "coingeckoID": "usdx",

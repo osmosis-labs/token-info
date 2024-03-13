@@ -1,8 +1,8 @@
 {
-  "localization": "pt",
-  "name": "Nature Carbon Ton",
+  "localization": "en",
+  "name": "Tonelada de carbono natural",
   "symbol": "NCT",
   "description": "Nature Carbon Ton (NCT) é um padrão de token de carbono respaldado 1:1 por créditos de carbono emitidos pela Verra, líder global no mercado voluntário de carbono. Os créditos NCT na Regen Network foram tokenizados por Toucan.earth.",
-  "coingeckoID": "toucan-protocol-nature-carbon-tonne",
+  "coingeckoID": "tucano-protocolo-natureza-tonelada de carbono",
   "websiteURL": "https://www.regen.network/"
 }

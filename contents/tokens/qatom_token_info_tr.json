@@ -1,6 +1,7 @@
 {
-  "name": "Quicksilver Liquid Staked ATOM",
-  "symbol": "qATOM",
+  "localization": "tr",
+  "name": "Quicksilver Sıvı Stacked ATOM",
+  "symbol": "QATOM",
   "description": "Quicksilver Sıvı Stacked ATOM",
   "websiteURL": "https://quicksilver.zone/"
 }

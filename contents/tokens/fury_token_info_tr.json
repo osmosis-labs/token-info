@@ -1,8 +1,8 @@
 {
   "localization": "tr",
-  "name": "Fanfury",
+  "name": "Hayranlık",
   "symbol": "FURY",
   "description": "Juno Chain'de Fanfury için yerel token cw20",
-  "coingeckoID": "fanfury",
+  "coingeckoID": "tantana",
   "websiteURL": "https://www.junonetwork.io/"
 }

@@ -1,5 +1,6 @@
 {
-  "name": "Void",
+  "localization": "fr",
+  "name": "Vide",
   "symbol": "VOID",
   "description": "Vide",
   "websiteURL": "https://www.junonetwork.io/"

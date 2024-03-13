@@ -1,5 +1,6 @@
 {
-  "name": "Onomy",
+  "localization": "en",
+  "name": "اونومی",
   "symbol": "NOM",
   "description": "توکن بومی پروتکل Onomy",
   "coingeckoID": "onomy-protocol",

@@ -1,6 +1,7 @@
 {
-  "name": "Neokingdom DAO",
-  "symbol": "NEOK",
+  "localization": "pt",
+  "name": "Neo-reino DAO",
+  "symbol": "NEOCO",
   "description": "O token do Neokingdom DAO.",
   "websiteURL": "https://evmos.org/"
 }

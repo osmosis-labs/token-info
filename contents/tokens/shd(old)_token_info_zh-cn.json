@@ -1,7 +1,7 @@
 {
   "localization": "zh",
-  "name": "Shade (old)",
-  "symbol": "SHD(old)",
+  "name": "灯罩（旧）",
+  "symbol": "SHD（旧）",
   "description": "Shade on Secret Network 的原生代币 cw20",
   "websiteURL": "https://scrt.network/"
 }

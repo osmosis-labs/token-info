@@ -1,8 +1,8 @@
 {
   "localization": "en",
-  "name": "Membrane",
+  "name": "غشاء",
   "symbol": "MBRN",
   "description": "توکن پروتکل غشایی",
-  "coingeckoID": "membrane",
+  "coingeckoID": "غشاء",
   "websiteURL": "https://osmosis.zone/"
 }

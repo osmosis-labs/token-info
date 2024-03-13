@@ -1,6 +1,7 @@
 {
-  "name": "MEME",
-  "symbol": "MEME",
+  "localization": "pl",
+  "name": "JA JA",
+  "symbol": "JA JA",
   "description": "Token MEME (MEME) jest natywnym tokenem stakingowym łańcucha MEME",
-  "coingeckoID": "meme-network"
+  "coingeckoID": "sieć memów"
 }

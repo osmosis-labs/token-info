@@ -1,7 +1,7 @@
 {
   "localization": "ko",
-  "name": "TerraClassicKRW",
+  "name": "테라클래식KRW",
   "symbol": "KRTC",
   "description": "Terra Classic의 원화 스테이블코인입니다.",
-  "coingeckoID": "terrakrw"
+  "coingeckoID": "테라크루"
 }

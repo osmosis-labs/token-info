@@ -1,8 +1,8 @@
 {
   "localization": "en",
-  "name": "Cheqd",
-  "symbol": "CHEQ",
+  "name": "چکد",
+  "symbol": "چک",
   "description": "رمز بومی برای شبکه چک شده",
-  "coingeckoID": "cheqd-network",
+  "coingeckoID": "شبکه چک",
   "websiteURL": "https://www.cheqd.io/"
 }

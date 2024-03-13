@@ -1,8 +1,8 @@
 {
   "localization": "en",
-  "name": "Kava Hard",
-  "symbol": "HARD",
-  "description": "نشانه حاکمیت پروتکل Kava Lend",
-  "coingeckoID": "kava-lend",
+  "name": "کاوا هارد",
+  "symbol": "سخت",
+  "description": "نشانه حاکمیت پروتکل وام کاوا",
+  "coingeckoID": "کاوا-قرض دادن",
   "websiteURL": "https://www.kava.io/"
 }

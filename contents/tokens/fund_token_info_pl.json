@@ -1,6 +1,7 @@
 {
-  "name": "Unification",
-  "symbol": "FUND",
+  "localization": "pl",
+  "name": "Zjednoczenie",
+  "symbol": "FUNDUSZ",
   "description": "Moneta stakowania i zarządzania dla Blockchain Unifikacji",
   "coingeckoID": "unification",
   "websiteURL": "https://unification.com/"

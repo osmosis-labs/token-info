@@ -1,7 +1,7 @@
 {
   "localization": "zh",
   "name": "TerraClassicKRW",
-  "symbol": "KRTC",
+  "symbol": "韩国RTC",
   "description": "Terra Classic 的韩元稳定币。",
-  "coingeckoID": "terrakrw"
+  "coingeckoID": "特拉克鲁"
 }

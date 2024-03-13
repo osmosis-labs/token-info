@@ -1,8 +1,8 @@
 {
   "localization": "zh",
-  "name": "Haqq Network",
-  "symbol": "ISLM",
+  "name": "哈克網絡",
+  "symbol": "伊斯蘭解放運動",
   "description": "Haqq 網路的原生 EVM、治理與質押代幣",
-  "coingeckoID": "islamic-coin",
+  "coingeckoID": "伊斯蘭硬幣",
   "websiteURL": "https://haqq.network/"
 }

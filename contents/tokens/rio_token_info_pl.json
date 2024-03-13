@@ -1,7 +1,8 @@
 {
-  "name": "Realio Network",
+  "localization": "en",
+  "name": "Sieć Realio",
   "symbol": "RIO",
   "description": "Natywna waluta sieci Realio.",
-  "coingeckoID": "realio-network",
+  "coingeckoID": "sieć realio",
   "websiteURL": "https://realio.network/"
 }

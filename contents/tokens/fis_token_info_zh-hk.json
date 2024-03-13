@@ -1,8 +1,8 @@
 {
   "localization": "zh",
-  "name": "StaFi Hub",
+  "name": "斯塔菲中心",
   "symbol": "FIS",
   "description": "StaFi Hub 的原生質押和治理代幣。",
-  "coingeckoID": "stafi",
+  "coingeckoID": "史塔菲",
   "websiteURL": "https://stafihub.io/"
 }

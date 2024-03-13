@@ -1,8 +1,8 @@
 {
-  "localization": "ro",
+  "localization": "en",
   "name": "Vidulum",
   "symbol": "VDL",
   "description": "Jetonul nativ din Vidulum",
-  "coingeckoID": "vidulum",
+  "coingeckoID": "vidul",
   "websiteURL": "https://vidulum.app/"
 }

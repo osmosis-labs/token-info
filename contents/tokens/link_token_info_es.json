@@ -1,7 +1,7 @@
 {
   "localization": "es",
-  "name": "Chainlink",
-  "symbol": "LINK",
+  "name": "Eslabón de la cadena",
+  "symbol": "ENLACE",
   "description": "Un middleware basado en blockchain, que actúa como puente entre los contratos inteligentes de criptomonedas, las fuentes de datos, las API y los pagos de cuentas bancarias tradicionales.",
-  "coingeckoID": "chainlink"
+  "coingeckoID": "eslabón de la cadena"
 }

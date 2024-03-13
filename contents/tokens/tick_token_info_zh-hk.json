@@ -1,7 +1,7 @@
 {
-  "localization": "zh",
-  "name": "Microtick",
+  "localization": "en",
+  "name": "微滴答",
   "symbol": "TICK",
   "description": "TICK 幣是 Microtick 價格發現和 Oracle 應用程式的代幣",
-  "coingeckoID": "microtick"
+  "coingeckoID": "微滴答聲"
 }

@@ -1,5 +1,6 @@
 {
-  "name": "Pepe",
+  "localization": "fr",
+  "name": "Pépé",
   "symbol": "PEPE",
   "coingeckoID": "pepe"
 }

@@ -1,6 +1,6 @@
 {
-  "localization": "ko",
-  "name": "MuseDAO",
+  "localization": "en",
+  "name": "뮤즈다오",
   "symbol": "MUSE",
   "description": "Juno Chain의 MuseDAO용 기본 토큰 cw20",
   "websiteURL": "https://www.junonetwork.io/"

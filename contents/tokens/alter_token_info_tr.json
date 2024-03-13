@@ -1,8 +1,8 @@
 {
   "localization": "tr",
-  "name": "Alter",
-  "symbol": "ALTER",
+  "name": "Değiştir",
+  "symbol": "DEĞİŞTİR",
   "description": "Gizli Ağda Alter için yerel token cw20",
-  "coingeckoID": "alter",
+  "coingeckoID": "değiştirmek",
   "websiteURL": "https://scrt.network/"
 }

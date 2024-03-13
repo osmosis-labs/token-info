@@ -1,7 +1,8 @@
 {
-  "name": "Hopers",
-  "symbol": "HOPERS",
+  "localization": "zh",
+  "name": "霍普斯",
+  "symbol": "霍珀斯",
   "description": "Juno Chain 上 Hopers 的原生代币 cw20",
-  "coingeckoID": "hopers-io",
+  "coingeckoID": "希望者-io",
   "websiteURL": "https://www.junonetwork.io/"
 }

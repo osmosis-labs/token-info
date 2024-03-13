@@ -1,5 +1,6 @@
 {
-  "name": "TIA Squared",
+  "localization": "ko",
+  "name": "TIA 제곱",
   "symbol": "sqTIA",
   "description": "마진 파워 토큰 sqTIA",
   "websiteURL": "https://osmosis.zone/"

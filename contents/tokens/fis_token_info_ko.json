@@ -1,8 +1,8 @@
 {
   "localization": "ko",
-  "name": "StaFi Hub",
+  "name": "StaFi 허브",
   "symbol": "FIS",
   "description": "StaFi Hub의 기본 스테이킹 및 거버넌스 토큰입니다.",
-  "coingeckoID": "stafi",
+  "coingeckoID": "스타피",
   "websiteURL": "https://stafihub.io/"
 }

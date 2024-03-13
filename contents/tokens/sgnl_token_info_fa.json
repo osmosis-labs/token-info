@@ -1,5 +1,6 @@
 {
-  "name": "Signal",
+  "localization": "en",
+  "name": "علامت",
   "symbol": "SGNL",
   "description": "هنر سیگنال و بازی در جونو",
   "websiteURL": "https://www.junonetwork.io/"

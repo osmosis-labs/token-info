@@ -1,9 +1,9 @@
 {
   "localization": "zh",
-  "name": "Celestia",
+  "name": "塞拉斯蒂婭",
   "symbol": "TIA",
   "description": "<inlang-LineFeed><inlang-LineFeed>Celestia 是一個模組化的資料可用性網絡，可以根據用戶數量安全地擴展，使任何人都可以輕鬆啟動自己的區塊鏈。",
-  "coingeckoID": "celestia",
+  "coingeckoID": "塞拉斯蒂婭",
   "websiteURL": "https://celestia.org/",
   "twitterURL": "https://twitter.com/CelestiaOrg"
 }

@@ -1,7 +1,7 @@
 {
   "localization": "en",
-  "name": "Source Token",
+  "name": "توکن منبع",
   "symbol": "SRCX",
   "description": "توکن SRCX پروتکل منبع.",
-  "coingeckoID": "source-protocol"
+  "coingeckoID": "منبع-پروتکل"
 }

@@ -3,6 +3,6 @@
   "name": "CDT Stablecoin",
   "symbol": "CDT",
   "description": "Membrane'in CDP tarzı stablecoin'i CDT olarak adlandırıldı",
-  "coingeckoID": "collateralized-debt-token",
+  "coingeckoID": "teminatlandırılmış borç belirteci",
   "websiteURL": "https://osmosis.zone/"
 }

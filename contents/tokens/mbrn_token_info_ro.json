@@ -1,8 +1,8 @@
 {
   "localization": "ro",
-  "name": "Membrane",
+  "name": "Membrană",
   "symbol": "MBRN",
   "description": "Jetonul de protocol al membranei",
-  "coingeckoID": "membrane",
+  "coingeckoID": "membrană",
   "websiteURL": "https://osmosis.zone/"
 }

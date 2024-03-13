@@ -1,7 +1,7 @@
 {
   "localization": "ko",
-  "name": "Arbitrum",
+  "name": "중재",
   "symbol": "ARB",
   "description": "Arbitrum의 기본 토큰",
-  "coingeckoID": "arbitrum"
+  "coingeckoID": "중재"
 }

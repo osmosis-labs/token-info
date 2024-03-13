@@ -1,6 +1,7 @@
 {
-  "name": "Arkhadian",
-  "symbol": "ARKH",
+  "localization": "en",
+  "name": "ارخادیان",
+  "symbol": "ارخ",
   "description": "نشانه بومی ارخادیان",
   "websiteURL": "https://arkhadian.com/"
 }

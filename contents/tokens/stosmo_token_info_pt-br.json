@@ -1,7 +1,7 @@
 {
   "localization": "pt",
   "name": "Stride Staked OSMO",
-  "symbol": "stOSMO",
-  "coingeckoID": "stride-staked-osmo",
+  "symbol": "sTOSMO",
+  "coingeckoID": "passo-estacado-osmo",
   "websiteURL": "https://stride.zone/"
 }

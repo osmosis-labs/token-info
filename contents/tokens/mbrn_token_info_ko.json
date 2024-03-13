@@ -1,8 +1,8 @@
 {
   "localization": "ko",
-  "name": "Membrane",
+  "name": "막",
   "symbol": "MBRN",
   "description": "멤브레인의 프로토콜 토큰",
-  "coingeckoID": "membrane",
+  "coingeckoID": "막",
   "websiteURL": "https://osmosis.zone/"
 }

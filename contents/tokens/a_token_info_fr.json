@@ -1,5 +1,6 @@
 {
-  "name": "Bostrom Ampere",
-  "symbol": "A",
+  "localization": "fr",
+  "name": "Ampère de Bostrom",
+  "symbol": "UN",
   "description": "Le jeton de ressource de Bostrom"
 }

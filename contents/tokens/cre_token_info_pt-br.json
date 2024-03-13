@@ -1,7 +1,7 @@
 {
   "localization": "pt",
-  "name": "Crescent",
+  "name": "Crescente",
   "symbol": "CRE",
   "description": "O token nativo de Crescent",
-  "coingeckoID": "crescent-network"
+  "coingeckoID": "rede crescente"
 }

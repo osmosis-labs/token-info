@@ -1,9 +1,9 @@
 {
-  "localization": "zh",
-  "name": "Band Protocol",
-  "symbol": "BAND",
+  "localization": "en",
+  "name": "頻段協議",
+  "symbol": "樂團",
   "description": "BandChain的原生代幣<inlang-LineFeed><inlang-LineFeed>Band Protocol 是一個跨鏈資料預言機平台，它將現實世界的資料和 API 聚合並連接到智慧合約。",
-  "coingeckoID": "band-protocol",
+  "coingeckoID": "頻段協議",
   "websiteURL": "https://bandprotocol.com/",
   "twitterURL": "https://twitter.com/BandProtocol"
 }

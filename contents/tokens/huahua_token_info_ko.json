@@ -1,8 +1,8 @@
 {
   "localization": "ko",
-  "name": "Chihuahua",
+  "name": "치와와",
   "symbol": "HUAHUA",
   "description": "치와와 체인의 기본 토큰",
-  "coingeckoID": "chihuahua-token",
+  "coingeckoID": "치와와 토큰",
   "websiteURL": "https://chihuahua.wtf/"
 }

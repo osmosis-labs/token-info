@@ -1,6 +1,7 @@
 {
-  "name": "Realio Network",
-  "symbol": "RIO",
+  "localization": "en",
+  "name": "شبکه Realio",
+  "symbol": "ریو",
   "description": "واحد پول اصلی شبکه Realio.",
   "coingeckoID": "realio-network",
   "websiteURL": "https://realio.network/"

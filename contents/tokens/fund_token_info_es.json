@@ -1,7 +1,8 @@
 {
-  "name": "Unification",
-  "symbol": "FUND",
+  "localization": "es",
+  "name": "Unificación",
+  "symbol": "FONDO",
   "description": "Moneda de participación y gobernanza para Unification Blockchain",
   "coingeckoID": "unification",
-  "websiteURL": "https://unification.com/"
+  "websiteURL": "https://unificación.com/"
 }

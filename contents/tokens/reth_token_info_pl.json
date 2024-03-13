@@ -1,7 +1,7 @@
 {
   "localization": "pl",
-  "name": "Rocket Pool Ether",
-  "symbol": "rETH",
+  "name": "Eter z basenu rakietowego",
+  "symbol": "reETH",
   "description": "Rocket Pool to zdecentralizowana pula Ethereum Proof of Stake.",
-  "coingeckoID": "rocket-pool-eth"
+  "coingeckoID": "rakieta-pool-eth"
 }

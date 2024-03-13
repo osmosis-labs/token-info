@@ -1,7 +1,7 @@
 {
-  "localization": "tr",
-  "name": "Fantom",
+  "localization": "en",
+  "name": "Hayalet",
   "symbol": "FTM",
   "description": "Fantom'un yerel hizmet tokenı - FTM - tüm Fantom blockchain ekosistemine güç sağlar. FTM tokenleri ağdaki stake etme, yönetişim, ödemeler ve ücretler için kullanılır.",
-  "coingeckoID": "fantom"
+  "coingeckoID": "hayalet"
 }

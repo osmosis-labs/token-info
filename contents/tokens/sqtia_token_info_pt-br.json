@@ -1,5 +1,6 @@
 {
-  "name": "TIA Squared",
+  "localization": "pt",
+  "name": "TIA ao quadrado",
   "symbol": "sqTIA",
   "description": "Token de energia marginal sqTIA",
   "websiteURL": "https://osmosis.zone/"

@@ -1,8 +1,8 @@
 {
   "localization": "zh",
-  "name": "Inter Stable Token",
+  "name": "稳定代币",
   "symbol": "IST",
   "description": "IST 是 Agoric 链用于执行费用和商业的稳定代币。",
-  "coingeckoID": "inter-stable-token",
+  "coingeckoID": "稳定代币间",
   "websiteURL": "https://agoric.com/"
 }

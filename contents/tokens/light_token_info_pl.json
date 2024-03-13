@@ -1,6 +1,7 @@
 {
-  "name": "LIGHT",
-  "symbol": "LIGHT",
+  "localization": "en",
+  "name": "ŚWIATŁO",
+  "symbol": "ŚWIATŁO",
   "description": "Światło: token skarbca DAO społeczności LumenX",
   "websiteURL": "https://www.junonetwork.io/"
 }

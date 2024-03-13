@@ -1,6 +1,7 @@
 {
-  "name": "WOSMO",
-  "symbol": "WOSMO",
+  "localization": "en",
+  "name": "世界氣象組織",
+  "symbol": "世界氣象組織",
   "description": "Osmosis 上的第一個本地模因幣。由瘋狂實驗室中靈巧的雙手精心打造。這在科學上是無政府主義的，在專業上是愚蠢的，而且是通往瘋人院的門票。",
   "websiteURL": "https://osmosis.zone/"
 }

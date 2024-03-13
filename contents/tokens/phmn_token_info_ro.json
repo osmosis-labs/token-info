@@ -1,7 +1,8 @@
 {
-  "name": "POSTHUMAN",
+  "localization": "ro",
+  "name": "POSTUMAN",
   "symbol": "PHMN",
   "description": "Jetonul nativ cw20 pentru PHMN pe Juno Chain",
-  "coingeckoID": "posthuman",
+  "coingeckoID": "postuman",
   "websiteURL": "https://www.junonetwork.io/"
 }

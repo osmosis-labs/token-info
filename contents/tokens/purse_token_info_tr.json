@@ -1,6 +1,7 @@
 {
-  "name": "PURSE Token",
-  "symbol": "PURSE",
+  "localization": "tr",
+  "name": "ÇANTA Jetonu",
+  "symbol": "EL ÇANTASI",
   "description": "ÇANTA Jetonu",
   "websiteURL": "https://pundix.com"
 }

@@ -1,8 +1,8 @@
 {
   "localization": "es",
-  "name": "Inter Stable Token",
+  "name": "Token interestable",
   "symbol": "IST",
   "description": "IST es el token estable utilizado por la cadena Agoric para tarifas de ejecución y comercio.",
-  "coingeckoID": "inter-stable-token",
+  "coingeckoID": "token interestable",
   "websiteURL": "https://agoric.com/"
 }

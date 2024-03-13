@@ -1,6 +1,7 @@
 {
-  "name": "PURSE Token",
-  "symbol": "PURSE",
+  "localization": "pt",
+  "name": "Token BOLSA",
+  "symbol": "BOLSA",
   "description": "Token BOLSA",
   "websiteURL": "https://pundix.com"
 }

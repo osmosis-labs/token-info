@@ -1,7 +1,7 @@
 {
   "localization": "fr",
-  "name": "IBC Index",
+  "name": "Indice IBC",
   "symbol": "IBCX",
-  "coingeckoID": "ibc-index",
+  "coingeckoID": "index-ibc",
   "websiteURL": "https://osmosis.zone/"
 }

@@ -1,7 +1,8 @@
 {
-  "name": "Rizon",
+  "localization": "es",
+  "name": "Rizón",
   "symbol": "ATOLO",
   "description": "Token nativo de Rizon Chain",
-  "coingeckoID": "rizon",
+  "coingeckoID": "rizo",
   "websiteURL": "https://rizon.world/"
 }

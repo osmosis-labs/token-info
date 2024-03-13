@@ -1,8 +1,8 @@
 {
   "localization": "pl",
-  "name": "Inter Stable Token",
+  "name": "Token Inter Stable",
   "symbol": "IST",
   "description": "IST to stabilny token używany przez sieć Agoric do opłat za wykonanie i handlu.",
-  "coingeckoID": "inter-stable-token",
+  "coingeckoID": "token międzystabilny",
   "websiteURL": "https://agoric.com/"
 }

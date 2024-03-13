@@ -1,5 +1,6 @@
 {
-  "name": "Rebus",
+  "localization": "en",
+  "name": "رباس",
   "symbol": "REBUS",
   "description": "REBUS، سکه بومی زنجیره Rebus.",
   "coingeckoID": "rebus",

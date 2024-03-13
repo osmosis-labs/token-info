@@ -1,8 +1,8 @@
 {
   "localization": "pt",
-  "name": "Alter",
-  "symbol": "ALTER",
+  "name": "Alterar",
+  "symbol": "ALTERAR",
   "description": "O token nativo cw20 para Alter na Secret Network",
-  "coingeckoID": "alter",
+  "coingeckoID": "alterar",
   "websiteURL": "https://scrt.network/"
 }

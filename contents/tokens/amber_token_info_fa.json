@@ -1,6 +1,7 @@
 {
-  "name": "Amber",
-  "symbol": "AMBER",
+  "localization": "en",
+  "name": "کهربا",
+  "symbol": "کهربا",
   "description": "توکن بومی cw20 برای آمبر در شبکه مخفی",
   "websiteURL": "https://scrt.network/"
 }

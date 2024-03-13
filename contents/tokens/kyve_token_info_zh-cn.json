@@ -1,9 +1,9 @@
 {
   "localization": "zh",
   "name": "KYVE",
-  "symbol": "KYVE",
+  "symbol": "凯维",
   "description": "KYVE 网络的原生实用代币。<inlang-LineFeed>\nKYVE Network 彻底改变了 Web3 领域的数据可靠性，为数据验证、不变性和检索提供快速、简单的工具，确保无需信任的数据以实现无缝可扩展性，并消除数据风险和障碍。",
-  "coingeckoID": "kyve-network",
+  "coingeckoID": "kyve 网络",
   "websiteURL": "https://www.kyve.network/",
   "twitterURL": "https://twitter.com/KYVENetwork"
 }

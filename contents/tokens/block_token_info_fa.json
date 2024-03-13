@@ -1,7 +1,7 @@
 {
   "localization": "en",
-  "name": "Block",
-  "symbol": "BLOCK",
+  "name": "مسدود کردن",
+  "symbol": "مسدود کردن",
   "description": "نماد اصلی Marble DEX در Juno Chain",
   "websiteURL": "https://www.junonetwork.io/"
 }

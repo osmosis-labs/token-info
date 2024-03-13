@@ -3,6 +3,6 @@
   "name": "Basket",
   "symbol": "BSKT",
   "description": "BSKT suit les principaux actifs de l'écosystème cryptographique",
-  "coingeckoID": "basket",
+  "coingeckoID": "panier",
   "twitterURL": "https://twitter.com/bsktfi"
 }

@@ -1,7 +1,7 @@
 {
-  "localization": "zh",
-  "name": "Staked Frax Ether",
+  "localization": "en",
+  "name": "質押 Frax 以太幣",
   "symbol": "sfrxETH",
   "description": "sfrxETH 是 frxETH 的版本，可累積質押收益。 Frax 以太驗證器產生的所有利潤都分配給 sfrxETH 持有者。透過將 frxETH 兌換為 sfrxETH，人們就有資格獲得質押收益，該收益在將 sfrxETH 兌換回 frxETH 後即可贖回。",
-  "coingeckoID": "staked-frax-ether"
+  "coingeckoID": "質押 frax 以太坊"
 }

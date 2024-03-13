@@ -1,7 +1,8 @@
 {
-  "name": "Cerberus",
+  "localization": "fr",
+  "name": "Cerbère",
   "symbol": "CRBRUS",
   "description": "Le jeton natif de Cerberus Chain",
-  "coingeckoID": "cerberus-2",
+  "coingeckoID": "cerbère-2",
   "websiteURL": "https://cerberus.zone/"
 }

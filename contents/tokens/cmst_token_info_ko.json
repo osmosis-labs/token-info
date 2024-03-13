@@ -1,8 +1,8 @@
 {
-  "localization": "ko",
+  "localization": "en",
   "name": "CMST",
   "symbol": "CMST",
   "description": "Comdex 네트워크의 하버 프로토콜의 안정적인 토큰",
-  "coingeckoID": "composite",
+  "coingeckoID": "합성물",
   "websiteURL": "https://comdex.one/"
 }

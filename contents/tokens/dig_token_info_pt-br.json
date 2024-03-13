@@ -1,8 +1,8 @@
 {
   "localization": "pt",
-  "name": "Dig Chain",
-  "symbol": "DIG",
+  "name": "Cadeia de escavação",
+  "symbol": "ESCAVAÇÃO",
   "description": "Token nativo da Dig Chain",
-  "coingeckoID": "dig-chain",
+  "coingeckoID": "corrente de escavação",
   "websiteURL": "https://digchain.org/"
 }

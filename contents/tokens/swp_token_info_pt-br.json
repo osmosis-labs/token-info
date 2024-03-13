@@ -1,8 +1,8 @@
 {
   "localization": "pt",
-  "name": "Kava Swap",
+  "name": "Troca de Kava",
   "symbol": "SWP",
   "description": "Token de governança do protocolo Kava Swap",
-  "coingeckoID": "kava-swap",
+  "coingeckoID": "troca de kava",
   "websiteURL": "https://www.kava.io/"
 }

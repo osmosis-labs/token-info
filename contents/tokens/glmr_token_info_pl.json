@@ -1,7 +1,7 @@
 {
   "localization": "pl",
-  "name": "Moonbeam",
+  "name": "promień księżyca",
   "symbol": "GLMR",
   "description": "Glimmer (GLMR) to token użytkowy sieci Moonbeam Network, głównego wdrożenia Moonbeam w sieci Polkadot, które służy jako przyjazny dla programistów parachain.",
-  "coingeckoID": "moonbeam"
+  "coingeckoID": "promień księżyca"
 }

@@ -1,7 +1,7 @@
 {
   "localization": "es",
   "name": "Lambda",
-  "symbol": "LAMB",
+  "symbol": "CORDERO",
   "description": "El token nativo de Lambda",
   "coingeckoID": "lambda"
 }

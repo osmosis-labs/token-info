@@ -1,8 +1,8 @@
 {
-  "localization": "pl",
-  "name": "f(x)Core",
+  "localization": "en",
+  "name": "f(x)Rdzeń",
   "symbol": "FX",
   "description": "Natywny token stakingowy funkcji X",
-  "coingeckoID": "fx-coin",
+  "coingeckoID": "moneta fx",
   "websiteURL": "https://functionx.io"
 }

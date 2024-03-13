@@ -1,6 +1,7 @@
 {
-  "name": "PURSE Token",
-  "symbol": "PURSE",
+  "localization": "ko",
+  "name": "지갑 토큰",
+  "symbol": "지갑",
   "description": "지갑 토큰",
   "websiteURL": "https://pundix.com"
 }

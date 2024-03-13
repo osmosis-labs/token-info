@@ -1,9 +1,9 @@
 {
-  "localization": "zh",
-  "name": "OmniFlix",
+  "localization": "en",
+  "name": "奥姆尼弗利克斯",
   "symbol": "FLIX",
   "description": "OmniFlix Hub 的原生质押代币。<inlang-LineFeed><inlang-LineFeed>由 NFT 和相关分发协议支持的创作者和主权社区的去中心化媒体和网络层。",
-  "coingeckoID": "omniflix-network",
+  "coingeckoID": "Omniflix 网络",
   "websiteURL": "https://omniflix.network/",
   "twitterURL": "https://twitter.com/OmniFlixNetwork"
 }

@@ -1,7 +1,8 @@
 {
+  "localization": "ro",
   "name": "Jackal",
   "symbol": "JKL",
-  "description": "Indicatorul nativ de miză și guvernare al șacalului.",
-  "coingeckoID": "jackal-protocol",
+  "description": "Indicatorul nativ de miza și guvernare al șacalului.",
+  "coingeckoID": "şacal-protocol",
   "websiteURL": "https://jackalprotocol.com"
 }

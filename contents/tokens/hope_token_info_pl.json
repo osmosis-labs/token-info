@@ -1,7 +1,8 @@
 {
-  "name": "Hope Galaxy",
+  "localization": "pl",
+  "name": "Nadzieja, Galaktyka",
   "symbol": "HOPE",
   "description": "Hope Galaxy to kolekcja NFT oparta na własnym natywnym tokenie $HOPE, tokenie cw20 w łańcuchu Juno.",
-  "coingeckoID": "hope-galaxy",
+  "coingeckoID": "galaktyka nadziei",
   "websiteURL": "https://www.junonetwork.io/"
 }

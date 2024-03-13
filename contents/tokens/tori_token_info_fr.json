@@ -1,8 +1,8 @@
 {
-  "localization": "fr",
-  "name": "Teritori",
+  "localization": "en",
+  "name": "Territoire",
   "symbol": "TORI",
   "description": "Le jeton natif de Teritori",
-  "coingeckoID": "teritori",
+  "coingeckoID": "territoire",
   "websiteURL": "https://teritori.com/"
 }

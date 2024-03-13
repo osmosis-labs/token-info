@@ -1,6 +1,7 @@
 {
-  "name": "Catmos",
-  "symbol": "CATMOS",
+  "localization": "zh",
+  "name": "卡特莫斯",
+  "symbol": "卡特莫斯",
   "description": "卡特莫斯",
   "websiteURL": "https://www.junonetwork.io/"
 }

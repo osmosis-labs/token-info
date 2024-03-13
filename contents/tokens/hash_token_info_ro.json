@@ -1,8 +1,8 @@
 {
   "localization": "ro",
-  "name": "Provenance",
+  "name": "Provenienţă",
   "symbol": "HASH",
   "description": "Hash este simbolul de miză al Provenance Blockchain",
-  "coingeckoID": "provenance-blockchain",
+  "coingeckoID": "proveniență-blockchain",
   "websiteURL": "https://provenance.io/"
 }

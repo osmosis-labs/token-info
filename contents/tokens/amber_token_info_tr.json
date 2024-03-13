@@ -1,5 +1,6 @@
 {
-  "name": "Amber",
+  "localization": "tr",
+  "name": "kehribar",
   "symbol": "AMBER",
   "description": "Secret Network'te Amber için yerel token cw20",
   "websiteURL": "https://scrt.network/"

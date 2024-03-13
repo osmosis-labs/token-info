@@ -1,8 +1,8 @@
 {
   "localization": "zh",
-  "name": "StakeEasy seJUNO",
-  "symbol": "SEJUNO",
+  "name": "StakeEasy SeJUNO",
+  "symbol": "世朱诺",
   "description": "为抵押的 JUNO 抵押衍生品 seJUNO",
-  "coingeckoID": "stakeeasy-juno-derivative",
+  "coingeckoID": "stakeeasy-juno-衍生品",
   "websiteURL": "https://www.junonetwork.io/"
 }

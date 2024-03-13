@@ -1,7 +1,7 @@
 {
   "localization": "es",
-  "name": "Rocket Pool Ether",
-  "symbol": "rETH",
+  "name": "Éter de piscina de cohetes",
+  "symbol": "reth",
   "description": "Rocket Pool es un grupo descentralizado de prueba de participación de Ethereum.",
-  "coingeckoID": "rocket-pool-eth"
+  "coingeckoID": "grupo-de-cohetes-eth"
 }

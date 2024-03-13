@@ -1,7 +1,7 @@
 {
   "localization": "ko",
-  "name": "Rocket Pool Ether",
+  "name": "로켓 풀 에테르",
   "symbol": "rETH",
   "description": "로켓 풀은 분산형 이더리움 지분 증명 풀입니다.",
-  "coingeckoID": "rocket-pool-eth"
+  "coingeckoID": "로켓풀-eth"
 }

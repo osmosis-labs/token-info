@@ -1,6 +1,7 @@
 {
-  "name": "MEME",
-  "symbol": "MEME",
+  "localization": "ro",
+  "name": "EU EU",
+  "symbol": "EU EU",
   "description": "MEME Token (MEME) este jetonul de miza nativ al lanțului MEME",
-  "coingeckoID": "meme-network"
+  "coingeckoID": "retea-meme"
 }

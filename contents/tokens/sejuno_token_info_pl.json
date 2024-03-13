@@ -1,8 +1,8 @@
 {
   "localization": "pl",
-  "name": "StakeEasy seJUNO",
+  "name": "StawkaEasy seJUNO",
   "symbol": "SEJUNO",
   "description": "Stakowanie instrumentu pochodnego seJUNO dla postawionego JUNO",
-  "coingeckoID": "stakeeasy-juno-derivative",
+  "coingeckoID": "pochodna-stakeeasy-juno",
   "websiteURL": "https://www.junonetwork.io/"
 }

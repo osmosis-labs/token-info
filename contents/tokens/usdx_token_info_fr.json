@@ -3,6 +3,6 @@
   "name": "Kava USDX",
   "symbol": "USDX",
   "description": "Le stablecoin natif de Kava",
-  "coingeckoID": "usdx",
+  "coingeckoID": "USDX",
   "websiteURL": "https://www.kava.io/"
 }

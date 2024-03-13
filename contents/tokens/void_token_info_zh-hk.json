@@ -1,5 +1,6 @@
 {
-  "name": "Void",
+  "localization": "zh",
+  "name": "空白",
   "symbol": "VOID",
   "description": "空白",
   "websiteURL": "https://www.junonetwork.io/"

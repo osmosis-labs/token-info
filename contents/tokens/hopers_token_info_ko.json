@@ -1,7 +1,8 @@
 {
-  "name": "Hopers",
-  "symbol": "HOPERS",
+  "localization": "ko",
+  "name": "호퍼스",
+  "symbol": "호퍼스",
   "description": "Juno Chain의 Hopers를 위한 기본 토큰 cw20",
-  "coingeckoID": "hopers-io",
+  "coingeckoID": "희망자 -io",
   "websiteURL": "https://www.junonetwork.io/"
 }

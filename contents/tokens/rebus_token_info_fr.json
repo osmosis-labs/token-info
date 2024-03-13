@@ -1,6 +1,7 @@
 {
-  "name": "Rebus",
-  "symbol": "REBUS",
+  "localization": "fr",
+  "name": "Rébus",
+  "symbol": "RÉBUS",
   "description": "REBUS, la pièce native de la chaîne Rebus.",
   "coingeckoID": "rebus",
   "websiteURL": "https://www.rebuschain.com/"

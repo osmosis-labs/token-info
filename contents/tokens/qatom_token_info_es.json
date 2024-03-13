@@ -1,6 +1,7 @@
 {
-  "name": "Quicksilver Liquid Staked ATOM",
-  "symbol": "qATOM",
+  "localization": "es",
+  "name": "ÁTOMO apostado líquido Quicksilver",
+  "symbol": "qátomo",
   "description": "ÁTOMO apostado líquido Quicksilver",
   "websiteURL": "https://quicksilver.zone/"
 }

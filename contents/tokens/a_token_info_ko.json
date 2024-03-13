@@ -1,5 +1,6 @@
 {
-  "name": "Bostrom Ampere",
-  "symbol": "A",
+  "localization": "ko",
+  "name": "보스트롬 암페어",
+  "symbol": "ㅏ",
   "description": "보스트롬의 자원 토큰"
 }

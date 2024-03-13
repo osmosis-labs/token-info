@@ -1,7 +1,7 @@
 {
   "localization": "zh",
-  "name": "Block",
-  "symbol": "BLOCK",
+  "name": "堵塞",
+  "symbol": "堵塞",
   "description": "Juno Chain 上 Marble DEX 的原生代币",
   "websiteURL": "https://www.junonetwork.io/"
 }

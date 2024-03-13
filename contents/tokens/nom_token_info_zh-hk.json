@@ -1,7 +1,8 @@
 {
-  "name": "Onomy",
+  "localization": "zh",
+  "name": "奧諾米",
   "symbol": "NOM",
   "description": "Onomy 協議的原生代幣",
-  "coingeckoID": "onomy-protocol",
+  "coingeckoID": "命名協定",
   "websiteURL": "https://onomy.io/"
 }

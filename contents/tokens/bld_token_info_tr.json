@@ -1,8 +1,9 @@
 {
-  "name": "Agoric",
+  "localization": "tr",
+  "name": "Agorik",
   "symbol": "BLD",
-  "description": "BLD, Agoric zincirini staking yoluyla güvence altına almak ve Inter Protokolünü desteklemek için kullanılan tokendır.<inlang-LineFeed>\nAgoric platformu, mevcut JavaScript bilginizi kullanarak merkezi olmayan uygulamalar oluşturmanızı güvenli ve sorunsuz hale getirir.",
-  "coingeckoID": "agoric",
+  "description": "BLD, Agoric zincirini staking yoluyla güvence altına almak ve Inter Protokolünü desteklemek için kullanılan tokendir.<inlang-LineFeed>\nAgoric platformu, mevcut JavaScript bilginizi kullanarak merkezi olmayan uygulamalar oluşturmanızı güvenli ve sorunsuz hale getirir.",
+  "coingeckoID": "agorik",
   "websiteURL": "https://agoric.com/",
   "twitterURL": "https://twitter.com/agoric"
 }

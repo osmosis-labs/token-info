@@ -1,5 +1,6 @@
 {
-  "name": "Sikoba Token",
+  "localization": "zh",
+  "name": "Sikoba 代幣",
   "symbol": "SKOJ",
   "description": "Sikoba 治理代幣",
   "websiteURL": "https://www.junonetwork.io/"

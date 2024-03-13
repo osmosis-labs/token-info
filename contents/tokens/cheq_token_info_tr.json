@@ -1,8 +1,8 @@
 {
   "localization": "tr",
-  "name": "Cheqd",
-  "symbol": "CHEQ",
+  "name": "Çek",
+  "symbol": "ÇEK",
   "description": "Cheqd ağı için yerel token",
-  "coingeckoID": "cheqd-network",
+  "coingeckoID": "cheqd ağı",
   "websiteURL": "https://www.cheqd.io/"
 }

@@ -1,7 +1,8 @@
 {
-  "name": "Newt",
-  "symbol": "NEWT",
+  "localization": "en",
+  "name": "Traszka",
+  "symbol": "TRASZKA",
   "description": "Najsłodszy żeton NEWT w łańcuchu Neutron.",
-  "coingeckoID": "newt",
+  "coingeckoID": "traszka",
   "websiteURL": "https://neutron.org/"
 }

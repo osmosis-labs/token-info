@@ -1,7 +1,7 @@
 {
   "localization": "zh",
-  "name": "Rocket Pool Ether",
-  "symbol": "rETH",
+  "name": "火箭池以太币",
+  "symbol": "重组以太坊",
   "description": "Rocket Pool 是一个去中心化的以太坊权益证明池。",
-  "coingeckoID": "rocket-pool-eth"
+  "coingeckoID": "火箭池 ETH"
 }

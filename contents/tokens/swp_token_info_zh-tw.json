@@ -1,8 +1,8 @@
 {
   "localization": "zh",
-  "name": "Kava Swap",
-  "symbol": "SWP",
+  "name": "卡瓦互換",
+  "symbol": "西南水務局",
   "description": "Kava 互換協議的治理代幣",
-  "coingeckoID": "kava-swap",
+  "coingeckoID": "卡瓦交換",
   "websiteURL": "https://www.kava.io/"
 }

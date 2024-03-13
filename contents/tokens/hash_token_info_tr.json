@@ -1,8 +1,8 @@
 {
   "localization": "tr",
-  "name": "Provenance",
-  "symbol": "HASH",
+  "name": "Kaynak",
+  "symbol": "DOĞRAMAK",
   "description": "Hash, Provenance Blockchain'in stake tokenıdır",
-  "coingeckoID": "provenance-blockchain",
+  "coingeckoID": "kaynak-blockchain",
   "websiteURL": "https://provenance.io/"
 }

@@ -1,7 +1,8 @@
 {
-  "name": "Newt",
-  "symbol": "NEWT",
+  "localization": "en",
+  "name": "Tritón",
+  "symbol": "TRITÓN",
   "description": "La ficha NEWT más linda de la cadena de neutrones.",
-  "coingeckoID": "newt",
+  "coingeckoID": "tritón",
   "websiteURL": "https://neutron.org/"
 }

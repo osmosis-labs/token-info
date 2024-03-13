@@ -1,7 +1,8 @@
 {
-  "name": "Harbor",
+  "localization": "en",
+  "name": "بندرگاه",
   "symbol": "HARBOR",
   "description": "پروتکل Governance Token of Harbor در شبکه Comdex",
-  "coingeckoID": "harbor-2",
+  "coingeckoID": "بندر-2",
   "websiteURL": "https://comdex.one/"
 }

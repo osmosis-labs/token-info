@@ -1,6 +1,7 @@
 {
-  "name": "Polkadot",
+  "localization": "en",
+  "name": "پولکادوت",
   "symbol": "DOT",
   "description": "کارمزد بومی، حاکمیت، سهامداری، و نشانه پیوند پلت فرم پولکادوت.",
-  "coingeckoID": "polkadot"
+  "coingeckoID": "پولکادوت"
 }

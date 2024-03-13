@@ -1,8 +1,8 @@
 {
   "localization": "zh",
-  "name": "Membrane",
+  "name": "膜",
   "symbol": "MBRN",
   "description": "Membrane 的協定令牌",
-  "coingeckoID": "membrane",
+  "coingeckoID": "膜",
   "websiteURL": "https://osmosis.zone/"
 }

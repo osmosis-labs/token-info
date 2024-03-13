@@ -1,6 +1,7 @@
 {
-  "name": "Solana",
+  "localization": "en",
+  "name": "솔라나",
   "symbol": "SOL",
   "description": "솔라나(SOL)는 솔라나 블록체인의 기본 자산입니다.",
-  "coingeckoID": "solana"
+  "coingeckoID": "솔라나"
 }

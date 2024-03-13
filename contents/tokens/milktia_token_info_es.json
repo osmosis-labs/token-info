@@ -1,8 +1,8 @@
 {
-  "localization": "es",
-  "name": "milkTIA",
-  "symbol": "milkTIA",
+  "localization": "en",
+  "name": "lecheTIA",
+  "symbol": "lecheTIA",
   "description": "El TIA líquido de MilkyWay",
-  "coingeckoID": "milkyway-staked-tia",
-  "websiteURL": "https://osmosis.zone/"
+  "coingeckoID": "milkyway-estacada-tia",
+  "websiteURL": "https://osmosis.zona/"
 }

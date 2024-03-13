@@ -1,7 +1,7 @@
 {
-  "localization": "ro",
-  "name": "ATOM Squared",
+  "localization": "en",
+  "name": "ATOM pătrat",
   "symbol": "sqATOM",
-  "description": "Margined Power Token sqATOM",
+  "description": "Jeton de putere cu marjă sqATOM",
   "websiteURL": "https://osmosis.zone/"
 }

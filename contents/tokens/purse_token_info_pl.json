@@ -1,6 +1,7 @@
 {
-  "name": "PURSE Token",
-  "symbol": "PURSE",
+  "localization": "pl",
+  "name": "Żeton torebki",
+  "symbol": "TOREBKA",
   "description": "Żeton torebki",
   "websiteURL": "https://pundix.com"
 }

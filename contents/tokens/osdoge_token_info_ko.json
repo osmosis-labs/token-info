@@ -1,5 +1,6 @@
 {
-  "name": "Osmosis Doge",
+  "localization": "en",
+  "name": "삼투 도지",
   "symbol": "OSDOGE",
   "description": "삼투의 첫 번째 총독",
   "websiteURL": "https://www.junonetwork.io/"

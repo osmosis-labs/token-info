@@ -1,5 +1,6 @@
 {
-  "name": "Cerberus",
+  "localization": "en",
+  "name": "سربروس",
   "symbol": "CRBRUS",
   "description": "نشانه بومی زنجیره سربروس",
   "coingeckoID": "cerberus-2",

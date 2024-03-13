@@ -1,8 +1,8 @@
 {
   "localization": "ko",
-  "name": "Konstellation",
+  "name": "별자리",
   "symbol": "DARC",
   "description": "Konstellation Network의 기본 토큰",
-  "coingeckoID": "darcmatter-coin",
+  "coingeckoID": "다크매터 코인",
   "websiteURL": "https://konstellation.tech/"
 }

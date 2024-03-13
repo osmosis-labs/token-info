@@ -1,7 +1,8 @@
 {
-  "name": "Hopers",
-  "symbol": "HOPERS",
+  "localization": "tr",
+  "name": "umutlar",
+  "symbol": "UMUTLAR",
   "description": "Juno Chain'deki Hopers için yerel token cw20",
-  "coingeckoID": "hopers-io",
+  "coingeckoID": "umutlular-io",
   "websiteURL": "https://www.junonetwork.io/"
 }

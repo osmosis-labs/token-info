@@ -1,8 +1,8 @@
 {
-  "localization": "pt",
-  "name": "Kava Hard",
-  "symbol": "HARD",
+  "localization": "en",
+  "name": "Kava Difícil",
+  "symbol": "DURO",
   "description": "Token de governança do protocolo Kava Lend",
-  "coingeckoID": "kava-lend",
+  "coingeckoID": "empréstimo de kava",
   "websiteURL": "https://www.kava.io/"
 }

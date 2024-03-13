@@ -1,8 +1,8 @@
 {
   "localization": "es",
-  "name": "CDT Stablecoin",
+  "name": "Moneda estable CDT",
   "symbol": "CDT",
   "description": "La moneda estable estilo CDP de Membrane llamada CDT",
-  "coingeckoID": "collateralized-debt-token",
-  "websiteURL": "https://osmosis.zone/"
+  "coingeckoID": "token de deuda garantizada",
+  "websiteURL": "https://osmosis.zona/"
 }

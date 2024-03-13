@@ -1,8 +1,8 @@
 {
   "localization": "tr",
-  "name": "Unstake Fi",
+  "name": "Fi'nin hissesini kaldır",
   "symbol": "NSTK",
   "description": "Unstake.fi'nin Gelir ve Yönetişim tokenı",
-  "coingeckoID": "unstake-fi",
+  "coingeckoID": "bahisten vazgeçmek",
   "websiteURL": "https://kujira.app/"
 }

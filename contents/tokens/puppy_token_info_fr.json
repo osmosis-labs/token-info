@@ -1,5 +1,7 @@
 {
-  "name": "Puppy",
-  "symbol": "PUPPY",
+  "localization": "fr",
+  "name": "Chiot",
+  "symbol": "CHIOT",
+  "description": "Chiot",
   "websiteURL": "https://chihuahua.wtf/"
 }

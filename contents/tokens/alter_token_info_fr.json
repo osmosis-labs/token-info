@@ -1,8 +1,8 @@
 {
   "localization": "fr",
-  "name": "Alter",
-  "symbol": "ALTER",
+  "name": "Modifier",
+  "symbol": "MODIFIER",
   "description": "Le jeton natif cw20 pour Alter sur Secret Network",
-  "coingeckoID": "alter",
+  "coingeckoID": "modifier",
   "websiteURL": "https://scrt.network/"
 }

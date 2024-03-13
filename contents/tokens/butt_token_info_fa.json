@@ -1,8 +1,8 @@
 {
   "localization": "en",
-  "name": "Button",
-  "symbol": "BUTT",
+  "name": "دکمه",
+  "symbol": "باسن",
   "description": "توکن بومی cw20 برای Button on Secret Network",
-  "coingeckoID": "buttcoin-2",
+  "coingeckoID": "Buttcoin-2",
   "websiteURL": "https://scrt.network/"
 }

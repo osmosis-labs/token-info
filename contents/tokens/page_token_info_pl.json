@@ -1,6 +1,7 @@
 {
+  "localization": "pl",
   "name": "Page",
-  "symbol": "PAGE",
+  "symbol": "STRONA",
   "description": "Token PAGE służy do działań w ekosystemie literackim PageDAO NFT i do zarządzania DAO.",
-  "coingeckoID": "page"
+  "coingeckoID": "strona"
 }

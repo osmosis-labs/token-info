@@ -1,6 +1,7 @@
 {
+  "localization": "pl",
   "name": "IRISnet",
-  "symbol": "IRIS",
+  "symbol": "IRYS",
   "description": "Token IRIS jest natywnym tokenem zarządzania siecią IrisNet.",
-  "coingeckoID": "iris-network"
+  "coingeckoID": "sieć tęczówki"
 }

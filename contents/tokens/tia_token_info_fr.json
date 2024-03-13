@@ -1,9 +1,9 @@
 {
   "localization": "fr",
-  "name": "Celestia",
-  "symbol": "TIA",
+  "name": "Célestia",
+  "symbol": "AIT",
   "description": "<inlang-LineFeed><inlang-LineFeed>Celestia est un réseau modulaire de disponibilité des données qui s'adapte en toute sécurité au nombre d'utilisateurs, permettant à chacun de lancer facilement sa propre blockchain.",
-  "coingeckoID": "celestia",
+  "coingeckoID": "Céleste",
   "websiteURL": "https://celestia.org/",
   "twitterURL": "https://twitter.com/CelestiaOrg"
 }

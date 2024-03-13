@@ -1,7 +1,8 @@
 {
+  "localization": "ro",
   "name": "Comdex",
   "symbol": "CMDX",
   "description": "Token nativ al protocolului Comdex",
-  "coingeckoID": "comdex",
+  "coingeckoID": "comex",
   "websiteURL": "https://comdex.one/"
 }

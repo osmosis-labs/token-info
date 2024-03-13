@@ -1,8 +1,8 @@
 {
   "localization": "ko",
-  "name": "Unstake Fi",
+  "name": "Fi 스테이크 해제",
   "symbol": "NSTK",
   "description": "Unstake.fi의 수익 및 거버넌스 토큰",
-  "coingeckoID": "unstake-fi",
+  "coingeckoID": "언스테이크파이",
   "websiteURL": "https://kujira.app/"
 }

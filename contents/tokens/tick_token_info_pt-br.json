@@ -1,7 +1,7 @@
 {
-  "localization": "pt",
+  "localization": "en",
   "name": "Microtick",
   "symbol": "TICK",
   "description": "A moeda TICK é o token do aplicativo Microtick Price Discovery e Oracle",
-  "coingeckoID": "microtick"
+  "coingeckoID": "microcarrapato"
 }

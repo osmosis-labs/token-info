@@ -1,8 +1,8 @@
 {
-  "localization": "zh",
-  "name": "Kava Hard",
-  "symbol": "HARD",
+  "localization": "en",
+  "name": "卡瓦硬卡瓦",
+  "symbol": "难的",
   "description": "Kava Lend 协议的治理代币",
-  "coingeckoID": "kava-lend",
+  "coingeckoID": "卡瓦伦德",
   "websiteURL": "https://www.kava.io/"
 }

@@ -1,6 +1,7 @@
 {
-  "name": "Catmos",
-  "symbol": "CATMOS",
+  "localization": "ko",
+  "name": "캣모스",
+  "symbol": "캣모스",
   "description": "캣모스",
   "websiteURL": "https://www.junonetwork.io/"
 }

@@ -1,7 +1,8 @@
 {
+  "localization": "pl",
   "name": "BitCanna",
   "symbol": "BCNA",
   "description": "Moneta BCNA to token transakcyjny w sieci BitCanna, obsługujący legalną branżę konopi indyjskich za pośrednictwem sieci płatności, łańcucha dostaw i sieci zaufania.",
-  "coingeckoID": "bitcanna",
+  "coingeckoID": "Bitcanna",
   "websiteURL": "https://www.bitcanna.io/"
 }

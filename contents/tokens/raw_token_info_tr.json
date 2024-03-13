@@ -1,7 +1,8 @@
 {
-  "name": "JunoSwap",
-  "symbol": "RAW",
+  "localization": "tr",
+  "name": "Juno Takas",
+  "symbol": "ÇİĞ",
   "description": "Junoswap için token yönetimi",
-  "coingeckoID": "junoswap-raw-dao",
+  "coingeckoID": "Junoswap-ham-dao",
   "websiteURL": "https://www.junonetwork.io/"
 }

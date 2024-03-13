@@ -1,6 +1,7 @@
 {
+  "localization": "pt",
   "name": "IRISnet",
-  "symbol": "IRIS",
+  "symbol": "ÍRIS",
   "description": "O token IRIS é o token de governança nativo da cadeia IrisNet.",
-  "coingeckoID": "iris-network"
+  "coingeckoID": "rede-íris"
 }

@@ -1,8 +1,8 @@
 {
   "localization": "zh",
-  "name": "Passage",
+  "name": "頻道",
   "symbol": "PASG",
   "description": "Passage 鏈的原生質押和治理代幣。",
-  "coingeckoID": "passage",
+  "coingeckoID": "頻道",
   "websiteURL": "https://passage3d.com/"
 }

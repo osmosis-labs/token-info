@@ -1,5 +1,6 @@
 {
-  "name": "TIA Squared",
+  "localization": "en",
+  "name": "TIA مربع",
   "symbol": "sqTIA",
   "description": "توکن پاور حاشیه sqTIA",
   "websiteURL": "https://osmosis.zone/"

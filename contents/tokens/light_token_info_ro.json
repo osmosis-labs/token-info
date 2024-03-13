@@ -1,6 +1,7 @@
 {
-  "name": "LIGHT",
-  "symbol": "LIGHT",
+  "localization": "en",
+  "name": "UȘOARĂ",
+  "symbol": "UȘOARĂ",
   "description": "Lumină: Jeton de trezorerie DAO al comunității LumenX",
   "websiteURL": "https://www.junonetwork.io/"
 }

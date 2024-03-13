@@ -1,8 +1,8 @@
 {
   "localization": "ro",
-  "name": "Haqq Network",
+  "name": "Rețeaua Haqq",
   "symbol": "ISLM",
   "description": "EVM nativ, simbolul de guvernare și de miză al rețelei Haqq",
-  "coingeckoID": "islamic-coin",
+  "coingeckoID": "islamic-monedă",
   "websiteURL": "https://haqq.network/"
 }

@@ -1,7 +1,7 @@
 {
   "localization": "pl",
-  "name": "Wrapped Lido Staked Ether",
+  "name": "Owinięty eter Lido Staked",
   "symbol": "wstETH",
   "description": "wstETH jest opakowaną wersją stETH. Ponieważ niektóre protokoły DeFi wymagają mechanizmu stałego salda dla tokenów, wstETH utrzymuje saldo stETH na stałym poziomie i wykorzystuje podstawowy system udostępniania, aby odzwierciedlić zdobyte nagrody za obstawianie.",
-  "coingeckoID": "wrapped-steth"
+  "coingeckoID": "owinięty steth"
 }

@@ -1,8 +1,8 @@
 {
   "localization": "zh",
-  "name": "Konstellation",
+  "name": "星座",
   "symbol": "DARC",
   "description": "Konstellation Network 的原生代幣",
-  "coingeckoID": "darcmatter-coin",
+  "coingeckoID": "達克物質幣",
   "websiteURL": "https://konstellation.tech/"
 }

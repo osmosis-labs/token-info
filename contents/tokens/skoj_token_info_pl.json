@@ -1,5 +1,6 @@
 {
-  "name": "Sikoba Token",
+  "localization": "pl",
+  "name": "Token Sikoby",
   "symbol": "SKOJ",
   "description": "Token zarządzania Sikoba",
   "websiteURL": "https://www.junonetwork.io/"

@@ -1,7 +1,8 @@
 {
-  "name": "Onomy",
+  "localization": "fr",
+  "name": "Ononomie",
   "symbol": "NOM",
   "description": "Le jeton natif du protocole Onomy",
-  "coingeckoID": "onomy-protocol",
+  "coingeckoID": "protocole d'économie",
   "websiteURL": "https://onomy.io/"
 }

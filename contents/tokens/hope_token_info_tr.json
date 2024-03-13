@@ -1,7 +1,8 @@
 {
-  "name": "Hope Galaxy",
+  "localization": "tr",
+  "name": "Umut Galaksisi",
   "symbol": "HOPE",
   "description": "Hope Galaxy, Juno zincirindeki bir cw20 tokeni olan kendi yerel Tokenı $HOPE'u temel alan bir NFT koleksiyonudur.",
-  "coingeckoID": "hope-galaxy",
+  "coingeckoID": "umut galaksisi",
   "websiteURL": "https://www.junonetwork.io/"
 }

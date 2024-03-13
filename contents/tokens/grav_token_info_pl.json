@@ -1,9 +1,9 @@
 {
   "localization": "pl",
-  "name": "Gravity Bridge",
-  "symbol": "GRAV",
+  "name": "Most grawitacyjny",
+  "symbol": "GRAW",
   "description": "Natywny symbol Gravity Bridge<inlang-LineFeed>\nOtwarty, zdecentralizowany most, który uwalnia moc interoperacyjności i płynności między ekosystemami blockchain.",
-  "coingeckoID": "graviton",
+  "coingeckoID": "grawiton",
   "websiteURL": "https://www.gravitybridge.net/",
   "twitterURL": "https://twitter.com/gravity_bridge"
 }

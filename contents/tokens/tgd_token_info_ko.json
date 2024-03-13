@@ -1,8 +1,8 @@
 {
-  "localization": "ko",
-  "name": "Tgrade",
+  "localization": "en",
+  "name": "T등급",
   "symbol": "TGD",
   "description": "Tgrade의 기본 토큰",
-  "coingeckoID": "tgrade",
+  "coingeckoID": "등급",
   "websiteURL": "https://tgrade.finance/"
 }

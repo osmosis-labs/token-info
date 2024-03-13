@@ -1,7 +1,8 @@
 {
-  "name": "JunoSwap",
-  "symbol": "RAW",
+  "localization": "zh",
+  "name": "朱諾交換",
+  "symbol": "生的",
   "description": "Junoswap 的代幣治理",
-  "coingeckoID": "junoswap-raw-dao",
+  "coingeckoID": "Junoswap-raw-dao",
   "websiteURL": "https://www.junonetwork.io/"
 }

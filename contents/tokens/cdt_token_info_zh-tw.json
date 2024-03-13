@@ -1,8 +1,8 @@
 {
   "localization": "zh",
-  "name": "CDT Stablecoin",
+  "name": "CDT穩定幣",
   "symbol": "CDT",
   "description": "Membrane 的 CDP 風格穩定幣稱為 CDT",
-  "coingeckoID": "collateralized-debt-token",
+  "coingeckoID": "抵押債務代幣",
   "websiteURL": "https://osmosis.zone/"
 }

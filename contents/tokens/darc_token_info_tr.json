@@ -1,8 +1,8 @@
 {
   "localization": "tr",
-  "name": "Konstellation",
+  "name": "Takımyıldızı",
   "symbol": "DARC",
   "description": "Konstellation Network'ün yerel tokenı",
-  "coingeckoID": "darcmatter-coin",
+  "coingeckoID": "Darcmatter-coin",
   "websiteURL": "https://konstellation.tech/"
 }

@@ -1,7 +1,7 @@
 {
   "localization": "ro",
-  "name": "Block",
-  "symbol": "BLOCK",
+  "name": "bloc",
+  "symbol": "BLOC",
   "description": "Jetonul nativ al Marblei DEX pe Juno Chain",
   "websiteURL": "https://www.junonetwork.io/"
 }

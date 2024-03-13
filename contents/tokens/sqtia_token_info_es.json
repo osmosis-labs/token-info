@@ -1,6 +1,7 @@
 {
-  "name": "TIA Squared",
-  "symbol": "sqTIA",
+  "localization": "es",
+  "name": "TIA al cuadrado",
+  "symbol": "qTIA",
   "description": "Token de poder marginal sqTIA",
-  "websiteURL": "https://osmosis.zone/"
+  "websiteURL": "https://osmosis.zona/"
 }

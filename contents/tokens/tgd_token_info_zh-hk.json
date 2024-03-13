@@ -1,8 +1,8 @@
 {
-  "localization": "zh",
-  "name": "Tgrade",
+  "localization": "en",
+  "name": "特級",
   "symbol": "TGD",
   "description": "Tgrade的原生代幣",
-  "coingeckoID": "tgrade",
+  "coingeckoID": "特級",
   "websiteURL": "https://tgrade.finance/"
 }

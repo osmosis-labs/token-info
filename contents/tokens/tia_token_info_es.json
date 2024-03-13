@@ -1,7 +1,7 @@
 {
   "localization": "es",
   "name": "Celestia",
-  "symbol": "TIA",
+  "symbol": "tia",
   "description": "<inlang-LineFeed><inlang-LineFeed>Celestia es una red modular de disponibilidad de datos que escala de forma segura con la cantidad de usuarios, lo que facilita que cualquiera pueda lanzar su propia cadena de bloques.",
   "coingeckoID": "celestia",
   "websiteURL": "https://celestia.org/",

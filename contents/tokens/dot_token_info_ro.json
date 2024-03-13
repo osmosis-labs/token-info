@@ -1,6 +1,7 @@
 {
-  "name": "Polkadot",
+  "localization": "ro",
+  "name": "Buline",
   "symbol": "DOT",
-  "description": "Taxa nativă, guvernare, miza și simbolul de asociere al platformei Polkadot.",
-  "coingeckoID": "polkadot"
+  "description": "Taxa nativă, guvernanța, miza și simbolul de asociere al platformei Polkadot.",
+  "coingeckoID": "buline"
 }

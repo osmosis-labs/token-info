@@ -1,7 +1,8 @@
 {
-  "name": "Hope Galaxy",
+  "localization": "ro",
+  "name": "Speranta Galaxy",
   "symbol": "HOPE",
   "description": "Hope Galaxy este o colecție NFT bazată pe propriul token nativ $HOPE, un jeton cw20 pe lanțul Juno.",
-  "coingeckoID": "hope-galaxy",
+  "coingeckoID": "speranță-galaxie",
   "websiteURL": "https://www.junonetwork.io/"
 }

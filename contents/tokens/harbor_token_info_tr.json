@@ -1,7 +1,8 @@
 {
-  "name": "Harbor",
+  "localization": "tr",
+  "name": "Liman",
   "symbol": "HARBOR",
   "description": "Comdex ağındaki Liman protokolünün Yönetişim Tokenı",
-  "coingeckoID": "harbor-2",
+  "coingeckoID": "liman-2",
   "websiteURL": "https://comdex.one/"
 }

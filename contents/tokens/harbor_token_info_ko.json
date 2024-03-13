@@ -1,7 +1,8 @@
 {
-  "name": "Harbor",
+  "localization": "ko",
+  "name": "항구",
   "symbol": "HARBOR",
   "description": "Comdex 네트워크의 하버 프로토콜 거버넌스 토큰",
-  "coingeckoID": "harbor-2",
+  "coingeckoID": "항구-2",
   "websiteURL": "https://comdex.one/"
 }

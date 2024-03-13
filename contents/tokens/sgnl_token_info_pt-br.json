@@ -1,5 +1,6 @@
 {
-  "name": "Signal",
+  "localization": "pt",
+  "name": "Sinal",
   "symbol": "SGNL",
   "description": "Arte de sinalização e jogos em Juno",
   "websiteURL": "https://www.junonetwork.io/"

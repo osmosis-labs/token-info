@@ -1,6 +1,7 @@
 {
-  "name": "Stride Staked TIA",
-  "symbol": "stTIA",
+  "localization": "ko",
+  "name": "스트라이드 스테이크 TIA",
+  "symbol": "스티티아",
   "description": "Stride의 리퀴드 스테이킹 TIA",
   "websiteURL": "https://stride.zone/"
 }

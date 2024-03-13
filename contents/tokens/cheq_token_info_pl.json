@@ -1,8 +1,8 @@
 {
   "localization": "pl",
-  "name": "Cheqd",
-  "symbol": "CHEQ",
+  "name": "Sprawdź",
+  "symbol": "SPRAWDŹ",
   "description": "Natywny token dla sieci cheqd",
-  "coingeckoID": "cheqd-network",
+  "coingeckoID": "sieć-cheqd",
   "websiteURL": "https://www.cheqd.io/"
 }

@@ -1,8 +1,8 @@
 {
   "localization": "zh",
-  "name": "Kava USDX",
-  "symbol": "USDX",
+  "name": "卡瓦美元指數",
+  "symbol": "美元指數",
   "description": "Kava 原生穩定幣",
-  "coingeckoID": "usdx",
+  "coingeckoID": "美元指數",
   "websiteURL": "https://www.kava.io/"
 }

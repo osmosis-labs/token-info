@@ -1,7 +1,7 @@
 {
-  "localization": "fr",
-  "name": "ATOM Squared",
-  "symbol": "sqATOM",
+  "localization": "en",
+  "name": "ATOME au carré",
+  "symbol": "carréATOM",
   "description": "Jeton de puissance marginal sqATOM",
   "websiteURL": "https://osmosis.zone/"
 }

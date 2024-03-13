@@ -1,8 +1,8 @@
 {
   "localization": "zh",
-  "name": "Shade",
+  "name": "遮荫",
   "symbol": "SHD",
   "description": "Shade on Secret Network 的原生代币 cw20",
-  "coingeckoID": "shade-protocol",
+  "coingeckoID": "阴影协议",
   "websiteURL": "https://scrt.network/"
 }

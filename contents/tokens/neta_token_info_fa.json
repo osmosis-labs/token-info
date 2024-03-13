@@ -1,7 +1,8 @@
 {
-  "name": "Neta",
+  "localization": "en",
+  "name": "نتا",
   "symbol": "NETA",
   "description": "توکن بومی cw20 برای Neta در Juno Chain",
-  "coingeckoID": "neta",
+  "coingeckoID": "نتا",
   "websiteURL": "https://www.junonetwork.io/"
 }

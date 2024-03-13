@@ -1,9 +1,9 @@
 {
   "localization": "tr",
-  "name": "Sentinel",
+  "name": "Nöbetçi",
   "symbol": "DVPN",
   "description": "DVPN, Sentinel Hub'ın yerel belirtecidir.<inlang-LineFeed>\nSentinel ekosistemi, özel ve sansüre dayanıklı internet erişimi sağlayan küresel bir otonom dVPN uygulamaları ağıdır.",
-  "coingeckoID": "sentinel",
+  "coingeckoID": "nöbetçi",
   "websiteURL": "https://sentinel.co/",
   "twitterURL": "https://twitter.com/SentinelVPN"
 }

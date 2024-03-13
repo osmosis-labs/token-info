@@ -1,7 +1,8 @@
 {
-  "name": "Sifchain",
-  "symbol": "ROWAN",
+  "localization": "en",
+  "name": "cadena sif",
+  "symbol": "SERBAL",
   "description": "Rowan Token (ROWAN) es el token de utilidad nativo de Sifchain Network, que se utiliza como medio principal para gobernar, proporcionar liquidez, asegurar la cadena de bloques, incentivar a los participantes y proporcionar un mecanismo predeterminado para almacenar e intercambiar valor.",
-  "coingeckoID": "sifchain",
+  "coingeckoID": "cadena sif",
   "websiteURL": "https://sifchain.finance/"
 }

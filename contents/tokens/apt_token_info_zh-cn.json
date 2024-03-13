@@ -1,7 +1,7 @@
 {
   "localization": "zh",
-  "name": "Aptos Coin",
-  "symbol": "APT",
+  "name": "阿普托斯币",
+  "symbol": "易于",
   "description": "Aptos 代币（APT）是 Aptos 区块链原生代币，用于支付网络和交易费用。",
   "coingeckoID": "aptos"
 }

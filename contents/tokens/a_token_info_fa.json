@@ -1,5 +1,6 @@
 {
-  "name": "Bostrom Ampere",
-  "symbol": "A",
+  "localization": "en",
+  "name": "بوستروم آمپر",
+  "symbol": "آ",
   "description": "نشانه منبع Bostrom"
 }

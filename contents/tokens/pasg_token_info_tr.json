@@ -1,8 +1,8 @@
 {
   "localization": "tr",
-  "name": "Passage",
+  "name": "Geçit",
   "symbol": "PASG",
   "description": "Passage zincirinin yerel stake ve yönetişim tokenı.",
-  "coingeckoID": "passage",
+  "coingeckoID": "geçit",
   "websiteURL": "https://passage3d.com/"
 }

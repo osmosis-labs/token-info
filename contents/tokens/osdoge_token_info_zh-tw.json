@@ -1,6 +1,7 @@
 {
-  "name": "Osmosis Doge",
-  "symbol": "OSDOGE",
+  "localization": "en",
+  "name": "滲透總督",
+  "symbol": "奧斯多吉",
   "description": "第一個關於滲透的總督",
   "websiteURL": "https://www.junonetwork.io/"
 }

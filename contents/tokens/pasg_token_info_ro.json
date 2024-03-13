@@ -1,8 +1,8 @@
 {
   "localization": "ro",
-  "name": "Passage",
+  "name": "Trecere",
   "symbol": "PASG",
   "description": "Indicatorul nativ de miză și guvernare al lanțului Passage.",
-  "coingeckoID": "passage",
+  "coingeckoID": "trecere",
   "websiteURL": "https://passage3d.com/"
 }

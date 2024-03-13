@@ -1,8 +1,8 @@
 {
-  "localization": "fr",
+  "localization": "en",
   "name": "StakeEasy bJUNO",
   "symbol": "BJUNO",
   "description": "Dérivé de jalonnement bJUNO pour JUNO jalonné",
-  "coingeckoID": "stakeeasy-bjuno",
+  "coingeckoID": "pieueasy-bjuno",
   "websiteURL": "https://www.junonetwork.io/"
 }

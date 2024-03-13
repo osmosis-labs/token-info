@@ -1,6 +1,7 @@
 {
+  "localization": "zh",
   "name": "TerraClassicUSD",
-  "symbol": "USTC",
+  "symbol": "中國科學技術大學",
   "description": "Terra Classic 的美元穩定幣。",
-  "coingeckoID": "terrausd"
+  "coingeckoID": "特勞斯德"
 }

@@ -1,8 +1,8 @@
 {
-  "localization": "zh",
-  "name": "milkTIA",
-  "symbol": "milkTIA",
+  "localization": "en",
+  "name": "牛奶TIA",
+  "symbol": "牛奶TIA",
   "description": "MilkyWay 的液體固定式 TIA",
-  "coingeckoID": "milkyway-staked-tia",
+  "coingeckoID": "銀河系樁蒂亞",
   "websiteURL": "https://osmosis.zone/"
 }

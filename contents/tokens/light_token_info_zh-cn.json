@@ -1,6 +1,7 @@
 {
-  "name": "LIGHT",
-  "symbol": "LIGHT",
+  "localization": "en",
+  "name": "光",
+  "symbol": "光",
   "description": "Light：LumenX 社区 DAO 金库代币",
   "websiteURL": "https://www.junonetwork.io/"
 }

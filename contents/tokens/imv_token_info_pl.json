@@ -1,8 +1,8 @@
 {
   "localization": "pl",
-  "name": "Imversed",
+  "name": "Odwrócony",
   "symbol": "IMV",
   "description": "Natywny EVM, zarządzanie i token stakowania Imversed",
-  "coingeckoID": "imv",
+  "coingeckoID": "imw",
   "websiteURL": "https://imversed.network/"
 }

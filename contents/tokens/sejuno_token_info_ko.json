@@ -1,8 +1,8 @@
 {
   "localization": "ko",
-  "name": "StakeEasy seJUNO",
-  "symbol": "SEJUNO",
+  "name": "스테이크Easy seJUNO",
+  "symbol": "세주노",
   "description": "스테이킹된 JUNO를 위한 스테이킹 파생상품 seJUNO",
-  "coingeckoID": "stakeeasy-juno-derivative",
+  "coingeckoID": "스테이크이지 주노 파생상품",
   "websiteURL": "https://www.junonetwork.io/"
 }

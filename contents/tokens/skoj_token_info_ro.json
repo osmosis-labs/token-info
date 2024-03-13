@@ -1,5 +1,6 @@
 {
-  "name": "Sikoba Token",
+  "localization": "ro",
+  "name": "Jeton Sikoba",
   "symbol": "SKOJ",
   "description": "Jeton de guvernare Sikoba",
   "websiteURL": "https://www.junonetwork.io/"

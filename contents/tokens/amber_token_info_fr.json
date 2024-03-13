@@ -1,6 +1,7 @@
 {
-  "name": "Amber",
-  "symbol": "AMBER",
+  "localization": "fr",
+  "name": "ambre",
+  "symbol": "AMBRE",
   "description": "Le token natif cw20 pour Amber sur Secret Network",
   "websiteURL": "https://scrt.network/"
 }

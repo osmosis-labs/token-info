@@ -1,8 +1,8 @@
 {
-  "localization": "es",
-  "name": "Tgrade",
+  "localization": "en",
+  "name": "Tgrado",
   "symbol": "TGD",
   "description": "El token nativo de Tgrade",
-  "coingeckoID": "tgrade",
+  "coingeckoID": "tgrado",
   "websiteURL": "https://tgrade.finance/"
 }

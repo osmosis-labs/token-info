@@ -1,7 +1,8 @@
 {
-  "name": "Acrechain",
+  "localization": "fr",
+  "name": "Acrèchain",
   "symbol": "ACRE",
   "description": "L'EVM natif, la gouvernance et le jeton de jalonnement de l'Acrechain",
-  "coingeckoID": "arable-protocol",
+  "coingeckoID": "protocole arable",
   "websiteURL": "https://arable.finance/"
 }

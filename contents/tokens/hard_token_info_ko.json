@@ -1,8 +1,8 @@
 {
-  "localization": "ko",
-  "name": "Kava Hard",
-  "symbol": "HARD",
+  "localization": "en",
+  "name": "카바 하드",
+  "symbol": "딱딱한",
   "description": "Kava Lend 프로토콜의 거버넌스 토큰",
-  "coingeckoID": "kava-lend",
+  "coingeckoID": "카바 렌드",
   "websiteURL": "https://www.kava.io/"
 }

@@ -1,6 +1,7 @@
 {
+  "localization": "fr",
   "name": "IRISnet",
   "symbol": "IRIS",
   "description": "Le jeton IRIS est le jeton de gouvernance natif de la chaîne IrisNet.",
-  "coingeckoID": "iris-network"
+  "coingeckoID": "réseau-iris"
 }

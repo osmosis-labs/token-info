@@ -1,7 +1,8 @@
 {
+  "localization": "en",
   "name": "Rizon",
   "symbol": "ATOLO",
   "description": "توکن بومی زنجیره Rizon",
-  "coingeckoID": "rizon",
+  "coingeckoID": "ریزن",
   "websiteURL": "https://rizon.world/"
 }

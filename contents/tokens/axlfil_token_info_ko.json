@@ -1,7 +1,7 @@
 {
   "localization": "ko",
-  "name": "Wrapped FIL from Filecoin",
+  "name": "Filecoin의 래핑된 FIL",
   "symbol": "axlFIL",
   "description": "Axelar의 래핑된 FIL",
-  "coingeckoID": "filecoin"
+  "coingeckoID": "파일코인"
 }

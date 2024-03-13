@@ -1,5 +1,6 @@
 {
-  "name": "PSTAKE staked ATOM",
+  "localization": "en",
+  "name": "ATOM apostado em PSTAKE",
   "symbol": "stkATOM",
   "description": "PSTAKE ATOM com aposta líquida",
   "coingeckoID": "stkatom",

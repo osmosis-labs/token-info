@@ -1,5 +1,6 @@
 {
-  "name": "TIA Squared",
+  "localization": "fr",
+  "name": "TIA au carré",
   "symbol": "sqTIA",
   "description": "Jeton de puissance marginal sqTIA",
   "websiteURL": "https://osmosis.zone/"

@@ -1,9 +1,9 @@
 {
   "localization": "zh",
-  "name": "Sentinel",
-  "symbol": "DVPN",
-  "description": "DVPN 是 Sentinel Hub 的本机令牌。<inlang-LineFeed>\nSentinel 生态系统是一个由自主 dVPN 应用程序组成的全球网络，可实现私密且抗审查的互联网访问。",
-  "coingeckoID": "sentinel",
+  "name": "哨兵",
+  "symbol": "数字VPN",
+  "description": "DVPN 是 Sentinel Hub 的原生令牌。<inlang-LineFeed>\nSentinel 生态系统是一个由自主 dVPN 应用程序组成的全球网络，可实现私密且抗审查的互联网访问。",
+  "coingeckoID": "哨兵",
   "websiteURL": "https://sentinel.co/",
   "twitterURL": "https://twitter.com/SentinelVPN"
 }

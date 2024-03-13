@@ -1,7 +1,7 @@
 {
   "localization": "zh",
   "name": "Kusama",
-  "symbol": "KSM",
+  "symbol": "凱斯曼",
   "description": "Polkadot 平台的原生費用、治理、質押和綁定代幣。",
   "coingeckoID": "kusama"
 }

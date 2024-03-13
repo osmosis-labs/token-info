@@ -1,7 +1,7 @@
 {
-  "localization": "ro",
-  "name": "Stride Staked STARS",
+  "localization": "en",
+  "name": "Stride Staked STELE",
   "symbol": "stSTARS",
-  "coingeckoID": "stride-staked-stars",
+  "coingeckoID": "stele-păşite",
   "websiteURL": "https://stride.zone/"
 }

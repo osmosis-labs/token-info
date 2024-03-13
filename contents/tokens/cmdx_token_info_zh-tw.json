@@ -1,7 +1,8 @@
 {
-  "name": "Comdex",
+  "localization": "zh",
+  "name": "康德克斯",
   "symbol": "CMDX",
   "description": "Comdex協議的原生代幣",
-  "coingeckoID": "comdex",
+  "coingeckoID": "商品指數",
   "websiteURL": "https://comdex.one/"
 }

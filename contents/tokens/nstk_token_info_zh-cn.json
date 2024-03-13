@@ -1,8 +1,8 @@
 {
   "localization": "zh",
-  "name": "Unstake Fi",
+  "name": "取消质押 Fi",
   "symbol": "NSTK",
   "description": "Unstake.fi 的收入与治理代币",
-  "coingeckoID": "unstake-fi",
+  "coingeckoID": "取消质押-fi",
   "websiteURL": "https://kujira.app/"
 }

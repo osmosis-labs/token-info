@@ -1,6 +1,7 @@
 {
-  "name": "PURSE Token",
-  "symbol": "PURSE",
+  "localization": "en",
+  "name": "ژتون کیف پول",
+  "symbol": "کیف پول",
   "description": "ژتون کیف پول",
   "websiteURL": "https://pundix.com"
 }

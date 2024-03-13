@@ -1,6 +1,7 @@
 {
+  "localization": "ko",
   "name": "Stride Staked ATOM",
-  "symbol": "stATOM",
-  "coingeckoID": "stride-staked-atom",
+  "symbol": "통계",
+  "coingeckoID": "스트라이드 스테이크 원자",
   "websiteURL": "https://stride.zone/"
 }

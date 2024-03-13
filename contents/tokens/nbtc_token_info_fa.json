@@ -1,5 +1,6 @@
 {
-  "name": "Nomic Bitcoin",
+  "localization": "en",
+  "name": "بیت کوین اسمی",
   "symbol": "nBTC",
   "description": "بیت کوین. در کیهان.",
   "websiteURL": "https://nomic.io/"

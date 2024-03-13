@@ -1,6 +1,7 @@
 {
-  "name": "Neokingdom DAO",
-  "symbol": "NEOK",
+  "localization": "ko",
+  "name": "네오킹덤 DAO",
+  "symbol": "네오크",
   "description": "네오킹덤 DAO의 토큰입니다.",
   "websiteURL": "https://evmos.org/"
 }

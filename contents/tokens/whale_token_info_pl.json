@@ -1,8 +1,8 @@
 {
-  "localization": "pl",
+  "localization": "en",
   "name": "Migaloo",
   "symbol": "WHALE",
   "description": "Natywny token łańcucha Migaloo",
-  "coingeckoID": "white-whale",
+  "coingeckoID": "biały wieloryb",
   "websiteURL": "https://www.whitewhale.money/"
 }

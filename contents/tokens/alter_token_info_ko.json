@@ -1,8 +1,8 @@
 {
   "localization": "ko",
-  "name": "Alter",
-  "symbol": "ALTER",
+  "name": "바꾸다",
+  "symbol": "바꾸다",
   "description": "Alter on Secret Network의 기본 토큰 cw20",
-  "coingeckoID": "alter",
+  "coingeckoID": "바꾸다",
   "websiteURL": "https://scrt.network/"
 }

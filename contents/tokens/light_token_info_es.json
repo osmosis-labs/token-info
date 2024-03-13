@@ -1,6 +1,7 @@
 {
-  "name": "LIGHT",
-  "symbol": "LIGHT",
+  "localization": "en",
+  "name": "LUZ",
+  "symbol": "LUZ",
   "description": "Luz: token de tesorería DAO de la comunidad LumenX",
   "websiteURL": "https://www.junonetwork.io/"
 }

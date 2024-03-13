@@ -1,8 +1,8 @@
 {
   "localization": "pl",
-  "name": "Kava USDX",
+  "name": "Kawa USDX",
   "symbol": "USDX",
   "description": "Natywna moneta typu stablecoin firmy Kava",
-  "coingeckoID": "usdx",
+  "coingeckoID": "USDx",
   "websiteURL": "https://www.kava.io/"
 }

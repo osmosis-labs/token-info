@@ -1,8 +1,8 @@
 {
   "localization": "tr",
-  "name": "Kava Swap",
+  "name": "Kava Takas",
   "symbol": "SWP",
   "description": "Kava Swap Protokolünün yönetim tokenı",
-  "coingeckoID": "kava-swap",
+  "coingeckoID": "kava-takas",
   "websiteURL": "https://www.kava.io/"
 }

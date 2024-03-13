@@ -1,7 +1,7 @@
 {
   "localization": "fr",
   "name": "Provenance",
-  "symbol": "HASH",
+  "symbol": "HACHER",
   "description": "Le hachage est le jeton de jalonnement de la blockchain Provenance",
   "coingeckoID": "provenance-blockchain",
   "websiteURL": "https://provenance.io/"

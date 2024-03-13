@@ -1,6 +1,6 @@
 {
   "localization": "pt",
-  "name": "SCRT Staking Derivatives",
+  "name": "Derivados de piquetagem SCRT",
   "symbol": "stkd-SCRT",
   "description": "O token nativo cw20 para derivados de piquetagem SCRT na rede secreta",
   "coingeckoID": "stkd-scrt",

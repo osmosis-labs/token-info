@@ -1,8 +1,8 @@
 {
-  "localization": "ko",
-  "name": "milkTIA",
-  "symbol": "milkTIA",
+  "localization": "en",
+  "name": "우유TIA",
+  "symbol": "우유TIA",
   "description": "MilkyWay의 액체 스테이크 TIA",
-  "coingeckoID": "milkyway-staked-tia",
+  "coingeckoID": "밀키웨이 스테이크 티아",
   "websiteURL": "https://osmosis.zone/"
 }

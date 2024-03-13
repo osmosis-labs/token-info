@@ -1,5 +1,6 @@
 {
-  "name": "PSTAKE staked OSMO",
+  "localization": "en",
+  "name": "PSTAKE OSMO را شرط بندی کرد",
   "symbol": "stkOSMO",
   "description": "PSTAKE Liquid-Staked OSMO",
   "coingeckoID": "pstake-staked-osmo",

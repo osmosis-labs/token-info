@@ -1,6 +1,7 @@
 {
+  "localization": "fr",
   "name": "Unification",
-  "symbol": "FUND",
+  "symbol": "FONDS",
   "description": "Pièce de jalonnement et de gouvernance pour la blockchain de l'unification",
   "coingeckoID": "unification",
   "websiteURL": "https://unification.com/"

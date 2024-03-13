@@ -1,7 +1,7 @@
 {
   "localization": "ko",
-  "name": "Decentr",
-  "symbol": "DEC",
+  "name": "디센트",
+  "symbol": "12월",
   "description": "Decentr의 기본 토큰",
-  "coingeckoID": "decentr"
+  "coingeckoID": "분산"
 }

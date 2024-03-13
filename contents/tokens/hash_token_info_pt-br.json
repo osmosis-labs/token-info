@@ -1,8 +1,8 @@
 {
   "localization": "pt",
-  "name": "Provenance",
-  "symbol": "HASH",
+  "name": "Proveniência",
+  "symbol": "CERQUILHA",
   "description": "Hash é o token de piquetagem do Provenance Blockchain",
-  "coingeckoID": "provenance-blockchain",
+  "coingeckoID": "blockchain de origem",
   "websiteURL": "https://provenance.io/"
 }
