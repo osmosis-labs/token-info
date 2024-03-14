@@ -13,8 +13,7 @@ const tokensInfo = globSync(`contents/tokens/*_token_info_${language}.json`);
 
 for (const tokenInfo of tokensInfo) {
   const fileName = tokenInfo.split("/").pop().replace(".json", "");
-  const fileNameChuncks = fileName.split("_");
-  const denom = fileNameChuncks.shift();
+  const denom = fileName.split("_").shift(); // Extracting the first part as denomination
 
   const defaultValues = JSON.parse(fs.readFileSync(tokenInfo).toString());
 
@@ -23,12 +22,16 @@ for (const tokenInfo of tokensInfo) {
     const translation = translations[`${denom}`];
 
     const tokenData = {
-        ...defaultValues,
-        description: translation?.description,
-        localization: translation?.localization,
+      ...defaultValues, // Copy default values
+      localization: translation?.localization // Always include localization code
+    };
+
+    // Update description field if translation is available
+    if (translation?.description) {
+      tokenData.description = translation.description;
     }
 
-    fs.writeFileSync(`contents/tokens/${denom}_token_info_${lang}.json`, Buffer.from(JSON.stringify(tokenData, undefined, 2)))
+    // Write updated tokenData to file
+    fs.writeFileSync(`contents/tokens/${denom}_token_info_${lang}.json`, Buffer.from(JSON.stringify(tokenData, undefined, 2)));
   }
 }
-

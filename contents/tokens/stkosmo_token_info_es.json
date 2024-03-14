@@ -1,4 +1,5 @@
 {
+  "localization": "es",
   "name": "PSTAKE staked OSMO",
   "symbol": "stkOSMO",
   "description": "PSTAKE OSMO con participación líquida",

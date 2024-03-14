@@ -1,4 +1,5 @@
 {
+  "localization": "zh",
   "name": "Polygon",
   "symbol": "MATIC",
   "description": "Polygon（以前称为 Matic）网络使用 Plasma 的改编版本和基于 PoS 的侧链，为以太坊带来了大规模的规模。 Polygon 是一个结构良好、易于使用的平台，用于以太坊扩展和基础设施开发。",

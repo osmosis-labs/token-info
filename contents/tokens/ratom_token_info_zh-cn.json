@@ -1,4 +1,5 @@
 {
+  "localization": "zh",
   "name": "rATOM",
   "symbol": "rATOM",
   "description": "质押 ATOM 的流动性质押表示",

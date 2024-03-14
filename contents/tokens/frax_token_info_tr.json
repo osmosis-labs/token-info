@@ -1,4 +1,5 @@
 {
+  "localization": "tr",
   "name": "Frax",
   "symbol": "FRAX",
   "description": "Frax, kesirli-algoritmik bir stabilcoin protokolüdür. BTC gibi sabit tedarikli varlıkların yerine yüksek oranda ölçeklenebilir, merkezi olmayan, algoritmik bir para sağlamayı amaçlıyor. Ek olarak FXS, tüm Frax ekosisteminin değer tahakkuk ve yönetim tokenidir.",

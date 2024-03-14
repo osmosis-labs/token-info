@@ -2,7 +2,7 @@
   "localization": "en",
   "name": "Celestia",
   "symbol": "TIA",
-  "description": "<inlang-LineFeed><inlang-LineFeed>Celestia یک شبکه در دسترس بودن داده های مدولار است که به طور ایمن با تعداد کاربران مقیاس می شود و راه اندازی بلاک چین خود را برای هر کسی آسان می کند.",
+  "description": "<inlang-LineFeed><inlang-LineFeed>Celestia یک شبکه ماژولار در دسترس بودن داده است که به طور ایمن با تعداد کاربران مقیاس می شود و راه اندازی بلاک چین را برای هر کسی آسان می کند.",
   "coingeckoID": "celestia",
   "websiteURL": "https://celestia.org/",
   "twitterURL": "https://twitter.com/CelestiaOrg"
