@@ -1,4 +1,5 @@
 {
+  "localization": "pl",
   "name": "Arable USD",
   "symbol": "arUSD",
   "description": "Nadzabezpieczona stabilna moneta dla instrumentów pochodnych Arable v1",

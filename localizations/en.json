@@ -6,6 +6,15 @@
     "description": "Maximize ETH yield through leveraged staking across Aave, Compound and Morpho and liquidity provision of ETH liquid staking tokens on Uniswap V3.",
     "coingeckoID": "yieldeth-sommelier"
   },
+  "xrp": {
+    "core": {
+      "localization": "en",
+      "name": "Ripple (Coreum)",
+      "symbol": "XRP.core",
+      "description": "XRP bridged from XRPL",
+      "websiteURL": "https://www.coreum.com"
+    }
+  },
   "xprt": {
     "localization": "en",
     "name": "Persistence",
@@ -410,6 +419,13 @@
     "coingeckoID": "stride-staked-evmos",
     "websiteURL": "https://stride.zone/"
   },
+  "stdym": {
+    "localization": "en",
+    "name": "Stride Staked DYM",
+    "symbol": "stDYM",
+    "description": "Stride's liquid staked DYM",
+    "websiteURL": "https://stride.zone/"
+  },
   "stdydx": {
     "localization": "en",
     "name": "Stride Staked DYDX",
@@ -479,9 +495,10 @@
     "localization": "en",
     "name": "Source",
     "symbol": "SOURCE",
-    "description": "The native token of SOURCE Chain",
+    "description": "The native token of SOURCE Chain\n\nEnterprises, developers, and individuals are empowered to use SOURCE's sustainable and value backed network to easily access, build, and integrate web3 applications and services.",
     "coingeckoID": "source",
-    "websiteURL": "https://www.sourceprotocol.io/"
+    "websiteURL": "https://www.sourceprotocol.io/",
+    "twitterURL": "https://twitter.com/sourceprotocol_"
   },
   "somm": {
     "localization": "en",
@@ -583,6 +600,13 @@
     "description": "The native token cw20 for Shade on Secret Network",
     "websiteURL": "https://scrt.network/"
   },
+  "shark": {
+    "localization": "en",
+    "name": "SHARK",
+    "symbol": "SHARK",
+    "description": "SHARK is the apex price prediction market within Cosmos.",
+    "websiteURL": "https://www.whitewhale.money/"
+  },
   "sgnl": {
     "localization": "en",
     "name": "Signal",
@@ -611,6 +635,13 @@
     "description": "Staking derivative seJUNO for staked JUNO",
     "coingeckoID": "stakeeasy-juno-derivative",
     "websiteURL": "https://www.junonetwork.io/"
+  },
+  "seiyan": {
+    "localization": "en",
+    "name": "SEIYAN",
+    "symbol": "SEIYAN",
+    "description": "The Original Meme Coin of SEI Network",
+    "websiteURL": "https://www.sei.io/"
   },
   "sei": {
     "localization": "en",
@@ -641,7 +672,15 @@
     "localization": "en",
     "name": "Scorum",
     "symbol": "SCR",
-    "description": "The native token of Scorum"
+    "description": "The native token of Scorum",
+    "twitterURL": "https://twitter.com/scorum_en"
+  },
+  "sail": {
+    "localization": "en",
+    "name": "Sail",
+    "symbol": "SAIL",
+    "description": "Sail DAO Token",
+    "websiteURL": "https://osmosis.zone/"
   },
   "rowan": {
     "localization": "en",
@@ -739,8 +778,10 @@
     "localization": "en",
     "name": "Qwoyn",
     "symbol": "QWOYN",
-    "description": "QWOYN is the native governance token for Qwoyn Network\n\nThe Qwoyn Network stands as a cutting-edge gaming hub that embeds Web3 technologies into the core of interactive entertainment. It revolutionizes the gaming industry by ensuring true ownership of in-game assets for players, facilitated through blockchain. This approach not only enhances gameplay but also fosters a unique ecosystem of interoperability and innovation. As a beacon in the gaming world, Qwoyn Network is dedicated to merging the excitement of traditional gaming with the transformative potential of Web3, creating a seamless and enriched gaming experience.",
-    "websiteURL": "https://qwoyn.studio/"
+    "description": "The native governance token for Qwoyn Network\n\nThe Qwoyn Network stands as a cutting-edge gaming hub that embeds Web3 technologies into the core of interactive entertainment. It revolutionizes the gaming industry by ensuring true ownership of in-game assets for players, facilitated through blockchain. This approach not only enhances gameplay but also fosters a unique ecosystem of interoperability and innovation. As a beacon in the gaming world, Qwoyn Network is dedicated to merging the excitement of traditional gaming with the transformative potential of Web3, creating a seamless and enriched gaming experience.",
+    "coingeckoID": "qwoyn",
+    "websiteURL": "https://qwoyn.studio",
+    "twitterURL": "https://twitter.com/Qwoyn_Studios"
   },
   "qstars": {
     "localization": "en",
@@ -843,9 +884,10 @@
     "localization": "en",
     "name": "Planq",
     "symbol": "PLQ",
-    "description": "The native EVM, governance and staking token of the Planq Network",
+    "description": "The native EVM, governance and staking token of the Planq Network\n\nPlanq is the very first cryptocurrency project to keep mobile platform usability at heart, taking a step away from dependency on desktop services. By focusing on easy accessibility and close integration of other blockchains via easy to use bridges, Planq will push Web 3 adoption in the mobile space to the next level.",
     "coingeckoID": "planq",
-    "websiteURL": "https://planq.network/"
+    "websiteURL": "https://planq.network",
+    "twitterURL": "https://twitter.com/planqfoundation"
   },
   "pica": {
     "localization": "en",
@@ -927,16 +969,18 @@
     "localization": "en",
     "name": "Odin Protocol",
     "symbol": "ODIN",
-    "description": "Staking and governance token for ODIN Protocol",
+    "description": "ODIN is the Staking and governance token for ODIN Protocol",
     "coingeckoID": "odin-protocol",
-    "websiteURL": "https://odinprotocol.io/"
+    "websiteURL": "https://odinprotocol.io/",
+    "twitterURL": "https://twitter.com/odinprotocol"
   },
   "o9w": {
     "localization": "en",
     "name": "O9W",
     "symbol": "O9W",
     "description": "O9W token for ODIN Protocol",
-    "websiteURL": "https://odinprotocol.io/"
+    "websiteURL": "https://odinprotocol.io/",
+    "twitterURL": "https://twitter.com/odin9worlds"
   },
   "nyx": {
     "localization": "en",
@@ -1008,6 +1052,14 @@
     "description": "The first meme coin on Injective. It’s a dog, but he has nunchucks",
     "coingeckoID": "dog-wif-nuchucks",
     "websiteURL": "https://injective.com/"
+  },
+  "nibi": {
+    "localization": "en",
+    "name": "Nibiru",
+    "symbol": "NIBI",
+    "description": "The native token of Nibiru network\n\nA Web3 hub ushering in the next era of money",
+    "coingeckoID": "nibiru",
+    "websiteURL": "https://nibiru.fi/"
   },
   "ngm": {
     "localization": "en",
@@ -1754,6 +1806,15 @@
     "name": "Dora Vota",
     "symbol": "DORA",
     "description": "The native staking and governance token of the Theta testnet version of the Dora Vota."
+  },
+  "doki": {
+    "localization": "en",
+    "name": "DOKI",
+    "symbol": "DOKI",
+    "description": "DOKI the last Dragon",
+    "coingeckoID": "doki",
+    "websiteURL": "https://odinprotocol.io/",
+    "twitterURL": "https://twitter.com/doki_coin"
   },
   "doga": {
     "localization": "en",

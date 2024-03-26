@@ -2,7 +2,8 @@
   "localization": "es",
   "name": "Odin Protocol",
   "symbol": "ODIN",
-  "description": "Token de participación y gobernanza para el protocolo ODIN",
+  "description": "ODIN es el token de participación y gobernanza del protocolo ODIN",
   "coingeckoID": "odin-protocol",
-  "websiteURL": "https://odinprotocol.io/"
+  "websiteURL": "https://odinprotocol.io/",
+  "twitterURL": "https://twitter.com/odinprotocol"
 }

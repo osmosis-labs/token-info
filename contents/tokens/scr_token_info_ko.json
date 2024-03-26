@@ -2,5 +2,6 @@
   "localization": "ko",
   "name": "Scorum",
   "symbol": "SCR",
-  "description": "Scorum의 기본 토큰"
+  "description": "Scorum의 기본 토큰",
+  "twitterURL": "https://twitter.com/scorum_en"
 }

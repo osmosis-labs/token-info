@@ -1,4 +1,5 @@
 {
+  "localization": "es",
   "name": "Arable USD",
   "symbol": "arUSD",
   "description": "Moneda estable con sobregarantía para derivados de Arable v1",

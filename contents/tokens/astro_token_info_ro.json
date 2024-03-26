@@ -1,7 +1,8 @@
 {
+  "localization": "ro",
   "name": "Astroport",
   "symbol": "ASTRO",
-  "description": "Astroport este o piață neutră în care oricine, de oriunde în galaxie, poate andoca pentru a-și face schimb de mărfuri.",
+  "description": "Astroport este o piață neutră în care oricine, de oriunde în galaxie, poate andoca pentru a-și schimba mărfurile.",
   "coingeckoID": "astroport-fi",
   "websiteURL": "https://www.terra.money/",
   "twitterURL": "https://twitter.com/astroport_fi"

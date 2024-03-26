@@ -2,7 +2,8 @@
   "localization": "zh",
   "name": "Odin Protocol",
   "symbol": "ODIN",
-  "description": "ODIN 協議的質押和治理代幣",
+  "description": "ODIN 是 ODIN 協議的質押和治理代幣",
   "coingeckoID": "odin-protocol",
-  "websiteURL": "https://odinprotocol.io/"
+  "websiteURL": "https://odinprotocol.io/",
+  "twitterURL": "https://twitter.com/odinprotocol"
 }

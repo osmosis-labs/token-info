@@ -2,7 +2,8 @@
   "localization": "zh",
   "name": "Source",
   "symbol": "SOURCE",
-  "description": "SOURCE Chain的原生代币",
+  "description": "SOURCE Chain的原生代币<inlang-LineFeed><inlang-LineFeed>企业、开发人员和个人能够使用 SOURCE 的可持续且价值支持的网络来轻松访问、构建和集成 web3 应用程序和服务。",
   "coingeckoID": "source",
-  "websiteURL": "https://www.sourceprotocol.io/"
+  "websiteURL": "https://www.sourceprotocol.io/",
+  "twitterURL": "https://twitter.com/sourceprotocol_"
 }

@@ -2,5 +2,6 @@
   "localization": "es",
   "name": "Scorum",
   "symbol": "SCR",
-  "description": "El token nativo de Scorum"
+  "description": "El token nativo de Scorum",
+  "twitterURL": "https://twitter.com/scorum_en"
 }
