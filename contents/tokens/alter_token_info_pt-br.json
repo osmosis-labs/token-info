@@ -1,4 +1,5 @@
 {
+  "localization": "pt",
   "name": "Alter",
   "symbol": "ALTER",
   "description": "O token nativo cw20 para Alter na Secret Network",

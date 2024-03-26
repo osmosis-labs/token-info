@@ -1,4 +1,5 @@
 {
+  "localization": "zh",
   "name": "Wrapped Lido Staked Ether",
   "symbol": "wstETH",
   "description": "wstETH 是 stETH 的包装版本。由于一些 DeFi 协议需要代币的恒定平衡机制，wstETH 使您的 stETH 余额保持固定，并使用底层份额系统来反映您赚取的质押奖励。",

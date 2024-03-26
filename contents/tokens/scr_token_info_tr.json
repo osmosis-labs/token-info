@@ -2,5 +2,6 @@
   "localization": "tr",
   "name": "Scorum",
   "symbol": "SCR",
-  "description": "Scorum'un yerel jetonu"
+  "description": "Scorum'un yerel jetonu",
+  "twitterURL": "https://twitter.com/scorum_en"
 }
