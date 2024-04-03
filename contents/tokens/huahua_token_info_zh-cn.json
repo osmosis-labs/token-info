@@ -1,8 +1,8 @@
 {
-  "localization": "zh",
+  "localization": "英文",
   "name": "Chihuahua",
   "symbol": "HUAHUA",
-  "description": "Chihuahua Chain 原生代币",
+  "description": "Chihuahua Chain 的原生代币",
   "coingeckoID": "chihuahua-token",
   "websiteURL": "https://chihuahua.wtf/"
 }

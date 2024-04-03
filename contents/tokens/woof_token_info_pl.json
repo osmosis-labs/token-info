@@ -1,6 +1,7 @@
 {
+  "localization": "pl",
   "name": "WOOF",
   "symbol": "WOOF",
-  "description": "Wątek",
+  "description": "Woof",
   "websiteURL": "https://chihuahua.wtf/"
 }

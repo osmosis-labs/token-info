@@ -1,6 +1,7 @@
 {
+  "localization": "zh",
   "name": "Amber",
   "symbol": "AMBER",
-  "description": "Secret Network 上 Amber 的原生代币 cw20",
+  "description": "Secret Network 上的 Amber 原生代币 cw20",
   "websiteURL": "https://scrt.network/"
 }

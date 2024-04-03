@@ -133,6 +133,15 @@
     "description": "A revolutionary DAO created to bring clean drinking water to men, women, and children worldwide. We hope you join us on our journey!",
     "websiteURL": "https://www.junonetwork.io/"
   },
+  "w": {
+    "localization": "en",
+    "name": "Wormhole Token",
+    "symbol": "W",
+    "description": "W is the native token powering the Wormhole interoperability platform.\n\nWormhole token (W) serves as the governance token of the Wormhole protocol, empowering token holders to steer the protocol's direction through on-chain governance via a dedicated decentralized autonomous organization (DAO).\n\nWormhole was founded by Jump Crypto, the building arm of Jump Trading Group. Initially launched in 2021, the protocol first debuted as a token bridge, allowing the transfer of tokens between blockchains, most notably between Solana and Ethereum. Wormhole later evolved, with Wormhole V2, to take on a more general approach, turning into an interoperability layer on which chains and decentralized applications could easily build on.\n\nWormhole V2 is a general messaging protocol, enabling different blockchains to communicate with one another. This technology could be used for a variety of use cases, including transfer of tokens between chains, enabling cross-chain governance for protocols that operated across chains as well as transfers of NFTs across chains, which could be utilized for multi-chain games. Wormhole V2 also saw the protocol expand its services to include Osmosis.\n\nTo date, the protocol has processed over $40 billion worth of value transfer across the blockchains supported, and over 1 billion messages sent. It supports over 30 blockchains, including most of the leading networks, and has a thriving ecosystem of over 200 applications built using Wormhole's technology.\n\nIn November 2023, Jump and Wormhole announced their intention to split ways. Following the separation, Wormhole announced that it raised $225 million, valuing the company at $2.5 billion. Investors include Brevan Howard, Coinbase Ventures, Multicoin Capital, Jump Crypto and more.",
+    "coingeckoID": "wormhole",
+    "websiteURL": "https://wormhole.com/",
+    "twitterURL": "https://twitter.com/wormhole"
+  },
   "void": {
     "localization": "en",
     "name": "Void",
@@ -249,6 +258,13 @@
     "coingeckoID": "umee",
     "websiteURL": "https://www.ux.xyz"
   },
+  "toro": {
+    "localization": "en",
+    "name": "TORO",
+    "symbol": "TORO",
+    "description": "The memecoin built for the Celestia community",
+    "websiteURL": "https://osmosis.zone/"
+  },
   "tori": {
     "localization": "en",
     "name": "Teritori",
@@ -262,6 +278,13 @@
     "name": "Bostrom Tocyb",
     "symbol": "TOCYB",
     "description": "The staking token of Cyber"
+  },
+  "tnkr": {
+    "localization": "en",
+    "name": "Tinkernet",
+    "symbol": "TNKR",
+    "description": "The native fee, governance and staking token of the Tinkernet Parachain.",
+    "coingeckoID": "tinkernet"
   },
   "tick": {
     "localization": "en",
@@ -446,7 +469,7 @@
     "symbol": "STARS",
     "description": "The native token of Stargaze\n\nThe premier community-focused blockchain for NFTs. Stargaze empowers creators, developers, collectors, and traders to participate on the platform. The Stargaze chain consists of various NFT-related apps such as a Launchpad, and a Marketplace with offers and auctions.",
     "coingeckoID": "stargaze",
-    "websiteURL": "https://stargaze.zone/",
+    "websiteURL": "https://www.stargaze.zone/",
     "twitterURL": "https://twitter.com/StargazeZone"
   },
   "srcx": {
@@ -506,7 +529,7 @@
     "symbol": "SOMM",
     "description": "Somm Token (SOMM) is the native staking token of the Sommelier Chain\n\nAutomated vaults find best-in-class yields while mitigating risk.",
     "coingeckoID": "sommelier",
-    "websiteURL": "https://sommelier.finance/",
+    "websiteURL": "https://www.sommelier.finance/",
     "twitterURL": "https://twitter.com/sommfinance"
   },
   "solar": {
@@ -673,7 +696,15 @@
     "name": "Scorum",
     "symbol": "SCR",
     "description": "The native token of Scorum",
+    "websiteURL": "https://scorum.com",
     "twitterURL": "https://twitter.com/scorum_en"
+  },
+  "sayve": {
+    "localization": "en",
+    "name": "sayve",
+    "symbol": "SAYVE",
+    "description": "Sayve is a revolutionary language learning app in the Web3 era that combines gamification, blockchain technology, and a Metaverse experience to motivate users to learn languages while earning rewards.",
+    "websiteURL": "https://www.terra.money/"
   },
   "sail": {
     "localization": "en",
@@ -857,6 +888,13 @@
     "description": "Puppy",
     "websiteURL": "https://chihuahua.wtf/"
   },
+  "pundix": {
+    "localization": "en",
+    "name": "Pundi X Token",
+    "symbol": "PUNDIX",
+    "description": "PUNDIX token is the native token that functions within the Pundi X ecosystem, including PundiX Chain and XPOS.",
+    "coingeckoID": "pundi-x-2"
+  },
   "pstake": {
     "localization": "en",
     "name": "pSTAKE Finance",
@@ -940,7 +978,7 @@
     "symbol": "OSMO",
     "description": "The native token of Osmosis\n\nOsmosis (OSMO) is the premier DEX and cross-chain DeFi hub within the Cosmos ecosystem, a network of over 50 sovereign, interoperable blockchains seamlessly connected through the Inter-Blockchain Communication Protocol (IBC). Pioneering in its approach, Osmosis offers a dynamic trading and liquidity provision experience, integrating non-IBC assets from other ecosystems, including Ethereum, Solana, Avalanche, and Polkadot. Initially adopting Balancer-style pools, Osmosis now also features a concentrated liquidity model that is orders of magnitude more capital efficient, meaning that significantly less liquidity is required to handle the same amount of trading volume with minimal slippage.\n\nAs a true appchain, Osmosis has greater control over the full blockchain stack than traditional smart contract DEXs, which must follow the code of the parent chain that it is built on. This fine-grained control has enabled, for example, the development of Superfluid Staking, an extension of Proof of Stake that allows assets at the application layer to be staked to secure the chain. The customizability of appchains also allows implementing features like the Protocol Revenue module, which enables Osmosis to conduct on-chain arbitrage on behalf of OSMO stakers, balancing prices across pools while generating real yield revenue from this volume. Additionally, as a sovereign appchain, Osmosis governance can vote on upgrades to the protocol. One example of this was the introduction of a Taker Fee, which switched on the collection of exchange fees to generate diverse yield from Osmosis volume and distribute it to OSMO stakers.\n\nOsmosis is bringing the full centralized exchange experience to the decentralized world by building a cross-chain native DEX and trading suite that connects all chains over IBC, including Ethereum and Bitcoin. To reach this goal, Osmosis hosts an ever-expanding suite of DeFi applications aimed at providing a one-stop experience that includes lending, credit, margin, DeFi strategy vaults, power perps, fiat on-ramps, NFTs, stablecoins, and more — all of the functionalities that centralized exchange offer and more, in the trust-minimized environment of decentralized finance.",
     "coingeckoID": "osmosis",
-    "websiteURL": "https://osmosis.zone/",
+    "websiteURL": "https://osmosis.zone",
     "twitterURL": "https://twitter.com/osmosiszone"
   },
   "osdoge": {
@@ -979,7 +1017,7 @@
     "name": "O9W",
     "symbol": "O9W",
     "description": "O9W token for ODIN Protocol",
-    "websiteURL": "https://odinprotocol.io/",
+    "websiteURL": "https://www.odin9worlds.io/",
     "twitterURL": "https://twitter.com/odin9worlds"
   },
   "nyx": {
@@ -1136,7 +1174,7 @@
     "symbol": "MNTL",
     "description": "The native token of Asset Mantle\n\nAssetMantle’s suite of products is focused on the NFT ecosystem, helping you up your game with digital asset ownership.",
     "coingeckoID": "assetmantle",
-    "websiteURL": "https://assetmantle.one/",
+    "websiteURL": "https://www.assetmantle.one/",
     "twitterURL": "https://twitter.com/AssetMantle"
   },
   "mnta": {
@@ -1313,6 +1351,13 @@
     "description": "The native token of Lambda",
     "coingeckoID": "lambda"
   },
+  "lab": {
+    "localization": "en",
+    "name": "LAB",
+    "symbol": "LAB",
+    "description": "LAB - Everything is an Experiment",
+    "websiteURL": "https://osmosis.zone/"
+  },
   "l1": {
     "localization": "en",
     "name": "GenesisL1",
@@ -1334,7 +1379,7 @@
     "symbol": "KUJI",
     "description": "The native staking and governance token of the Kujira chain.\n\nA decentralized ecosystem for protocols, builders and web3 users seeking sustainable FinTech.",
     "coingeckoID": "kujira",
-    "websiteURL": "https://kujira.app/",
+    "websiteURL": "https://kujira.network/",
     "twitterURL": "https://twitter.com/TeamKujira"
   },
   "ksm": {
@@ -1383,7 +1428,7 @@
     "symbol": "JUNO",
     "description": "The native token of JUNO Chain\n\nJuno is a completely community owned and operated smart contract platform.",
     "coingeckoID": "juno-network",
-    "websiteURL": "https://www.junonetwork.io/",
+    "websiteURL": "https://junonetwork.io/",
     "twitterURL": "https://twitter.com/JunoNetwork",
     "rac": {
       "localization": "en",
@@ -1453,7 +1498,7 @@
     "symbol": "IOV",
     "description": "IOV coin is the token for the Starname (IOV) Asset Name Service\n\nStarname is the best way to claim your part of the blockchain. You can use it for decentralized identification, payments, ownership and applications. Starname can be integrated into digital wallets, dapps and exchanges.",
     "coingeckoID": "starname",
-    "websiteURL": "https://www.starname.me/",
+    "websiteURL": "https://app.starname.me/",
     "twitterURL": "https://twitter.com/starname_me"
   },
   "ion": {
@@ -1461,7 +1506,7 @@
     "name": "Ion DAO",
     "symbol": "ION",
     "coingeckoID": "ion",
-    "websiteURL": "https://osmosis.zone/",
+    "websiteURL": "https://ion.wtf",
     "twitterURL": "https://twitter.com/_IONDAO"
   },
   "invdrs": {
@@ -1477,7 +1522,7 @@
       "name": "Gelotto (Injective)",
       "symbol": "injective.GLTO",
       "description": "GLTO-ERC20 on injective",
-      "websiteURL": "https://injective.com/",
+      "websiteURL": "https://gelotto.io/",
       "twitterURL": "https://twitter.com/Gelotto2"
     }
   },
@@ -1640,7 +1685,15 @@
     "symbol": "FURY",
     "description": "The native token cw20 for Fanfury on Juno Chain",
     "coingeckoID": "fanfury",
-    "websiteURL": "https://www.junonetwork.io/"
+    "websiteURL": "https://www.junonetwork.io/",
+    "legacy": {
+      "localization": "en",
+      "name": "FURY.legacy",
+      "symbol": "FURY.legacy",
+      "description": "The deprecated cw20 token for Fanfury on Juno Chain",
+      "coingeckoID": "fanfury",
+      "websiteURL": "https://www.junonetwork.io/"
+    }
   },
   "fund": {
     "localization": "en",
@@ -1777,7 +1830,7 @@
     "symbol": "DVPN",
     "description": "DVPN is the native token of the Sentinel Hub.\n\nThe Sentinel ecosystem is a global network of autonomous dVPN applications that enable private and censorship resistant internet access.",
     "coingeckoID": "sentinel",
-    "websiteURL": "https://sentinel.co/",
+    "websiteURL": "https://www.sentinel.co/",
     "twitterURL": "https://twitter.com/SentinelVPN"
   },
   "dsm": {
@@ -1813,7 +1866,7 @@
     "symbol": "DOKI",
     "description": "DOKI the last Dragon",
     "coingeckoID": "doki",
-    "websiteURL": "https://odinprotocol.io/",
+    "websiteURL": "https://dokicoin.io/",
     "twitterURL": "https://twitter.com/doki_coin"
   },
   "doga": {
@@ -1873,6 +1926,14 @@
       "websiteURL": "https://www.gravitybridge.net/"
     }
   },
+  "cvn": {
+    "localization": "en",
+    "name": "ConsciousDAO",
+    "symbol": "CVN",
+    "description": "Cvn is a Layer-1 blockchain built to deliver on the promise of DeFi",
+    "coingeckoID": "consciousdao",
+    "websiteURL": "https://www.consciousdao.com/"
+  },
   "cudos": {
     "localization": "en",
     "name": "Cudos",
@@ -1902,7 +1963,7 @@
     "symbol": "CRO",
     "description": "CRO is the native token of the Crypto.org Chain, referred to as Native CRO.\n\nCronos PoS Chain is a public, open-source and permissionless blockchain - a fully decentralized network with high speed and low fees, designed to be a public good that helps drive mass adoption of blockchain technology through use cases like Payments, DeFi and NFTs.",
     "coingeckoID": "crypto-com-chain",
-    "websiteURL": "https://cronos-pos.org/",
+    "websiteURL": "https://cronos.org/",
     "twitterURL": "https://twitter.com/cronos_chain"
   },
   "cre": {
@@ -2055,6 +2116,7 @@
     "symbol": "BSKT",
     "description": "BSKT tracks the top assets across the crypto ecosystem",
     "coingeckoID": "basket",
+    "websiteURL": "https://www.bskt.fi/",
     "twitterURL": "https://twitter.com/bsktfi"
   },
   "brnch": {
@@ -2063,6 +2125,13 @@
     "symbol": "BRNCH",
     "description": "ohhNFT LP token.",
     "websiteURL": "https://stargaze.zone/"
+  },
+  "bosmo": {
+    "localization": "en",
+    "name": "BackBone Labs Liquid Staked OSMO",
+    "symbol": "bOSMO",
+    "description": "BackBone Labs Liquid Staked OSMO",
+    "websiteURL": "https://osmosis.zone/"
   },
   "boot": {
     "localization": "en",
@@ -2138,6 +2207,14 @@
     "description": "The token of Teledisko DAO.",
     "websiteURL": "https://evmos.org/"
   },
+  "beast": {
+    "localization": "en",
+    "name": "Gelotto BEAST",
+    "symbol": "BEAST",
+    "description": "BEAST-ERC20 on injective",
+    "websiteURL": "https://gelotto.io/",
+    "twitterURL": "https://twitter.com/Gelotto2"
+  },
   "bcna": {
     "localization": "en",
     "name": "BitCanna",
@@ -2152,7 +2229,7 @@
     "symbol": "BAND",
     "description": "The native token of BandChain\n\nBand Protocol is a cross-chain data oracle platform that aggregates and connects real-world data and APIs to smart contracts.",
     "coingeckoID": "band-protocol",
-    "websiteURL": "https://bandprotocol.com/",
+    "websiteURL": "https://www.bandprotocol.com/",
     "twitterURL": "https://twitter.com/BandProtocol"
   },
   "badkid": {
@@ -2236,7 +2313,7 @@
     "symbol": "ATOM",
     "description": "The native staking and governance token of the Cosmos Hub.\n\nIn a nutshell, Cosmos Hub bills itself as a project that solves some of the hardest problems facing the blockchain industry. It aims to offer an antidote to slow, expensive, unscalable and environmentally harmful proof-of-work protocols, like those used by Bitcoin, by offering an ecosystem of connected blockchains.\n\nThe project’s other goals include making blockchain technology less complex and difficult for developers thanks to a modular framework that demystifies decentralized apps. Last but not least, an Inter-blockchain Communication protocol makes it easier for blockchain networks to communicate with each other — preventing fragmentation in the industry.\n\nCosmos Hub's origins can be dated back to 2014, when Tendermint, a core contributor to the network, was founded. In 2016, a white paper for Cosmos was published — and a token sale was held the following year. ATOM tokens are earned through a hybrid proof-of-stake algorithm, and they help to keep the Cosmos Hub, the project’s flagship blockchain, secure. This cryptocurrency also has a role in the network’s governance.",
     "coingeckoID": "cosmos",
-    "websiteURL": "https://cosmos.network/",
+    "websiteURL": "https://cosmos.network",
     "twitterURL": "https://twitter.com/cosmoshub"
   },
   "atolo": {
@@ -2260,7 +2337,7 @@
     "symbol": "ASTRO",
     "description": "Astroport is a neutral marketplace where anyone, from anywhere in the galaxy, can dock to trade their wares.",
     "coingeckoID": "astroport-fi",
-    "websiteURL": "https://www.terra.money/",
+    "websiteURL": "https://astroport.finance/",
     "twitterURL": "https://twitter.com/astroport_fi"
   },
   "ash": {
@@ -2298,7 +2375,7 @@
     "localization": "en",
     "name": "Arbitrum",
     "symbol": "ARB",
-    "description": "Native token of Arbitrum",
+    "description": "The governance token of Arbitrum",
     "coingeckoID": "arbitrum"
   },
   "apt": {

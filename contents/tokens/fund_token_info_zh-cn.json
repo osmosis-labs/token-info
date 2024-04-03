@@ -1,8 +1,8 @@
 {
-  "localization": "zh",
+  "localization": "英文",
   "name": "Unification",
   "symbol": "FUND",
-  "description": "统一区块链的质押和治理硬币",
+  "description": "统一区块链的质押和治理代币",
   "coingeckoID": "unification",
   "websiteURL": "https://unification.com/"
 }

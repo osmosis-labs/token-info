@@ -1,0 +1,7 @@
+{
+  "localization": "en",
+  "name": "Tinkernet",
+  "symbol": "TNKR",
+  "description": "The native fee, governance and staking token of the Tinkernet Parachain.",
+  "coingeckoID": "tinkernet"
+}

@@ -1,4 +1,5 @@
 {
+  "localization": "pl",
   "name": "Neutron",
   "symbol": "NTRN",
   "description": "Natywny token łańcucha neutronów.<inlang-LineFeed>\nNeutron, najbezpieczniejsza platforma CosmWasm w Cosmos, pozwala inteligentnym kontraktom wykorzystywać najnowocześniejszą technologię Interchain przy minimalnym obciążeniu.",

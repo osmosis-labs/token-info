@@ -1,8 +1,9 @@
 {
+  "localization": "pl",
   "name": "DOKI",
   "symbol": "DOKI",
   "description": "DOKI ostatni smok",
   "coingeckoID": "doki",
-  "websiteURL": "https://odinprotocol.io/",
+  "websiteURL": "https://dokicoin.io/",
   "twitterURL": "https://twitter.com/doki_coin"
 }
