@@ -1,8 +1,9 @@
 {
+  "localization": "zh",
   "name": "DOKI",
   "symbol": "DOKI",
-  "description": "最后的龙 DOKI",
+  "description": "DOKI 最后一条龙",
   "coingeckoID": "doki",
-  "websiteURL": "https://odinprotocol.io/",
+  "websiteURL": "https://dokicoin.io/",
   "twitterURL": "https://twitter.com/doki_coin"
 }

@@ -1,0 +1,7 @@
+{
+  "localization": "ko",
+  "name": "Tinkernet",
+  "symbol": "TNKR",
+  "description": "Tinkernet Parachain의 기본 수수료, 거버넌스 및 스테이킹 토큰입니다.",
+  "coingeckoID": "tinkernet"
+}

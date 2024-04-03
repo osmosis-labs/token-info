@@ -1,6 +1,7 @@
 {
+  "localization": "fr",
   "name": "Bonk",
   "symbol": "BONK",
-  "description": "Le jeton officiel Bonk Inu",
+  "description": "Le jeton officiel de Bonk Inu",
   "coingeckoID": "bonk"
 }

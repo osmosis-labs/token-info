@@ -2,6 +2,6 @@
   "localization": "fr",
   "name": "Arbitrum",
   "symbol": "ARB",
-  "description": "Jeton natif d'Arbitrum",
+  "description": "Le jeton de gouvernance d'Arbitrum",
   "coingeckoID": "arbitrum"
 }

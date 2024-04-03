@@ -2,6 +2,6 @@
   "localization": "tr",
   "name": "Arbitrum",
   "symbol": "ARB",
-  "description": "Arbitrum'un yerel tokenı",
+  "description": "Arbitrum'un yönetişim tokenı",
   "coingeckoID": "arbitrum"
 }

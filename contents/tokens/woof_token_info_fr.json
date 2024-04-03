@@ -1,6 +1,7 @@
 {
+  "localization": "fr",
   "name": "WOOF",
   "symbol": "WOOF",
-  "description": "Trame",
+  "description": "Woof",
   "websiteURL": "https://chihuahua.wtf/"
 }

@@ -1,6 +1,7 @@
 {
+  "localization": "zh",
   "name": "Stride Staked DYM",
   "symbol": "stDYM",
-  "description": "Stride 的液体质押 DYM",
+  "description": "Stride 的流动性质押 DYM",
   "websiteURL": "https://stride.zone/"
 }

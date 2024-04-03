@@ -1,7 +1,7 @@
 {
   "name": "Oraichain",
   "symbol": "ORAI",
-  "description": "Oraichain 原生代币",
+  "description": "Oraichain 的原生代币",
   "coingeckoID": "oraichain-token",
   "websiteURL": "https://orai.io/"
 }

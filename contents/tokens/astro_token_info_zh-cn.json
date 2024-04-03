@@ -2,8 +2,8 @@
   "localization": "zh",
   "name": "Astroport",
   "symbol": "ASTRO",
-  "description": "Astroport 是一个中立的市场，来自银河系任何地方的任何人都可以在这里停靠并交易他们的商品。",
+  "description": "宇航港是一个中立的市场，任何人都可以在这里停靠并交易商品。",
   "coingeckoID": "astroport-fi",
-  "websiteURL": "https://www.terra.money/",
+  "websiteURL": "https://astroport.finance/",
   "twitterURL": "https://twitter.com/astroport_fi"
 }

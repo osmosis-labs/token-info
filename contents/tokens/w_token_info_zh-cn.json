@@ -1,0 +1,9 @@
+{
+  "localization": "zh",
+  "name": "Wormhole Token",
+  "symbol": "W",
+  "description": "W 是为 Wormhole 互操作平台提供动力的原生代币。<inlang-LineFeed>\nWormhole 代币（W）作为 Wormhole 协议的治理代币，使代币持有者能够通过专门的去中心化自治组织（DAO）通过链上治理来引导协议的方向。<inlang-LineFeed>\nWormhole 由 Jump Trading Group 的建筑部门 Jump Crypto 创立。该协议最初于 2021 年推出，最初作为代币桥首次亮相，允许在区块链之间（尤其是 Solana 和以太坊之间）转移代币。 Wormhole 后来随着 Wormhole V2 的发展，采用了更通用的方法，变成了一个互操作层，链和去中心化应用程序可以在其上轻松构建。<inlang-LineFeed>\nWormhole V2 是一种通用消息传递协议，使不同的区块链能够相互通信。该技术可用于各种用例，包括链间代币转移、跨链操作协议的跨链治理以及跨链 NFT 转移（可用于多链游戏）。 Wormhole V2 还见证了该协议将其服务扩展到包括 Osmosis。<inlang-LineFeed><inlang-LineFeed>迄今为止，该协议已在支持的区块链上处理了价值超过 400 亿美元的价值转移，并发送了超过 10 亿条消息。它支持 30 多个区块链，包括大多数领先的网络，并拥有一个由 200 多个使用 Wormhole 技术构建的应用程序组成的蓬勃发展的生态系统。<inlang-LineFeed>\n2023年11月，Jump和Wormhole宣布打算分道扬镳。分拆后，Wormhole 宣布筹集 2.25 亿美元，公司估值达 25 亿美元。投资者包括 Brevan Howard、Coinbase Ventures、Multicoin Capital、Jump Crypto 等。",
+  "coingeckoID": "wormhole",
+  "websiteURL": "https://wormhole.com/",
+  "twitterURL": "https://twitter.com/wormhole"
+}

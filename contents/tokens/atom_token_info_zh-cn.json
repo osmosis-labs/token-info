@@ -2,8 +2,8 @@
   "localization": "zh",
   "name": "Cosmos Hub",
   "symbol": "ATOM",
-  "description": "Cosmos Hub 的原生质押和治理代币。<inlang-LineFeed><inlang-LineFeed>简而言之，Cosmos Hub 将自己定位为一个解决区块链行业面临的一些最棘手问题的项目。它的目的是通过提供一个互联的区块链生态系统，为缓慢、昂贵、不可扩展和对环境有害的工作量证明协议（如比特币使用的协议）提供解决方案。<inlang-LineFeed><inlang-LineFeed>该项目的其他目标包括通过模块化框架揭开去中心化应用程序的神秘面纱，使区块链技术对开发人员来说不那么复杂和困难。最后但并非最不重要的一点是，区块链间通信协议使区块链网络更容易相互通信，从而防止行业碎片化。<inlang-LineFeed>\nCosmos Hub 的起源可以追溯到 2014 年，当时该网络的核心贡献者 Tendermint 成立。 2016 年，Cosmos 发布了白皮书，并于次年举行了代币销售。 ATOM 代币是通过混合股权证明算法获得的，它们有助于保持该项目的旗舰区块链 Cosmos Hub 的安全。这种加密货币还在网络治理中发挥作用。",
+  "description": "Cosmos Hub 的原生质押和治理代币。<inlang-LineFeed><inlang-LineFeed>简而言之，Cosmos Hub 将自己定位为一个解决区块链行业面临的一些最棘手问题的项目。它的目的是通过提供一个互联的区块链生态系统，为缓慢、昂贵、不可扩展且对环境有害的工作量证明协议（如比特币使用的协议）提供解决方案。<inlang-LineFeed><inlang-LineFeed>该项目的其他目标包括通过模块化框架揭开去中心化应用程序的神秘面纱，使区块链技术对开发人员来说不那么复杂和困难。最后但并非最不重要的一点是，区块链间通信协议使区块链网络更容易相互通信，从而防止行业碎片化。<inlang-LineFeed>\nCosmos Hub 的起源可以追溯到 2014 年，当时该网络的核心贡献者 Tendermint 成立。 2016 年，Cosmos 发布了白皮书，并于次年举行了代币销售。 ATOM 代币是通过混合股权证明算法获得的，它们有助于保持该项目的旗舰区块链 Cosmos Hub 的安全。这种加密货币在网络治理中也发挥着作用。",
   "coingeckoID": "cosmos",
-  "websiteURL": "https://cosmos.network/",
+  "websiteURL": "https://cosmos.network",
   "twitterURL": "https://twitter.com/cosmoshub"
 }

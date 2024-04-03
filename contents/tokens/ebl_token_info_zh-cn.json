@@ -1,6 +1,7 @@
 {
+  "localization": "zh",
   "name": "8ball",
   "symbol": "EBL",
-  "description": "8ball 的原生质押代币。",
+  "description": "8ball 的原生权益代币。",
   "websiteURL": "https://8ball.info/"
 }

@@ -8,6 +8,7 @@
   },
   "xrp": {
     "core": {
+      "localization": "tr",
       "name": "Dalgalanma (Coreum)",
       "symbol": "XRP.core",
       "description": "XRP, XRPL'den köprülendi",
@@ -16,12 +17,12 @@
   },
   "xprt": {
     "name": "Kalıcılık",
+    "symbol": "XPRT",
     "description": "XPRT tokenı öncelikle Persistence zinciri için bir yönetişim tokenıdır.<inlang-LineFeed>\nPersistence, stake edilen varlıkların likiditesinin kilidini açmaya odaklanan bir DeFi uygulamaları ekosistemini güçlendiren Liquid Staking'e yönelik bir uygulama zinciridir.",
     "websiteURL": "https://persistence.one/",
     "twitterURL": "https://twitter.com/PersistenceOne"
   },
   "xpla": {
-    "localization": "tr",
     "name": "XPLA",
     "symbol": "XPLA",
     "description": "XPLA'nın yerel stake tokenı.",
@@ -29,14 +30,13 @@
     "websiteURL": "https://xpla.io"
   },
   "xki": {
-    "name": "ki",
+    "name": "Ki",
     "symbol": "XKI",
     "description": "Ki Chain'in yerel tokenı",
     "websiteURL": "https://foundation.ki/"
   },
   "xcn": {
     "localization": "tr",
-    "name": "Zincir",
     "symbol": "XCN",
     "description": "Chain, kuruluşların Sequence ve Chain Core tarafından desteklenen sıfırdan daha iyi finansal hizmetler oluşturmasına olanak tanıyan bir bulut blockchain protokolüdür.",
     "coingeckoID": "zincir-2"
@@ -45,6 +45,7 @@
     "name": "Wynd DAO Yönetişim Tokenı",
     "symbol": "WYND",
     "description": "WYND DAO Yönetişim Tokenı",
+    "coingeckoID": "rüzgar",
     "websiteURL": "https://www.junonetwork.io/"
   },
   "wsteth": {
@@ -54,7 +55,6 @@
     "description": "wstETH, stETH'in sarılmış bir versiyonudur. Bazı DeFi protokolleri tokenler için sabit bir denge mekanizması gerektirdiğinden wstETH, stETH bakiyenizi sabit tutar ve kazanılan staking ödüllerinizi yansıtmak için temel bir paylaşım sistemi kullanır.",
     "coingeckoID": "sarılmış stet",
     "axl": {
-      "localization": "tr",
       "name": "Sarılmış Lido Kazıklı Eter",
       "symbol": "wstETH.axl",
       "websiteURL": "https://axelar.network/"
@@ -68,13 +68,11 @@
     "websiteURL": "https://osmosis.zone/"
   },
   "woof": {
-    "name": "hav",
+    "localization": "tr",
     "symbol": "hav",
-    "description": "Hav",
     "websiteURL": "https://chihuahua.wtf/"
   },
   "whale": {
-    "localization": "tr",
     "name": "Migaloo",
     "symbol": "BALİNA",
     "description": "Migaloo Chain'in yerel tokenı",
@@ -83,6 +81,7 @@
   },
   "weth": {
     "wh": {
+      "localization": "tr",
       "name": "Sarılmış Eter (Solucan Deliği)",
       "symbol": "wETH.wh",
       "description": "Sarılmış Eter (Solucan deliği), WETH, fabrika/solucan deliği14ejqjyq8um4p3xfqj74yld5waqljf88fz25yxnma0cngspxe3les00fpjx/5BWqpR48Lubd55szM5i62zK7TFkddckhbT48yy6mNbDp",
@@ -99,9 +98,9 @@
   "wbtc": {
     "localization": "tr",
     "name": "Sarılmış Bitcoin",
+    "symbol": "WBTC",
     "websiteURL": "https://osmosis.zone/",
     "grv": {
-      "localization": "tr",
       "name": "Sarılmış Bitcoin (Yerçekimi Köprüsü)",
       "symbol": "WBTC.grv",
       "description": "Yerçekimi Köprüsü WBTC",
@@ -109,9 +108,7 @@
     },
     "axl": {
       "name": "Sarılmış Bitcoin",
-      "symbol": "WBTC.axl",
-      "description": "Axelar'da sarılmış Bitcoin",
-      "websiteURL": "https://axelar.network/"
+      "description": "Axelar'da sarılmış Bitcoin"
     }
   },
   "watr": {
@@ -121,16 +118,23 @@
     "description": "Dünya çapında erkeklere, kadınlara ve çocuklara temiz içme suyu sağlamak için yaratılmış devrim niteliğinde bir DAO. Yolculuğumuzda bize katılmanızı umuyoruz!",
     "websiteURL": "https://www.junonetwork.io/"
   },
+  "w": {
+    "localization": "tr",
+    "name": "Solucan Deliği Jetonu",
+    "description": "W, Wormhole birlikte çalışabilirlik platformuna güç veren yerel tokendir.<inlang-LineFeed>\nSolucan deliği belirteci (W), Solucan deliği protokolünün yönetim belirteci olarak hizmet eder ve belirteç sahiplerine, özel bir merkezi olmayan özerk kuruluş (DAO) aracılığıyla zincir içi yönetim yoluyla protokolün yönünü yönlendirme yetkisi verir.<inlang-LineFeed>\nWormhole, Jump Trading Group'un yapı kolu olan Jump Crypto tarafından kuruldu. İlk olarak 2021'de başlatılan protokol, ilk olarak bir token köprüsü olarak kullanıma sunuldu ve tokenlerin blok zincirler arasında, özellikle de Solana ve Ethereum arasında transferine izin verdi. Wormhole daha sonra Wormhole V2 ile daha genel bir yaklaşım benimseyecek şekilde gelişti ve zincirlerin ve merkezi olmayan uygulamaların kolayca üzerine inşa edilebileceği bir birlikte çalışabilirlik katmanına dönüştü.<inlang-LineFeed>\nWormhole V2, farklı blockchainlerin birbirleriyle iletişim kurmasını sağlayan genel bir mesajlaşma protokolüdür. Bu teknoloji, zincirler arasında token aktarımı, zincirler arasında çalışan protokoller için zincirler arası yönetişimin sağlanması ve çok zincirli oyunlar için kullanılabilecek NFT'lerin zincirler arasında aktarımı da dahil olmak üzere çeşitli kullanım durumları için kullanılabilir. Wormhole V2 ayrıca protokolün hizmetlerini Osmosis'i de içerecek şekilde genişlettiğini gördü.<inlang-LineFeed>\nBugüne kadar protokol, desteklenen blok zincirleri arasında 40 milyar doların üzerinde değer aktarımı gerçekleştirdi ve 1 milyardan fazla mesaj gönderildi. Önde gelen ağların çoğu da dahil olmak üzere 30'dan fazla blok zincirini destekler ve Wormhole teknolojisi kullanılarak oluşturulmuş 200'den fazla uygulamadan oluşan gelişen bir ekosisteme sahiptir.<inlang-LineFeed>\nKasım 2023'te Jump ve Wormhole yolları ayırma niyetlerini açıkladılar. Ayrılmanın ardından Wormhole, 225 milyon dolar topladığını ve şirketin değerini 2,5 milyar dolar olarak belirlediğini duyurdu. Yatırımcılar arasında Brevan Howard, Coinbase Ventures, Multicoin Capital, Jump Crypto ve daha fazlası yer alıyor.",
+    "coingeckoID": "solucan deliği",
+    "websiteURL": "https://solucan deliği.com/",
+    "twitterURL": "https://twitter.com/solucan deliği"
+  },
   "void": {
     "localization": "tr",
-    "name": "Geçersiz",
     "symbol": "GEÇERSİZ",
     "description": "Geçersiz",
     "websiteURL": "https://www.junonetwork.io/"
   },
   "vdl": {
-    "localization": "tr",
     "name": "Vidulum",
+    "symbol": "VDL",
     "description": "Vidulum'un yerel jetonu",
     "coingeckoID": "vidulum",
     "websiteURL": "https://vidulum.app/"
@@ -148,22 +152,26 @@
     "coingeckoID": "Terrausd"
   },
   "usk": {
+    "localization": "tr",
     "name": "USK",
+    "symbol": "USK",
     "description": "Kujira zincirinden aşırı teminatlandırılmış yerli stabilcoin.",
     "coingeckoID": "usk",
     "websiteURL": "https://kujira.app/"
   },
   "usdx": {
-    "localization": "tr",
     "name": "Kava USDX",
+    "symbol": "USDX",
     "description": "Kava'nın yerli stablecoin'i",
     "coingeckoID": "ABD Dolarıx",
     "websiteURL": "https://www.kava.io/"
   },
   "usdt": {
     "localization": "tr",
+    "name": "ABD Doları Tether'i",
     "symbol": "USDT",
     "description": "Tether, nakit paranızı istikrarlı bir dijital para birimi eşdeğerine dönüştürerek size açık blockchain teknolojisinin ve geleneksel para biriminin ortak faydalarını sunar.",
+    "coingeckoID": "bağlamak",
     "wh": {
       "localization": "tr",
       "name": "USD Tether (Solucan deliği)",
@@ -179,6 +187,7 @@
       "websiteURL": "https://www.gravitybridge.net/"
     },
     "axl": {
+      "localization": "tr",
       "name": "ABD Doları Tether'i",
       "symbol": "USDT.axl",
       "description": "Tether'in USD stablecoin'i Axelar'da",
@@ -206,6 +215,7 @@
       "websiteURL": "https://www.gravitybridge.net/"
     },
     "axl": {
+      "localization": "tr",
       "name": "ABD Doları Parası",
       "symbol": "USDC.axl",
       "description": "Circle'ın Axelar'daki stablecoin'i",
@@ -214,6 +224,7 @@
     }
   },
   "uni": {
+    "localization": "tr",
     "name": "Uniswap",
     "symbol": "ÜNİ",
     "description": "UNI tokeni, Uniswap protokolü için yönetişim tokeni olarak görev yaptı ve başlangıçta 1 milyar UNI basıldı. UNI oluşum arzının %60'ı Uniswap topluluk üyelerine tahsis edilir ve geri kalanı ekip, yatırımcılar ve danışmanlara tahsis edilir.",
@@ -226,6 +237,12 @@
     "description": "Umee'nin yerel simgesi",
     "coingeckoID": "umeee",
     "websiteURL": "https://www.ux.xyz"
+  },
+  "toro": {
+    "localization": "tr",
+    "name": "TORO",
+    "description": "Celestia topluluğu için oluşturulan memecoin",
+    "websiteURL": "https://osmosis.zone/"
   },
   "tori": {
     "localization": "tr",
@@ -241,6 +258,13 @@
     "symbol": "TOCYB",
     "description": "Cyber’ın stake tokenı"
   },
+  "tnkr": {
+    "localization": "tr",
+    "name": "Tinkernet",
+    "symbol": "TNKR",
+    "description": "Tinkernet Parachain'in yerel ücreti, yönetimi ve stake tokenı.",
+    "coingeckoID": "tamircilik"
+  },
   "tick": {
     "localization": "tr",
     "name": "Mikrotik",
@@ -250,6 +274,7 @@
   },
   "tia": {
     "localization": "tr",
+    "name": "Celestia",
     "symbol": "TIA",
     "description": "<inlang-LineFeed><inlang-LineFeed>Celestia, kullanıcı sayısına göre güvenli bir şekilde ölçeklenen ve herkesin kendi blockchain'ini başlatmasını kolaylaştıran modüler bir veri kullanılabilirliği ağıdır.",
     "coingeckoID": "göksel",
@@ -265,6 +290,7 @@
     "websiteURL": "https://tgrade.finance/"
   },
   "swth": {
+    "localization": "tr",
     "name": "Karbon",
     "symbol": "SWTH",
     "description": "Carbon'un yerel yönetim tokenı",
@@ -301,6 +327,7 @@
     "websiteURL": "https://stride.zone/"
   },
   "sttia": {
+    "localization": "tr",
     "name": "Stride Stacked TIA",
     "symbol": "STIA",
     "description": "Stride'ın sıvı kazıklı TIA'sı",
@@ -314,28 +341,27 @@
     "websiteURL": "https://stride.zone/"
   },
   "stsomm": {
+    "localization": "tr",
     "name": "Stride Bahisli SOMM",
     "symbol": "stSOMM",
     "coingeckoID": "adım adım sommelier",
     "websiteURL": "https://stride.zone/"
   },
   "strdst": {
-    "localization": "tr",
     "name": "Yıldız tozu STRDST",
     "symbol": "STRDST",
     "description": "OhhNFT'nin yerel tokenı.",
     "websiteURL": "https://stargaze.zone/"
   },
   "strd": {
-    "localization": "tr",
     "name": "Adım",
+    "symbol": "STRD",
     "description": "Stride'ın yerel simgesi<inlang-LineFeed>\nStride, stake edilen tokenlar için likidite sağlayan bir blockchaindir. Stride'ı kullanarak Cosmos IBC ekosisteminde hem alım hem de DeFi getirisi elde edebilirsiniz.",
     "coingeckoID": "adım",
     "websiteURL": "https://stride.zone/",
     "twitterURL": "https://twitter.com/stride_zone"
   },
   "stosmo": {
-    "localization": "tr",
     "name": "Stride Stacked OSMO",
     "symbol": "stOSMO",
     "coingeckoID": "adım adım ilerleyen osmo",
@@ -357,7 +383,6 @@
     "websiteURL": "https://persistence.one/"
   },
   "stkd-scrt": {
-    "localization": "tr",
     "name": "SCRT Staking Türevleri",
     "symbol": "stkd-SCRT",
     "description": "Secret Network'teki SCRT Staking Türevleri için yerel token cw20",
@@ -373,7 +398,6 @@
     "websiteURL": "https://persistence.one/"
   },
   "stjuno": {
-    "localization": "tr",
     "name": "Stride Kazıklanmış JUNO",
     "symbol": "stJUNO",
     "coingeckoID": "uzun adımlarla ilerleyen Juno",
@@ -385,13 +409,13 @@
     "websiteURL": "https://osmosis.zone/"
   },
   "stevmos": {
-    "localization": "tr",
     "name": "Stride Bahisli EVMOS",
     "symbol": "STEVMOS",
     "coingeckoID": "adım adım ilerleyen evmos",
     "websiteURL": "https://stride.zone/"
   },
   "stdym": {
+    "localization": "tr",
     "name": "Stride Bahisli DYM",
     "symbol": "stDYM",
     "description": "Stride'ın sıvı destekli DYM'si",
@@ -413,13 +437,14 @@
   },
   "stars": {
     "localization": "tr",
-    "name": "Hayal",
     "symbol": "YILDIZLAR",
     "description": "Stargaze'in yerel jetonu<inlang-LineFeed>\nNFT'ler için önde gelen topluluk odaklı blockchain. Stargaze yaratıcıları, geliştiricileri, koleksiyoncuları ve tüccarları platforma katılmaya teşvik ediyor. Stargaze zinciri, Launchpad gibi NFT ile ilgili çeşitli uygulamalardan ve teklifler ve açık artırmalar sunan bir Pazar yerinden oluşur.",
-    "websiteURL": "https://stargaze.zone/",
+    "coingeckoID": "Hayal",
+    "websiteURL": "https://www.stargaze.zone/",
     "twitterURL": "https://twitter.com/StargazeZone"
   },
   "srcx": {
+    "localization": "tr",
     "name": "Kaynak Jetonu",
     "symbol": "SRCCX",
     "description": "Kaynak Protokolünün SRCX jetonu.",
@@ -433,36 +458,35 @@
     "websiteURL": "https://osmosis.zone/"
   },
   "sqosmo": {
-    "localization": "tr",
     "name": "OSMO Kare",
     "symbol": "SqOSMO",
     "description": "Marjlı Güç Tokenı sqOSMO",
     "websiteURL": "https://osmosis.zone/"
   },
   "sqbtc": {
+    "localization": "tr",
     "name": "BTC Karesi",
     "symbol": "sqBTC",
     "description": "Marjlı Güç Tokenı sqBTC",
     "websiteURL": "https://osmosis.zone/"
   },
   "sqatom": {
+    "localization": "tr",
     "name": "ATOM Karesi",
     "symbol": "kareATOM",
     "description": "Marjlı Güç Tokenı sqATOM",
     "websiteURL": "https://osmosis.zone/"
   },
   "spacer": {
+    "localization": "tr",
     "name": "Ara parçası",
-    "symbol": "ARA PARÇA",
     "description": "Ara parçası",
     "websiteURL": "https://www.junonetwork.io/"
   },
   "source": {
-    "localization": "tr",
     "name": "Kaynak",
     "symbol": "KAYNAK",
     "description": "SOURCE Chain'in yerel tokenı<inlang-LineFeed>\nKuruluşlar, geliştiriciler ve bireyler, web3 uygulamalarına ve hizmetlerine kolayca erişmek, bunları oluşturmak ve entegre etmek için SOURCE'un sürdürülebilir ve değer destekli ağını kullanma yetkisine sahiptir.",
-    "coingeckoID": "kaynak",
     "websiteURL": "https://www.sourceprotocol.io/",
     "twitterURL": "https://twitter.com/sourceprotocol_"
   },
@@ -470,7 +494,8 @@
     "localization": "tr",
     "symbol": "SOMM",
     "description": "Somm Token (SOMM), Sommelier Chain'in yerel stake tokenıdır.<inlang-LineFeed>\nOtomatik kasalar, riski azaltırken sınıfının en iyi getirilerini bulur.",
-    "websiteURL": "https://sommelier.finance/",
+    "coingeckoID": "sommelier",
+    "websiteURL": "https://www.sommelier.finance/",
     "twitterURL": "https://twitter.com/sommfinance"
   },
   "solar": {
@@ -482,7 +507,6 @@
   "solana": {
     "usdc": {
       "wh": {
-        "localization": "tr",
         "name": "Solana USD Coin (Solucan Deliği)",
         "symbol": "solana.USDC.wh",
         "description": "Solana USD Coin (Solucan deliği), Solana USDC, fabrika/solana deliği14ejqjyq8um4p3xfqj74yld5waqljf88fz25yxnma0cngspxe3les00fpjx/HJk1XMDRNUbRrpKkNZYui7SwWDMjXZAsySzqgyNcQoU3",
@@ -493,8 +517,7 @@
   "sol": {
     "localization": "tr",
     "symbol": "SOL",
-    "description": "Solana (SOL), Solana blok zincirinin yerel varlığıdır.",
-    "coingeckoID": "solana"
+    "description": "Solana (SOL), Solana blok zincirinin yerel varlığıdır."
   },
   "sneaky": {
     "localization": "tr",
@@ -504,21 +527,18 @@
     "websiteURL": "https://stargaze.zone/"
   },
   "slca": {
-    "localization": "tr",
     "name": "Silika",
     "symbol": "SLCA",
     "description": "Silika",
     "websiteURL": "https://www.junonetwork.io/"
   },
   "skoj": {
-    "localization": "tr",
     "name": "Sikoba Tokenı",
     "symbol": "SKOJ",
     "description": "Sikoba Yönetişim Tokenı",
     "websiteURL": "https://www.junonetwork.io/"
   },
   "silk": {
-    "localization": "tr",
     "name": "İpek",
     "symbol": "İPEK",
     "description": "Secret Network'te Silk için yerel token cw20",
@@ -527,9 +547,9 @@
   },
   "sienna": {
     "localization": "tr",
+    "name": "SİENNA",
     "symbol": "SİENNA",
     "description": "Secret Network'te SIENNA için yerel token cw20",
-    "coingeckoID": "sienna",
     "websiteURL": "https://scrt.network/"
   },
   "shibac": {
@@ -541,6 +561,7 @@
   },
   "shib": {
     "localization": "tr",
+    "name": "Şiba Inu",
     "symbol": "ŞİB",
     "description": "SHIBA INU, tokenlerin 1/2'sinin Vitalik'e gönderildiğini ve diğer yarısının bir Uniswap havuzuna kilitlendiğini ve anahtarların yakıldığını iddia eden %100 merkezi olmayan bir topluluk deneyidir.",
     "coingeckoID": "shiba-inu"
@@ -548,7 +569,6 @@
   "shd": {
     "localization": "tr",
     "name": "Gölge",
-    "symbol": "SHD",
     "description": "Secret Network'te Shade için yerel token cw20",
     "coingeckoID": "gölge protokolü",
     "websiteURL": "https://scrt.network/"
@@ -560,30 +580,26 @@
     "websiteURL": "https://scrt.network/"
   },
   "shark": {
-    "localization": "tr",
     "name": "KÖPEK BALIĞI",
-    "symbol": "KÖPEK BALIĞI",
     "description": "SHARK, Cosmos'un en yüksek fiyat tahmin pazarıdır.",
     "websiteURL": "https://www.whitewhale.money/"
   },
   "sgnl": {
-    "localization": "tr",
     "name": "Sinyal",
     "symbol": "SGNL",
     "description": "Juno'da Sinyal Sanatı ve Oyun",
     "websiteURL": "https://www.junonetwork.io/"
   },
   "sge": {
-    "localization": "tr",
     "name": "SGE",
-    "symbol": "SGE",
-    "description": "SGE Ağının yerel tokenı"
+    "description": "SGE Ağının yerel tokenı",
+    "coingeckoID": "altı Sigma"
   },
   "sfrxeth": {
     "localization": "tr",
     "name": "Bahisli Frax Ether",
     "symbol": "sfrxETH",
-    "description": "sfrxETH, frxETH'nin staking getirisi sağlayan versiyonudur. Frax Ether doğrulayıcılarından elde edilen tüm kar, sfrxETH sahiplerine dağıtılır. FrxETH'yi sfrxETH ile değiştirerek, sfrxETH'nin tekrar frxETH'ye dönüştürülmesiyle kullanılacak olan staking getirisine hak kazanılır.",
+    "description": "sfrxETH, staking getirisi sağlayan frxETH sürümüdür. Frax Ether doğrulayıcılarından elde edilen tüm kar, sfrxETH sahiplerine dağıtılır. FrxETH'yi sfrxETH ile değiştirerek, sfrxETH'nin tekrar frxETH'ye dönüştürülmesiyle kullanılacak olan staking getirisine hak kazanılır.",
     "coingeckoID": "kazıklı-frax-eter"
   },
   "sejuno": {
@@ -621,16 +637,21 @@
     "name": "Gizli Ağ",
     "symbol": "SCRT",
     "description": "Secret Network'ün yerel tokenı<inlang-LineFeed>\nSecret Network, özelleştirilebilir gizliliğe sahip ilk blockchaindir. Neyi, kiminle ve nasıl paylaşacağınızı siz seçersiniz. Bu, kullanıcıları korur ve geliştiricilerin daha iyi bir Web3 oluşturmasını sağlar.",
-    "coingeckoID": "gizli",
     "websiteURL": "https://scrt.network/",
     "twitterURL": "https://twitter.com/SecretNetwork"
   },
   "scr": {
     "localization": "tr",
     "name": "Skorum",
-    "symbol": "SCR",
     "description": "Scorum'un yerel jetonu",
+    "websiteURL": "https://scorum.com",
     "twitterURL": "https://twitter.com/scorum_en"
+  },
+  "sayve": {
+    "name": "söylemek",
+    "symbol": "SÖYLE",
+    "description": "Sayve, kullanıcıları ödül kazanırken dil öğrenmeye motive etmek için oyunlaştırmayı, blockchain teknolojisini ve Metaverse deneyimini birleştiren, Web3 çağında devrim niteliğinde bir dil öğrenme uygulamasıdır.",
+    "websiteURL": "https://www.terra.money/"
   },
   "sail": {
     "localization": "tr",
@@ -647,7 +668,6 @@
     "websiteURL": "https://sifchain.finance/"
   },
   "rock": {
-    "localization": "tr",
     "name": "Direkler",
     "symbol": "KAYNAK",
     "description": "Direkler için gelir jetonu",
@@ -657,13 +677,11 @@
   "roar": {
     "localization": "tr",
     "name": "Aslan DAO",
-    "symbol": "KÜKREME",
     "description": "Lion DAO, LUNAtic topluluğunu yeniden etkinleştirme ve Terra protokollerini ve araçlarını sergileme misyonuyla Terra blok zincirinde yaşayan bir topluluk DAO'sudur.",
     "coingeckoID": "aslan-dao",
     "websiteURL": "https://www.terra.money/"
   },
   "rio": {
-    "localization": "tr",
     "name": "Realio Ağı",
     "description": "Realio Ağının yerel para birimi.",
     "coingeckoID": "gerçek ağ",
@@ -677,7 +695,9 @@
     "coingeckoID": "roket havuzu-eth"
   },
   "regen": {
+    "localization": "tr",
     "name": "Yenilenme",
+    "symbol": "YENİLENME",
     "description": "REGEN coin, Regen Ağ Platformunun simgesidir<inlang-LineFeed>\nRegen Network, ekolojik yenileme projelerinden yüksek bütünlüğe sahip karbon ve biyolojik çeşitlilik kredileri oluşturup bunlara yatırım yapmaya yönelik bir platform.",
     "coingeckoID": "yenilenme",
     "websiteURL": "https://www.regen.network/",
@@ -686,6 +706,7 @@
   "rebus": {
     "localization": "tr",
     "name": "Bulmaca",
+    "symbol": "REBUS",
     "description": "REBUS, Rebus zincirinin yerli parası.",
     "coingeckoID": "bilmece",
     "websiteURL": "https://www.rebuschain.com/"
@@ -715,18 +736,16 @@
   "rai": {
     "localization": "tr",
     "name": "Rai Refleks Endeksi",
-    "symbol": "RAI",
-    "description": "RAI sabitlenmemiş, ETH destekli istikrarlı bir varlıktır. Diğer DeFi protokolleri için (ETH veya BTC ile karşılaştırıldığında) daha \"istikrarlı\" bir teminat olarak veya yerleşik faiz oranına sahip istikrarlı bir varlık olarak faydalıdır.",
-    "coingeckoID": "rai"
+    "description": "RAI sabitlenmemiş, ETH destekli istikrarlı bir varlıktır. Diğer DeFi protokolleri için (ETH veya BTC ile karşılaştırıldığında) daha \"istikrarlı\" bir teminat olarak veya yerleşik faiz oranına sahip istikrarlı bir varlık olarak faydalıdır."
   },
   "rac": {
     "localization": "tr",
     "name": "RAC",
+    "symbol": "RAC",
     "description": "RAC",
     "websiteURL": "https://www.whitewhale.money/"
   },
   "qwoyn": {
-    "localization": "tr",
     "name": "Qwoyn",
     "symbol": "QWOYN",
     "description": "Qwoyn Network için yerel yönetim belirteci<inlang-LineFeed>\nQwoyn Ağı, Web3 teknolojilerini etkileşimli eğlencenin merkezine yerleştiren son teknoloji ürünü bir oyun merkezi olarak duruyor. Blockchain yoluyla kolaylaştırılan, oyuncular için oyun içi varlıkların gerçek sahipliğini sağlayarak oyun endüstrisinde devrim yaratıyor. Bu yaklaşım yalnızca oynanışı geliştirmekle kalmıyor, aynı zamanda benzersiz bir birlikte çalışabilirlik ve yenilik ekosistemini de teşvik ediyor. Oyun dünyasında bir yol gösterici olarak Qwoyn Network, geleneksel oyunların heyecanını Web3'ün dönüştürücü potansiyeliyle birleştirmeye, kesintisiz ve zenginleştirilmiş bir oyun deneyimi yaratmaya kendini adamıştır.",
@@ -735,7 +754,6 @@
     "twitterURL": "https://twitter.com/Qwoyn_Studios"
   },
   "qstars": {
-    "localization": "tr",
     "name": "Quicksilver Sıvı Bahisli YILDIZLAR",
     "symbol": "qSTARS",
     "description": "Quicksilver Sıvı Bahisli YILDIZLAR",
@@ -744,6 +762,7 @@
   "qsr": {
     "localization": "tr",
     "name": "Kuasar",
+    "symbol": "QSR",
     "description": "Quasar'ın yerel simgesi<inlang-LineFeed>\nQuasar, IBC tarafından etkinleştirilen ilk merkezi olmayan varlık yönetimi (DAM) platformudur. Güvenli, izin gerektirmeyen, şekillendirilebilir ve çeşitlendirilmiş bir zincirler arası DeFi deneyimi nihayet burada.",
     "coingeckoID": "kuasar-2",
     "websiteURL": "https://www.quasar.fi/",
@@ -757,14 +776,12 @@
     "websiteURL": "https://quicksilver.zone/"
   },
   "qregen": {
-    "localization": "tr",
     "name": "Quicksilver Sıvı Staked Regen",
     "symbol": "qREGEN",
     "description": "Quicksilver Sıvı Stacked REGEN",
     "websiteURL": "https://quicksilver.zone/"
   },
   "qosmo": {
-    "localization": "tr",
     "name": "Quicksilver Sıvı Stacked OSMO",
     "symbol": "qOSMO",
     "description": "Quicksilver Sıvı Stacked OSMO",
@@ -775,6 +792,7 @@
     "name": "Cıva",
     "symbol": "QCK",
     "description": "QCK - Quicksilver'ın yerel jetonu<inlang-LineFeed>\nTercih ettiğiniz doğrulayıcıyla Cosmos varlıklarınızı Liquid Stake edin ve takas, havuzlama, ödünç verme ve daha fazlası için kullanabileceğiniz likit stake edilmiş varlıkları (qASSET'ler) alın; tüm bunları yaparken orijinal hisseniz, ağın güvenliğinden APY staking kazanır.",
+    "coingeckoID": "cıva",
     "websiteURL": "https://quicksilver.zone/",
     "twitterURL": "https://twitter.com/quicksilverzone"
   },
@@ -786,12 +804,14 @@
     "websiteURL": "https://quicksilver.zone/"
   },
   "pyth": {
+    "localization": "tr",
     "name": "Pyth Ağı",
     "symbol": "PYTH",
-    "description": "Pyth, piyasa katılımcılarının başkalarının kullanması için fiyat bilgilerini zincir üzerinde yayınlamasına olanak tanıyan bir protokoldür. Protokol üç taraf arasındaki bir etkileşimdir:\n-Yayıncılar fiyatlandırma bilgilerini Pyth'in oracle programına gönderir. Pyth, sistemin doğruluğunu ve sağlamlığını geliştirmek amacıyla her ürün için birden fazla veri yayıncısına sahiptir.\n-Pyth'in oracle programı, tek bir toplam fiyat ve güven aralığı oluşturmak için yayıncıların verilerini birleştirir.\nTüketiciler Oracle programının ürettiği fiyat bilgilerini okurlar.<inlang-LineFeed>\nPyth'in oracle programı hem Solana ana ağında hem de Pythnet'te aynı anda çalışır. Programın her bir örneği kendi fiyat feed'lerinden sorumludur. Solana Fiyat Akışları Solana protokolleri tarafından kullanılabilir. Bu durumda oracle programının kendisi Solana üzerinde çalıştığı için ortaya çıkan fiyatlar herhangi bir ek çalışma gerektirmeden anında tüketicilerin kullanımına sunuluyor. Pythnet Fiyat Akışları 12'den fazla blockchainde mevcuttur. Pythnet üzerinde oluşturulan fiyatlar, bu blok zincirler üzerindeki tüketicilere ulaşmak için zincirler arası aktarılıyor.<inlang-LineFeed>\nHer iki durumda da sistemin kritik bileşeni, her bir yayıncının verilerini birleştiren oracle programıdır. Bu program, Pyth'teki ürünleri ve bunların güncel fiyat verilerini listeleyen bir dizi farklı Solana hesabını tutar. Yayıncılar her slotta Oracle programıyla etkileşim kurarak fiyatlarını ve güvenlerini yayınlarlar. Program bu bilgileri kendi hesaplarında saklar. Bir slottaki ilk fiyat güncellemesi ayrıca, önceki slottaki fiyat verilerini tek bir toplam fiyat ve güven aralığında birleştiren fiyat toplamayı da tetikler. Bu toplam fiyat, diğer zincir içi programlar tarafından okunabileceği ve diğer blok zincirlerine iletilebileceği Solana hesabına yazılır.",
+    "description": "Pyth, piyasa katılımcılarının başkalarının kullanması için fiyat bilgilerini zincir üzerinde yayınlamasına olanak tanıyan bir protokoldür. Protokol üç taraf arasındaki bir etkileşimdir:\n-Yayıncılar fiyatlandırma bilgilerini Pyth'in oracle programına gönderir. Pyth, sistemin doğruluğunu ve sağlamlığını geliştirmek amacıyla her ürün için birden fazla veri yayıncısına sahiptir.\n-Pyth'in oracle programı, tek bir toplam fiyat ve güven aralığı oluşturmak için yayıncıların verilerini birleştirir.\nTüketiciler Oracle programının ürettiği fiyat bilgilerini okurlar.<inlang-LineFeed>\nPyth'in oracle programı hem Solana ana ağında hem de Pythnet'te aynı anda çalışır. Programın her bir örneği kendi fiyat feed'lerinden sorumludur. Solana Fiyat Akışları Solana protokolleri tarafından kullanılabilir. Bu durumda oracle programının kendisi Solana üzerinde çalıştığı için ortaya çıkan fiyatlar herhangi bir ek çalışmaya ihtiyaç duymadan anında tüketicilerin kullanımına sunuluyor. Pythnet Fiyat Akışları 12'den fazla blockchainde mevcuttur. Pythnet üzerinde oluşturulan fiyatlar, bu blok zincirler üzerindeki tüketicilere ulaşmak için zincirler arası aktarılıyor.<inlang-LineFeed>\nHer iki durumda da sistemin kritik bileşeni, her bir yayıncının verilerini birleştiren oracle programıdır. Bu program, Pyth'teki ürünleri ve bunların güncel fiyat verilerini listeleyen bir dizi farklı Solana hesabını tutar. Yayıncılar her slotta Oracle programıyla etkileşim kurarak fiyatlarını ve güvenlerini yayınlarlar. Program bu bilgileri kendi hesaplarında saklar. Bir aralıktaki ilk fiyat güncellemesi ayrıca, önceki aralıktaki fiyat verilerini tek bir toplam fiyat ve güven aralığında birleştiren fiyat toplamayı da tetikler. Bu toplam fiyat, diğer zincir içi programlar tarafından okunabileceği ve diğer blok zincirlerine iletilebileceği Solana hesabına yazılır.",
     "coingeckoID": "pyth ağı"
   },
   "purse": {
+    "localization": "tr",
     "name": "ÇANTA Jetonu",
     "symbol": "EL ÇANTASI",
     "description": "ÇANTA Jetonu",
@@ -799,24 +819,30 @@
   },
   "puppy": {
     "name": "Köpek yavrusu",
-    "symbol": "KÖPEK YAVRUSU",
     "description": "Köpek yavrusu",
     "websiteURL": "https://chihuahua.wtf/"
+  },
+  "pundix": {
+    "name": "Pundi X Tokenı",
+    "symbol": "PUNDIX",
+    "description": "PUNDIX tokenı, PundiX Chain ve XPOS dahil olmak üzere Pundi X ekosisteminde çalışan yerel tokendir.",
+    "coingeckoID": "pundi-x-2"
   },
   "pstake": {
     "localization": "tr",
     "name": "pSTAKE Finans",
+    "symbol": "PSTAKE",
     "description": "pSTAKE, stake edilen varlıkların likiditesinin kilidini açan bir likit staking protokolüdür. PoS tokenlerini stake edenler, bu varlıkların likiditesini korurken varlıklarını stake edebilirler. Kullanıcılar staking ödülleri kazanır ve ek getiri elde etmek için kullanılabilecek 1:1 sabit stake edilmiş temsili tokenlar alırlar.",
     "coingeckoID": "pstake-finans"
   },
   "polygon": {
     "usdc": {
+      "localization": "tr",
       "name": "USD Coin (Çokgen)",
       "symbol": "poligon.USDC",
       "description": "USDC, Circle'ın gelecek birkaç ihraççıdan ilki olduğu açık kaynaklı proje olan CENTRE tarafından geliştirilen, tamamen teminatlandırılmış bir ABD Doları sabit parasıdır.",
       "coingeckoID": "usd-parası",
       "axl": {
-        "localization": "tr",
         "name": "USD Coin (Çokgen)",
         "symbol": "poligon.USDC.axl",
         "description": "USDC, Circle'ın gelecek birkaç ihraççıdan ilki olduğu açık kaynaklı proje olan CENTRE tarafından geliştirilen, tamamen teminatlandırılmış bir ABD Doları sabit parasıdır.",
@@ -825,8 +851,8 @@
     }
   },
   "plq": {
-    "localization": "tr",
     "name": "Plank",
+    "symbol": "PLQ",
     "description": "Planq Ağının yerel EVM'si, yönetişimi ve stake tokenı<inlang-LineFeed>\nPlanq, masaüstü hizmetlere bağımlılıktan bir adım uzaklaşarak mobil platformun kullanılabilirliğini ön planda tutan ilk kripto para birimi projesidir. Planq, kullanımı kolay köprüler aracılığıyla diğer blok zincirlerinin kolay erişilebilirliğine ve yakın entegrasyonuna odaklanarak, mobil alanda Web 3'ün benimsenmesini bir sonraki seviyeye taşıyacak.",
     "coingeckoID": "tahta",
     "websiteURL": "https://planq.network",
@@ -841,7 +867,6 @@
     "twitterURL": "https://twitter.com/ComposableFin"
   },
   "phmn": {
-    "localization": "tr",
     "name": "İNSAN SONRASI",
     "symbol": "PHMN",
     "description": "Juno Chain'de PHMN için yerel token cw20",
@@ -849,6 +874,7 @@
     "websiteURL": "https://www.junonetwork.io/"
   },
   "pepec": {
+    "localization": "tr",
     "name": "Pepec",
     "symbol": "PEPEC",
     "description": "Pepec",
@@ -856,33 +882,27 @@
   },
   "pepe": {
     "localization": "tr",
-    "name": "pepe",
-    "coingeckoID": "pepe"
+    "symbol": "PEPE"
   },
   "pasg": {
+    "localization": "tr",
     "name": "Geçit",
     "symbol": "PASG",
     "description": "Passage zincirinin yerel stake ve yönetişim tokenı.",
-    "coingeckoID": "geçit",
     "websiteURL": "https://passage3d.com/"
   },
   "page": {
     "name": "Sayfa",
-    "symbol": "SAYFA",
     "description": "PAGE tokenı, PageDAO NFT edebi ekosistemindeki eylemler ve DAO yönetimi için kullanılır.",
     "coingeckoID": "sayfa"
   },
   "osmo": {
-    "localization": "tr",
     "name": "Osmoz",
-    "symbol": "OSMO",
     "description": "Osmosis'in yerel simgesi<inlang-LineFeed>\nOsmosis (OSMO), Blok Zincirleri Arası İletişim Protokolü (IBC) aracılığıyla sorunsuz bir şekilde bağlanan 50'den fazla bağımsız, birlikte çalışabilen blok zincirden oluşan bir ağ olan Cosmos ekosistemindeki önde gelen DEX ve zincirler arası DeFi merkezidir. Yaklaşımında öncü olan Osmosis, Ethereum, Solana, Avalanche ve Polkadot gibi diğer ekosistemlerdeki IBC dışı varlıkları entegre ederek dinamik bir ticaret ve likidite sağlama deneyimi sunuyor. Başlangıçta Dengeleyici tarzı havuzları benimseyen Osmosis, artık sermaye açısından çok daha verimli olan konsantre bir likidite modeline de sahiptir; bu, aynı miktarda işlem hacmini minimum kayma ile yönetmek için önemli ölçüde daha az likiditenin gerekli olduğu anlamına gelir.<inlang-LineFeed>\nGerçek bir uygulama zinciri olarak Osmosis, üzerine inşa edildiği ana zincirin kodunu takip etmesi gereken geleneksel akıllı sözleşme DEX'lerinden daha fazla blok zinciri yığını üzerinde daha fazla kontrole sahiptir. Bu ince taneli kontrol, örneğin, Proof of Stake'in bir uzantısı olan ve uygulama katmanındaki varlıkların zinciri güvence altına almak için stake edilmesine olanak tanıyan Superfluid Staking'in geliştirilmesini mümkün kıldı. Uygulama zincirlerinin özelleştirilebilirliği aynı zamanda Osmosis'in OSMO stakerları adına zincir içi arbitraj yapmasını, havuzlar arasında fiyatları dengelerken bu hacimden gerçek gelir elde etmesini sağlayan Protokol Geliri modülü gibi özelliklerin uygulanmasına da olanak tanır. Ek olarak, egemen bir uygulama zinciri olarak Osmosis yönetişimi, protokoldeki yükseltmelere oy verebilir. Bunun bir örneği, Osmosis hacminden çeşitli getiriler elde etmek ve bunu OSMO stakerlarına dağıtmak için takas ücretlerinin toplanmasını sağlayan Taker Ücretinin uygulamaya konmasıydı.<inlang-LineFeed>\nOsmosis, Ethereum ve Bitcoin de dahil olmak üzere tüm zincirleri IBC üzerinden birbirine bağlayan zincirler arası yerel bir DEX ve ticaret paketi oluşturarak tam merkezi borsa deneyimini merkezi olmayan dünyaya getiriyor. Bu hedefe ulaşmak için Osmosis, borç verme, kredi, marj, DeFi strateji kasaları, güç sorumluları, itibari para rampaları, NFT'ler, stablecoin'ler ve daha fazlasını içeren tek noktadan bir deneyim sağlamayı amaçlayan, sürekli genişleyen bir DeFi uygulamaları paketine ev sahipliği yapıyor. Merkezi olmayan finansın güvenin en aza indirildiği ortamda, merkezi borsanın sunduğu tüm işlevler ve daha fazlası.",
-    "coingeckoID": "osmoz",
-    "websiteURL": "https://osmosis.zone/",
+    "websiteURL": "https://osmosis.zone",
     "twitterURL": "https://twitter.com/osmosiszone"
   },
   "osdoge": {
-    "localization": "tr",
     "name": "Osmoz Doge",
     "symbol": "OSDOGE",
     "description": "Osmozdaki İlk Doge",
@@ -890,19 +910,17 @@
   },
   "orai": {
     "name": "Oraichain",
+    "symbol": "ORAI",
     "description": "Oraichain'in yerel tokenı",
     "coingeckoID": "oraichain-token",
     "websiteURL": "https://orai.io/"
   },
   "oin": {
-    "localization": "tr",
     "name": "DEĞER DEPOSU",
-    "symbol": "OIN",
     "description": "OIN Token ($OIN), $SEI Blockchain üzerinde geliştirilen çığır açan bir dijital varlıktır. Yalnızca bir kripto para birimi olmanın ötesine geçiyor; $OIN, merkezi olmayan finansın geleceğini ve kripto ortamını yeniden şekillendirme potansiyelini simgeleyen sağlam bir değer deposu olarak duruyor.",
     "websiteURL": "https://www.sei.io/"
   },
   "odin": {
-    "localization": "tr",
     "name": "Odin Protokolü",
     "description": "ODIN, ODIN Protokolü için Staking ve yönetişim tokenıdır",
     "coingeckoID": "odin protokolü",
@@ -914,7 +932,7 @@
     "name": "O9W",
     "symbol": "O9W",
     "description": "ODIN Protokolü için O9W jetonu",
-    "websiteURL": "https://odinprotocol.io/",
+    "websiteURL": "https://www.odin9worlds.io/",
     "twitterURL": "https://twitter.com/odin9worlds"
   },
   "nyx": {
@@ -929,10 +947,13 @@
     "name": "NYM",
     "symbol": "NYM",
     "description": "NYM Token (NYM), mixnet düğüm operatörlerini teşvik etmek için birincil araç olarak kullanılan, Nym Network'ün yerel hizmet tokenidir.",
+    "coingeckoID": "yeni yıl",
     "websiteURL": "https://nymtech.net/"
   },
   "ntrn": {
+    "localization": "tr",
     "name": "Nötron",
+    "symbol": "NTRN",
     "description": "Nötron zincirinin yerel belirteci.<inlang-LineFeed>\nCosmos'taki en güvenli CosmWasm platformu olan Neutron, akıllı sözleşmelerin minimum ek yük ile son teknoloji Interchain teknolojisinden yararlanmasını sağlar.",
     "coingeckoID": "nötron-3",
     "websiteURL": "https://neutron.org/",
@@ -961,14 +982,15 @@
     "websiteURL": "https://onomy.io/"
   },
   "nois": {
+    "localization": "tr",
     "name": "Gürültü",
+    "symbol": "GÜRÜLTÜ",
     "description": "Nois'in yerel simgesi",
     "websiteURL": "https://nois.network"
   },
   "nls": {
     "localization": "tr",
     "name": "Nolus",
-    "symbol": "NLS",
     "description": "Nolus zincirinin yerel tokenı<inlang-LineFeed>\nOyununuzu 3 katına kadar eşitlikle yükseltin. Risklerin en aza indirildiği bir dünyaya dalın ve varlıklarınızın tüm potansiyelini ortaya çıkarın.",
     "coingeckoID": "nolus",
     "websiteURL": "https://nolus.io/",
@@ -977,6 +999,7 @@
   "ninja": {
     "localization": "tr",
     "name": "Mınçıka ile köpek",
+    "symbol": "NİNJA",
     "description": "Injective'deki ilk meme parası. Bu bir köpek ama mınçıkaları var",
     "coingeckoID": "köpek-nuchucks",
     "websiteURL": "https://injective.com/"
@@ -990,21 +1013,18 @@
     "websiteURL": "https://nibiru.fi/"
   },
   "ngm": {
-    "localization": "tr",
     "name": "e-Para",
-    "symbol": "NGM",
     "description": "e-Money NGM stake jetonu. Staking ödülleri kazanmanın yanı sıra, e-Para stabilcoin enflasyonuna göre token geri satın alınır ve yakılır.",
     "coingeckoID": "e-para"
   },
   "newt": {
+    "localization": "tr",
     "name": "Semender",
-    "symbol": "YENİ",
     "description": "Nötron zincirindeki en tatlı NEWT tokeni.",
-    "coingeckoID": "semender",
     "websiteURL": "https://neutron.org/"
   },
   "neta": {
-    "name": "Neta",
+    "localization": "tr",
     "symbol": "NETA",
     "description": "Juno Chain'de Neta için yerel token cw20",
     "coingeckoID": "neta",
@@ -1020,26 +1040,24 @@
   "nct": {
     "localization": "tr",
     "name": "Doğa Karbon Ton",
-    "symbol": "NCT",
     "description": "Nature Carbon Ton (NCT), gönüllü karbon pazarında küresel bir lider olan Verra tarafından verilen karbon kredileriyle 1:1 desteklenen bir karbon token standardıdır. Regen Network'teki NCT kredileri Toucan.earth tarafından tokenleştirildi.",
     "coingeckoID": "tukan-protokol-doğa-karbon-ton",
     "websiteURL": "https://www.regen.network/"
   },
   "nbtc": {
+    "localization": "tr",
     "name": "Nomik Bitcoin",
     "symbol": "nBTC",
     "description": "Bitcoin. Cosmos'ta.",
     "websiteURL": "https://nomic.io/"
   },
   "muse": {
-    "localization": "tr",
     "name": "MuseDAO",
     "symbol": "İLHAM PERİSİ",
     "description": "Juno Chain'de MuseDAO için yerel token cw20",
     "websiteURL": "https://www.junonetwork.io/"
   },
   "mpwr": {
-    "localization": "tr",
     "name": "EmpowerChain",
     "symbol": "MPWR",
     "description": "Empower'ın yerel stake ve yönetişim tokenı."
@@ -1061,11 +1079,13 @@
     "symbol": "MNTL",
     "description": "Asset Mantle'ın yerel tokenı<inlang-LineFeed>\nAssetMantle'ın ürün paketi, NFT ekosistemine odaklanarak dijital varlık sahipliği konusunda oyununuzu geliştirmenize yardımcı olur.",
     "coingeckoID": "varlık örtüsü",
-    "websiteURL": "https://assetmantle.one/",
+    "websiteURL": "https://www.assetmantle.one/",
     "twitterURL": "https://twitter.com/AssetMantle"
   },
   "mnta": {
+    "localization": "tr",
     "name": "MantaDAO",
+    "symbol": "MNTA",
     "description": "MantaDAO Yönetişim Tokenı",
     "coingeckoID": "mantadao",
     "websiteURL": "https://kujira.app/"
@@ -1115,41 +1135,39 @@
   },
   "med": {
     "name": "Mediblok",
-    "symbol": "MED",
     "description": "Panacea, hasta merkezli sağlık hizmetleri veri ekosistemini yeniden keşfetmenin temel altyapısı olan MediBloc tarafından başlatılan halka açık bir blok zinciridir.",
     "coingeckoID": "Mediblok",
     "websiteURL": "https://medibloc.com/en/"
   },
   "mbrn": {
-    "name": "Zar",
+    "localization": "tr",
     "symbol": "MBRN",
     "description": "Membranın protokol jetonu",
+    "coingeckoID": "zar",
     "websiteURL": "https://osmosis.zone/"
   },
   "matic": {
     "localization": "tr",
     "name": "Çokgen",
+    "symbol": "MATİK",
     "description": "Polygon (eski adıyla Matic) Ağı, PoS tabanlı yan zincirlere sahip Plasma'nın uyarlanmış bir versiyonunu kullanarak Ethereum'a büyük ölçek getiriyor. Polygon, Ethereum ölçeklendirme ve altyapı geliştirme için iyi yapılandırılmış, kullanımı kolay bir platformdur.",
     "coingeckoID": "matic-ağ"
   },
   "mars": {
+    "localization": "tr",
     "name": "Mars Merkezi",
-    "symbol": "MARS",
     "description": "Mars protokol jetonu<inlang-LineFeed>\nCosmos evreninde özerk bir kredi protokolüyle borç verin, ödünç alın ve kazanın. Herkese açık, hiç kimseye kapalı.",
-    "coingeckoID": "mars-protokol-a7fcbcfb-fd61-4017-92f0-7ee9f9cc6da3",
+    "coingeckoID": "mars protokolü-a7fcbcfb-fd61-4017-92f0-7ee9f9cc6da3",
     "websiteURL": "https://www.marsprotocol.io/",
     "twitterURL": "https://twitter.com/mars_protocol"
   },
   "marble": {
-    "localization": "tr",
     "name": "Mermer",
     "symbol": "MERMER",
     "description": "Juno Chain'de Marble DAO için yerel token cw20",
-    "coingeckoID": "mermer",
     "websiteURL": "https://www.junonetwork.io/"
   },
   "manna": {
-    "localization": "tr",
     "name": "Kudret helvası",
     "symbol": "KUDRET HELVASI",
     "description": "Sosyal Etki DAO'su kendini gıda güvensizliği ve yetersiz beslenmeyle mücadeleye adamıştır",
@@ -1158,6 +1176,7 @@
   "lvn": {
     "localization": "tr",
     "name": "Levana",
+    "symbol": "LVN",
     "description": "Levana yerel jetonu",
     "coingeckoID": "levana protokolü",
     "websiteURL": "https://osmosis.zone/"
@@ -1165,11 +1184,11 @@
   "lunc": {
     "localization": "tr",
     "name": "Luna Klasik",
-    "symbol": "LUNC",
     "description": "Terra Classic'in yerel stake tokenı.",
     "coingeckoID": "terra-luna"
   },
   "luna": {
+    "localization": "tr",
     "name": "Luna",
     "symbol": "LUNA",
     "description": "Terra'nın yerel stake tokenı.<inlang-LineFeed>\nTutkulu bir topluluk ve derin geliştirici yetenek havuzuyla desteklenen Terra blockchain, yeni nesil Web3 ürün ve hizmetlerini mümkün kılmak için tasarlandı.",
@@ -1178,13 +1197,11 @@
     "twitterURL": "https://twitter.com/terra_money"
   },
   "lumen": {
-    "localization": "tr",
     "name": "LümenX",
     "symbol": "LÜMEN",
     "description": "LumenX Network'ün yerel token'ı"
   },
   "lum": {
-    "localization": "tr",
     "name": "Lum Ağı",
     "symbol": "LUM",
     "description": "Lum Ağının yerel tokenı",
@@ -1192,8 +1209,8 @@
     "websiteURL": "https://lum.network/"
   },
   "lore": {
-    "localization": "tr",
     "name": "Gitopya",
+    "symbol": "İLGİLİ",
     "description": "Gitopia'nın yerel simgesi<inlang-LineFeed>\nGitopia, merkezi olmayan bir ağ ve etkileşimli token ekonomisiyle desteklenen yeni nesil Kod İşbirliği Platformudur. İşbirliği, şeffaflık ve teşvik yoluyla açık kaynaklı yazılım geliştirme sürecini optimize etmek için tasarlanmıştır.",
     "coingeckoID": "gitopia",
     "websiteURL": "https://gitopia.com/",
@@ -1201,10 +1218,8 @@
   },
   "link": {
     "localization": "tr",
-    "name": "Zincir bağlantı",
     "symbol": "BAĞLANTI",
-    "description": "Kripto para birimi akıllı sözleşmeleri, veri akışları, API'ler ve geleneksel banka hesabı ödemeleri arasında köprü görevi gören, blockchain tabanlı bir ara katman yazılımı.",
-    "coingeckoID": "zincir bağlantı"
+    "description": "Kripto para birimi akıllı sözleşmeleri, veri akışları, API'ler ve geleneksel banka hesabı ödemeleri arasında köprü görevi gören, blockchain tabanlı bir ara katman yazılımı."
   },
   "like": {
     "localization": "tr",
@@ -1214,7 +1229,6 @@
     "websiteURL": "https://like.co/"
   },
   "light": {
-    "localization": "tr",
     "name": "IŞIK",
     "symbol": "IŞIK",
     "description": "Light: LumenX topluluğu DAO hazine tokenı",
@@ -1222,16 +1236,25 @@
   },
   "lamb": {
     "localization": "tr",
-    "symbol": "KUZU",
-    "description": "Lambda'nın yerel jetonu"
+    "name": "Lambda",
+    "description": "Lambda'nın yerel jetonu",
+    "coingeckoID": "lambda"
+  },
+  "lab": {
+    "localization": "tr",
+    "name": "LABORATUVAR",
+    "symbol": "LABORATUVAR",
+    "description": "LAB - Her Şey Bir Deneydir",
+    "websiteURL": "https://osmosis.zone/"
   },
   "l1": {
     "localization": "tr",
-    "name": "GenesisL1",
+    "symbol": "L1",
     "description": "L1 coin, GenesisL1 blockchain yardımcı programı, yönetimi ve EVM tokenidir"
   },
   "kyve": {
     "localization": "tr",
+    "name": "KYVE",
     "symbol": "KYVE",
     "description": "KYVE ağının yerel hizmet tokenı.<inlang-LineFeed>\nWeb3 alanında veri güvenilirliğinde devrim yaratan KYVE Ağı, veri doğrulama, değişmezlik ve geri alma için hızlı ve kolay araçlar sağlayarak kusursuz ölçeklenebilirlik için güvenilir veriler sağlar ve veri risklerini ve engellerini ortadan kaldırır.",
     "coingeckoID": "kyve ağı",
@@ -1240,13 +1263,15 @@
   },
   "kuji": {
     "name": "Kujira",
+    "symbol": "KUJİ",
     "description": "Kujira zincirinin yerel stake ve yönetim tokenı.<inlang-LineFeed>\nSürdürülebilir FinTech arayan protokoller, geliştiriciler ve web3 kullanıcıları için merkezi olmayan bir ekosistem.",
     "coingeckoID": "kujira",
-    "websiteURL": "https://kujira.app/",
+    "websiteURL": "https://kujira.network/",
     "twitterURL": "https://twitter.com/TeamKujira"
   },
   "ksm": {
     "localization": "tr",
+    "name": "Kusama",
     "symbol": "KSM",
     "description": "Polkadot platformunun yerel ücreti, yönetimi, stake etme ve bağlama tokenı.",
     "coingeckoID": "Kusama"
@@ -1267,7 +1292,6 @@
   },
   "kichain": {
     "lvn": {
-      "localization": "tr",
       "name": "LVN",
       "symbol": "kichain.LVN",
       "description": "KiChain'de ELEVENPARIS sadakat tokenı",
@@ -1276,23 +1300,27 @@
     }
   },
   "kava": {
-    "localization": "tr",
+    "name": "Kava",
     "symbol": "KAVA",
     "description": "Kava’nın yerel stake ve yönetişim tokenı<inlang-LineFeed>\nKava, Cosmos'un hızını ve birlikte çalışabilirliğini Ethereum'un geliştirici gücüyle birleştiren merkezi olmayan bir blok zinciridir.",
+    "coingeckoID": "kava",
     "websiteURL": "https://www.kava.io/",
     "twitterURL": "https://twitter.com/KAVA_CHAIN"
   },
   "juno": {
+    "localization": "tr",
     "name": "Juno",
     "symbol": "JUNO",
     "description": "JUNO Chain'in yerel tokenı<inlang-LineFeed>\nJuno, tamamen topluluğun sahip olduğu ve işlettiği bir akıllı sözleşme platformudur.",
     "coingeckoID": "Juno ağı",
-    "websiteURL": "https://www.junonetwork.io/",
+    "websiteURL": "https://junonetwork.io/",
     "twitterURL": "https://twitter.com/JunoNetwork",
     "rac": {
       "localization": "tr",
+      "name": "rakun",
       "symbol": "Juno.RAC",
       "description": "Racoon, Cosmos Ekosisteminde Yapay Zeka, NFT'ler ve Kumara erişilebilirliği basitleştirmeyi amaçlıyor",
+      "coingeckoID": "rakun",
       "websiteURL": "https://www.junonetwork.io/"
     }
   },
@@ -1304,13 +1332,14 @@
     "websiteURL": "https://www.junonetwork.io/"
   },
   "jkl": {
+    "localization": "tr",
     "name": "Çakal",
+    "symbol": "JKL",
     "description": "Jackal'ın yerel stake ve yönetim tokenı.",
     "coingeckoID": "çakal protokolü",
     "websiteURL": "https://jackalprotocol.com"
   },
   "jape": {
-    "localization": "tr",
     "name": "Junø Maymunları",
     "symbol": "JAPE",
     "description": "Juno'daki Junø Apes NFT platformu için yönetişim ve yardımcı program belirteci",
@@ -1319,12 +1348,14 @@
   "ixo": {
     "localization": "tr",
     "name": "Etki Merkezi",
+    "symbol": "IXO",
     "description": "IXO Chain'in yerel tokenı",
+    "coingeckoID": "Ixo",
     "websiteURL": "https://www.ixo.world/"
   },
   "ist": {
-    "localization": "tr",
     "name": "Inter Stabil Token",
+    "symbol": "IST",
     "description": "IST, Agoric zinciri tarafından yürütme ücretleri ve ticaret için kullanılan stabil tokendir.",
     "coingeckoID": "kararlılıklar arası belirteç",
     "websiteURL": "https://agoric.com/"
@@ -1340,27 +1371,25 @@
   "iris": {
     "localization": "tr",
     "name": "IRISnet",
-    "symbol": "İRİS",
     "description": "IRIS belirteci, IrisNet zincirinin yerel yönetim belirtecidir.",
     "coingeckoID": "iris ağı"
   },
   "iov": {
-    "localization": "tr",
     "name": "Yıldız adı",
     "symbol": "IOV",
-    "description": "IOV jetonu, Starname (IOV) Varlık Adı Hizmetinin belirtecidir<inlang-LineFeed>\nYıldız adı, blockchaindeki payınızı talep etmenin en iyi yoludur. Merkezi olmayan tanımlama, ödemeler, sahiplik ve uygulamalar için kullanabilirsiniz. Starname dijital cüzdanlara, dapp'lere ve borsalara entegre edilebilir.",
+    "description": "IOV jetonu, Starname (IOV) Varlık Adı Hizmetinin simgesidir<inlang-LineFeed>\nYıldız adı, blockchaindeki payınızı talep etmenin en iyi yoludur. Merkezi olmayan tanımlama, ödemeler, sahiplik ve uygulamalar için kullanabilirsiniz. Starname dijital cüzdanlara, dapp'lere ve borsalara entegre edilebilir.",
     "coingeckoID": "yıldız adı",
-    "websiteURL": "https://www.starname.me/",
+    "websiteURL": "https://app.starname.me/",
     "twitterURL": "https://twitter.com/starname_me"
   },
   "ion": {
     "name": "İyon DAO",
-    "coingeckoID": "iyon",
-    "websiteURL": "https://osmosis.zone/",
+    "symbol": "İYON",
+    "websiteURL": "https://ion.wtf",
     "twitterURL": "https://twitter.com/_IONDAO"
   },
   "invdrs": {
-    "localization": "tr",
+    "name": "İstilacılar",
     "symbol": "INVDR'ler",
     "description": "Evmos Muhafızlarının İstilacıları DAO jetonu.",
     "websiteURL": "https://www.junonetwork.io/"
@@ -1370,22 +1399,22 @@
       "name": "Gelotto (Enjektif)",
       "symbol": "birebir.GLTO",
       "description": "Enjeksiyonlu GLTO-ERC20",
-      "websiteURL": "https://injective.com/",
+      "websiteURL": "https://gelotto.io/",
       "twitterURL": "https://twitter.com/Gelotto2"
     }
   },
   "inj": {
-    "localization": "tr",
-    "symbol": "ENJ",
+    "name": "Enjektif",
     "description": "INJ tokenı Injective zincirinin yerel yönetişim tokenıdır.<inlang-LineFeed>\nInjective'in misyonu, merkezi olmayan yönetim yoluyla gerçekten özgür ve kapsayıcı bir finansal sistem yaratmaktır.",
     "coingeckoID": "enjeksiyon protokolü",
     "websiteURL": "https://injective.com/",
     "twitterURL": "https://twitter.com/Injective_"
   },
   "imv": {
-    "localization": "tr",
     "name": "çevrilmiş",
+    "symbol": "IMV",
     "description": "Imversed'in yerel EVM'si, yönetişimi ve staking token'ı",
+    "coingeckoID": "imv",
     "websiteURL": "https://imversed.network/"
   },
   "ibcx": {
@@ -1395,11 +1424,14 @@
     "websiteURL": "https://osmosis.zone/"
   },
   "hydrogen": {
+    "localization": "tr",
     "name": "Bostrom Hidrojen",
+    "symbol": "HİDROJEN",
     "description": "Bostrom'un likit stake tokenı"
   },
   "huahua": {
     "localization": "tr",
+    "name": "Chihuahua",
     "symbol": "HUAHUA",
     "description": "Chihuahua Chain'in yerel tokenı",
     "coingeckoID": "chihuahua jetonu",
@@ -1413,13 +1445,15 @@
     "websiteURL": "https://www.junonetwork.io/"
   },
   "hope": {
+    "localization": "tr",
     "name": "Umut Galaksisi",
+    "symbol": "UMUT",
     "description": "Hope Galaxy, Juno zincirindeki bir cw20 tokeni olan kendi yerel Tokenı $HOPE'u temel alan bir NFT koleksiyonudur.",
     "coingeckoID": "umut galaksisi",
     "websiteURL": "https://www.junonetwork.io/"
   },
   "heart": {
-    "localization": "tr",
+    "name": "İnsanlar.ai",
     "symbol": "KALP",
     "description": "Humans.ai'nin yerel stake ve yönetişim tokenı.",
     "coingeckoID": "insanlar-ai",
@@ -1427,7 +1461,6 @@
     "twitterURL": "https://twitter.com/humansdotai"
   },
   "hash": {
-    "localization": "tr",
     "name": "Kaynak",
     "symbol": "DOĞRAMAK",
     "description": "Hash, Provenance Blockchain'in stake tokenıdır",
@@ -1437,18 +1470,21 @@
   "hard": {
     "localization": "tr",
     "name": "Kava Sert",
+    "symbol": "ZOR",
     "description": "Kava Lend Protokolünün yönetim tokenı",
     "coingeckoID": "kava-ödünç vermek",
     "websiteURL": "https://www.kava.io/"
   },
   "harbor": {
     "localization": "tr",
+    "name": "Liman",
     "symbol": "LİMAN",
     "description": "Comdex ağındaki Liman protokolünün Yönetişim Tokenı",
     "coingeckoID": "liman-2",
     "websiteURL": "https://comdex.one/"
   },
   "guppy": {
+    "localization": "tr",
     "name": "GUPPY",
     "symbol": "GUPPY",
     "description": "GUPPY",
@@ -1461,7 +1497,6 @@
     "websiteURL": "https://www.junonetwork.io/"
   },
   "grav": {
-    "localization": "tr",
     "name": "Yerçekimi Köprüsü",
     "symbol": "AĞIR",
     "description": "Yerçekimi Köprüsü'nün yerel simgesi<inlang-LineFeed>\nBlockchain ekosistemleri arasında birlikte çalışabilirliğin ve likiditenin gücünü ortaya çıkaran açık, merkezi olmayan bir köprü.",
@@ -1470,12 +1505,13 @@
     "twitterURL": "https://twitter.com/gravity_bridge"
   },
   "glx": {
-    "name": "Gökada",
+    "localization": "tr",
     "symbol": "GLX",
     "description": "GLX, Galaxy Chain'in stake tokenıdır",
     "websiteURL": "https://galaxychain.zone/"
   },
   "glto": {
+    "localization": "tr",
     "name": "Gelotto",
     "symbol": "GLTO",
     "description": "Juno üzerine kurulu DeFi oyun platformu",
@@ -1484,7 +1520,8 @@
   "glmr": {
     "localization": "tr",
     "name": "Ay ışığı",
-    "description": "Glimmer (GLMR), Moonbeam'in Polkadot ağındaki geliştirici dostu bir parachain görevi gören birincil konuşlandırması olan Moonbeam Ağının yardımcı tokenidir.",
+    "symbol": "GLMR",
+    "description": "Glimmer (GLMR), Moonbeam'in Polkadot ağındaki birincil dağıtımı olan ve geliştirici dostu bir parachain görevi gören Moonbeam Ağının yardımcı tokenidir.",
     "coingeckoID": "ay ışığı"
   },
   "gkey": {
@@ -1497,12 +1534,13 @@
   "geo": {
     "localization": "tr",
     "name": "coğrafi konum",
-    "symbol": "coğrafi konum",
     "description": "ODIN Protokolü için GEO jetonu",
     "websiteURL": "https://odinprotocol.io/"
   },
   "fx": {
+    "localization": "tr",
     "name": "f(x)Çekirdek",
+    "symbol": "döviz",
     "description": "Function X'in yerel stake tokenı",
     "coingeckoID": "fx-coin",
     "websiteURL": "https://functionx.io"
@@ -1513,11 +1551,18 @@
     "symbol": "ÖFKE",
     "description": "Juno Chain'de Fanfury için yerel token cw20",
     "coingeckoID": "tantana",
-    "websiteURL": "https://www.junonetwork.io/"
+    "websiteURL": "https://www.junonetwork.io/",
+    "legacy": {
+      "name": "FURY.legacy",
+      "symbol": "FURY.legacy",
+      "description": "Juno Chain'de Fanfury için kullanımdan kaldırılan cw20 tokenı",
+      "coingeckoID": "tantana",
+      "websiteURL": "https://www.junonetwork.io/"
+    }
   },
   "fund": {
     "localization": "tr",
-    "name": "Birleşme",
+    "symbol": "FON, SERMAYE",
     "description": "Birleşme Blockchain'i için stake etme ve yönetişim parası",
     "coingeckoID": "birleşme",
     "websiteURL": "https://unification.com/"
@@ -1525,7 +1570,7 @@
   "ftm": {
     "localization": "tr",
     "symbol": "FTM",
-    "description": "Fantom'un yerel hizmet tokenı - FTM - tüm Fantom blockchain ekosistemine güç sağlar. FTM tokenleri ağdaki stake etme, yönetişim, ödemeler ve ücretler için kullanılır.",
+    "description": "Fantom'un yerel hizmet tokenı - FTM - tüm Fantom blockchain ekosistemine güç verir. FTM tokenleri ağdaki stake etme, yönetişim, ödemeler ve ücretler için kullanılır.",
     "coingeckoID": "hayalet"
   },
   "frnz": {
@@ -1538,7 +1583,9 @@
   "frax": {
     "localization": "tr",
     "name": "Frax",
-    "description": "Frax, kesirli-algoritmik bir stabilcoin protokolüdür. BTC gibi sabit tedarikli varlıkların yerine yüksek oranda ölçeklenebilir, merkezi olmayan, algoritmik bir para sağlamayı amaçlıyor. Ek olarak FXS, tüm Frax ekosisteminin değer tahakkuk ve yönetim tokenidir."
+    "symbol": "FRAX",
+    "description": "Frax, kesirli-algoritmik bir stabilcoin protokolüdür. BTC gibi sabit tedarikli varlıkların yerine yüksek oranda ölçeklenebilir, merkezi olmayan, algoritmik bir para sağlamayı amaçlıyor. Ek olarak FXS, tüm Frax ekosisteminin değer tahakkuk ve yönetim tokenidir.",
+    "coingeckoID": "frax"
   },
   "fox": {
     "localization": "tr",
@@ -1550,6 +1597,7 @@
   "flix": {
     "localization": "tr",
     "name": "OmniFlix",
+    "symbol": "FLIX",
     "description": "OmniFlix Hub'ın yerel stake tokenı.<inlang-LineFeed>\nYaratıcılar ve Egemen Topluluklar için NFT'ler ve ilgili dağıtım protokolleri tarafından desteklenen merkezi olmayan medya ve ağ katmanı.",
     "coingeckoID": "omniflix ağı",
     "websiteURL": "https://omniflix.network/",
@@ -1564,13 +1612,14 @@
     "websiteURL": "https://stafihub.io/"
   },
   "fil": {
-    "localization": "tr",
+    "name": "Dosya parası",
     "symbol": "FİL",
     "description": "Filecoin, bulut depolamayı algoritmik bir pazara dönüştürmek için tasarlanmış merkezi olmayan bir depolama ağıdır. Ağ, kullanıcıların dosyalarını depolama madencilerinde depolamak için ödeme yaptığı, verileri depolamak ve almak için açık pazarları kolaylaştırır. Filecoin, eşler arası bir depolama ağı olan InterPlanetary Dosya Sisteminin (IPFS) üzerine kurulmuştur. Filecoin, geleneksel bulut depolama sağlayıcılarının aksine, verileri merkezi olmayan bir şekilde depolamayı amaçlamaktadır.<inlang-LineFeed>\nFilecoin ağındaki katılımcılar, depolama hizmetleri karşılığında Filecoin kripto para birimini (FIL) kazandıkları için dürüst davranmaya ve mümkün olduğunca fazla veri depolamaya teşvik edilir. Bu kurulum, depolanan verilerin bütünlüğünü ve erişilebilirliğini sağlar. Filecoin'in modeli, uzun vadeli arşiv depolama ve daha hızlı erişim hizmetleri dahil olmak üzere çeşitli depolama seçeneklerine olanak tanır ve bu da onu merkezi olmayan veri depolama için çok yönlü bir çözüm haline getirir. Protokol Laboratuvarları tarafından geliştirilen proje aynı zamanda verilerin güvenilir ve verimli bir şekilde saklanmasını sağlamaya da odaklanıyor.",
     "coingeckoID": "dosya parası"
   },
   "fet": {
     "localization": "tr",
+    "name": "Fetch.ai",
     "symbol": "FET",
     "description": "Fetch Hub'ın yerel stake etme ve yönetişim tokenı.",
     "coingeckoID": "getir-ai"
@@ -1578,6 +1627,7 @@
   "evmos": {
     "localization": "tr",
     "name": "Evmos",
+    "symbol": "EVMO'lar",
     "description": "Evmos Hub'ın yerel EVM'si, yönetimi ve stake tokenı<inlang-LineFeed>\nGeliştiriciler, geleceğin uygulamalarını dağıtmak için Evmos'u Ethereum Canary Chain olarak kullanıyor. IBC ve Interchain şekillendirilebilirliğinin gücüyle Ethereum'un tüm işlevlerini edinin.",
     "coingeckoID": "evmolar",
     "websiteURL": "https://evmos.org/",
@@ -1587,7 +1637,8 @@
     "localization": "tr",
     "name": "Eter",
     "symbol": "ETH",
-    "description": "Ethereum (ETH), akıllı sözleşme işlevselliğine sahip, merkezi olmayan, açık kaynaklı bir blockchain sistemidir. Genellikle Bitcoin'den sonra ikinci en popüler dijital para birimi olarak kabul edilen Ethereum platformunun yerel kripto para birimidir. Ethereum 2013'ün sonlarında önerildi ve geliştirme 2014'te kitlesel fonlamayla sağlandı ve ağı 30 Temmuz 2015'te yayına girdi.<inlang-LineFeed>\nDijital bir para birimi olan ETH, merkezi olmayan akıllı sözleşmelerin yürütülmesi ve bir ödeme şekli de dahil olmak üzere Ethereum ekosistemi içerisinde çeşitli amaçlar için kullanılır. Ethereum, Bitcoin'den farklı olarak blockchain teknolojisini kullanarak aracılara ihtiyaç duymadan çalışabilen uygulamalara yönelik bir platform olarak tasarlandı. Bu, Ethereum'u merkezi olmayan finans (DeFi), değiştirilemez tokenlar (NFT'ler) ve daha fazlası dahil olmak üzere çeşitli uygulamalar için lider bir platform haline getirdi. Ethereum, ölçeklenebilirliğini, güvenliğini ve sürdürülebilirliğini geliştirmeyi amaçlayan Ethereum 2.0 adı verilen önemli bir yükseltmeyle sürekli olarak gelişmektedir."
+    "description": "Ethereum (ETH), akıllı sözleşme işlevselliğine sahip, merkezi olmayan, açık kaynaklı bir blockchain sistemidir. Genellikle Bitcoin'den sonra ikinci en popüler dijital para birimi olarak kabul edilen Ethereum platformunun yerel kripto para birimidir. Ethereum 2013'ün sonlarında önerildi ve geliştirme 2014'te kitlesel fonlamayla sağlandı ve ağı 30 Temmuz 2015'te yayına girdi.<inlang-LineFeed>\nDijital bir para birimi olarak ETH, merkezi olmayan akıllı sözleşmelerin yürütülmesi ve bir ödeme şekli de dahil olmak üzere Ethereum ekosistemi içerisinde çeşitli amaçlar için kullanılır. Ethereum, Bitcoin'den farklı olarak blockchain teknolojisini kullanarak aracılara ihtiyaç duymadan çalışabilen uygulamalara yönelik bir platform olarak tasarlandı. Bu, Ethereum'u merkezi olmayan finans (DeFi), değiştirilemez tokenlar (NFT'ler) ve daha fazlası dahil olmak üzere çeşitli uygulamalar için lider bir platform haline getirdi. Ethereum, ölçeklenebilirliğini, güvenliğini ve sürdürülebilirliğini geliştirmeyi amaçlayan Ethereum 2.0 adı verilen önemli bir yükseltmeyle sürekli olarak gelişmektedir.",
+    "coingeckoID": "Ethereum"
   },
   "eeur": {
     "localization": "tr",
@@ -1597,13 +1648,16 @@
     "coingeckoID": "e-para-eur"
   },
   "ech": {
+    "localization": "tr",
     "name": "Kademe",
     "symbol": "ECH",
     "description": "Echelon - Cosmos üzerinde ölçeklenebilir bir EVM, birlikte çalışabilirliğe ve yeni ekonomiye öncelik veren, hızlı kesinliğe sahip Proof-of-Stake üzerine inşa edilmiştir",
     "coingeckoID": "kademe"
   },
   "ebl": {
+    "localization": "tr",
     "name": "8 top",
+    "symbol": "EBL",
     "description": "8ball'un yerel stake jetonu.",
     "websiteURL": "https://8ball.info/"
   },
@@ -1615,6 +1669,7 @@
     "websiteURL": "https://dysonprotocol.com/"
   },
   "dym": {
+    "localization": "tr",
     "name": "Boyut Merkezi",
     "symbol": "DYM",
     "description": "Dymension Hub'ın yerel yönetimi ve stake tokenı<inlang-LineFeed>\nDymension, RollApps adı verilen, kolayca konuşlandırılabilen ve ışık hızında modüler blok zincirlerden oluşan bir ağdır.",
@@ -1625,7 +1680,9 @@
   "dydx": {
     "localization": "tr",
     "name": "dYdX Protokolü",
+    "symbol": "DYDX",
     "description": "dYdX Protokolünün yerel stake tokenı.<inlang-LineFeed>\nAmacımız birinci sınıf ürün ve ticaret deneyimini güçlendirebilecek açık kaynak kodu oluşturmaktır.",
+    "coingeckoID": "dydx",
     "websiteURL": "https://dydx.trade/",
     "twitterURL": "https://twitter.com/dYdX"
   },
@@ -1635,17 +1692,19 @@
     "symbol": "DVPN",
     "description": "DVPN, Sentinel Hub'ın yerel belirtecidir.<inlang-LineFeed>\nSentinel ekosistemi, özel ve sansüre dayanıklı internet erişimi sağlayan küresel bir otonom dVPN uygulamaları ağıdır.",
     "coingeckoID": "nöbetçi",
-    "websiteURL": "https://sentinel.co/",
+    "websiteURL": "https://www.sentinel.co/",
     "twitterURL": "https://twitter.com/SentinelVPN"
   },
   "dsm": {
     "localization": "tr",
+    "name": "Desmos",
     "symbol": "DSM",
     "description": "Desmos'un yerel simgesi",
     "coingeckoID": "desmos",
     "websiteURL": "https://desmos.network/"
   },
   "dot": {
+    "localization": "tr",
     "name": "Puantiye",
     "symbol": "NOKTA",
     "description": "Polkadot platformunun yerel ücreti, yönetimi, stake etme ve bağlama tokenı.",
@@ -1660,14 +1719,16 @@
   "dora": {
     "localization": "tr",
     "name": "Dora Vota",
+    "symbol": "DORA",
     "description": "Dora Vota'nın Theta test ağı versiyonunun yerel staking ve yönetişim tokenı."
   },
   "doki": {
+    "localization": "tr",
     "name": "DOKİ",
     "symbol": "DOKİ",
     "description": "Son Ejderha DOKI",
     "coingeckoID": "doki",
-    "websiteURL": "https://odinprotocol.io/",
+    "websiteURL": "https://dokicoin.io/",
     "twitterURL": "https://twitter.com/doki_coin"
   },
   "doga": {
@@ -1687,16 +1748,19 @@
   },
   "dhk": {
     "localization": "tr",
+    "name": "DHK",
     "symbol": "DHK",
     "description": "DAO tokenı Hong Kong Halkı arasında fikir birliği oluşturacak",
     "websiteURL": "https://www.junonetwork.io/"
   },
   "dgl": {
     "localization": "tr",
+    "name": "Meyan kökü",
     "symbol": "DGL",
     "websiteURL": "https://www.junonetwork.io/"
   },
   "dec": {
+    "localization": "tr",
     "name": "Merkezsiz",
     "symbol": "Aralık",
     "description": "Decentr’ın yerel tokenı",
@@ -1713,7 +1777,8 @@
   "dai": {
     "localization": "tr",
     "name": "Dai Stabilcoin",
-    "description": "Multi-Collateral Dai, yeni CDP teminat türleri ve Dai Tasarruf Oranı desteği gibi birçok yeni ve heyecan verici özellik getiriyor.",
+    "symbol": "DAI",
+    "description": "Çoklu Teminat Dai, yeni CDP teminat türleri ve Dai Tasarruf Oranı desteği gibi birçok yeni ve heyecan verici özellik getiriyor.",
     "coingeckoID": "dai",
     "grv": {
       "localization": "tr",
@@ -1722,6 +1787,14 @@
       "description": "Yerçekimi Köprüsü DAI",
       "websiteURL": "https://www.gravitybridge.net/"
     }
+  },
+  "cvn": {
+    "localization": "tr",
+    "name": "BilinçliDAO",
+    "symbol": "CVN",
+    "description": "Cvn, DeFi vaadini yerine getirmek için oluşturulmuş bir Katman-1 blok zinciridir",
+    "coingeckoID": "bilinçlidao",
+    "websiteURL": "https://www.bilinçlidao.com/"
   },
   "cudos": {
     "localization": "tr",
@@ -1732,6 +1805,7 @@
     "websiteURL": "https://www.cudos.org/"
   },
   "cub": {
+    "localization": "tr",
     "name": "Aslan Yavrusu DAO",
     "symbol": "CUB",
     "description": "Lion Cub DAO, Terra'da işe yaramaz bir meme topluluğu DAO'sudur",
@@ -1740,6 +1814,7 @@
   "ctk": {
     "localization": "tr",
     "name": "Şentu",
+    "symbol": "CTK",
     "description": "Shentu'nun yerel simgesi",
     "coingeckoID": "sertik",
     "websiteURL": "https://www.shentu.teknoloji/"
@@ -1748,14 +1823,15 @@
     "localization": "tr",
     "name": "Cronos POS Zinciri",
     "symbol": "DO'su",
-    "description": "CRO, Crypto.org Zincirinin yerel tokenıdır ve Yerel CRO olarak anılır.<inlang-LineFeed>\nCronos PoS Chain, ödemeler, DeFi ve NFT'ler gibi kullanım örnekleri aracılığıyla blockchain teknolojisinin kitlesel olarak benimsenmesine yardımcı olan kamu malı olacak şekilde tasarlanmış, yüksek hıza ve düşük ücretlere sahip, tamamen merkezi olmayan bir ağ olan halka açık, açık kaynaklı ve izin gerektirmeyen bir blockchaindir.",
+    "description": "CRO, Crypto.org Zincirinin yerel tokenıdır ve Yerel CRO olarak anılır.<inlang-LineFeed>\nCronos PoS Chain, ödemeler, DeFi ve NFT'ler gibi kullanım örnekleri aracılığıyla blockchain teknolojisinin kitlesel olarak benimsenmesine yardımcı olan kamu yararına olacak şekilde tasarlanmış, yüksek hıza ve düşük ücretlere sahip, tamamen merkezi olmayan bir ağ olan halka açık, açık kaynaklı ve izin gerektirmeyen bir blockchaindir.",
     "coingeckoID": "kripto-com-zinciri",
-    "websiteURL": "https://cronos-pos.org/",
+    "websiteURL": "https://cronos.org/",
     "twitterURL": "https://twitter.com/cronos_chain"
   },
   "cre": {
     "localization": "tr",
     "name": "Hilal",
+    "symbol": "CRE",
     "description": "Crescent'in yerel simgesi",
     "coingeckoID": "hilal ağı"
   },
@@ -1791,6 +1867,7 @@
     "websiteURL": "https://comdex.one/"
   },
   "cmdx": {
+    "localization": "tr",
     "name": "Kodeksi",
     "symbol": "CMDX",
     "description": "Comdex Protokolünün Yerel Tokenı",
@@ -1798,6 +1875,7 @@
     "websiteURL": "https://comdex.one/"
   },
   "clst": {
+    "localization": "tr",
     "name": "Celestimler",
     "symbol": "CLST",
     "description": "Celestimler",
@@ -1813,6 +1891,7 @@
   "cheq": {
     "localization": "tr",
     "name": "Çek",
+    "symbol": "ÇEK",
     "description": "Cheqd ağı için yerel token",
     "coingeckoID": "cheqd ağı",
     "websiteURL": "https://www.cheqd.io/"
@@ -1851,6 +1930,7 @@
     "name": "Kanto",
     "symbol": "CANTO",
     "description": "Canto, DeFi vaadini yerine getirmek için oluşturulmuş bir Katman-1 blok zinciridir",
+    "coingeckoID": "kanto",
     "websiteURL": "https://canto.io/"
   },
   "c4e": {
@@ -1862,18 +1942,24 @@
     "twitterURL": "https://twitter.com/Chain4Energy"
   },
   "bze": {
+    "localization": "tr",
     "name": "ArıZee",
+    "symbol": "BZE",
     "description": "BeeZee yerel blok zinciri",
     "coingeckoID": "bzedge"
   },
   "butt": {
+    "localization": "tr",
     "name": "Düğme",
+    "symbol": "popo",
     "description": "Gizli Ağdaki Button için yerel token cw20",
     "coingeckoID": "buttcoin-2",
     "websiteURL": "https://scrt.network/"
   },
   "busd": {
+    "localization": "tr",
     "name": "Binance USD",
+    "symbol": "BUSD",
     "description": "Binance USD (BUSD), Paxos Trust Company tarafından ihraç edilen ve saklanan, New York Eyaleti Finansal Hizmetler Departmanı tarafından denetlenen, dolar destekli bir stabilcoindir. BUSD, Paxos.com'da USD ile 1:1 oranında doğrudan satışa sunulacak ve Binance'te alım satım için listelenecektir.",
     "coingeckoID": "binance-usd"
   },
@@ -1888,8 +1974,11 @@
   },
   "bskt": {
     "localization": "tr",
+    "name": "Sepet",
     "symbol": "BSKT",
     "description": "BSKT, kripto ekosistemindeki en iyi varlıkları takip ediyor",
+    "coingeckoID": "sepet",
+    "websiteURL": "https://www.bskt.fi/",
     "twitterURL": "https://twitter.com/bsktfi"
   },
   "brnch": {
@@ -1899,6 +1988,13 @@
     "description": "ohhNFT LP jetonu.",
     "websiteURL": "https://stargaze.zone/"
   },
+  "bosmo": {
+    "localization": "tr",
+    "name": "BackBone Labs Sıvı Staked OSMO",
+    "symbol": "bosmo",
+    "description": "BackBone Labs Sıvı Staked OSMO",
+    "websiteURL": "https://osmosis.zone/"
+  },
   "boot": {
     "localization": "tr",
     "name": "göğüs",
@@ -1907,6 +2003,7 @@
     "coingeckoID": "göğüs"
   },
   "bonk": {
+    "localization": "tr",
     "name": "lanet",
     "symbol": "BONK",
     "description": "Resmi Bonk Inu jetonu",
@@ -1916,16 +2013,18 @@
     "localization": "tr",
     "name": "Binance Coin",
     "symbol": "BNB",
-    "description": "BNB, BNB Chain ekosistemine güç verir ve BNB Beacon Chain ile BNB Smart Chain'in yerel parasıdır."
+    "description": "BNB, BNB Chain ekosistemine güç verir ve BNB Beacon Chain ile BNB Smart Chain'in yerel parasıdır.",
+    "coingeckoID": "binancecoin"
   },
   "bmos": {
     "localization": "tr",
     "name": "Bitmos",
     "symbol": "BMOS",
-    "description": "Bitmos, BRC20 tokenlerinin Cosmos Network'teki köklü oyuncularla birlikte büyümesine kapı açıyor ve herkes için merkezi olmayan finansta (DeFi) devrim yaratıyor.",
+    "description": "Bitmos, BRC20 tokenlerinin Cosmos Network'teki köklü oyuncularla birlikte büyümesi için kapıları açarak, herkes için merkezi olmayan finansta (DeFi) devrim yaratıyor.",
     "websiteURL": "https://www.terra.money/"
   },
   "blz": {
+    "localization": "tr",
     "name": "Bluzel",
     "symbol": "BLZ",
     "description": "Bluzelle'in yerel simgesi",
@@ -1949,12 +2048,14 @@
   "bld": {
     "localization": "tr",
     "name": "Agorik",
-    "description": "BLD, Agoric zincirini staking yoluyla güvence altına almak ve Inter Protokolünü desteklemek için kullanılan tokendır.<inlang-LineFeed>\nAgoric platformu, mevcut JavaScript bilginizi kullanarak merkezi olmayan uygulamalar oluşturmanızı güvenli ve sorunsuz hale getirir.",
+    "symbol": "BLD",
+    "description": "BLD, Agoric zincirini staking yoluyla güvence altına almak ve Inter Protokolünü desteklemek için kullanılan tokendir.<inlang-LineFeed>\nAgoric platformu, mevcut JavaScript bilginizi kullanarak merkezi olmayan uygulamalar oluşturmanızı güvenli ve sorunsuz hale getirir.",
     "coingeckoID": "agorik",
     "websiteURL": "https://agoric.com/",
     "twitterURL": "https://twitter.com/agoric"
   },
   "bjuno": {
+    "localization": "tr",
     "name": "StakeEasy bJUNO",
     "symbol": "BJUNO",
     "description": "Stacked JUNO için staking türevi bJUNO",
@@ -1967,6 +2068,14 @@
     "symbol": "BERLİN",
     "description": "Teledisko DAO'nun jetonu.",
     "websiteURL": "https://evmos.org/"
+  },
+  "beast": {
+    "localization": "tr",
+    "name": "Gelotto CANAVAR",
+    "symbol": "CANAVAR",
+    "description": "BEAST-ERC20 enjeksiyonlu",
+    "websiteURL": "https://gelotto.io/",
+    "twitterURL": "https://twitter.com/Gelotto2"
   },
   "bcna": {
     "localization": "tr",
@@ -1982,7 +2091,7 @@
     "symbol": "BANT",
     "description": "BandChain'in yerel tokenı<inlang-LineFeed>\nBand Protokolü, gerçek dünya verilerini ve API'lerini akıllı sözleşmelere toplayan ve bağlayan zincirler arası bir veri oracle platformudur.",
     "coingeckoID": "bant protokolü",
-    "websiteURL": "https://bandprotocol.com/",
+    "websiteURL": "https://www.bandprotocol.com/",
     "twitterURL": "https://twitter.com/BandProtocol"
   },
   "badkid": {
@@ -1995,6 +2104,7 @@
   "baddog": {
     "localization": "tr",
     "name": "Chihuahuawifhat",
+    "symbol": "KÖTÜ KÖPEK",
     "description": "şapkası var",
     "websiteURL": "https://chihuahua.wtf/"
   },
@@ -2008,6 +2118,7 @@
   "axs": {
     "localization": "tr",
     "name": "Axie Sonsuzluk Parçası",
+    "symbol": "EKSEN",
     "description": "Axie Infinity, herkesin yetenekli oynanış ve ekosisteme katkılar yoluyla jeton kazanabileceği, Pokémon'dan ilham alan bir dijital evcil hayvan evrenidir. Oyuncular evcil hayvanları (Axies olarak bilinir) için savaşabilir, toplayabilir, yükseltebilir ve kara tabanlı bir krallık inşa edebilir.",
     "coingeckoID": "eksen-sonsuzluk"
   },
@@ -2015,10 +2126,12 @@
     "localization": "tr",
     "name": "Filecoin'den sarılmış FIL",
     "symbol": "axlFIL",
-    "description": "Axelar'da sarılmış FIL"
+    "description": "Axelar'da sarılmış FIL",
+    "coingeckoID": "dosya parası"
   },
   "axl": {
     "localization": "tr",
+    "name": "akslar",
     "symbol": "AXL",
     "description": "Axelar'ın yerel jetonu<inlang-LineFeed>\nAxelar, Web3 için güvenli zincirler arası iletişim sağlar. Altyapımız, dApp kullanıcılarının herhangi bir zincirdeki herhangi bir varlık veya uygulamayla tek tıklamayla etkileşime girmesine olanak tanır.",
     "coingeckoID": "eksenel",
@@ -2049,6 +2162,7 @@
     }
   },
   "autism": {
+    "localization": "tr",
     "name": "Otizm",
     "symbol": "OTİZM",
     "description": "$OTİZM, otizmi değişen bir dünya için üstün bir biyolojik teknoloji yığını olarak kutlamak için var",
@@ -2061,16 +2175,19 @@
     "symbol": "ATOM",
     "description": "Cosmos Hub'ın yerel stake ve yönetişim tokenı.<inlang-LineFeed>\nÖzetle Cosmos Hub, kendisini blockchain endüstrisinin karşılaştığı en zor sorunlardan bazılarını çözen bir proje olarak tanıtıyor. Bağlantılı blockchainlerden oluşan bir ekosistem sunarak, Bitcoin tarafından kullanılanlar gibi yavaş, pahalı, ölçeklenemeyen ve çevreye zararlı iş kanıtı protokollerine karşı bir panzehir sunmayı amaçlıyor.<inlang-LineFeed>\nProjenin diğer hedefleri arasında, merkezi olmayan uygulamaların gizemini ortadan kaldıran modüler bir çerçeve sayesinde blockchain teknolojisini geliştiriciler için daha az karmaşık ve zor hale getirmek yer alıyor. Son olarak, Blok Zincirleri Arası İletişim protokolü, blockchain ağlarının birbirleriyle iletişim kurmasını kolaylaştırarak sektördeki parçalanmayı önler.<inlang-LineFeed>\nCosmos Hub'ın kökenleri, ağa temel katkıda bulunanlardan biri olan Tendermint'in kurulduğu 2014 yılına kadar uzanabilir. 2016 yılında Cosmos için bir teknik inceleme yayınlandı ve ertesi yıl bir token satışı düzenlendi. ATOM tokenleri, hibrit bir hisse kanıtı algoritmasıyla kazanılır ve projenin amiral gemisi blok zinciri olan Cosmos Hub'ın güvende tutulmasına yardımcı olur. Bu kripto para biriminin aynı zamanda ağın yönetiminde de rolü var.",
     "coingeckoID": "Evren",
-    "websiteURL": "https://cosmos.network/",
+    "websiteURL": "https://cosmos.network",
     "twitterURL": "https://twitter.com/cosmoshub"
   },
   "atolo": {
+    "localization": "tr",
     "name": "Rizon",
+    "symbol": "ATOLO",
     "description": "Rizon Chain'in yerel tokenı",
     "coingeckoID": "rizon",
     "websiteURL": "https://rizon.world/"
   },
   "asvt": {
+    "localization": "tr",
     "name": "Another.Yazılım Doğrulayıcı Jetonu",
     "symbol": "ASVT",
     "description": "Another.Software doğrulayıcı için kar paylaşım jetonu. Another.Software doğrulayıcı komisyonlarını tutun ve onlardan temettü alın!",
@@ -2082,7 +2199,7 @@
     "symbol": "ASTRO",
     "description": "Astroport, galaksinin herhangi bir yerinden herkesin mallarını takas etmek için yanaşabileceği tarafsız bir pazar yeridir.",
     "coingeckoID": "astroport-fi",
-    "websiteURL": "https://www.terra.money/",
+    "websiteURL": "https://astroport.finance/",
     "twitterURL": "https://twitter.com/astroport_fi"
   },
   "ash": {
@@ -2119,14 +2236,16 @@
   "arb": {
     "localization": "tr",
     "name": "Tahkim",
-    "description": "Arbitrum'un yerel tokenı"
+    "symbol": "ARB",
+    "description": "Arbitrum'un yönetişim tokenı",
+    "coingeckoID": "hakem kararı"
   },
   "apt": {
     "localization": "tr",
     "name": "Aptos Parası",
     "symbol": "UYGUN",
     "description": "Aptos belirteci (APT), ağ ve işlem ücretlerini ödemek için kullanılan Aptos blockchain yerel belirtecidir.",
-    "coingeckoID": "Aptos"
+    "coingeckoID": "aptos"
   },
   "apollo": {
     "localization": "tr",
@@ -2144,6 +2263,7 @@
   },
   "ape": {
     "localization": "tr",
+    "name": "MaymunCoin",
     "symbol": "MAYMUN",
     "description": "ApeCoin web3'te sanat, oyun, eğlence ve etkinlikler aracılığıyla yeni bir ifade buldu. APE, bir sonraki aşamayı desteklemek için yapılmış, topluluk tarafından kontrol edilen ve üzerine inşa edilen bir tokendır. Kültürü metaveriye doğru ilerleten topluluk liderliğindeki girişimler için merkezi olmayan bir protokol katmanı olarak hizmet edecek.",
     "coingeckoID": "maymun parası"
@@ -2156,6 +2276,7 @@
     "websiteURL": "https://osmosis.zone/"
   },
   "amber": {
+    "localization": "tr",
     "name": "kehribar",
     "symbol": "AMBER",
     "description": "Secret Network'te Amber için yerel token cw20",
@@ -2164,14 +2285,16 @@
   "alter": {
     "localization": "tr",
     "name": "Değiştir",
+    "symbol": "DEĞİŞTİR",
     "description": "Gizli Ağda Alter için yerel token cw20",
     "coingeckoID": "değiştirmek",
     "websiteURL": "https://scrt.network/"
   },
   "akt": {
+    "localization": "tr",
     "name": "Akaşa",
     "symbol": "AKT",
-    "description": "Akash Token (AKT), blok zincirini yönetmek, güvence altına almak, katılımcıları teşvik etmek ve değer depolamak ve değiştirmek için varsayılan bir mekanizma sağlamak için birincil araç olarak kullanılan, Akash Network'ün yerel hizmet tokenidir.<inlang-LineFeed>\nAkash, kullanıcıların bilgi işlem kaynaklarını güvenli ve verimli bir şekilde satın almasına ve satmasına olanak tanıyan açık kaynaklı bir Supercloud'dur. Kamu hizmeti için özel olarak üretilmiştir.",
+    "description": "Akash Token (AKT), blockchain'i yönetmek, güvence altına almak, katılımcıları teşvik etmek ve değer depolamak ve takas etmek için varsayılan bir mekanizma sağlamak için birincil araç olarak kullanılan Akash Network'ün yerel hizmet tokenidir.<inlang-LineFeed>\nAkash, kullanıcıların bilgi işlem kaynaklarını güvenli ve verimli bir şekilde satın almasına ve satmasına olanak tanıyan açık kaynaklı bir Supercloud'dur. Kamu hizmeti için özel olarak üretilmiştir.",
     "coingeckoID": "akash ağı",
     "websiteURL": "https://akash.network/",
     "twitterURL": "https://twitter.com/akashnet_"
@@ -2179,6 +2302,7 @@
   "aioz": {
     "localization": "tr",
     "name": "AIOZ Ağı",
+    "symbol": "AIOZ",
     "description": "AIOZ Ağının yerel stake ve yönetim tokenı.<inlang-LineFeed>\nAIOZ Ağı, Web3 AI, Depolama ve Akış için bir DePIN'dir.<inlang-LineFeed>\nAIOZ daha hızlı, güvenli ve merkezi olmayan bir geleceği güçlendiriyor.<inlang-LineFeed>\nKüresel bir DePIN ağı tarafından desteklenen AIOZ, dijital medya içeriğini depolamak, kod dönüştürmek ve yayınlamak ve merkezi olmayan yapay zeka hesaplamasını güçlendirmek için hesaplama kaynaklarınızı paylaştığınız için sizi ödüllendirir.",
     "coingeckoID": "aioz ağı",
     "websiteURL": "https://aioz.network/"
@@ -2195,7 +2319,7 @@
     "localization": "tr",
     "name": "Aave",
     "symbol": "AAVE",
-    "description": "Aave, mevduatlardan ve ödünç alınan varlıklardan faiz kazanmaya yönelik Açık Kaynaklı ve Saklamasız bir protokoldür. Aynı zamanda, geliştiricilerin anında ve kolayca borç almasına olanak tanıyan son derece yenilikçi flaş kredilere erişim olanağı da sunuyor; teminata gerek yok. 5'i stabilcoin olmak üzere 16 farklı varlıkla.",
+    "description": "Aave, mevduatlardan ve ödünç alınan varlıklardan faiz kazanmaya yönelik Açık Kaynaklı ve Saklamasız bir protokoldür. Ayrıca, geliştiricilerin anında ve kolayca borç almasına olanak tanıyan son derece yenilikçi flaş kredilere erişim olanağı da sunuyor; teminata gerek yok. 5'i stabilcoin olmak üzere 16 farklı varlıkla.",
     "coingeckoID": "evet"
   },
   "a": {

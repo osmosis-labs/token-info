@@ -2,6 +2,6 @@
   "localization": "zh",
   "name": "e-Money EUR",
   "symbol": "EEUR",
-  "description": "电子货币欧元稳定币。由法定欧元存款和政府债券进行审计和支持。",
+  "description": "e-Money 欧元稳定币。由法定欧元存款和政府债券审计和支持。",
   "coingeckoID": "e-money-eur"
 }

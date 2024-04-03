@@ -2,6 +2,6 @@
   "localization": "en",
   "name": "Arbitrum",
   "symbol": "ARB",
-  "description": "Native token of Arbitrum",
+  "description": "The governance token of Arbitrum",
   "coingeckoID": "arbitrum"
 }
