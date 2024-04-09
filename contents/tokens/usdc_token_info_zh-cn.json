@@ -1,7 +1,7 @@
 {
-  "localization": "zh",
+  "localization": "英文",
   "name": "USD Coin",
   "symbol": "USDC",
-  "description": "USDC 是由开源项目 CENTRE 开发的完全抵押的美元稳定币，Circle 是即将推出的几个发行人中的第一个。",
+  "description": "USDC 是一种完全抵押的美元稳定币，由开源项目 CENTRE 开发，Circle 是即将发行的几个项目之一。",
   "coingeckoID": "usd-coin"
 }

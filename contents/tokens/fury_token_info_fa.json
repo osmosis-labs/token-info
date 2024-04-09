@@ -1,8 +1,9 @@
 {
   "localization": "en",
-  "name": "Fanfury",
+  "name": "furya",
   "symbol": "FURY",
-  "description": "توکن بومی cw20 برای Fanfury در Juno Chain",
+  "description": "نشانه بومی فوریا",
   "coingeckoID": "fanfury",
-  "websiteURL": "https://www.junonetwork.io/"
+  "websiteURL": "https://furya.xyz/",
+  "twitterURL": "https://twitter.com/furyachain"
 }

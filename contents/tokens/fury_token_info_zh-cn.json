@@ -1,8 +1,9 @@
 {
   "localization": "英文",
-  "name": "Fanfury",
+  "name": "furya",
   "symbol": "FURY",
-  "description": "Juno Chain 上 Fanfury 的原生代币 cw20",
+  "description": "Furya 的原生代币",
   "coingeckoID": "fanfury",
-  "websiteURL": "https://www.junonetwork.io/"
+  "websiteURL": "https://furya.xyz/",
+  "twitterURL": "https://twitter.com/furyachain"
 }

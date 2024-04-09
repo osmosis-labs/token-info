@@ -1,8 +1,9 @@
 {
   "localization": "ko",
-  "name": "Fanfury",
+  "name": "furya",
   "symbol": "FURY",
-  "description": "Juno Chain의 Fanfury를 위한 기본 토큰 cw20",
+  "description": "Furya의 기본 토큰",
   "coingeckoID": "fanfury",
-  "websiteURL": "https://www.junonetwork.io/"
+  "websiteURL": "https://furya.xyz/",
+  "twitterURL": "https://twitter.com/furyachain"
 }

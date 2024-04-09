@@ -1,8 +1,8 @@
 {
-  "localization": "zh",
+  "localization": "英文",
   "name": "Dymension Hub",
   "symbol": "DYM",
-  "description": "Dymension Hub 的原生治理和质押代币<inlang-LineFeed><inlang-LineFeed>Dymension 是一个由易于部署且快速的模块化区块链组成的网络，称为 RollApps。",
+  "description": "Dymension Hub 的原生治理和权益代币<inlang-LineFeed><inlang-LineFeed>Dymension 是一个易于部署且速度极快的模块化区块链网络，称为 RollApps。",
   "coingeckoID": "dymension",
   "websiteURL": "https://portal.dymension.xyz",
   "twitterURL": "https://twitter.com/dymension"

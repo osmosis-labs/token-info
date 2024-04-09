@@ -1,8 +1,9 @@
 {
   "localization": "ro",
-  "name": "Fanfury",
+  "name": "furya",
   "symbol": "FURY",
-  "description": "Jetonul nativ cw20 pentru Fanfury pe Juno Chain",
+  "description": "Jetonul nativ al lui Furya",
   "coingeckoID": "fanfury",
-  "websiteURL": "https://www.junonetwork.io/"
+  "websiteURL": "https://furya.xyz/",
+  "twitterURL": "https://twitter.com/furyachain"
 }

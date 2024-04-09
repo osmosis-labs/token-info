@@ -1,4 +1,5 @@
 {
+  "localization": "zh",
   "name": "Inter Stable Token",
   "symbol": "IST",
   "description": "IST 是 Agoric 鏈用於執行費用和商業的穩定代幣。",
