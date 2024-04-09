@@ -2,7 +2,7 @@
   "localization": "英文",
   "name": "Kava Hard",
   "symbol": "HARD",
-  "description": "Kava Lend 协议的治理代币",
+  "description": "Kava Lend Protocol 治理代币",
   "coingeckoID": "kava-lend",
   "websiteURL": "https://www.kava.io/"
 }

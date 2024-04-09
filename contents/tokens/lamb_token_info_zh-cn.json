@@ -1,7 +1,7 @@
 {
-  "localization": "zh",
+  "localization": "英文",
   "name": "Lambda",
   "symbol": "LAMB",
-  "description": "Lambda 原生代币",
+  "description": "Lambda 的原生代币",
   "coingeckoID": "lambda"
 }

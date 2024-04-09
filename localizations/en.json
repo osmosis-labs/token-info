@@ -283,8 +283,9 @@
     "localization": "en",
     "name": "Tinkernet",
     "symbol": "TNKR",
-    "description": "The native fee, governance and staking token of the Tinkernet Parachain.",
-    "coingeckoID": "tinkernet"
+    "description": "The native fee, governance and staking token of the Tinkernet Parachain.\n\nTinkernet is a Kusama parachain and the sister-chain of the InvArch Network on Polkadot. Tinkernet is an experimental proving ground where omnichain account & DAO governance protocols are deployed and tested before deploying on the InvArch Network. Protocols on Tinkernet realize features such as multichain multisig accounts & DAO Staking. Unlike a testnet, Tinkernet features real value.",
+    "coingeckoID": "tinkernet",
+    "twitterURL": "https://twitter.com/TinkerParachain"
   },
   "tick": {
     "localization": "en",
@@ -368,6 +369,13 @@
     "coingeckoID": "stride-staked-sommelier",
     "websiteURL": "https://stride.zone/"
   },
+  "stsaga": {
+    "localization": "en",
+    "name": "Stride Staked SAGA",
+    "symbol": "stSAGA",
+    "description": "Stride's liquid staked SAGA",
+    "websiteURL": "https://stride.zone/"
+  },
   "strdst": {
     "localization": "en",
     "name": "Stardust STRDST",
@@ -427,6 +435,12 @@
     "name": "Stride Staked JUNO",
     "symbol": "stJUNO",
     "coingeckoID": "stride-staked-juno",
+    "websiteURL": "https://stride.zone/"
+  },
+  "stinj": {
+    "localization": "en",
+    "name": "Stride Staked INJ",
+    "symbol": "stINJ",
     "websiteURL": "https://stride.zone/"
   },
   "stibcx": {
@@ -712,6 +726,15 @@
     "symbol": "SAIL",
     "description": "Sail DAO Token",
     "websiteURL": "https://osmosis.zone/"
+  },
+  "saga": {
+    "localization": "en",
+    "name": "Saga",
+    "symbol": "SAGA",
+    "description": "The native staking and governance token of Saga.\n\nSaga is a Layer 1 protocol that allows developers to automatically spin up VM-agnostic, parallelized and interoperable dedicated chains, or “Chainlets,” that provide applications with infinite horizontal scalability. Each Chainlet is a replica of the Saga Mainnet, with the same validator set and security model.\n\nSaga’s mission is to enable the next 1000 chains in gaming and entertainment as part of the growing Saga Multiverse.",
+    "coingeckoID": "saga-2",
+    "websiteURL": "https://www.saga.xyz/",
+    "twitterURL": "https://twitter.com/Sagaxyz__"
   },
   "rowan": {
     "localization": "en",
@@ -1681,11 +1704,12 @@
   },
   "fury": {
     "localization": "en",
-    "name": "Fanfury",
+    "name": "furya",
     "symbol": "FURY",
-    "description": "The native token cw20 for Fanfury on Juno Chain",
+    "description": "The native token of Furya",
     "coingeckoID": "fanfury",
-    "websiteURL": "https://www.junonetwork.io/",
+    "websiteURL": "https://furya.xyz/",
+    "twitterURL": "https://twitter.com/furyachain",
     "legacy": {
       "localization": "en",
       "name": "FURY.legacy",
@@ -1884,6 +1908,14 @@
     "coingeckoID": "dig-chain",
     "websiteURL": "https://digchain.org/"
   },
+  "dhp": {
+    "localization": "en",
+    "name": "dHealth",
+    "symbol": "DHP",
+    "description": "The native token of dHealth",
+    "coingeckoID": "dhealth",
+    "websiteURL": "https://dhealth.com/"
+  },
   "dhk": {
     "localization": "en",
     "name": "DHK",
@@ -1932,7 +1964,7 @@
     "symbol": "CVN",
     "description": "Cvn is a Layer-1 blockchain built to deliver on the promise of DeFi",
     "coingeckoID": "consciousdao",
-    "websiteURL": "https://www.consciousdao.com/"
+    "websiteURL": "https://cvn.io/"
   },
   "cudos": {
     "localization": "en",
@@ -2315,6 +2347,13 @@
     "coingeckoID": "cosmos",
     "websiteURL": "https://cosmos.network",
     "twitterURL": "https://twitter.com/cosmoshub"
+  },
+  "atom1klfg": {
+    "localization": "en",
+    "name": "ATOM1KLFG",
+    "symbol": "ATOM1KLFG",
+    "description": "$ATOM to $1,000 LFG!!",
+    "websiteURL": "https://neutron.org/"
   },
   "atolo": {
     "localization": "en",

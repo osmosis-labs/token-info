@@ -16,13 +16,16 @@
     }
   },
   "xprt": {
+    "localization": "ko",
     "name": "고집",
     "symbol": "XPRT",
     "description": "XPRT 토큰은 주로 지속성 체인에 대한 거버넌스 토큰입니다.<inlang-LineFeed>\nPersistence는 스테이킹된 자산의 유동성을 확보하는 데 초점을 맞춘 DeFi 애플리케이션 생태계를 지원하는 Liquid Stake용 앱 체인입니다.",
+    "coingeckoID": "고집",
     "websiteURL": "https://persistence.one/",
     "twitterURL": "https://twitter.com/PersistenceOne"
   },
   "xpla": {
+    "localization": "ko",
     "name": "XPLA",
     "symbol": "XPLA",
     "description": "XPLA의 기본 스테이킹 토큰입니다.",
@@ -30,18 +33,22 @@
     "websiteURL": "https://xpla.io"
   },
   "xki": {
+    "localization": "ko",
     "name": "기",
     "symbol": "XKI",
     "description": "Ki Chain의 기본 토큰",
+    "coingeckoID": "기",
     "websiteURL": "https://foundation.ki/"
   },
   "xcn": {
     "localization": "ko",
+    "name": "체인",
     "symbol": "XCN",
     "description": "Chain은 조직이 Sequence 및 Chain Core를 기반으로 더 나은 금융 서비스를 처음부터 구축할 수 있도록 지원하는 클라우드 블록체인 프로토콜입니다.",
     "coingeckoID": "체인-2"
   },
   "wynd": {
+    "localization": "ko",
     "name": "Wynd DAO 거버넌스 토큰",
     "symbol": "바람",
     "description": "WYND DAO 거버넌스 토큰",
@@ -55,6 +62,7 @@
     "description": "wstETH는 stETH의 래핑된 버전입니다. 일부 DeFi 프로토콜에는 토큰에 대한 지속적인 잔액 메커니즘이 필요하므로 wstETH는 stETH 잔액을 고정으로 유지하고 기본 공유 시스템을 사용하여 획득한 스테이킹 보상을 반영합니다.",
     "coingeckoID": "포장된 스테스",
     "axl": {
+      "localization": "ko",
       "name": "포장된 리도 스테이크 에테르",
       "symbol": "wstETH.axl",
       "websiteURL": "https://axelar.network/"
@@ -69,10 +77,13 @@
   },
   "woof": {
     "localization": "ko",
+    "name": "씨",
     "symbol": "씨",
+    "description": "씨",
     "websiteURL": "https://chihuahua.wtf/"
   },
   "whale": {
+    "localization": "ko",
     "name": "미갈루",
     "symbol": "고래",
     "description": "Migaloo Chain의 기본 토큰",
@@ -97,18 +108,22 @@
   },
   "wbtc": {
     "localization": "ko",
-    "name": "래핑된 비트코인",
+    "name": "포장된 비트코인",
     "symbol": "WBTC",
     "websiteURL": "https://osmosis.zone/",
     "grv": {
+      "localization": "ko",
       "name": "래핑된 비트코인(Gravity Bridge)",
       "symbol": "WBTC.grv",
       "description": "중력교 WBTC",
       "websiteURL": "https://www.gravitybridge.net/"
     },
     "axl": {
-      "name": "래핑된 비트코인",
-      "description": "Axelar에 래핑된 비트코인"
+      "localization": "ko",
+      "name": "포장된 비트코인",
+      "symbol": "WBTC.axl",
+      "description": "Axelar에 래핑된 비트코인",
+      "websiteURL": "https://axelar.network/"
     }
   },
   "watr": {
@@ -121,18 +136,21 @@
   "w": {
     "localization": "ko",
     "name": "웜홀 토큰",
-    "description": "W는 Wormhole 상호 운용성 플랫폼을 지원하는 기본 토큰입니다.<inlang-LineFeed>\nWormhole 토큰(W)은 Wormhole 프로토콜의 거버넌스 토큰 역할을 하며, 토큰 보유자가 전용 분산형 자율 조직(DAO)을 통해 온체인 거버넌스를 통해 프로토콜의 방향을 조종할 수 있는 권한을 부여합니다.<inlang-LineFeed>\nWormhole은 Jump Trading Group의 빌딩 부문인 Jump Crypto에 의해 설립되었습니다. 2021년에 처음 출시된 이 프로토콜은 처음에는 토큰 브리지로 데뷔하여 블록체인 간, 특히 솔라나와 이더리움 간 토큰 전송을 허용했습니다. Wormhole은 나중에 Wormhole V2를 통해 보다 일반적인 접근 방식을 취하도록 발전하여 체인과 분산형 애플리케이션을 쉽게 구축할 수 있는 상호 운용성 계층으로 전환했습니다.<inlang-LineFeed>\nWormhole V2는 다양한 블록체인이 서로 통신할 수 있도록 하는 일반적인 메시징 프로토콜입니다. 이 기술은 체인 간 토큰 전송, 체인 전체에서 작동하는 프로토콜에 대한 크로스체인 거버넌스 활성화, 멀티체인 게임에 활용될 수 있는 체인 간 NFT 전송 등 다양한 사용 사례에 사용될 수 있습니다. Wormhole V2는 또한 프로토콜이 Osmosis를 포함하도록 서비스를 확장하는 것을 보았습니다.<inlang-LineFeed>\n현재까지 이 프로토콜은 지원되는 블록체인 전체에서 400억 달러 이상의 가치 이전을 처리했으며 10억 개 이상의 메시지가 전송되었습니다. Wormhole은 대부분의 주요 네트워크를 포함하여 30개 이상의 블록체인을 지원하며 Wormhole의 기술을 사용하여 구축된 200개 이상의 애플리케이션으로 구성된 활발한 생태계를 보유하고 있습니다.<inlang-LineFeed>\n2023년 11월, Jump와 Wormhole은 갈라서겠다는 의사를 밝혔습니다. 분할 후 Wormhole은 2억 2,500만 달러를 조달했다고 발표했으며 회사 가치는 25억 달러로 평가되었습니다. 투자자로는 Brevan Howard, Coinbase Ventures, Multicoin Capital, Jump Crypto 등이 있습니다.",
+    "symbol": "여",
+    "description": "W는 Wormhole 상호 운용성 플랫폼을 지원하는 기본 토큰입니다.<inlang-LineFeed>\nWormhole 토큰(W)은 Wormhole 프로토콜의 거버넌스 토큰 역할을 하며, 토큰 보유자가 전용 분산형 자율 조직(DAO)을 통해 온체인 거버넌스를 통해 프로토콜의 방향을 조종할 수 있는 권한을 부여합니다.<inlang-LineFeed>\nWormhole은 Jump Trading Group의 빌딩 부문인 Jump Crypto에 의해 설립되었습니다. 2021년에 처음 출시된 이 프로토콜은 처음에는 토큰 브리지로 데뷔하여 블록체인 간, 특히 솔라나와 이더리움 간 토큰 전송을 허용했습니다. Wormhole은 나중에 Wormhole V2를 통해 보다 일반적인 접근 방식을 취하도록 발전하여 체인과 분산형 애플리케이션을 쉽게 구축할 수 있는 상호 운용성 계층으로 전환했습니다.<inlang-LineFeed>\nWormhole V2는 다양한 블록체인이 서로 통신할 수 있도록 하는 일반적인 메시징 프로토콜입니다. 이 기술은 체인 간 토큰 전송, 체인 전체에서 작동하는 프로토콜에 대한 크로스체인 거버넌스 활성화, 멀티체인 게임에 활용될 수 있는 체인 간 NFT 전송 등 다양한 사용 사례에 사용될 수 있습니다. Wormhole V2는 또한 프로토콜이 Osmosis를 포함하도록 서비스를 확장하는 것을 보았습니다.<inlang-LineFeed>\n현재까지 이 프로토콜은 지원되는 블록체인 전체에서 400억 달러 이상의 가치 이전을 처리했으며 10억 개가 넘는 메시지가 전송되었습니다. Wormhole은 대부분의 주요 네트워크를 포함하여 30개 이상의 블록체인을 지원하며 Wormhole의 기술을 사용하여 구축된 200개 이상의 애플리케이션으로 구성된 활발한 생태계를 보유하고 있습니다.<inlang-LineFeed>\n2023년 11월, Jump와 Wormhole은 갈라서겠다는 의사를 밝혔습니다. 분할 후 Wormhole은 2억 2,500만 달러를 조달했다고 발표했으며 회사 가치는 25억 달러로 평가되었습니다. 투자자로는 Brevan Howard, Coinbase Ventures, Multicoin Capital, Jump Crypto 등이 있습니다.",
     "coingeckoID": "벌레 구멍",
     "websiteURL": "https://wormhole.com/",
     "twitterURL": "https://twitter.com/wormhole"
   },
   "void": {
     "localization": "ko",
+    "name": "무효의",
     "symbol": "무효의",
     "description": "무효의",
     "websiteURL": "https://www.junonetwork.io/"
   },
   "vdl": {
+    "localization": "ko",
     "name": "비둘럼",
     "symbol": "VDL",
     "description": "Vidulum의 기본 토큰",
@@ -146,6 +164,7 @@
     "description": "보스트롬의 자원 토큰"
   },
   "ustc": {
+    "localization": "ko",
     "name": "테라클래식USD",
     "symbol": "USTC",
     "description": "Terra Classic의 USD 스테이블코인입니다.",
@@ -160,6 +179,7 @@
     "websiteURL": "https://kujira.app/"
   },
   "usdx": {
+    "localization": "ko",
     "name": "카바 USDX",
     "symbol": "USDX",
     "description": "Kava의 기본 스테이블코인",
@@ -218,7 +238,7 @@
       "localization": "ko",
       "name": "USD 코인",
       "symbol": "USDC.axl",
-      "description": "Axelar에 있는 Circle의 스테이블 코인",
+      "description": "Axelar에 있는 Circle의 스테이블코인",
       "coingeckoID": "axlusdc",
       "websiteURL": "https://axelar.network/"
     }
@@ -227,7 +247,7 @@
     "localization": "ko",
     "name": "유니스왑",
     "symbol": "유니",
-    "description": "UNI 토큰은 Uniswap 프로토콜의 거버넌스 토큰으로 사용되었으며 10억 개의 UNI가 처음 발행되었습니다. UNI 제네시스 공급량의 60%는 Uniswap 커뮤니티 구성원에게 할당되고 나머지는 팀, 투자자 및 고문에게 할당됩니다.",
+    "description": "UNI 토큰은 Uniswap 프로토콜의 거버넌스 토큰으로 사용되며 처음부터 10억 개의 UNI가 발행되었습니다. UNI 제네시스 공급량의 60%는 Uniswap 커뮤니티 구성원에게 할당되고 나머지는 팀, 투자자 및 고문에게 할당됩니다.",
     "coingeckoID": "유니스왑"
   },
   "umee": {
@@ -241,6 +261,7 @@
   "toro": {
     "localization": "ko",
     "name": "토로",
+    "symbol": "토로",
     "description": "Celestia 커뮤니티를 위해 만들어진 밈코인",
     "websiteURL": "https://osmosis.zone/"
   },
@@ -262,8 +283,9 @@
     "localization": "ko",
     "name": "팅커넷",
     "symbol": "TNKR",
-    "description": "Tinkernet Parachain의 기본 수수료, 거버넌스 및 스테이킹 토큰입니다.",
-    "coingeckoID": "팅커넷"
+    "description": "Tinkernet Parachain의 기본 수수료, 거버넌스 및 스테이킹 토큰입니다.<inlang-LineFeed>\nTinkernet은 Kusama 파라체인이자 Polkadot의 InvArch 네트워크의 자매 체인입니다. Tinkernet은 InvArch 네트워크에 배포하기 전에 옴니체인 계정 및 DAO 거버넌스 프로토콜을 배포하고 테스트하는 실험적 증명장입니다. Tinkernet의 프로토콜은 다중 체인 다중 서명 계정 및 DAO 스테이킹과 같은 기능을 실현합니다. 테스트넷과 달리 Tinkernet은 실질적인 가치를 제공합니다.",
+    "coingeckoID": "팅커넷",
+    "twitterURL": "https://twitter.com/TinkerParachain"
   },
   "tick": {
     "localization": "ko",
@@ -347,13 +369,22 @@
     "coingeckoID": "확고한 소믈리에",
     "websiteURL": "https://stride.zone/"
   },
+  "stsaga": {
+    "localization": "ko",
+    "name": "스트라이드 스테이티드 SAGA",
+    "symbol": "세인트사가",
+    "description": "Stride의 리퀴드 스테이킹 SAGA",
+    "websiteURL": "https://stride.zone/"
+  },
   "strdst": {
+    "localization": "ko",
     "name": "스타더스트 STRDST",
     "symbol": "STRDST",
     "description": "ohhNFT의 기본 토큰입니다.",
     "websiteURL": "https://stargaze.zone/"
   },
   "strd": {
+    "localization": "ko",
     "name": "보폭",
     "symbol": "STRD",
     "description": "Stride의 기본 토큰<inlang-LineFeed>\nStride는 스테이킹된 토큰에 유동성을 제공하는 블록체인입니다. Stride를 사용하면 Cosmos IBC 생태계 전반에 걸쳐 DeFi 수익과 DeFi 수익을 모두 얻을 수 있습니다.",
@@ -362,6 +393,7 @@
     "twitterURL": "https://twitter.com/stride_zone"
   },
   "stosmo": {
+    "localization": "ko",
     "name": "Stride 스테이킹된 OSMO",
     "symbol": "stOSMO",
     "coingeckoID": "확고한 오스모",
@@ -383,6 +415,7 @@
     "websiteURL": "https://persistence.one/"
   },
   "stkd-scrt": {
+    "localization": "ko",
     "name": "SCRT 스테이킹 파생상품",
     "symbol": "stkd-SCRT",
     "description": "비밀 네트워크의 SCRT 스테이킹 파생상품을 위한 기본 토큰 cw20",
@@ -398,17 +431,26 @@
     "websiteURL": "https://persistence.one/"
   },
   "stjuno": {
+    "localization": "ko",
     "name": "스트라이드 스테이티드 JUNO",
     "symbol": "stJUNO",
-    "coingeckoID": "확고한 주노",
+    "coingeckoID": "힘찬 주노",
+    "websiteURL": "https://stride.zone/"
+  },
+  "stinj": {
+    "localization": "ko",
+    "name": "스트라이드 스테이크 INJ",
+    "symbol": "stINJ",
     "websiteURL": "https://stride.zone/"
   },
   "stibcx": {
+    "localization": "ko",
     "name": "스테이킹된 IBCX",
     "symbol": "stIBCX",
     "websiteURL": "https://osmosis.zone/"
   },
   "stevmos": {
+    "localization": "ko",
     "name": "스트라이드 스테이킹된 EVMOS",
     "symbol": "stEVMOS",
     "coingeckoID": "확고한 노력을 기울인 EVMOS",
@@ -437,6 +479,7 @@
   },
   "stars": {
     "localization": "ko",
+    "name": "별 관찰",
     "symbol": "별",
     "description": "Stargaze의 기본 토큰<inlang-LineFeed>\nNFT를 위한 최고의 커뮤니티 중심 블록체인입니다. Stargaze는 제작자, 개발자, 수집가 및 거래자가 플랫폼에 참여할 수 있도록 지원합니다. Stargaze 체인은 Launchpad와 같은 다양한 NFT 관련 앱과 제안 및 경매가 있는 마켓플레이스로 구성됩니다.",
     "coingeckoID": "별을 바라보다",
@@ -458,6 +501,7 @@
     "websiteURL": "https://osmosis.zone/"
   },
   "sqosmo": {
+    "localization": "ko",
     "name": "OSMO 제곱",
     "symbol": "sqOSMO",
     "description": "마진 파워 토큰 sqOSMO",
@@ -480,18 +524,22 @@
   "spacer": {
     "localization": "ko",
     "name": "스페이서",
+    "symbol": "스페이서",
     "description": "스페이서",
     "websiteURL": "https://www.junonetwork.io/"
   },
   "source": {
+    "localization": "ko",
     "name": "원천",
     "symbol": "원천",
     "description": "SOURCE Chain의 기본 토큰<inlang-LineFeed>\n기업, 개발자 및 개인은 SOURCE의 지속 가능하고 가치가 뒷받침되는 네트워크를 사용하여 web3 애플리케이션 및 서비스에 쉽게 액세스하고 구축하고 통합할 수 있습니다.",
+    "coingeckoID": "원천",
     "websiteURL": "https://www.sourceprotocol.io/",
     "twitterURL": "https://twitter.com/sourceprotocol_"
   },
   "somm": {
     "localization": "ko",
+    "name": "소믈리에",
     "symbol": "솜",
     "description": "Somm 토큰(SOMM)은 소믈리에 체인의 기본 스테이킹 토큰입니다.<inlang-LineFeed>\n자동화된 금고는 위험을 완화하면서 동급 최고의 수익률을 찾습니다.",
     "coingeckoID": "소믈리에",
@@ -499,6 +547,7 @@
     "twitterURL": "https://twitter.com/sommfinance"
   },
   "solar": {
+    "localization": "ko",
     "name": "솔라뱅크 DAO",
     "symbol": "태양광",
     "description": "재생 가능 및 녹색 에너지로의 전환을 가속화하기 위한 Solarbank DAO 거버넌스 토큰",
@@ -507,6 +556,7 @@
   "solana": {
     "usdc": {
       "wh": {
+        "localization": "ko",
         "name": "솔라나 USD 코인(웜홀)",
         "symbol": "솔라나.USDC.wh",
         "description": "솔라나 USD 코인(웜홀), 솔라나 USDC, 공장/웜홀14ejqjyq8um4p3xfqj74yld5waqljf88fz25yxnma0cngspxe3les00fpjx/HJk1XMDRNUbRrpKkNZYui7SwWDMjXZAsySzqgyNcQoU3",
@@ -516,8 +566,10 @@
   },
   "sol": {
     "localization": "ko",
+    "name": "솔라나",
     "symbol": "솔",
-    "description": "솔라나(SOL)는 솔라나 블록체인의 기본 자산입니다."
+    "description": "솔라나(SOL)는 솔라나 블록체인의 기본 자산입니다.",
+    "coingeckoID": "솔라나"
   },
   "sneaky": {
     "localization": "ko",
@@ -527,18 +579,21 @@
     "websiteURL": "https://stargaze.zone/"
   },
   "slca": {
+    "localization": "ko",
     "name": "규토",
     "symbol": "SLCA",
     "description": "규토",
     "websiteURL": "https://www.junonetwork.io/"
   },
   "skoj": {
+    "localization": "ko",
     "name": "시코바 토큰",
     "symbol": "스코이",
     "description": "Sikoba 거버넌스 토큰",
     "websiteURL": "https://www.junonetwork.io/"
   },
   "silk": {
+    "localization": "ko",
     "name": "실크",
     "symbol": "실크",
     "description": "Silk on Secret Network의 기본 토큰 cw20",
@@ -550,6 +605,7 @@
     "name": "시에나",
     "symbol": "시에나",
     "description": "Secret Network의 SIENNA용 기본 토큰 cw20",
+    "coingeckoID": "시에나",
     "websiteURL": "https://scrt.network/"
   },
   "shibac": {
@@ -569,29 +625,36 @@
   "shd": {
     "localization": "ko",
     "name": "그늘",
+    "symbol": "SHD",
     "description": "Shade on Secret Network의 기본 토큰 cw20",
     "coingeckoID": "그늘 프로토콜",
     "websiteURL": "https://scrt.network/"
   },
   "shd(old)": {
+    "localization": "ko",
     "name": "그늘 (구)",
     "symbol": "SHD(구)",
     "description": "Shade on Secret Network의 기본 토큰 cw20",
     "websiteURL": "https://scrt.network/"
   },
   "shark": {
+    "localization": "ko",
     "name": "상어",
+    "symbol": "상어",
     "description": "SHARK는 코스모스 내 최고 가격 예측 시장입니다.",
     "websiteURL": "https://www.whitewhale.money/"
   },
   "sgnl": {
+    "localization": "ko",
     "name": "신호",
     "symbol": "SGNL",
     "description": "Juno의 시그널 아트 및 게임",
     "websiteURL": "https://www.junonetwork.io/"
   },
   "sge": {
+    "localization": "ko",
     "name": "SGE",
+    "symbol": "SGE",
     "description": "SGE 네트워크의 기본 토큰",
     "coingeckoID": "식스 시그마"
   },
@@ -619,6 +682,7 @@
   },
   "sei": {
     "localization": "ko",
+    "name": "세이",
     "symbol": "SEI",
     "description": "Sei의 기본 스테이킹 토큰입니다.<inlang-LineFeed>\nSei는 업계에 맞게 확장되도록 설계된 가장 빠른 레이어 1 블록체인입니다.",
     "coingeckoID": "sei-네트워크",
@@ -637,17 +701,20 @@
     "name": "비밀 네트워크",
     "symbol": "SCRT",
     "description": "Secret Network의 기본 토큰<inlang-LineFeed>\nSecret Network는 맞춤형 개인 정보 보호 기능을 갖춘 최초의 블록체인입니다. 무엇을, 누구와, 어떻게 공유할지 선택할 수 있습니다. 이는 사용자를 보호하고 개발자가 더 나은 Web3를 구축할 수 있도록 지원합니다.",
+    "coingeckoID": "비밀",
     "websiteURL": "https://scrt.network/",
     "twitterURL": "https://twitter.com/SecretNetwork"
   },
   "scr": {
     "localization": "ko",
     "name": "스코럼",
+    "symbol": "SCR",
     "description": "Scorum의 기본 토큰",
     "websiteURL": "https://scorum.com",
     "twitterURL": "https://twitter.com/scorum_en"
   },
   "sayve": {
+    "localization": "ko",
     "name": "말하다",
     "symbol": "세이브",
     "description": "Sayve는 게임화, 블록체인 기술 및 메타버스 경험을 결합하여 사용자가 보상을 받으면서 언어를 배우도록 동기를 부여하는 Web3 시대의 혁신적인 언어 학습 앱입니다.",
@@ -660,7 +727,17 @@
     "description": "항해 DAO 토큰",
     "websiteURL": "https://osmosis.zone/"
   },
+  "saga": {
+    "localization": "ko",
+    "name": "사거",
+    "symbol": "사거",
+    "description": "Saga의 기본 스테이킹 및 거버넌스 토큰입니다.<inlang-LineFeed>\nSaga는 개발자가 애플리케이션에 무한한 수평 확장성을 제공하는 VM 독립적이고 병렬화되었으며 상호 운용 가능한 전용 체인, 즉 \"체인렛\"을 자동으로 스핀업할 수 있게 해주는 레이어 1 프로토콜입니다. 각 체인렛은 동일한 검증자 세트와 보안 모델을 갖춘 Saga 메인넷의 복제본입니다.<inlang-LineFeed>\nSaga의 사명은 성장하는 Saga Multiverse의 일부로 게임 및 엔터테인먼트 분야의 차세대 1000개 체인을 활성화하는 것입니다.",
+    "coingeckoID": "사가-2",
+    "websiteURL": "https://www.saga.xyz/",
+    "twitterURL": "https://twitter.com/Sagaxyz__"
+  },
   "rowan": {
+    "localization": "ko",
     "name": "시프체인",
     "symbol": "마가목",
     "description": "Rowan 토큰(ROWAN)은 Sifchain 네트워크의 기본 유틸리티 토큰으로, 관리, 유동성 제공, 블록체인 보안, 참가자 장려, 가치 저장 및 교환을 위한 기본 메커니즘 제공을 위한 기본 수단으로 사용됩니다.",
@@ -668,6 +745,7 @@
     "websiteURL": "https://sifchain.finance/"
   },
   "rock": {
+    "localization": "ko",
     "name": "철탑",
     "symbol": "바위",
     "description": "Pylons의 수익 토큰",
@@ -677,12 +755,15 @@
   "roar": {
     "localization": "ko",
     "name": "라이온 다오",
+    "symbol": "노호",
     "description": "Lion DAO는 LUNAtic 커뮤니티를 재활성화하고 Terra 프로토콜 및 도구를 선보이는 사명을 가지고 Terra 블록체인에 상주하는 커뮤니티 DAO입니다.",
     "coingeckoID": "사자도",
     "websiteURL": "https://www.terra.money/"
   },
   "rio": {
+    "localization": "ko",
     "name": "리얼리오 네트워크",
+    "symbol": "리오",
     "description": "Realio Network의 기본 통화입니다.",
     "coingeckoID": "현실 네트워크",
     "websiteURL": "https://realio.network/"
@@ -736,7 +817,9 @@
   "rai": {
     "localization": "ko",
     "name": "라이 반사 지수",
-    "description": "RAI는 고정되지 않은 ETH 기반의 안정적인 자산입니다. 이는 다른 DeFi 프로토콜(ETH 또는 BTC와 비교하여)에 대한 보다 '안정적인' 담보 또는 내장된 이자율이 있는 안정적인 자산으로 유용합니다."
+    "symbol": "라이",
+    "description": "RAI는 고정되지 않은 ETH 기반의 안정적인 자산입니다. 이는 다른 DeFi 프로토콜(ETH 또는 BTC와 비교하여)에 대한 보다 '안정적인' 담보 또는 내장된 이자율이 있는 안정적인 자산으로 유용합니다.",
+    "coingeckoID": "라이"
   },
   "rac": {
     "localization": "ko",
@@ -746,6 +829,7 @@
     "websiteURL": "https://www.whitewhale.money/"
   },
   "qwoyn": {
+    "localization": "ko",
     "name": "쿼인",
     "symbol": "쿼인",
     "description": "Qwoyn Network의 기본 거버넌스 토큰<inlang-LineFeed>\nQwoyn Network는 대화형 엔터테인먼트의 핵심에 Web3 기술을 내장한 최첨단 게임 허브입니다. 블록체인을 통해 촉진되는 플레이어의 게임 내 자산에 대한 진정한 소유권을 보장함으로써 게임 산업에 혁명을 일으킵니다. 이러한 접근 방식은 게임 플레이를 향상시킬 뿐만 아니라 상호 운용성과 혁신의 독특한 생태계를 조성합니다. 게임 세계의 등대로서 Qwoyn Network는 전통적인 게임의 즐거움과 Web3의 혁신적인 잠재력을 결합하여 원활하고 풍부한 게임 경험을 만드는 데 전념하고 있습니다.",
@@ -754,6 +838,7 @@
     "twitterURL": "https://twitter.com/Qwoyn_Studios"
   },
   "qstars": {
+    "localization": "ko",
     "name": "Quicksilver Liquid 스테이크 별",
     "symbol": "qSTARS",
     "description": "Quicksilver Liquid 스테이크 별",
@@ -776,12 +861,14 @@
     "websiteURL": "https://quicksilver.zone/"
   },
   "qregen": {
+    "localization": "ko",
     "name": "Quicksilver Liquid 스테이크 재생",
     "symbol": "qREGEN",
     "description": "Quicksilver Liquid 스테이크 REGEN",
     "websiteURL": "https://quicksilver.zone/"
   },
   "qosmo": {
+    "localization": "ko",
     "name": "Quicksilver Liquid 스테이크 OSMO",
     "symbol": "qOSMO",
     "description": "Quicksilver Liquid 스테이크 OSMO",
@@ -798,9 +885,9 @@
   },
   "qatom": {
     "localization": "ko",
-    "name": "Quicksilver Liquid 스테이크형 ATOM",
+    "name": "Quicksilver Liquid 스테이크 ATOM",
     "symbol": "qATOM",
-    "description": "Quicksilver Liquid 스테이크 ATOM",
+    "description": "Quicksilver Liquid 스테이크형 ATOM",
     "websiteURL": "https://quicksilver.zone/"
   },
   "pyth": {
@@ -818,11 +905,14 @@
     "websiteURL": "https://pundix.com"
   },
   "puppy": {
+    "localization": "ko",
     "name": "강아지",
+    "symbol": "강아지",
     "description": "강아지",
     "websiteURL": "https://chihuahua.wtf/"
   },
   "pundix": {
+    "localization": "ko",
     "name": "Pundi X 토큰",
     "symbol": "펀딕스",
     "description": "PUNDIX 토큰은 PundiX Chain 및 XPOS를 포함하여 Pundi X 생태계 내에서 작동하는 기본 토큰입니다.",
@@ -843,14 +933,16 @@
       "description": "USDC는 CENTRE가 개발한 완전히 담보화된 미국 달러 스테이블코인입니다. CENTRE는 오픈 소스 프로젝트로 Circle이 곧 출시될 여러 발행자 중 첫 번째 발행자입니다.",
       "coingeckoID": "USD 코인",
       "axl": {
+        "localization": "ko",
         "name": "USD 코인(폴리곤)",
         "symbol": "다각형.USDC.axl",
-        "description": "USDC는 CENTRE가 개발한 완전히 담보화된 미국 달러 스테이블코인입니다. CENTRE는 곧 출시될 여러 발행자 중 첫 번째 발행자인 Circle의 오픈 소스 프로젝트입니다.",
+        "description": "USDC는 CENTRE가 개발한 완전히 담보화된 미국 달러 스테이블코인입니다. CENTRE는 오픈 소스 프로젝트로 Circle이 곧 출시될 여러 발행자 중 첫 번째 발행자입니다.",
         "coingeckoID": "USD 코인"
       }
     }
   },
   "plq": {
+    "localization": "ko",
     "name": "플랜큐",
     "symbol": "PLQ",
     "description": "Planq 네트워크의 기본 EVM, 거버넌스 및 스테이킹 토큰<inlang-LineFeed>\nPlanq은 데스크톱 서비스에 대한 의존도에서 한발 더 나아가 모바일 플랫폼의 사용성을 최우선으로 생각하는 최초의 암호화폐 프로젝트입니다. Planq는 사용하기 쉬운 브리지를 통해 쉬운 접근성과 다른 블록체인의 긴밀한 통합에 중점을 두어 모바일 공간에서 Web 3 채택을 한 단계 더 발전시킬 것입니다.",
@@ -859,6 +951,7 @@
     "twitterURL": "https://twitter.com/planqfoundation"
   },
   "pica": {
+    "localization": "ko",
     "name": "컴포저블",
     "symbol": "법규집",
     "description": "Composable의 기본 스테이킹 및 거버넌스 토큰입니다.<inlang-LineFeed>\n컴포저블은 L1과 L2를 연결하는 기본 레이어입니다. 우리는 IBC를 다른 생태계로 확장하여 신뢰가 최소화된 상호 운용성의 한계를 넓히고 있습니다. 우리는 사용자를 위한 크로스체인 경험을 추상화하여 사용자 의도에 대한 원활한 체인 독립적 실행을 제공합니다.",
@@ -867,6 +960,7 @@
     "twitterURL": "https://twitter.com/ComposableFin"
   },
   "phmn": {
+    "localization": "ko",
     "name": "포스트휴먼",
     "symbol": "PHMN",
     "description": "Juno Chain의 PHMN용 기본 토큰 cw20",
@@ -882,33 +976,43 @@
   },
   "pepe": {
     "localization": "ko",
-    "symbol": "페페"
+    "name": "페페",
+    "symbol": "페페",
+    "coingeckoID": "페페"
   },
   "pasg": {
     "localization": "ko",
     "name": "통로",
     "symbol": "PASG",
     "description": "Passage 체인의 기본 스테이킹 및 거버넌스 토큰입니다.",
+    "coingeckoID": "통로",
     "websiteURL": "https://passage3d.com/"
   },
   "page": {
+    "localization": "ko",
     "name": "페이지",
+    "symbol": "페이지",
     "description": "PAGE 토큰은 PageDAO NFT 문학 생태계의 활동과 DAO 거버넌스에 사용됩니다.",
     "coingeckoID": "페이지"
   },
   "osmo": {
+    "localization": "ko",
     "name": "삼투",
+    "symbol": "오즈모",
     "description": "Osmosis의 기본 토큰<inlang-LineFeed>\nOsmosis(OSMO)는 IBC(Inter-Blockchain Communication Protocol)를 통해 원활하게 연결된 50개 이상의 상호 운용 가능한 블록체인 네트워크인 Cosmos 생태계 내의 최고의 DEX 및 크로스체인 DeFi 허브입니다. 접근 방식을 선도하는 Osmosis는 Ethereum, Solana, Avalanche 및 Polkadot을 포함한 다른 생태계의 비 IBC 자산을 통합하여 역동적인 거래 및 유동성 제공 경험을 제공합니다. 처음에 밸런서 스타일 풀을 채택한 Osmosis는 이제 자본 효율성이 훨씬 더 높은 집중 유동성 모델을 특징으로 합니다. 즉, 미끄러짐을 최소화하면서 동일한 양의 거래량을 처리하는 데 훨씬 적은 유동성이 필요하다는 의미입니다.<inlang-LineFeed>\n진정한 앱체인인 Osmosis는 기존 스마트 계약 DEX보다 전체 블록체인 스택에 대해 더 큰 통제력을 갖고 있으며, 이는 기반이 되는 상위 체인의 코드를 따라야 합니다. 예를 들어 이러한 세밀한 제어를 통해 애플리케이션 계층의 자산을 스테이킹하여 체인을 보호할 수 있는 지분 증명의 확장인 Superfluid Stake의 개발이 가능해졌습니다. 또한 앱체인의 사용자 정의 기능을 통해 Osmosis가 OSMO 스테이커를 대신하여 온체인 차익거래를 수행하고 풀 전체에서 가격의 균형을 맞추는 동시에 이 볼륨에서 실제 수익 수익을 창출할 수 있는 프로토콜 수익 모듈과 같은 기능을 구현할 수 있습니다. 또한, 독립된 앱체인으로서 Osmosis 거버넌스는 프로토콜 업그레이드에 투표할 수 있습니다. 이에 대한 한 가지 예는 Osmosis 볼륨에서 다양한 수익을 창출하고 이를 OSMO 스테이커에게 분배하기 위해 교환 수수료 징수를 활성화하는 테이커 수수료(Taker Fee) 도입이었습니다.<inlang-LineFeed>\nOsmosis는 이더리움 및 비트코인을 포함하여 IBC를 통해 모든 체인을 연결하는 크로스체인 기본 DEX 및 거래 제품군을 구축하여 완전한 중앙 집중식 교환 경험을 분산형 세계에 가져오고 있습니다. 이 목표를 달성하기 위해 Osmosis는 대출, 신용, 마진, DeFi 전략 금고, 권력 범인, 법정화폐 진입로, NFT, 스테이블 코인 등을 포함하는 원스톱 경험을 제공하는 것을 목표로 끊임없이 확장되는 DeFi 애플리케이션 제품군을 호스팅합니다. 분산 금융의 신뢰가 최소화된 환경에서 중앙 집중식 거래소가 제공하는 모든 기능 등을 제공합니다.",
+    "coingeckoID": "삼투",
     "websiteURL": "https://osmosis.zone",
     "twitterURL": "https://twitter.com/osmosiszone"
   },
   "osdoge": {
+    "localization": "ko",
     "name": "삼투 도지",
     "symbol": "OSDOGE",
     "description": "삼투의 첫 번째 총독",
     "websiteURL": "https://www.junonetwork.io/"
   },
   "orai": {
+    "localization": "ko",
     "name": "오라이체인",
     "symbol": "오라이",
     "description": "Oraichain의 기본 토큰",
@@ -916,12 +1020,16 @@
     "websiteURL": "https://orai.io/"
   },
   "oin": {
+    "localization": "ko",
     "name": "가치 있는 저장 공간",
+    "symbol": "오인",
     "description": "OIN 토큰($OIN)은 $SEI 블록체인에서 개발된 획기적인 디지털 자산입니다. 이는 단순한 암호화폐를 뛰어넘습니다. $OIN은 분산형 금융의 미래와 암호화폐 환경을 재편할 수 있는 잠재력을 상징하는 강력한 가치 저장소입니다.",
     "websiteURL": "https://www.sei.io/"
   },
   "odin": {
+    "localization": "ko",
     "name": "오딘 프로토콜",
+    "symbol": "오딘",
     "description": "ODIN은 ODIN 프로토콜의 스테이킹 및 거버넌스 토큰입니다.",
     "coingeckoID": "오딘 프로토콜",
     "websiteURL": "https://odinprotocol.io/",
@@ -960,6 +1068,7 @@
     "twitterURL": "https://twitter.com/Neutron_org"
   },
   "nstk": {
+    "localization": "ko",
     "name": "Fi 스테이크 해제",
     "symbol": "NSTK",
     "description": "Unstake.fi의 수익 및 거버넌스 토큰",
@@ -991,6 +1100,7 @@
   "nls": {
     "localization": "ko",
     "name": "놀루스",
+    "symbol": "NLS",
     "description": "Nolus 체인의 기본 토큰<inlang-LineFeed>\n최대 3배의 자산으로 게임을 향상시키세요. 위험이 최소화된 세계로 뛰어들어 자산의 잠재력을 최대한 활용하세요.",
     "coingeckoID": "놀루스",
     "websiteURL": "https://nolus.io/",
@@ -1013,18 +1123,23 @@
     "websiteURL": "https://nibiru.fi/"
   },
   "ngm": {
+    "localization": "ko",
     "name": "전자화폐",
+    "symbol": "NGM",
     "description": "e-Money NGM 스테이킹 토큰. 스테이킹 보상을 얻는 것 외에도 토큰은 e-Money 스테이블코인 인플레이션에 따라 재구매 및 소각됩니다.",
     "coingeckoID": "전자화폐"
   },
   "newt": {
     "localization": "ko",
     "name": "영원",
+    "symbol": "영원",
     "description": "Neutron 체인에서 가장 귀여운 NEWT 토큰입니다.",
+    "coingeckoID": "영원",
     "websiteURL": "https://neutron.org/"
   },
   "neta": {
     "localization": "ko",
+    "name": "네타",
     "symbol": "네타",
     "description": "Juno Chain의 Neta용 기본 토큰 cw20",
     "coingeckoID": "네타",
@@ -1040,6 +1155,7 @@
   "nct": {
     "localization": "ko",
     "name": "자연탄소톤",
+    "symbol": "엔시티",
     "description": "NCT(Nature Carbon Ton)는 자발적 탄소 시장의 글로벌 리더인 Verra가 발행한 탄소 배출권을 1:1로 지원하는 탄소 토큰 표준입니다. Regen Network의 NCT 크레딧은 Toucan.earth에 의해 토큰화되었습니다.",
     "coingeckoID": "큰부리새-프로토콜-자연-탄소톤",
     "websiteURL": "https://www.regen.network/"
@@ -1052,12 +1168,14 @@
     "websiteURL": "https://nomic.io/"
   },
   "muse": {
+    "localization": "ko",
     "name": "뮤즈다오",
     "symbol": "뮤즈 신",
     "description": "Juno Chain의 MuseDAO용 기본 토큰 cw20",
     "websiteURL": "https://www.junonetwork.io/"
   },
   "mpwr": {
+    "localization": "ko",
     "name": "EmpowerChain",
     "symbol": "MPWR",
     "description": "Empower의 기본 스테이킹 및 거버넌스 토큰입니다."
@@ -1134,13 +1252,16 @@
     "websiteURL": "https://medas-digital.io/"
   },
   "med": {
+    "localization": "ko",
     "name": "메디블록",
+    "symbol": "메드",
     "description": "파나시아(Panacia)는 메디블록이 출시한 퍼블릭 블록체인으로, 환자 중심의 헬스케어 데이터 생태계를 재창조하기 위한 핵심 인프라입니다.",
     "coingeckoID": "메디블록",
     "websiteURL": "https://medibloc.com/en/"
   },
   "mbrn": {
     "localization": "ko",
+    "name": "막",
     "symbol": "MBRN",
     "description": "멤브레인의 프로토콜 토큰",
     "coingeckoID": "막",
@@ -1156,18 +1277,22 @@
   "mars": {
     "localization": "ko",
     "name": "화성 허브",
+    "symbol": "화성",
     "description": "화성 프로토콜 토큰<inlang-LineFeed>\nCosmos 세계의 자율 신용 프로토콜을 통해 대출하고, 빌리고, 수익을 창출하세요. 모든 사람에게 열려 있고 누구에게도 닫혀 있지 않습니다.",
     "coingeckoID": "화성 프로토콜-a7fcbcfb-fd61-4017-92f0-7ee9f9cc6da3",
     "websiteURL": "https://www.marsprotocol.io/",
     "twitterURL": "https://twitter.com/mars_protocol"
   },
   "marble": {
+    "localization": "ko",
     "name": "대리석",
     "symbol": "대리석",
     "description": "Juno Chain의 Marble DAO용 기본 토큰 cw20",
+    "coingeckoID": "대리석",
     "websiteURL": "https://www.junonetwork.io/"
   },
   "manna": {
+    "localization": "ko",
     "name": "만나",
     "symbol": "만나",
     "description": "식량 불안과 영양실조 퇴치를 위해 헌신하는 Social Impact DAO",
@@ -1184,6 +1309,7 @@
   "lunc": {
     "localization": "ko",
     "name": "루나 클래식",
+    "symbol": "LUNC",
     "description": "Terra Classic의 기본 스테이킹 토큰입니다.",
     "coingeckoID": "테라루나"
   },
@@ -1197,11 +1323,13 @@
     "twitterURL": "https://twitter.com/terra_money"
   },
   "lumen": {
+    "localization": "ko",
     "name": "루멘X",
     "symbol": "루멘",
     "description": "LumenX 네트워크의 기본 토큰"
   },
   "lum": {
+    "localization": "ko",
     "name": "룸 네트워크",
     "symbol": "럼",
     "description": "Lum Network의 기본 토큰",
@@ -1209,6 +1337,7 @@
     "websiteURL": "https://lum.network/"
   },
   "lore": {
+    "localization": "ko",
     "name": "기토피아",
     "symbol": "과학적 학문",
     "description": "Gitopia의 기본 토큰<inlang-LineFeed>\nGitopia는 분산형 네트워크와 대화형 토큰 경제를 기반으로 하는 차세대 코드 협업 플랫폼입니다. 협업, 투명성 및 인센티브를 통해 오픈 소스 소프트웨어 개발 프로세스를 최적화하도록 설계되었습니다.",
@@ -1218,17 +1347,21 @@
   },
   "link": {
     "localization": "ko",
+    "name": "체인링크",
     "symbol": "링크",
-    "description": "암호화폐 스마트 계약, 데이터 피드, API 및 기존 은행 계좌 결제 간의 가교 역할을 하는 블록체인 기반 미들웨어입니다."
+    "description": "암호화폐 스마트 계약, 데이터 피드, API 및 기존 은행 계좌 결제 간의 가교 역할을 하는 블록체인 기반 미들웨어입니다.",
+    "coingeckoID": "체인링크"
   },
   "like": {
     "localization": "ko",
     "name": "라이크코인",
+    "symbol": "좋다",
     "description": "LIKE는 콘텐츠 소유권, 신뢰성 및 출처를 강화하는 분산형 게시 인프라인 LikeCoin 체인의 기본 스테이킹 및 거버넌스 토큰입니다.",
     "coingeckoID": "라이크코인",
     "websiteURL": "https://like.co/"
   },
   "light": {
+    "localization": "ko",
     "name": "빛",
     "symbol": "빛",
     "description": "빛: LumenX 커뮤니티 DAO 재무 토큰",
@@ -1237,6 +1370,7 @@
   "lamb": {
     "localization": "ko",
     "name": "람다",
+    "symbol": "양고기",
     "description": "Lambda의 기본 토큰",
     "coingeckoID": "람다"
   },
@@ -1249,6 +1383,7 @@
   },
   "l1": {
     "localization": "ko",
+    "name": "제네시스L1",
     "symbol": "L1",
     "description": "L1 코인은 GenesisL1 블록체인 유틸리티, 거버넌스 및 EVM 토큰입니다."
   },
@@ -1262,6 +1397,7 @@
     "twitterURL": "https://twitter.com/KYVENetwork"
   },
   "kuji": {
+    "localization": "ko",
     "name": "쿠지라",
     "symbol": "쿠지",
     "description": "Kujira 체인의 기본 스테이킹 및 거버넌스 토큰입니다.<inlang-LineFeed>\n지속 가능한 핀테크를 추구하는 프로토콜, 빌더 및 web3 사용자를 위한 분산형 생태계입니다.",
@@ -1292,6 +1428,7 @@
   },
   "kichain": {
     "lvn": {
+      "localization": "ko",
       "name": "LVN",
       "symbol": "키체인.LVN",
       "description": "KiChain의 ELEVENPARIS 로열티 토큰",
@@ -1300,6 +1437,7 @@
     }
   },
   "kava": {
+    "localization": "ko",
     "name": "카바",
     "symbol": "카바",
     "description": "Kava의 기본 스테이킹 및 거버넌스 토큰<inlang-LineFeed>\nKava는 코스모스의 속도와 상호 운용성과 이더리움의 개발자 능력을 결합한 분산형 블록체인입니다.",
@@ -1340,6 +1478,7 @@
     "websiteURL": "https://jackalprotocol.com"
   },
   "jape": {
+    "localization": "ko",
     "name": "주노 유인원",
     "symbol": "농담",
     "description": "Juno의 Junø Apes NFT 플랫폼을 위한 거버넌스 및 유틸리티 토큰",
@@ -1354,6 +1493,7 @@
     "websiteURL": "https://www.ixo.world/"
   },
   "ist": {
+    "localization": "ko",
     "name": "인터 스테이블 토큰",
     "symbol": "IST",
     "description": "IST는 실행 수수료 및 상거래를 위해 Agoric 체인에서 사용하는 안정적인 토큰입니다.",
@@ -1371,10 +1511,12 @@
   "iris": {
     "localization": "ko",
     "name": "아이리스넷",
+    "symbol": "아이리스",
     "description": "IRIS 토큰은 IrisNet 체인의 기본 거버넌스 토큰입니다.",
     "coingeckoID": "홍채 네트워크"
   },
   "iov": {
+    "localization": "ko",
     "name": "별 이름",
     "symbol": "IOV",
     "description": "IOV 코인은 Starname(IOV) 자산 이름 서비스를 위한 토큰입니다.<inlang-LineFeed>\nStarname은 블록체인의 일부를 주장하는 가장 좋은 방법입니다. 분산형 식별, 결제, 소유권 및 애플리케이션에 사용할 수 있습니다. Starname은 디지털 지갑, dapp 및 거래소에 통합될 수 있습니다.",
@@ -1383,12 +1525,15 @@
     "twitterURL": "https://twitter.com/starname_me"
   },
   "ion": {
+    "localization": "ko",
     "name": "이온다오",
     "symbol": "이온",
+    "coingeckoID": "이온",
     "websiteURL": "https://ion.wtf",
     "twitterURL": "https://twitter.com/_IONDAO"
   },
   "invdrs": {
+    "localization": "ko",
     "name": "침략자",
     "symbol": "INVDRS",
     "description": "Evmos Guardians의 Invaders DAO 토큰.",
@@ -1396,6 +1541,7 @@
   },
   "injective": {
     "glto": {
+      "localization": "ko",
       "name": "젤로또(주사)",
       "symbol": "주사.GLTO",
       "description": "주사용 GLTO-ERC20",
@@ -1404,13 +1550,16 @@
     }
   },
   "inj": {
+    "localization": "ko",
     "name": "주사",
+    "symbol": "INJ",
     "description": "INJ 토큰은 Injective 체인의 기본 거버넌스 토큰입니다.<inlang-LineFeed>\nInjective의 사명은 분산화를 통해 진정으로 자유롭고 포괄적인 금융 시스템을 만드는 것입니다.",
     "coingeckoID": "주입 프로토콜",
     "websiteURL": "https://injective.com/",
     "twitterURL": "https://twitter.com/Injective_"
   },
   "imv": {
+    "localization": "ko",
     "name": "몰입",
     "symbol": "IMV",
     "description": "Imversed의 기본 EVM, 거버넌스 및 스테이킹 토큰",
@@ -1418,6 +1567,7 @@
     "websiteURL": "https://imversed.network/"
   },
   "ibcx": {
+    "localization": "ko",
     "name": "IBC 지수",
     "symbol": "IBCX",
     "coingeckoID": "IBC-색인",
@@ -1438,6 +1588,7 @@
     "websiteURL": "https://chihuahua.wtf/"
   },
   "hopers": {
+    "localization": "ko",
     "name": "호퍼스",
     "symbol": "호퍼스",
     "description": "Juno Chain의 Hopers를 위한 기본 토큰 cw20",
@@ -1453,6 +1604,7 @@
     "websiteURL": "https://www.junonetwork.io/"
   },
   "heart": {
+    "localization": "ko",
     "name": "Humans.ai",
     "symbol": "마음",
     "description": "Humans.ai의 기본 스테이킹 및 거버넌스 토큰입니다.",
@@ -1461,6 +1613,7 @@
     "twitterURL": "https://twitter.com/humansdotai"
   },
   "hash": {
+    "localization": "ko",
     "name": "기원",
     "symbol": "해시시",
     "description": "해시는 출처 블록체인의 스테이킹 토큰입니다.",
@@ -1492,11 +1645,13 @@
   },
   "grdn": {
     "localization": "ko",
+    "name": "보호자",
     "symbol": "GRDN",
     "description": "Evmos Guardians 거버넌스 토큰.",
     "websiteURL": "https://www.junonetwork.io/"
   },
   "grav": {
+    "localization": "ko",
     "name": "중력 다리",
     "symbol": "GRAV",
     "description": "Gravity Bridge의 기본 토큰<inlang-LineFeed>\n블록체인 생태계 간의 상호 운용성과 유동성을 실현하는 개방형 분산형 브리지입니다.",
@@ -1506,6 +1661,7 @@
   },
   "glx": {
     "localization": "ko",
+    "name": "은하",
     "symbol": "GLX",
     "description": "GLX는 갤럭시 체인의 스테이킹 토큰입니다.",
     "websiteURL": "https://galaxychain.zone/"
@@ -1534,6 +1690,7 @@
   "geo": {
     "localization": "ko",
     "name": "지역",
+    "symbol": "지역",
     "description": "ODIN 프로토콜용 GEO 토큰",
     "websiteURL": "https://odinprotocol.io/"
   },
@@ -1547,12 +1704,14 @@
   },
   "fury": {
     "localization": "ko",
-    "name": "팬퓨리",
+    "name": "퓨리아",
     "symbol": "격노",
-    "description": "Juno Chain의 Fanfury를 위한 기본 토큰 cw20",
+    "description": "Furya의 기본 토큰",
     "coingeckoID": "분노",
-    "websiteURL": "https://www.junonetwork.io/",
+    "websiteURL": "https://furya.xyz/",
+    "twitterURL": "https://twitter.com/furyachain",
     "legacy": {
+      "localization": "ko",
       "name": "퓨리.레거시",
       "symbol": "퓨리.레거시",
       "description": "Juno Chain의 Fanfury에 대해 더 이상 사용되지 않는 cw20 토큰",
@@ -1562,6 +1721,7 @@
   },
   "fund": {
     "localization": "ko",
+    "name": "통일",
     "symbol": "축적",
     "description": "통일 블록체인을 위한 스테이킹 및 거버넌스 코인",
     "coingeckoID": "통일",
@@ -1569,6 +1729,7 @@
   },
   "ftm": {
     "localization": "ko",
+    "name": "팬텀",
     "symbol": "FTM",
     "description": "Fantom의 기본 유틸리티 토큰인 FTM은 전체 Fantom 블록체인 생태계를 강화합니다. FTM 토큰은 네트워크의 스테이킹, 거버넌스, 지불 및 수수료에 사용됩니다.",
     "coingeckoID": "팬텀"
@@ -1585,7 +1746,7 @@
     "name": "프락스",
     "symbol": "프랙스",
     "description": "Frax는 분수 알고리즘 스테이블코인 프로토콜입니다. BTC와 같은 고정 공급 자산 대신 확장성이 뛰어나고 분산된 알고리즘 화폐를 제공하는 것을 목표로 합니다. 또한 FXS는 전체 Frax 생태계의 가치 발생 및 거버넌스 토큰입니다.",
-    "coingeckoID": "프랙스"
+    "coingeckoID": "프락스"
   },
   "fox": {
     "localization": "ko",
@@ -1612,6 +1773,7 @@
     "websiteURL": "https://stafihub.io/"
   },
   "fil": {
+    "localization": "ko",
     "name": "파일코인",
     "symbol": "FIL",
     "description": "Filecoin은 클라우드 스토리지를 알고리즘 시장으로 전환하도록 설계된 분산형 스토리지 네트워크입니다. 네트워크는 사용자가 스토리지 마이너에 파일을 저장하기 위해 비용을 지불하는 데이터 저장 및 검색을 위한 공개 시장을 촉진합니다. Filecoin은 P2P 스토리지 네트워크인 IPFS(InterPlanetary File System) 위에 구축되었습니다. Filecoin은 기존 클라우드 스토리지 제공업체와 달리 분산된 방식으로 데이터를 저장하는 것을 목표로 합니다.<inlang-LineFeed>\nFilecoin 네트워크의 참가자는 스토리지 서비스 대가로 Filecoin 암호화폐(FIL)를 획득하므로 정직하게 행동하고 가능한 한 많은 데이터를 저장하도록 인센티브를 받습니다. 이 설정은 저장된 데이터의 무결성과 접근성을 보장합니다. Filecoin의 모델은 장기 보관 저장 및 보다 빠른 검색 서비스를 포함한 다양한 저장 옵션을 허용하여 분산형 데이터 저장을 위한 다목적 솔루션을 제공합니다. Protocol Labs가 개발한 이 프로젝트는 또한 데이터가 안정적이고 효율적으로 저장되도록 하는 데 중점을 두고 있습니다.",
@@ -1681,7 +1843,7 @@
     "localization": "ko",
     "name": "dYdX 프로토콜",
     "symbol": "DYDX",
-    "description": "dYdX 프로토콜의 기본 스테이킹 토큰입니다.<inlang-LineFeed>\n우리의 목표는 일류 상품 및 거래 경험을 강화할 수 있는 오픈 소스 코드를 구축하는 것입니다.",
+    "description": "dYdX 프로토콜의 기본 스테이킹 토큰입니다.<inlang-LineFeed>\n우리의 목표는 일류 제품 및 거래 경험을 강화할 수 있는 오픈 소스 코드를 구축하는 것입니다.",
     "coingeckoID": "dydx",
     "websiteURL": "https://dydx.trade/",
     "twitterURL": "https://twitter.com/dYdX"
@@ -1690,7 +1852,7 @@
     "localization": "ko",
     "name": "보초",
     "symbol": "DVPN",
-    "description": "DVPN은 Sentinel Hub의 기본 토큰입니다.<inlang-LineFeed>\nSentinel 생태계는 검열에 저항하는 비공개 인터넷 액세스를 가능하게 하는 자율 dVPN 애플리케이션의 글로벌 네트워크입니다.",
+    "description": "DVPN은 Sentinel Hub의 기본 토큰입니다.<inlang-LineFeed>\nSentinel 생태계는 검열에 저항하는 개인 인터넷 액세스를 가능하게 하는 자율 dVPN 애플리케이션의 글로벌 네트워크입니다.",
     "coingeckoID": "보초",
     "websiteURL": "https://www.sentinel.co/",
     "twitterURL": "https://twitter.com/SentinelVPN"
@@ -1746,6 +1908,14 @@
     "coingeckoID": "굴착 체인",
     "websiteURL": "https://digchain.org/"
   },
+  "dhp": {
+    "localization": "ko",
+    "name": "d건강",
+    "symbol": "DHP",
+    "description": "dHealth의 기본 토큰",
+    "coingeckoID": "건강",
+    "websiteURL": "https://dhealth.com/"
+  },
   "dhk": {
     "localization": "ko",
     "name": "DHK",
@@ -1794,7 +1964,7 @@
     "symbol": "CVN",
     "description": "Cvn은 DeFi의 약속을 이행하기 위해 구축된 레이어 1 블록체인입니다.",
     "coingeckoID": "의식",
-    "websiteURL": "https://www.consciousdao.com/"
+    "websiteURL": "https://cvn.io/"
   },
   "cudos": {
     "localization": "ko",
@@ -2178,6 +2348,13 @@
     "websiteURL": "https://cosmos.network",
     "twitterURL": "https://twitter.com/cosmoshub"
   },
+  "atom1klfg": {
+    "localization": "ko",
+    "name": "ATOM1KLFG",
+    "symbol": "ATOM1KLFG",
+    "description": "$ATOM에서 $1,000 LFG로!!",
+    "websiteURL": "https://neutron.org/"
+  },
   "atolo": {
     "localization": "ko",
     "name": "리존",
@@ -2319,7 +2496,7 @@
     "localization": "ko",
     "name": "아베",
     "symbol": "AAVE",
-    "description": "Aave는 예금 및 자산 차용에 대한 이자를 얻기 위한 오픈 소스 및 비수탁 프로토콜입니다. 또한 개발자가 즉각적이고 쉽게 대출할 수 있는 매우 혁신적인 플래시 대출에 대한 액세스 기능도 제공합니다. 담보가 필요하지 않습니다. 16개의 자산을 보유하고 있으며 그 중 5개는 스테이블 코인입니다.",
+    "description": "Aave는 예금 및 자산 차용에 대한 이자를 얻기 위한 오픈 소스 및 비수탁 프로토콜입니다. 또한 개발자가 즉각적이고 쉽게 대출할 수 있는 매우 혁신적인 플래시 대출에 대한 액세스 기능도 제공합니다. 담보가 필요하지 않습니다. 16개의 자산을 보유하고 있으며 그 중 5개는 스테이블코인입니다.",
     "coingeckoID": "아베"
   },
   "a": {

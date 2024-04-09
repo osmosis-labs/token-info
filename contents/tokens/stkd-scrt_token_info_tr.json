@@ -1,4 +1,5 @@
 {
+  "localization": "tr",
   "name": "SCRT Staking Derivatives",
   "symbol": "stkd-SCRT",
   "description": "Secret Network'teki SCRT Staking Türevleri için yerel token cw20",

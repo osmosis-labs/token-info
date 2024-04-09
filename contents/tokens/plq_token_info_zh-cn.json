@@ -1,7 +1,8 @@
 {
+  "localization": "英文",
   "name": "Planq",
   "symbol": "PLQ",
-  "description": "Planq 网络的原生 EVM、治理和质押代币<inlang-LineFeed><inlang-LineFeed>Planq 是第一个以移动平台可用性为核心的加密货币项目，远离了对桌面服务的依赖。通过专注于通过易于使用的桥梁实现其他区块链的轻松访问和紧密集成，Planq 将把移动领域的 Web 3 采用推向新的水平。",
+  "description": "Planq Network 的原生 EVM、治理和质押代币<inlang-LineFeed><inlang-LineFeed>Planq 是第一个以移动平台可用性为核心的加密货币项目，它摆脱了对桌面服务的依赖。通过专注于通过易于使用的桥梁轻松访问和与其他区块链紧密集成，Planq 将推动 Web 3 在移动领域的采用迈上新台阶。",
   "coingeckoID": "planq",
   "websiteURL": "https://planq.network",
   "twitterURL": "https://twitter.com/planqfoundation"

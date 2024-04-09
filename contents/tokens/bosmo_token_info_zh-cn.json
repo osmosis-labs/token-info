@@ -1,7 +1,7 @@
 {
-  "localization": "zh",
+  "localization": "英文",
   "name": "BackBone Labs Liquid Staked OSMO",
   "symbol": "bOSMO",
-  "description": "BackBone Labs 液体固定 OSMO",
+  "description": "BackBone Labs Liquid 质押 OSMO",
   "websiteURL": "https://osmosis.zone/"
 }

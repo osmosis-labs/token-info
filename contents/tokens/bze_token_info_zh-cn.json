@@ -1,7 +1,7 @@
 {
-  "localization": "zh",
+  "localization": "英文",
   "name": "BeeZee",
   "symbol": "BZE",
-  "description": "BeeZee原生区块链",
+  "description": "BeeZee 原生区块链",
   "coingeckoID": "bzedge"
 }

@@ -1,4 +1,5 @@
 {
+  "localization": "es",
   "name": "MuseDAO",
   "symbol": "MUSE",
   "description": "El token nativo cw20 para MuseDAO en Juno Chain",

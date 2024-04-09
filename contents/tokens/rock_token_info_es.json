@@ -1,4 +1,5 @@
 {
+  "localization": "es",
   "name": "Pylons",
   "symbol": "ROCK",
   "description": "El token de ingresos de Pylons",

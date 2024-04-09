@@ -1,4 +1,5 @@
 {
+  "localization": "pl",
   "name": "Silk",
   "symbol": "SILK",
   "description": "Natywny token cw20 dla Silk w Secret Network",

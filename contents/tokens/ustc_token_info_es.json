@@ -1,4 +1,5 @@
 {
+  "localization": "es",
   "name": "TerraClassicUSD",
   "symbol": "USTC",
   "description": "La moneda estable en USD de Terra Classic.",
