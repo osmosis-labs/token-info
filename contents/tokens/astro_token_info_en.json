@@ -1,9 +1,9 @@
 {
   "localization": "en",
-  "name": "Astroport",
+  "name": "Astroport token",
   "symbol": "ASTRO",
   "description": "Astroport is a neutral marketplace where anyone, from anywhere in the galaxy, can dock to trade their wares.",
   "coingeckoID": "astroport-fi",
-  "websiteURL": "https://astroport.finance/",
+  "websiteURL": "https://astroport.fi/",
   "twitterURL": "https://twitter.com/astroport_fi"
 }

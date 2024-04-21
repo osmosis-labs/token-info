@@ -2,7 +2,7 @@
   "localization": "ro",
   "name": "JunoSwap",
   "symbol": "RAW",
-  "description": "Guvernare token pentru Junoswap",
+  "description": "Guvernarea tokenului pentru Junoswap",
   "coingeckoID": "junoswap-raw-dao",
   "websiteURL": "https://www.junonetwork.io/"
 }
