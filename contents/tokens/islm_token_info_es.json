@@ -2,7 +2,7 @@
   "localization": "es",
   "name": "Haqq Network",
   "symbol": "ISLM",
-  "description": "El EVM nativo, el token de gobernanza y participación de la red Haqq",
+  "description": "El token nativo de EVM, gobernanza y participación de la red Haqq",
   "coingeckoID": "islamic-coin",
   "websiteURL": "https://haqq.network/"
 }

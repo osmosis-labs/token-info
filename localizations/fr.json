@@ -47,6 +47,14 @@
     "description": "Chain est un protocole de blockchain cloud qui permet aux organisations de créer de meilleurs services financiers à partir de zéro, alimentés par Sequence et Chain Core.",
     "coingeckoID": "chaîne-2"
   },
+  "xastro": {
+    "localization": "fr",
+    "name": "Jeton d'astroport jalonné",
+    "symbol": "xASTRO",
+    "description": "Astroport est un marché neutre où n'importe qui, de n'importe où dans la galaxie, peut accoster pour échanger ses marchandises.",
+    "websiteURL": "https://astroport.fi/",
+    "twitterURL": "https://twitter.com/astroport_fi"
+  },
   "wynd": {
     "localization": "fr",
     "name": "Jeton de gouvernance Wynd DAO",
@@ -110,6 +118,7 @@
     "localization": "fr",
     "name": "Bitcoin emballé",
     "symbol": "WBTC",
+    "coingeckoID": "Bitcoin enveloppé",
     "websiteURL": "https://osmosis.zone/",
     "grv": {
       "localization": "fr",
@@ -298,7 +307,7 @@
     "localization": "fr",
     "name": "Célestia",
     "symbol": "AIT",
-    "description": "<inlang-LineFeed><inlang-LineFeed>Celestia est un réseau modulaire de disponibilité des données qui s'adapte en toute sécurité au nombre d'utilisateurs, permettant à chacun de lancer facilement sa propre blockchain.",
+    "description": "Le token natif de la blockchain Celestia.<inlang-LineFeed>\nCelestia est un réseau modulaire de disponibilité des données. Il simplifie le processus de lancement des blockchains, rendant la technologie blockchain plus accessible et conviviale. Contrairement aux blockchains traditionnelles qui gèrent plusieurs fonctions, Celestia se spécialise dans des rôles spécifiques, ce qui conduit à une évolutivité, une flexibilité et une interopérabilité améliorées. Cette spécialisation permet aux développeurs de créer des applications blockchain pour une adoption massive.",
     "coingeckoID": "Céleste",
     "websiteURL": "https://celestia.org/",
     "twitterURL": "https://twitter.com/CelestiaOrg"
@@ -323,7 +332,7 @@
     "localization": "fr",
     "name": "Échange de kava",
     "symbol": "SWP",
-    "description": "Jeton de gouvernance du Kava Swap Protocol",
+    "description": "Jeton de gouvernance du protocole Kava Swap",
     "coingeckoID": "échange de kava",
     "websiteURL": "https://www.kava.io/"
   },
@@ -337,7 +346,7 @@
   "sui": {
     "localization": "fr",
     "name": "Sui",
-    "symbol": "IUE",
+    "symbol": "ISU",
     "description": "L'actif natif de Sui s'appelle SUI.",
     "coingeckoID": "sui"
   },
@@ -350,7 +359,7 @@
   },
   "sttia": {
     "localization": "fr",
-    "name": "TIA jalonné de foulée",
+    "name": "Stride jalonné TIA",
     "symbol": "IST",
     "description": "TIA jalonné liquide de Stride",
     "websiteURL": "https://stride.zone/"
@@ -411,7 +420,7 @@
     "name": "PSTAKE jalonné OSMO",
     "symbol": "stkOSMO",
     "description": "OSMO à jalonnement liquide PSTAKE",
-    "coingeckoID": "pstake-staked-osmo",
+    "coingeckoID": "ptake-staked-osmo",
     "websiteURL": "https://persistence.one/"
   },
   "stkd-scrt": {
@@ -434,7 +443,7 @@
     "localization": "fr",
     "name": "Stride jalonné JUNO",
     "symbol": "stJUNO",
-    "coingeckoID": "foulée-jalonné-juno",
+    "coingeckoID": "foulée jalonnée-juno",
     "websiteURL": "https://stride.zone/"
   },
   "stinj": {
@@ -481,7 +490,7 @@
     "localization": "fr",
     "name": "Observation des étoiles",
     "symbol": "ÉTOILES",
-    "description": "Le jeton natif de Stargaze<inlang-LineFeed>\nLa première blockchain axée sur la communauté pour les NFT. Stargaze permet aux créateurs, développeurs, collectionneurs et commerçants de participer à la plateforme. La chaîne Stargaze se compose de diverses applications liées au NFT, telles qu'un Launchpad et un Marketplace avec des offres et des enchères.",
+    "description": "Le jeton natif de Stargaze<inlang-LineFeed>\nLa première blockchain axée sur la communauté pour les NFT. Stargaze permet aux créateurs, développeurs, collectionneurs et commerçants de participer à la plateforme. La chaîne Stargaze se compose de diverses applications liées au NFT, telles qu'un Launchpad et une place de marché avec des offres et des enchères.",
     "coingeckoID": "observer les étoiles",
     "websiteURL": "https://www.stargaze.zone/",
     "twitterURL": "https://twitter.com/StargazeZone"
@@ -608,6 +617,15 @@
     "coingeckoID": "terre de sienne",
     "websiteURL": "https://scrt.network/"
   },
+  "shido": {
+    "localization": "fr",
+    "name": "Shido",
+    "symbol": "SHIDO",
+    "description": "L'EVM et Wasm natifs, jeton de gouvernance et de jalonnement de la chaîne Shido<inlang-LineFeed>\nLes développeurs utilisent Shido comme chaîne Ethereum et Wasm pour déployer les applications du futur. Obtenez toutes les fonctionnalités d'Ethereum et Wasm avec la puissance de la composabilité IBC et Interchain.",
+    "coingeckoID": "shido-2",
+    "websiteURL": "https://shido.io/",
+    "twitterURL": "https://twitter.com/ShidoGlobal"
+  },
   "shibac": {
     "localization": "fr",
     "name": "ShibaCosmos",
@@ -648,7 +666,7 @@
     "localization": "fr",
     "name": "Signal",
     "symbol": "SGNL",
-    "description": "Signal Art et jeux sur Juno",
+    "description": "Art du signal et jeux sur Juno",
     "websiteURL": "https://www.junonetwork.io/"
   },
   "sge": {
@@ -710,13 +728,13 @@
     "name": "Scorum",
     "symbol": "RCS",
     "description": "Le jeton natif de Scorum",
-    "websiteURL": "https://scorum.com",
+    "websiteURL": "https://scorum.network",
     "twitterURL": "https://twitter.com/scorum_fr"
   },
   "sayve": {
     "localization": "fr",
     "name": "dis",
-    "symbol": "DIRE",
+    "symbol": "DITES",
     "description": "Sayve est une application révolutionnaire d'apprentissage des langues à l'ère Web3 qui combine la gamification, la technologie blockchain et une expérience Metaverse pour motiver les utilisateurs à apprendre des langues tout en gagnant des récompenses.",
     "websiteURL": "https://www.terra.money/"
   },
@@ -724,8 +742,9 @@
     "localization": "fr",
     "name": "Naviguer",
     "symbol": "NAVIGUER",
-    "description": "Jeton Sail DAO",
-    "websiteURL": "https://osmosis.zone/"
+    "description": "Sail DAO est un DAO de déploiement et de gestion de liquidités construit dans le cadre d'une collaboration entre les blockchains Osmosis et Migaloo.<inlang-LineFeed>\nSail DAO est un DAO de déploiement et de gestion de liquidités construit dans le cadre d'une collaboration entre les blockchains Osmosis et Migaloo. Créé à la fois par l'Osmosis Community Pool et la Fondation Migaloo, Sail DAO est ouvert aux offres de projets basés sur le cosmos qui espèrent générer des liquidités pour leur jeton sur la blockchain Osmosis. Parallèlement à la création de ce DAO, le White Whale DEX est déployé sur Osmosis, étant le premier DEX en dehors d'Osmosis à être déployé sur la chaîne, c'est un grand pas vers qu'Osmosis devienne un écosystème à partir d'une chaîne d'applications. Les projets incubés par Migaloo sont encouragés à participer à des accords OTC avec Sail DAO afin d'amorcer ou d'améliorer la liquidité sur Osmosis DEX de WW. Cependant, les offres ne se limitent pas aux projets Migaloo et la liquidité ne se limite pas au déploiement sur WW DEX. La trésorerie de ce DAO peut être déployée comme bon vous semble, à la discrétion des électeurs de Sail DAO. L'Osmosis CP a obtenu un droit de veto sur tous les accessoires introduits dans ce DAO et a également obtenu des droits de récupération si cette entreprise déraillait.",
+    "websiteURL": "https://daodao.zone/dao/osmo106tvcj58rvdn9k36m9m3xcmcwk2c3fgft3ldcst9lgy05gcmjanqexru3h/home",
+    "twitterURL": "https://twitter.com/Sail_DAO_"
   },
   "saga": {
     "localization": "fr",
@@ -735,6 +754,13 @@
     "coingeckoID": "saga-2",
     "websiteURL": "https://www.saga.xyz/",
     "twitterURL": "https://twitter.com/Sagaxyz__"
+  },
+  "rstk": {
+    "localization": "fr",
+    "name": "REPRISE",
+    "symbol": "RSTK",
+    "description": "Reprendre le jeton DAO",
+    "websiteURL": "https://www.whitewhale.money/"
   },
   "rowan": {
     "localization": "fr",
@@ -779,7 +805,7 @@
     "localization": "fr",
     "name": "Régénération",
     "symbol": "RÉGÉNÉRATION",
-    "description": "La pièce REGEN est le jeton de la plate-forme Regen Network<inlang-LineFeed>\nRegen Network, une plateforme pour générer et investir dans des crédits de carbone et de biodiversité à haute intégrité issus de projets de régénération écologique.",
+    "description": "La pièce REGEN est le jeton de la plateforme réseau Regen<inlang-LineFeed>\nRegen Network, une plateforme pour créer et investir dans des crédits de carbone et de biodiversité à haute intégrité issus de projets de régénération écologique.",
     "coingeckoID": "régénération",
     "websiteURL": "https://www.regen.network/",
     "twitterURL": "https://twitter.com/regen_network"
@@ -818,7 +844,7 @@
     "localization": "fr",
     "name": "Indice de réflexe Rai",
     "symbol": "RAI",
-    "description": "RAI est un actif stable non indexé et adossé à l’ETH. Il est utile comme garantie plus « stable » pour d’autres protocoles DeFi (par rapport à l’ETH ou au BTC) ou comme actif stable avec un taux d’intérêt intégré.",
+    "description": "RAI est un actif stable non indexé et adossé à l’ETH. Il est utile comme garantie plus « stable » pour d’autres protocoles DeFi (par rapport à ETH ou BTC) ou comme actif stable avec un taux d’intérêt intégré.",
     "coingeckoID": "raï"
   },
   "rac": {
@@ -901,8 +927,10 @@
     "localization": "fr",
     "name": "Jeton de bourse",
     "symbol": "BOURSE",
-    "description": "Jeton de bourse",
-    "websiteURL": "https://pundix.com"
+    "description": "Purse est le programme de fidélité décentralisé destiné aux magasins physiques et aux commerçants. Le jeton PURSE servira de jeton de gouvernance de la plateforme de points de fidélité PURSE Merchant, des frais d'essence ainsi que des frais de transaction sur la plateforme PURSE Merchant. Pour lancer des jetons de fidélité marchand et effectuer des transactions sur la plateforme marchande, les utilisateurs et les commerçants ont besoin de jetons Purse.",
+    "coingeckoID": "pundi-x-bourse",
+    "websiteURL": "https://purse.land",
+    "twitterURL": "https://twitter.com/Purse_Land"
   },
   "puppy": {
     "localization": "fr",
@@ -978,7 +1006,17 @@
     "localization": "fr",
     "name": "Pépé",
     "symbol": "PEPE",
+    "description": "Pepe est un memecoin communautaire avec une mission : rendre les memecoins à nouveau géniaux. Conçu pour honorer le mème emblématique que nous connaissons et aimons tous, Pepe est là pour régner en tant que memecoin le plus mémorable qui existe, alimenté uniquement par le pouvoir mémétique. Pepe est pour le peuple.",
     "coingeckoID": "pépé"
+  },
+  "paxg": {
+    "grv": {
+      "localization": "fr",
+      "name": "Paxos Gold (pont gravitationnel)",
+      "symbol": "PAXG.grv",
+      "description": "Pont Gravitaire Paxos Or",
+      "websiteURL": "https://www.gravitybridge.net/"
+    }
   },
   "pasg": {
     "localization": "fr",
@@ -1111,7 +1149,7 @@
     "name": "Chien avec nunchucks",
     "symbol": "NINJA",
     "description": "La première pièce meme sur Injective. C'est un chien, mais il a des nunchucks",
-    "coingeckoID": "chien-femme-nunchakus",
+    "coingeckoID": "chien-femme-nunchucks",
     "websiteURL": "https://injective.com/"
   },
   "nibi": {
@@ -1149,8 +1187,9 @@
     "localization": "fr",
     "name": "Neokingdom DAO",
     "symbol": "NÉOK",
-    "description": "Le jeton de Neokingdom DAO.",
-    "websiteURL": "https://evmos.org/"
+    "description": "Le jeton de Neokingdom DAO.<inlang-LineFeed>\nNeokingdom DAO veut rendre l'emploi plus équitable, en permettant aux entreprises du Web3 et du monde réel de fonctionner en tant qu'organisations autonomes décentralisées (DAO).",
+    "websiteURL": "https://evmos.org/",
+    "twitterURL": "https://twitter.com/NEOKingdomDAO"
   },
   "nct": {
     "localization": "fr",
@@ -1178,7 +1217,7 @@
     "localization": "fr",
     "name": "EmpowerChain",
     "symbol": "MPWR",
-    "description": "Le jeton natif de jalonnement et de gouvernance d’Empower."
+    "description": "Le jeton de jalonnement et de gouvernance natif d’Empower."
   },
   "moonbeam": {
     "dot": {
@@ -1255,7 +1294,7 @@
     "localization": "fr",
     "name": "Médibloc",
     "symbol": "MOYEN",
-    "description": "Panacea est une blockchain publique lancée par MediBloc, qui constitue l'infrastructure clé pour réinventer l'écosystème des données de santé centrées sur le patient.",
+    "description": "Panacea est une blockchain publique lancée par MediBloc, qui constitue l'infrastructure clé pour réinventer l'écosystème des données de santé centré sur le patient.",
     "coingeckoID": "medibloc",
     "websiteURL": "https://medibloc.com/fr/"
   },
@@ -1302,7 +1341,7 @@
     "localization": "fr",
     "name": "Lévana",
     "symbol": "LVN",
-    "description": "Jeton natif de Levana",
+    "description": "Levana Well-funded Perps est un protocole de swaps perpétuels, qui sont des contrats de trading à effet de levier.<inlang-LineFeed>\nLevana Well-funded Perps est un protocole de swaps perpétuels, qui sont des contrats de trading à effet de levier. Il vise à gérer les risques et à offrir des avantages à la fois aux traders et aux fournisseurs de liquidités.<inlang-LineFeed>\nPour les traders, la solution de Levana consiste à rendre toutes les positions « bien financées », ce qui signifie que le profit maximum pour chaque position est verrouillé à l'avance. Cela élimine la possibilité de créances irrécouvrables et d’insolvabilité, offrant ainsi une plus grande sécurité.<inlang-LineFeed>\nLes fournisseurs de liquidité, quant à eux, reçoivent un rendement lorsqu’ils assument le risque d’instabilité du marché. Ils fournissent des fonds qui servent de garantie et, en échange, ils perçoivent une commission assortie d’une prime de risque.<inlang-LineFeed>\nLe protocole résout les problèmes liés aux modèles d'échange perpétuel existants, tels que l'AMM virtuel. Ces modèles s’appuient sur des mécanismes complexes pour maintenir la stabilité des prix, mais ils présentent des limites et peuvent s’avérer risqués sur des marchés volatils.<inlang-LineFeed>\nEn séparant les différentes paires de trading et en créant un marché décentralisé de liquidité, Levana réduit le risque de contagion entre les différents marchés. Cela facilite également l’extension à d’autres réseaux blockchain.<inlang-LineFeed>\nDans l'ensemble, le protocole de swaps perpétuels de Levana offre une plateforme fiable et sécurisée pour les traders et les fournisseurs de liquidités. Il garantit un règlement équitable, minimise les risques et permet le développement de protocoles financiers supplémentaires en plus des positions tokenisées.",
     "coingeckoID": "protocole levana",
     "websiteURL": "https://osmosis.zone/"
   },
@@ -1378,7 +1417,7 @@
     "localization": "fr",
     "name": "LABORATOIRE",
     "symbol": "LABORATOIRE",
-    "description": "LAB - Tout est une expérience",
+    "description": "LAB - Tout est une expérience<inlang-LineFeed>\nLAB - Tout est une expérience<inlang-LineFeed>\nUtilisez 10 jetons $LAB pour créer 1 Mad Scientist NFT sur Backbone Labs Osmosis Launchpad. Vous pourrez alors échanger vos NFT sur la marketplace. Vous pouvez également choisir de conserver vos jetons $LAB en tant que NFT non révélés et de les échanger.<inlang-LineFeed>\nLancement équitable : l'événement a été marqué par l'absence de listes blanches (WL), de robots et de verrous, garantissant une opportunité équitable à toutes les parties intéressées.<inlang-LineFeed>\nPréparation du lancement : les participants disposaient d'une fenêtre de 52,91 heures pour déposer $OSMO dans un pool sur Streamswap.<inlang-LineFeed>\nLe processus d'échange : après la période de dépôt initiale, $OSMO a été converti en jetons $LAB pendant une heure supplémentaire, permettant une transition en douceur et une distribution équitable.",
     "websiteURL": "https://osmosis.zone/"
   },
   "l1": {
@@ -1440,7 +1479,7 @@
     "localization": "fr",
     "name": "Kava",
     "symbol": "Kava",
-    "description": "Le jeton natif de jalonnement et de gouvernance de Kava<inlang-LineFeed>\nKava est une blockchain décentralisée qui combine la vitesse et l'interopérabilité de Cosmos avec la puissance de développement d'Ethereum.",
+    "description": "Le jeton natif de jalonnement et de gouvernance de Kava<inlang-LineFeed>\nLe jeton natif de jalonnement et de gouvernance de Kava<inlang-LineFeed>\nKava est une blockchain de couche 1 qui combine la vitesse et l'interopérabilité de Cosmos avec la puissance de développement d'Ethereum.<inlang-LineFeed>\nLe réseau Kava utilise une architecture de co-chaîne optimisée pour les développeurs. La co-chaîne Ethereum permet la prise en charge des contrats intelligents EVM, tandis que la co-chaîne Cosmos active le moteur de consensus ultra-rapide Tendermint et le protocole de communication Inter Blockchain (IBC).<inlang-LineFeed>\nLes deux co-chaînes sont reliées par un module de traduction qui leur permet d'interagir de manière transparente, réunissant les deux environnements de développement blockchain les plus utilisés dans un réseau unique et évolutif.<inlang-LineFeed>\nLe réseau Kava comprend un jeton de gouvernance et d'utilité natif, KAVA, qui peut être mis en jeu par les validateurs ou délégué aux nœuds de validation. Les intervenants et les délégants gagnent 37,5 % de toutes les émissions de KAVA en récompense de la sécurisation du réseau. Les acteurs du Kava ont également le droit de vote dans les propositions de gouvernance de réseau.",
     "coingeckoID": "kava",
     "websiteURL": "https://www.kava.io/",
     "twitterURL": "https://twitter.com/KAVA_CHAIN"
@@ -1504,7 +1543,7 @@
     "localization": "fr",
     "name": "Réseau Haqq",
     "symbol": "ISLM",
-    "description": "L'EVM natif, le jeton de gouvernance et de jalonnement du réseau Haqq",
+    "description": "L'EVM natif, la gouvernance et le jeton de jalonnement du réseau Haqq",
     "coingeckoID": "pièce-islamique",
     "websiteURL": "https://haqq.network/"
   },
@@ -1513,7 +1552,7 @@
     "name": "IRISnet",
     "symbol": "IRIS",
     "description": "Le jeton IRIS est le jeton de gouvernance natif de la chaîne IrisNet.",
-    "coingeckoID": "réseau-iris"
+    "coingeckoID": "réseau iris"
   },
   "iov": {
     "localization": "fr",
@@ -1554,7 +1593,7 @@
     "name": "Injectif",
     "symbol": "INJ",
     "description": "Le jeton INJ est le jeton de gouvernance natif de la chaîne Injective.<inlang-LineFeed>\nLa mission d'Injective est de créer un système financier véritablement libre et inclusif grâce à la décentralisation.",
-    "coingeckoID": "protocole injectif",
+    "coingeckoID": "protocole-injectif",
     "websiteURL": "https://injective.com/",
     "twitterURL": "https://twitter.com/Injective_"
   },
@@ -1572,6 +1611,14 @@
     "symbol": "IBCX",
     "coingeckoID": "index-ibc",
     "websiteURL": "https://osmosis.zone/"
+  },
+  "ibc": {
+    "localization": "fr",
+    "name": "GRV",
+    "symbol": "GRV",
+    "description": "UN MÉMÉCOIN POUR CONNECTER LES IMBECILES - ET DANS Da Cosmos LIER DEM",
+    "websiteURL": "https://osmosis.zone/",
+    "twitterURL": "https://twitter.com/IBCmemecoin"
   },
   "hydrogen": {
     "localization": "fr",
@@ -1611,6 +1658,15 @@
     "coingeckoID": "humains-ai",
     "websiteURL": "https://humains.ai/",
     "twitterURL": "https://twitter.com/humansdotai"
+  },
+  "hava": {
+    "localization": "fr",
+    "name": "Pièce Hava",
+    "symbol": "HAVA",
+    "description": "Hava Coin est l'élément vital des réseaux Cosmos &amp; Injective, récompensant les constructeurs et accueillant les supporters.",
+    "coingeckoID": "hava-pièce",
+    "websiteURL": "https://injective.com/",
+    "twitterURL": "https://twitter.com/Hava_Coin"
   },
   "hash": {
     "localization": "fr",
@@ -1723,9 +1779,10 @@
     "localization": "fr",
     "name": "Unification",
     "symbol": "FONDS",
-    "description": "Pièce de jalonnement et de gouvernance pour la blockchain de l'unification",
+    "description": "Pièce de jalonnement et de gouvernance pour la blockchain de l'unification<inlang-LineFeed>\nFondamentalement, l'Unification Blockchain Toolkit comprend deux branches principales : les produits Blockchain Business, pour accueillir les entreprises traditionnelles dans l'économie Web3 ; et Permissionless Products, une boîte à outils en libre accès pour alimenter et enrichir les Dapps sur les réseaux Ethereum/EVM",
     "coingeckoID": "unification",
-    "websiteURL": "https://unification.com/"
+    "websiteURL": "https://unification.com",
+    "twitterURL": "https://twitter.com/UnificationUND"
   },
   "ftm": {
     "localization": "fr",
@@ -1799,7 +1856,7 @@
     "localization": "fr",
     "name": "Éther",
     "symbol": "ETH",
-    "description": "Ethereum (ETH) est un système blockchain décentralisé et open source doté d'une fonctionnalité de contrat intelligent. Il s’agit de la crypto-monnaie native de la plateforme Ethereum, souvent considérée comme la deuxième monnaie numérique la plus populaire après le Bitcoin. Ethereum a été proposé fin 2013 et le développement a été financé par un financement participatif en 2014, ce qui a conduit à la mise en service de son réseau le 30 juillet 2015.<inlang-LineFeed>\nL’ETH, en tant que monnaie numérique, est utilisé à diverses fins au sein de l’écosystème Ethereum, notamment pour l’exécution de contrats intelligents décentralisés et comme mode de paiement. Contrairement à Bitcoin, Ethereum a été conçu pour être une plate-forme pour des applications pouvant fonctionner sans intermédiaire, en utilisant la technologie blockchain. Cela a fait d'Ethereum une plate-forme leader pour diverses applications, notamment la finance décentralisée (DeFi), les jetons non fongibles (NFT), etc. Ethereum est en constante évolution, avec une mise à niveau importante appelée Ethereum 2.0, qui vise à améliorer son évolutivité, sa sécurité et sa durabilité.",
+    "description": "Ethereum (ETH) est un système blockchain décentralisé et open source doté d'une fonctionnalité de contrat intelligent. Il s’agit de la cryptomonnaie native de la plateforme Ethereum, souvent considérée comme la deuxième monnaie numérique la plus populaire après le Bitcoin. Ethereum a été proposé fin 2013 et le développement a été financé par un financement participatif en 2014, ce qui a conduit à la mise en service de son réseau le 30 juillet 2015.<inlang-LineFeed>\nL’ETH, en tant que monnaie numérique, est utilisé à diverses fins au sein de l’écosystème Ethereum, notamment pour l’exécution de contrats intelligents décentralisés et comme mode de paiement. Contrairement à Bitcoin, Ethereum a été conçu pour être une plate-forme pour des applications pouvant fonctionner sans intermédiaire, en utilisant la technologie blockchain. Cela a fait d'Ethereum une plate-forme leader pour diverses applications, notamment la finance décentralisée (DeFi), les jetons non fongibles (NFT), etc. Ethereum est en constante évolution, avec une mise à niveau importante appelée Ethereum 2.0, qui vise à améliorer son évolutivité, sa sécurité et sa durabilité.",
     "coingeckoID": "ethereum"
   },
   "eeur": {
@@ -1994,7 +2051,7 @@
     "name": "Chaîne de point de vente Cronos",
     "symbol": "CRO",
     "description": "CRO est le jeton natif de la chaîne Crypto.org, appelé Native CRO.<inlang-LineFeed>\nCronos PoS Chain est une blockchain publique, open source et sans autorisation - un réseau entièrement décentralisé avec un débit élevé et des frais faibles, conçu pour être un bien public qui contribue à favoriser l'adoption massive de la technologie blockchain à travers des cas d'utilisation tels que les paiements, DeFi et NFT.",
-    "coingeckoID": "chaîne crypto-com",
+    "coingeckoID": "crypto-com-chain",
     "websiteURL": "https://cronos.org/",
     "twitterURL": "https://twitter.com/cronos_chain"
   },
@@ -2046,9 +2103,9 @@
   },
   "clst": {
     "localization": "fr",
-    "name": "Célestes",
+    "name": "Célestims",
     "symbol": "CLST",
-    "description": "Célestes",
+    "description": "Célestims",
     "websiteURL": "https://www.junonetwork.io/"
   },
   "circus": {
@@ -2057,6 +2114,13 @@
     "symbol": "CIRQUE",
     "description": "réserve de valeur clownmaxxed",
     "websiteURL": "https://neutron.org/"
+  },
+  "cif": {
+    "localization": "fr",
+    "name": "Cifer",
+    "symbol": "CIF",
+    "description": "Apprentissage automatique décentralisé",
+    "websiteURL": "https://cifer.ai/"
   },
   "cheq": {
     "localization": "fr",
@@ -2113,7 +2177,7 @@
   },
   "bze": {
     "localization": "fr",
-    "name": "BeeZee",
+    "name": "AbeilleZee",
     "symbol": "BZE",
     "description": "Blockchain native BeeZee",
     "coingeckoID": "bzedge"
@@ -2155,7 +2219,7 @@
     "localization": "fr",
     "name": "Bifurquer",
     "symbol": "BRNCHE",
-    "description": "Jeton ohhNFT LP.",
+    "description": "ohhNFT LP jeton.",
     "websiteURL": "https://stargaze.zone/"
   },
   "bosmo": {
@@ -2176,7 +2240,7 @@
     "localization": "fr",
     "name": "Bonk",
     "symbol": "BONK",
-    "description": "Le jeton officiel Bonk Inu",
+    "description": "Le jeton officiel de Bonk Inu",
     "coingeckoID": "bon sang"
   },
   "bnb": {
@@ -2225,7 +2289,6 @@
     "twitterURL": "https://twitter.com/agoric"
   },
   "bjuno": {
-    "localization": "fr",
     "name": "StakeEasy bJUNO",
     "symbol": "BJUNO",
     "description": "Dérivé de jalonnement bJUNO pour JUNO jalonné",
@@ -2235,12 +2298,10 @@
   "berlin": {
     "localization": "fr",
     "name": "Teledisko DAO",
-    "symbol": "BERLIN",
     "description": "Le jeton de Teledisko DAO.",
     "websiteURL": "https://evmos.org/"
   },
   "beast": {
-    "localization": "fr",
     "name": "Gelotto BÊTE",
     "symbol": "BÊTE",
     "description": "BEAST-ERC20 sur injectif",
@@ -2268,7 +2329,7 @@
     "localization": "fr",
     "name": "MAUVAIS GARÇON",
     "symbol": "MAUVAIS GARÇON",
-    "description": "Un clan de méchants enfants de 11 ans créant le chaos dans l'environnement du Cosmos. Un mauvais memecoin pour les gouverner tous $BADKID. Largué par avion aux détenteurs de Badkids NFT et aux jalonneurs $STARS. C'est tellement grave que votre portefeuille vous met en colère.",
+    "description": "Un clan de méchants enfants de 11 ans créant le chaos dans l'environnement du Cosmos. Un mauvais memecoin pour les gouverner tous $BADKID. Largué aux détenteurs de Badkids NFT et aux jalonneurs $STARS. C'est tellement grave que votre portefeuille vous met en colère.",
     "websiteURL": "https://osmosis.zone/"
   },
   "baddog": {
@@ -2343,7 +2404,7 @@
     "localization": "fr",
     "name": "Centre Cosmos",
     "symbol": "ATOME",
-    "description": "Le jeton natif de jalonnement et de gouvernance du Cosmos Hub.<inlang-LineFeed>\nEn un mot, Cosmos Hub se présente comme un projet qui résout certains des problèmes les plus difficiles auxquels est confrontée l'industrie de la blockchain. Il vise à offrir un antidote aux protocoles de preuve de travail lents, coûteux, non évolutifs et nocifs pour l’environnement, comme ceux utilisés par Bitcoin, en proposant un écosystème de blockchains connectées.<inlang-LineFeed>\nLes autres objectifs du projet consistent notamment à rendre la technologie blockchain moins complexe et moins difficile pour les développeurs grâce à un cadre modulaire qui démystifie les applications décentralisées. Enfin, un protocole de communication inter-blockchain facilite la communication entre les réseaux blockchain, évitant ainsi la fragmentation du secteur.<inlang-LineFeed>\nLes origines de Cosmos Hub remontent à 2014, lorsque Tendermint, l'un des principaux contributeurs du réseau, a été fondé. En 2016, un livre blanc sur Cosmos a été publié et une vente symbolique a eu lieu l'année suivante. Les jetons ATOM sont gagnés grâce à un algorithme de preuve de participation hybride et contribuent à assurer la sécurité du Cosmos Hub, la blockchain phare du projet. Cette cryptomonnaie joue également un rôle dans la gouvernance du réseau.",
+    "description": "Le jeton natif de jalonnement et de gouvernance du Cosmos Hub.<inlang-LineFeed>\nEn un mot, Cosmos Hub se présente comme un projet qui résout certains des problèmes les plus difficiles auxquels est confrontée l'industrie de la blockchain. Il vise à offrir un antidote aux protocoles de preuve de travail lents, coûteux, non évolutifs et nocifs pour l’environnement, comme ceux utilisés par Bitcoin, en proposant un écosystème de blockchains connectées.<inlang-LineFeed>\nLes autres objectifs du projet consistent notamment à rendre la technologie blockchain moins complexe et moins difficile pour les développeurs grâce à un cadre modulaire qui démystifie les applications décentralisées. Enfin, un protocole de communication inter-blockchain facilite la communication entre les réseaux blockchain, évitant ainsi la fragmentation du secteur.<inlang-LineFeed>\nLes origines de Cosmos Hub remontent à 2014, lorsque Tendermint, l'un des principaux contributeurs du réseau, a été fondé. En 2016, un livre blanc sur Cosmos a été publié et une vente symbolique a eu lieu l'année suivante. Les jetons ATOM sont gagnés grâce à un algorithme hybride de preuve de participation et contribuent à assurer la sécurité du Cosmos Hub, la blockchain phare du projet. Cette cryptomonnaie joue également un rôle dans la gouvernance du réseau.",
     "coingeckoID": "cosmos",
     "websiteURL": "https://cosmos.network",
     "twitterURL": "https://twitter.com/cosmoshub"
@@ -2372,12 +2433,19 @@
   },
   "astro": {
     "localization": "fr",
-    "name": "Astroport",
+    "name": "Jeton d'astroport",
     "symbol": "ASTRO",
     "description": "Astroport est un marché neutre où n'importe qui, de n'importe où dans la galaxie, peut accoster pour échanger ses marchandises.",
     "coingeckoID": "astroport-fi",
-    "websiteURL": "https://astroport.finance/",
-    "twitterURL": "https://twitter.com/astroport_fi"
+    "websiteURL": "https://astroport.fi/",
+    "twitterURL": "https://twitter.com/astroport_fi",
+    "cw20": {
+      "name": "Jeton Astroport CW20",
+      "symbol": "ASTRO.cw20",
+      "description": "Astroport est un marché neutre où n'importe qui, de n'importe où dans la galaxie, peut accoster pour échanger ses marchandises.",
+      "websiteURL": "https://astroport.fi/",
+      "twitterURL": "https://twitter.com/astroport_fi"
+    }
   },
   "ash": {
     "localization": "fr",
@@ -2486,7 +2554,7 @@
   },
   "acre": {
     "localization": "fr",
-    "name": "Acrèchain",
+    "name": "Acrechain",
     "symbol": "ACRE",
     "description": "L'EVM natif, la gouvernance et le jeton de jalonnement de l'Acrechain",
     "coingeckoID": "protocole arable",

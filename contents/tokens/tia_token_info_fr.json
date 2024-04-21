@@ -2,7 +2,7 @@
   "localization": "fr",
   "name": "Celestia",
   "symbol": "TIA",
-  "description": "<inlang-LineFeed><inlang-LineFeed>Celestia est un réseau modulaire de disponibilité des données qui s'adapte en toute sécurité au nombre d'utilisateurs, permettant à chacun de lancer facilement sa propre blockchain.",
+  "description": "Le token natif de la blockchain Celestia.<inlang-LineFeed>\nCelestia est un réseau modulaire de disponibilité des données. Il simplifie le processus de lancement des blockchains, rendant la technologie blockchain plus accessible et conviviale. Contrairement aux blockchains traditionnelles qui gèrent plusieurs fonctions, Celestia se spécialise dans des rôles spécifiques, ce qui conduit à une évolutivité, une flexibilité et une interopérabilité améliorées. Cette spécialisation permet aux développeurs de créer des applications blockchain pour une adoption massive.",
   "coingeckoID": "celestia",
   "websiteURL": "https://celestia.org/",
   "twitterURL": "https://twitter.com/CelestiaOrg"

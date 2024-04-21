@@ -47,6 +47,14 @@
     "description": "Chain is a cloud blockchain protocol that enables organizations to build better financial services from the ground up powered by Sequence and Chain Core.",
     "coingeckoID": "chain-2"
   },
+  "xastro": {
+    "localization": "en",
+    "name": "Staked Astroport Token",
+    "symbol": "xASTRO",
+    "description": "Astroport is a neutral marketplace where anyone, from anywhere in the galaxy, can dock to trade their wares.",
+    "websiteURL": "https://astroport.fi/",
+    "twitterURL": "https://twitter.com/astroport_fi"
+  },
   "wynd": {
     "localization": "en",
     "name": "Wynd DAO Governance Token",
@@ -110,6 +118,7 @@
     "localization": "en",
     "name": "Wrapped Bitcoin",
     "symbol": "WBTC",
+    "coingeckoID": "wrapped-bitcoin",
     "websiteURL": "https://osmosis.zone/",
     "grv": {
       "localization": "en",
@@ -298,7 +307,7 @@
     "localization": "en",
     "name": "Celestia",
     "symbol": "TIA",
-    "description": "\n\nCelestia is a modular data availability network that securely scales with the number of users, making it easy for anyone to launch their own blockchain.",
+    "description": "The native token of the Celestia blockchain.\n\nCelestia is a modular data availability network. It simplifies the process of launching blockchains, making blockchain technology more accessible and user-friendly. Unlike traditional blockchains that handle multiple functions, Celestia specializes in specific roles, which leads to enhanced scalability, flexibility, and interoperability. This specialization enables developers to create blockchain applications for mass adoption​.",
     "coingeckoID": "celestia",
     "websiteURL": "https://celestia.org/",
     "twitterURL": "https://twitter.com/CelestiaOrg"
@@ -608,6 +617,15 @@
     "coingeckoID": "sienna",
     "websiteURL": "https://scrt.network/"
   },
+  "shido": {
+    "localization": "en",
+    "name": "Shido",
+    "symbol": "SHIDO",
+    "description": "The native EVM and Wasm, governance and staking token of the Shido Chain\n\nDevelopers use Shido as the Ethereum and Wasm Chain to deploy applications of the future. Get all the functionalities of Ethereum and Wasm with the power of IBC and Interchain composability.",
+    "coingeckoID": "shido-2",
+    "websiteURL": "https://shido.io/",
+    "twitterURL": "https://twitter.com/ShidoGlobal"
+  },
   "shibac": {
     "localization": "en",
     "name": "ShibaCosmos",
@@ -710,7 +728,7 @@
     "name": "Scorum",
     "symbol": "SCR",
     "description": "The native token of Scorum",
-    "websiteURL": "https://scorum.com",
+    "websiteURL": "https://scorum.network",
     "twitterURL": "https://twitter.com/scorum_en"
   },
   "sayve": {
@@ -724,8 +742,9 @@
     "localization": "en",
     "name": "Sail",
     "symbol": "SAIL",
-    "description": "Sail DAO Token",
-    "websiteURL": "https://osmosis.zone/"
+    "description": "Sail DAO is a liquidity deployment and management DAO built as a collaboration between the Osmosis and Migaloo Blockchains.\n\nSail DAO is a liquidity deployment and management DAO built as a collaboration between the Osmosis and Migaloo Blockchains. Seeded by both the Osmosis Community Pool and the Migaloo Foundation, Sail DAO is open to hear offers from cosmos based projects that hope to seed liquidity for their token on the Osmosis blockchain. Along with the creation of this DAO the White Whale DEX is deployed on Osmosis, being the first DEX apart from Osmosis to deploy on the chain, it is a great step towards Osmosis becoming an ecosystem from an appchain. Migaloo incubated projects are encouraged to participate in OTC deals with Sail DAO in order to seed or enhance liquidity on WW's Osmosis DEX. However, offers are not limited to Migaloo projects and liquidity is not limitied to being deployed on WW DEX. The treasury of this DAO can be deployed however it wishes at the discretion of the Sail DAO voters. The Osmosis CP has been given veto authorization over any props introduced in this DAO and has also been given clawback rights if this venture ever gets off track.",
+    "websiteURL": "https://daodao.zone/dao/osmo106tvcj58rvdn9k36m9m3xcmcwk2c3fgft3ldcst9lgy05gcmjanqexru3h/home",
+    "twitterURL": "https://twitter.com/Sail_DAO_"
   },
   "saga": {
     "localization": "en",
@@ -735,6 +754,13 @@
     "coingeckoID": "saga-2",
     "websiteURL": "https://www.saga.xyz/",
     "twitterURL": "https://twitter.com/Sagaxyz__"
+  },
+  "rstk": {
+    "localization": "en",
+    "name": "RESTAKE",
+    "symbol": "RSTK",
+    "description": "Restake DAO Token",
+    "websiteURL": "https://www.whitewhale.money/"
   },
   "rowan": {
     "localization": "en",
@@ -901,8 +927,10 @@
     "localization": "en",
     "name": "PURSE Token",
     "symbol": "PURSE",
-    "description": "PURSE Token",
-    "websiteURL": "https://pundix.com"
+    "description": "Purse is the decentralised loyalty program for physical stores and merchants. PURSE token shall serve as governance token of the PURSE Merchant loyalty point platform, the gas fee as well as the transaction fee on PURSE Merchant platform. To launch any merchant loyalty tokens and do transaction on the merchant platform, users and merchants need Purse tokens.",
+    "coingeckoID": "pundi-x-purse",
+    "websiteURL": "https://purse.land",
+    "twitterURL": "https://twitter.com/Purse_Land"
   },
   "puppy": {
     "localization": "en",
@@ -978,7 +1006,17 @@
     "localization": "en",
     "name": "Pepe",
     "symbol": "PEPE",
+    "description": "Pepe is a community based memecoin with one mission: to make memecoins great again. Made to honor the iconic meme we all know and love, Pepe is here to take reign as the most memeable memecoin in existence, fueled purely by memetic power. Pepe is for the people.",
     "coingeckoID": "pepe"
+  },
+  "paxg": {
+    "grv": {
+      "localization": "en",
+      "name": "Paxos Gold (Gravity Bridge)",
+      "symbol": "PAXG.grv",
+      "description": "Gravity Bridge Paxos Gold",
+      "websiteURL": "https://www.gravitybridge.net/"
+    }
   },
   "pasg": {
     "localization": "en",
@@ -1149,8 +1187,9 @@
     "localization": "en",
     "name": "Neokingdom DAO",
     "symbol": "NEOK",
-    "description": "The token of Neokingdom DAO.",
-    "websiteURL": "https://evmos.org/"
+    "description": "The token of Neokingdom DAO.\n\nNeokingdom DAO wants to make employment fairer, by facilitating both web3 and real-world businesses to operate as Decentralized Autonomous Organizations (DAOs).",
+    "websiteURL": "https://evmos.org/",
+    "twitterURL": "https://twitter.com/NEOKingdomDAO"
   },
   "nct": {
     "localization": "en",
@@ -1302,7 +1341,7 @@
     "localization": "en",
     "name": "Levana",
     "symbol": "LVN",
-    "description": "Levana native token",
+    "description": "Levana Well-funded Perps is a protocol for perpetual swaps, which are leveraged trading contracts.\n\nLevana Well-funded Perps is a protocol for perpetual swaps, which are leveraged trading contracts. It aims to manage risk and provide benefits to both traders and liquidity providers.\n\nFor traders, Levana's solution is to make all positions \"well-funded,\" meaning that the maximum profit for each position is locked in advance. This eliminates the possibility of bad debt and insolvency, providing greater security.\n\nLiquidity providers, on the other hand, receive a yield for taking on the risk of market instability. They supply funds that act as collateral, and in return, they earn a fee with a risk premium.\n\nThe protocol addresses the issues with existing perpetual swap models, such as the virtual AMM. These models rely on complex mechanisms to maintain price stability, but they have limitations and can be risky in volatile markets.\n\nBy separating different trading pairs and creating a decentralized market for liquidity, Levana reduces the risk of contagion between different markets. This also makes it easier to expand to other blockchain networks.\n\nOverall, Levana's perpetual swaps protocol offers a reliable and secure platform for traders and liquidity providers. It ensures fair settlement, minimizes risks, and allows for the development of additional financial protocols on top of tokenized positions.",
     "coingeckoID": "levana-protocol",
     "websiteURL": "https://osmosis.zone/"
   },
@@ -1378,7 +1417,7 @@
     "localization": "en",
     "name": "LAB",
     "symbol": "LAB",
-    "description": "LAB - Everything is an Experiment",
+    "description": "LAB - Everything is an Experiment\n\nLAB - Everything is an Experiment\n\nUse 10 $LAB tokens to mint 1 Mad Scientist NFT on Backbone Labs Osmosis Launchpad. You will then be able to trade your NFTs on the marketplace. You can also choose to hold onto your $LAB tokens as unrevealed NFTs and trade it.\n\n Fair Launch: The event was marked by the absence of whitelists (WLs), no bots and no lock, ensuring an equitable opportunity for all interested parties.\n\nPreparation for the Launch: Participants were given a 52.91-hour window to deposit $OSMO into a pool on Streamswap.\n\nThe Swap Process: After the initial deposit period, $OSMO was converted into $LAB tokens over an additional hour, allowing for a smooth transition and fair distribution.",
     "websiteURL": "https://osmosis.zone/"
   },
   "l1": {
@@ -1440,7 +1479,7 @@
     "localization": "en",
     "name": "Kava",
     "symbol": "KAVA",
-    "description": "The native staking and governance token of Kava\n\nKava is a decentralized blockchain that combines the speed and interoperability of Cosmos with the developer power of Ethereum.",
+    "description": "The native staking and governance token of Kava\n\nThe native staking and governance token of Kava\n\nKava is a Layer-1 blockchain that combines the speed and interoperability of Cosmos with the developer power of Ethereum.\n\nThe Kava Network uses a developer-optimized co-chain architecture. The Ethereum Co-Chain enables support for EVM smart contracts while the Cosmos Co-Chain enables the lightning-fast Tendermint consensus engine and the Inter Blockchain Communication Protocol (IBC).\n\nThe two co-chains are connected by a translator module that enables them to interoperate seamlessly, bringing the two most used blockchain development environments together in a single, scalable network.\n\nThe Kava Network features a native governance and utility token, KAVA, that can be staked by validators or delegated to validator nodes. Stakers and delegators earn 37.5% of all KAVA emissions as a reward for securing the network. Kava stakers also have voting rights in network governance proposals.",
     "coingeckoID": "kava",
     "websiteURL": "https://www.kava.io/",
     "twitterURL": "https://twitter.com/KAVA_CHAIN"
@@ -1573,6 +1612,14 @@
     "coingeckoID": "ibc-index",
     "websiteURL": "https://osmosis.zone/"
   },
+  "ibc": {
+    "localization": "en",
+    "name": "IBC",
+    "symbol": "IBC",
+    "description": "OnE mEmEcOiN tO cOnNeCt oL ImBeCiles - aNd in Da Cosmos BiNd DeM",
+    "websiteURL": "https://osmosis.zone/",
+    "twitterURL": "https://twitter.com/IBCmemecoin"
+  },
   "hydrogen": {
     "localization": "en",
     "name": "Bostrom Hydrogen",
@@ -1611,6 +1658,15 @@
     "coingeckoID": "humans-ai",
     "websiteURL": "https://humans.ai/",
     "twitterURL": "https://twitter.com/humansdotai"
+  },
+  "hava": {
+    "localization": "en",
+    "name": "Hava Coin",
+    "symbol": "HAVA",
+    "description": "Hava Coin is the lifeblood of the Cosmos & Injective networks, rewarding builders and welcoming supporters.",
+    "coingeckoID": "hava-coin",
+    "websiteURL": "https://injective.com/",
+    "twitterURL": "https://twitter.com/Hava_Coin"
   },
   "hash": {
     "localization": "en",
@@ -1723,9 +1779,10 @@
     "localization": "en",
     "name": "Unification",
     "symbol": "FUND",
-    "description": "Staking and governance coin for the Unification Blockchain",
+    "description": "Staking and governance coin for the Unification Blockchain\n\nFundamentally, the Unification Blockchain Toolkit comprises two core branches: Blockchain Business products, to welcome traditional enterprises into the Web3 economy; and Permissionless Products, an open-access toolkit to power and enrich Dapps on Ethereum/EVM networks",
     "coingeckoID": "unification",
-    "websiteURL": "https://unification.com/"
+    "websiteURL": "https://unification.com",
+    "twitterURL": "https://twitter.com/UnificationUND"
   },
   "ftm": {
     "localization": "en",
@@ -2058,6 +2115,13 @@
     "description": "clownmaxxed store of value",
     "websiteURL": "https://neutron.org/"
   },
+  "cif": {
+    "localization": "en",
+    "name": "Cifer",
+    "symbol": "CIF",
+    "description": "Decentralized Machine Learning",
+    "websiteURL": "https://cifer.ai/"
+  },
   "cheq": {
     "localization": "en",
     "name": "Cheqd",
@@ -2372,12 +2436,20 @@
   },
   "astro": {
     "localization": "en",
-    "name": "Astroport",
+    "name": "Astroport token",
     "symbol": "ASTRO",
     "description": "Astroport is a neutral marketplace where anyone, from anywhere in the galaxy, can dock to trade their wares.",
     "coingeckoID": "astroport-fi",
-    "websiteURL": "https://astroport.finance/",
-    "twitterURL": "https://twitter.com/astroport_fi"
+    "websiteURL": "https://astroport.fi/",
+    "twitterURL": "https://twitter.com/astroport_fi",
+    "cw20": {
+      "localization": "en",
+      "name": "Astroport CW20 Token",
+      "symbol": "ASTRO.cw20",
+      "description": "Astroport is a neutral marketplace where anyone, from anywhere in the galaxy, can dock to trade their wares.",
+      "websiteURL": "https://astroport.fi/",
+      "twitterURL": "https://twitter.com/astroport_fi"
+    }
   },
   "ash": {
     "localization": "en",

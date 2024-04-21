@@ -2,6 +2,6 @@
   "localization": "tr",
   "name": "Pundi X Token",
   "symbol": "PUNDIX",
-  "description": "PUNDIX tokenı, PundiX Chain ve XPOS dahil olmak üzere Pundi X ekosisteminde çalışan yerel tokendır.",
+  "description": "PUNDIX tokenı, PundiX Chain ve XPOS dahil olmak üzere Pundi X ekosisteminde işlev gören yerel tokendir.",
   "coingeckoID": "pundi-x-2"
 }
