@@ -2,7 +2,8 @@
   "localization": "ro",
   "name": "ConsciousDAO",
   "symbol": "CVN",
-  "description": "Cvn este un blockchain de nivel 1 construit pentru a respecta promisiunea DeFi",
+  "description": "Cvn este un blockchain de nivel 1 construit pentru a îndeplini promisiunea DeFi",
   "coingeckoID": "consciousdao",
-  "websiteURL": "https://cvn.io/"
+  "websiteURL": "https://cvn.io",
+  "twitterURL": "https://twitter.com/conscious_chain"
 }

@@ -4,5 +4,6 @@
   "symbol": "ATOLO",
   "description": "Token nativo de Rizon Chain",
   "coingeckoID": "rizon",
-  "websiteURL": "https://rizon.world/"
+  "websiteURL": "https://rizon.world/",
+  "twitterURL": "https://twitter.com/hdac_rizon"
 }

@@ -2,8 +2,8 @@
   "localization": "英文",
   "name": "Composable",
   "symbol": "PICA",
-  "description": "Composable 的原生质押和治理代币。<inlang-LineFeed><inlang-LineFeed>可组合是连接 L1 和 L2 的基础层。我们正在将 IBC 扩展到其他生态系统，突破信任最小化互操作性的界限。我们为用户抽象跨链体验，实现无缝、不受链影响的用户意图执行。",
+  "description": "Composable 的原生质押和治理代币。<inlang-LineFeed>\nPicasso 是一种专注于 DeFi 基础设施的 Layer 1 协议，引领行业构建信任最小化的互操作性解决方案 - 跨生态系统 IBC。作为互操作性工作的补充，Picasso 正在构建第一个通用重新质押层，从在 Solana 上部署开始，并扩展对所有 IBC 连接生态系统的支持。",
   "coingeckoID": "picasso",
-  "websiteURL": "https://www.composable.finance/",
-  "twitterURL": "https://twitter.com/ComposableFin"
+  "websiteURL": "https://picasso.xyz/",
+  "twitterURL": "https://twitter.com/picasso_network"
 }

@@ -3,7 +3,7 @@
   "name": "dYdX Protocol",
   "symbol": "DYDX",
   "description": "dYdX Protokolünün yerel stake tokenı.<inlang-LineFeed>\nAmacımız birinci sınıf ürün ve ticaret deneyimini güçlendirebilecek açık kaynak kodu oluşturmaktır.",
-  "coingeckoID": "dydx",
+  "coingeckoID": "dydx-chain",
   "websiteURL": "https://dydx.trade/",
   "twitterURL": "https://twitter.com/dYdX"
 }

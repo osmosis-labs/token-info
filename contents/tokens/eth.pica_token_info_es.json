@@ -1,0 +1,6 @@
+{
+  "name": "Ethereum",
+  "symbol": "ETH.pica",
+  "description": "The native token of Ethereum, bridged via IBC.",
+  "websiteURL": "https://www.composable.finance/"
+}

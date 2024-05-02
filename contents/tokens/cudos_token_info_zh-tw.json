@@ -4,5 +4,6 @@
   "symbol": "CUDOS",
   "description": "Cudos 區塊鏈的原生代幣",
   "coingeckoID": "cudos",
-  "websiteURL": "https://www.cudos.org/"
+  "websiteURL": "http://www.cudos.org",
+  "twitterURL": "https://twitter.com/CUDOS_"
 }

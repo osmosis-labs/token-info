@@ -2,7 +2,8 @@
   "localization": "zh",
   "name": "ConsciousDAO",
   "symbol": "CVN",
-  "description": "Cvn 是一個旨在兌現 DeFi 承諾的 Layer-1 區塊鏈",
+  "description": "Cvn 是一個 Layer-1 區塊鏈，旨在兌現 DeFi 的承諾",
   "coingeckoID": "consciousdao",
-  "websiteURL": "https://cvn.io/"
+  "websiteURL": "https://cvn.io",
+  "twitterURL": "https://twitter.com/conscious_chain"
 }

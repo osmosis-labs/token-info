@@ -1,7 +1,7 @@
 {
-  "localization": "es",
   "name": "Arkhadian",
   "symbol": "ARKH",
   "description": "La ficha nativa de Arkhadian",
-  "websiteURL": "https://arkhadian.com/"
+  "websiteURL": "https://arkhadian.io/",
+  "twitterURL": "https://twitter.com/ArkhadianSas"
 }

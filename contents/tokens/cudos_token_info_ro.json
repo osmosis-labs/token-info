@@ -2,7 +2,8 @@
   "localization": "ro",
   "name": "Cudos",
   "symbol": "CUDOS",
-  "description": "Jetonul nativ al blockchain-ului Cudos",
+  "description": "Tokenul nativ al blockchain-ului Cudos",
   "coingeckoID": "cudos",
-  "websiteURL": "https://www.cudos.org/"
+  "websiteURL": "http://www.cudos.org",
+  "twitterURL": "https://twitter.com/CUDOS_"
 }
