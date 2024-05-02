@@ -2,6 +2,7 @@
   "localization": "en",
   "name": "ERIS Amplified OSMO",
   "symbol": "ampOSMO",
-  "description": "OSMO مایع ERIS",
-  "websiteURL": "https://osmosis.zone/"
+  "description": "ERIS مایع OSMO",
+  "websiteURL": "https://www.erisprotocol.com/",
+  "twitterURL": "https://twitter.com/eris_protocol"
 }

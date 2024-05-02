@@ -3,5 +3,6 @@
   "name": "Cifer",
   "symbol": "CIF",
   "description": "분산형 기계 학습",
-  "websiteURL": "https://cifer.ai/"
+  "websiteURL": "http://cifer.ai/",
+  "twitterURL": "https://twitter.com/cifer_ai"
 }

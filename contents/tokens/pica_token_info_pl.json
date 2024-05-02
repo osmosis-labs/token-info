@@ -2,8 +2,8 @@
   "localization": "pl",
   "name": "Composable",
   "symbol": "PICA",
-  "description": "Natywny token stakowania i zarządzania Composable.<inlang-LineFeed>\nComposable to warstwa podstawowa łącząca L1 i L2. Dostosowujemy IBC do innych ekosystemów, przesuwając granice interoperacyjności opartej na minimalnym zaufaniu. Abstrakcjonujemy doświadczenia międzyłańcuchowe dla użytkowników, zapewniając płynną, niezależną od łańcucha realizację intencji użytkownika.",
+  "description": "Natywny token stakowania i zarządzania Composable.<inlang-LineFeed>\nPicasso to protokół warstwy 1 skupiający się na infrastrukturze DeFi, który jest liderem w branży w tworzeniu rozwiązania interoperacyjnego o minimalnym zaufaniu – Cross-Ecosystem IBC. W uzupełnieniu prac nad interoperacyjnością Picasso tworzy pierwszą warstwę Generalized Restaking Layer, rozpoczynając od wdrożenia na platformie Solana, i rozszerza obsługę wszystkich ekosystemów połączonych z IBC.",
   "coingeckoID": "picasso",
-  "websiteURL": "https://www.composable.finance/",
-  "twitterURL": "https://twitter.com/ComposableFin"
+  "websiteURL": "https://picasso.xyz/",
+  "twitterURL": "https://twitter.com/picasso_network"
 }

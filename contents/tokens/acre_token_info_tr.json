@@ -4,5 +4,6 @@
   "symbol": "ACRE",
   "description": "Acrechain'in yerel EVM'si, yönetişimi ve staking token'ı",
   "coingeckoID": "arable-protocol",
-  "websiteURL": "https://arable.finance/"
+  "websiteURL": "https://arable.finance/",
+  "twitterURL": "https://twitter.com/ArableProtocol"
 }

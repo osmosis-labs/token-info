@@ -1,0 +1,6 @@
+{
+  "name": "Tether",
+  "symbol": "USDT.pica",
+  "description": "A stablecoin issued by Tether that is pegged 1:1 to the USD.",
+  "websiteURL": "https://www.composable.finance/"
+}

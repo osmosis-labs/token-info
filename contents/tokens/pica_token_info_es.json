@@ -2,8 +2,8 @@
   "localization": "es",
   "name": "Composable",
   "symbol": "PICA",
-  "description": "El token nativo de participación y gobernanza de Composable.<inlang-LineFeed>\nComposable es la capa base que conecta L1 y L2. Estamos ampliando IBC a otros ecosistemas, ampliando los límites de la interoperabilidad minimizada por la confianza. Abstraemos la experiencia entre cadenas para los usuarios, brindando una ejecución perfecta e independiente de la cadena de las intenciones de los usuarios.",
+  "description": "El token nativo de participación y gobernanza de Composable.<inlang-LineFeed>\nPicasso es un protocolo de Capa 1 centrado en la infraestructura DeFi que lidera la industria en la construcción de la solución de interoperabilidad de confianza minimizada: Cross-Ecosystem IBC. Como complemento al trabajo de interoperabilidad, Picasso está construyendo la primera capa de restauración generalizada comenzando con la implementación en Solana y ampliando el soporte para todos los ecosistemas conectados de IBC.",
   "coingeckoID": "picasso",
-  "websiteURL": "https://www.composable.finance/",
-  "twitterURL": "https://twitter.com/ComposableFin"
+  "websiteURL": "https://picasso.xyz/",
+  "twitterURL": "https://twitter.com/picasso_network"
 }

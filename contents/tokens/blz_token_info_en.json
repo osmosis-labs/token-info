@@ -4,5 +4,6 @@
   "symbol": "BLZ",
   "description": "The native token of Bluzelle",
   "coingeckoID": "bluzelle",
-  "websiteURL": "https://bluzelle.com/"
+  "websiteURL": "http://bluzelle.com/",
+  "twitterURL": "https://twitter.com/BluzelleHQ"
 }
