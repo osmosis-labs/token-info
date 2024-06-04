@@ -1,6 +1,7 @@
 {
+  "localization": "pl",
   "name": "Stride Staked DYDX",
   "symbol": "stDYDX",
-  "description": "Płyn Stride'a postawił na DYDX",
+  "description": "Płyn Stride'a postawił DYDX",
   "websiteURL": "https://stride.zone/"
 }

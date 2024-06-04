@@ -2,6 +2,7 @@
   "localization": "tr",
   "name": "BackBone Labs Liquid Staked OSMO",
   "symbol": "bOSMO",
-  "description": "BackBone Labs Sıvı Staked OSMO",
-  "websiteURL": "https://osmosis.zone/"
+  "description": "BackBone Labs Sıvı Staked OSMO<inlang-LineFeed>\nbOSMO - NFT pazarındaki sermaye verimsizliklerini çözme",
+  "websiteURL": "https://app.backbonelabs.io/",
+  "twitterURL": "https://twitter.com/BackBone_Labs"
 }

@@ -1,4 +1,5 @@
 {
+  "localization": "fr",
   "name": "Band Protocol",
   "symbol": "BAND",
   "description": "Le jeton natif de BandChain<inlang-LineFeed>\nBand Protocol est une plate-forme Oracle de données inter-chaînes qui regroupe et connecte des données et des API du monde réel à des contrats intelligents.",

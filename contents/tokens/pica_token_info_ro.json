@@ -1,9 +1,9 @@
 {
   "localization": "ro",
-  "name": "Composable",
+  "name": "Picasso",
   "symbol": "PICA",
-  "description": "Indicatorul nativ de miză și guvernare al Composable.<inlang-LineFeed>\nPicasso este un protocol de nivel 1 axat pe infrastructura DeFi, care conduce industria în construirea soluției de interoperabilitate minimizată de încredere - Cross-Ecosystem IBC. Complementar cu activitatea de interoperabilitate, Picasso construiește primul strat de restabilire generalizată, începând cu implementarea pe Solana și extinde suportul pentru toate ecosistemele conectate IBC.",
+  "description": "Indicatorul nativ de miză, guvernare și partajare a veniturilor lui Picasso.<inlang-LineFeed>\nPicasso este un protocol de nivel 1 axat pe infrastructura DeFi, care conduce industria în construirea soluției de interoperabilitate minimizată de încredere - Cross-Ecosystem IBC. Complementar cu activitatea de interoperabilitate, Picasso construiește primul strat de restabilire generalizată, începând cu implementarea pe Solana și extinde suportul pentru toate ecosistemele conectate IBC.",
   "coingeckoID": "picasso",
-  "websiteURL": "https://picasso.xyz/",
+  "websiteURL": "https://picasso.network/",
   "twitterURL": "https://twitter.com/picasso_network"
 }

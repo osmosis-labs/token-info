@@ -1,0 +1,6 @@
+{
+  "name": "crvUSD",
+  "symbol": "crvUSD.pica",
+  "description": "A collateralized-debt-position (CDP) stablecoin by Curve DAO.",
+  "websiteURL": "https://www.picasso.xyz/"
+}

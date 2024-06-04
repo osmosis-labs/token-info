@@ -2,7 +2,8 @@
   "localization": "pt",
   "name": "dHealth",
   "symbol": "DHP",
-  "description": "O token nativo do dHealth",
+  "description": "O token nativo do dHealth<inlang-LineFeed>\ndHealth Network é um sistema operacional para Web3 Healthcare. Ele fornece componentes Web3, como identidade digital descentralizada, pagamento digital e acesso a dados controlado pelo usuário para oferecer suporte a dApps e modelos de negócios na interseção da saúde e da tecnologia blockchain.",
   "coingeckoID": "dhealth",
-  "websiteURL": "https://dhealth.com/"
+  "websiteURL": "https://dhealth.com",
+  "twitterURL": "https://twitter.com/dhealth_network"
 }

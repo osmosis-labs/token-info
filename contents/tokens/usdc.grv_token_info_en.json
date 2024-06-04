@@ -1,7 +1,8 @@
 {
   "localization": "en",
-  "name": "USD Coin (Gravity Bridge)",
+  "name": "USDC (Gravity Bridge)",
   "symbol": "USDC.grv",
   "description": "Gravity Bridge USDC",
+  "coingeckoID": "gravity-bridge-usdc",
   "websiteURL": "https://www.gravitybridge.net/"
 }
