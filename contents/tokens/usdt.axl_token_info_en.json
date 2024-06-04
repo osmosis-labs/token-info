@@ -3,5 +3,6 @@
   "name": "Tether USD",
   "symbol": "USDT.axl",
   "description": "Tether's USD stablecoin on Axelar",
+  "coingeckoID": "axelar-usdt",
   "websiteURL": "https://axelar.network/"
 }

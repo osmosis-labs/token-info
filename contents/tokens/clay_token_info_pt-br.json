@@ -1,6 +1,7 @@
 {
+  "localization": "pt",
   "name": "Adam Clay FanToken",
   "symbol": "CLAY",
-  "description": "Adam Clay, um BitSong Music FanToken",
+  "description": "Adam Clay, um FanToken de música BitSong",
   "websiteURL": "https://bitsong.io/"
 }

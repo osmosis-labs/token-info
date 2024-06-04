@@ -1,4 +1,5 @@
 {
+  "localization": "ro",
   "name": "Chainlink",
   "symbol": "LINK",
   "description": "Un middleware bazat pe blockchain, care acționează ca o punte între contractele inteligente de criptomonede, fluxurile de date, API-urile și plățile tradiționale ale contului bancar.",

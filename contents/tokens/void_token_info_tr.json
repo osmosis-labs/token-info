@@ -1,6 +1,7 @@
 {
+  "localization": "tr",
   "name": "Void",
   "symbol": "VOID",
-  "description": "Void",
+  "description": "Geçersiz",
   "websiteURL": "https://www.junonetwork.io/"
 }

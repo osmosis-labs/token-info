@@ -1,7 +1,9 @@
 {
+  "localization": "tr",
   "name": "C4E",
   "symbol": "C4E",
-  "description": "Chain4Energy'nin yerel tokenı",
+  "description": "Chain4Energy'nin yerel tokenı<inlang-LineFeed>\nC4E, merkezi olmayan ve demokratikleştirilmiş, topluluk destekli bir ekosistem yaratarak çeşitli yenilikçi enerji ve e-mobilite uygulamalarını desteklemek için tasarlanmış bir DePIN L1 Blockchain platformudur.",
+  "coingeckoID": "chain4energy",
   "websiteURL": "https://c4e.io/",
   "twitterURL": "https://twitter.com/Chain4Energy"
 }

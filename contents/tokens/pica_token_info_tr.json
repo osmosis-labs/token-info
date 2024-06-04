@@ -1,9 +1,9 @@
 {
   "localization": "tr",
-  "name": "Composable",
+  "name": "Picasso",
   "symbol": "PICA",
-  "description": "Composable'ın yerel stake ve yönetişim tokenı.<inlang-LineFeed>\nPicasso, güveni en aza indirilmiş birlikte çalışabilirlik çözümü olan Çapraz Ekosistem IBC'yi oluşturmada sektöre liderlik eden, DeFi altyapısı odaklı bir Katman 1 protokolüdür. Birlikte çalışabilirlik çalışmasını tamamlayıcı olarak Picasso, Solana'da dağıtımla başlayarak ilk Genelleştirilmiş Yeniden Alım Katmanını oluşturuyor ve desteği IBC'ye bağlı tüm ekosistemler için genişletiyor.",
+  "description": "Picasso'nun yerel stake etme, yönetişim ve gelir paylaşımı tokenı.<inlang-LineFeed>\nPicasso, güveni en aza indirilmiş birlikte çalışabilirlik çözümü olan Çapraz Ekosistem IBC'yi oluşturmada sektöre liderlik eden, DeFi altyapısı odaklı bir Katman 1 protokolüdür. Birlikte çalışabilirlik çalışmasının tamamlayıcısı olarak Picasso, Solana'da dağıtımla başlayarak ilk Genelleştirilmiş Yeniden Alım Katmanını oluşturuyor ve IBC'ye bağlı tüm ekosistemler için desteği genişletiyor.",
   "coingeckoID": "picasso",
-  "websiteURL": "https://picasso.xyz/",
+  "websiteURL": "https://picasso.network/",
   "twitterURL": "https://twitter.com/picasso_network"
 }

@@ -1,4 +1,5 @@
 {
+  "localization": "es",
   "name": "PSTAKE staked ATOM",
   "symbol": "stkATOM",
   "description": "PSTAKE ATOM con apuesta líquida",

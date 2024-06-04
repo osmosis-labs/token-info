@@ -1,0 +1,9 @@
+{
+  "localization": "pl",
+  "name": "SEDA",
+  "symbol": "SEDA",
+  "description": "Natywny token łańcucha SEDA.<inlang-LineFeed>\nSEDA to standard modułowego transportu danych i zapytań. Dowolny typ danych, dla wszystkich sieci.",
+  "coingeckoID": "seda-2",
+  "websiteURL": "https://www.seda.xyz/",
+  "twitterURL": "https://twitter.com/sedaprotocol"
+}

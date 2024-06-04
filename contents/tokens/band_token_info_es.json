@@ -1,4 +1,5 @@
 {
+  "localization": "es",
   "name": "Band Protocol",
   "symbol": "BAND",
   "description": "El token nativo de BandChain<inlang-LineFeed>\nBand Protocol es una plataforma de Oracle de datos entre cadenas que agrega y conecta datos del mundo real y API con contratos inteligentes.",

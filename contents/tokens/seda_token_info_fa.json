@@ -1,0 +1,9 @@
+{
+  "localization": "en",
+  "name": "SEDA",
+  "symbol": "SEDA",
+  "description": "نشانه بومی زنجیره SEDA.<inlang-LineFeed>\nSEDA استانداردی برای انتقال داده ها و پرس و جوی ماژولار است. هر نوع داده، برای همه شبکه ها.",
+  "coingeckoID": "seda-2",
+  "websiteURL": "https://www.seda.xyz/",
+  "twitterURL": "https://twitter.com/sedaprotocol"
+}

@@ -1,6 +1,7 @@
 {
+  "localization": "pl",
   "name": "RESTAKE",
   "symbol": "RSTK",
-  "description": "Ponownie wytypuj token DAO",
+  "description": "Ponownie postaw token DAO",
   "websiteURL": "https://www.whitewhale.money/"
 }

@@ -1,9 +1,9 @@
 {
   "localization": "zh",
-  "name": "Composable",
+  "name": "Picasso",
   "symbol": "PICA",
-  "description": "Composable 的原生質押和治理代幣。<inlang-LineFeed>\nPicasso 是一個專注於 DeFi 基礎設施的 Layer 1 協議，引領業界建構信任最小化的互通性解決方案——跨生態系統 IBC。作為互通性工作的補充，Picasso 正在建立第一個通用重質押層，從在 Solana 上部署開始，並擴大對所有 IBC 連接生態系統的支援。",
+  "description": "Picasso 的原生質押、治理和收入共享代幣。<inlang-LineFeed>\nPicasso 是一個專注於 DeFi 基礎設施的 Layer 1 協議，引領業界建構信任最小化的互通性解決方案——跨生態系統 IBC。作為互通性工作的補充，Picasso 正在建立第一個通用重質押層，從在 Solana 上部署開始，並擴大對所有 IBC 連接生態系統的支援。",
   "coingeckoID": "picasso",
-  "websiteURL": "https://picasso.xyz/",
+  "websiteURL": "https://picasso.network/",
   "twitterURL": "https://twitter.com/picasso_network"
 }
